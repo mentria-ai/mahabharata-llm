@@ -1,0 +1,93 @@
+<think>
+Okay, I need to create 5 multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, teachings, and specific references. The text seems to be from the Bhishma Parva, as it mentions "Bhishma Parva" in the example. But the given text here is different. Let me check the verses.
+
+Looking at the verses, there's a lot of discussion about the elements (prana, apana, etc.), the nature of the soul (atman), and spiritual concepts like the three gunas (sattva, rajas, tamas). There's also a dialogue between Markandeya and the Brahmin, discussing dharma, karma, and the importance of parents as deities. 
+
+For the first question, I can focus on the part where the text says "पिता माता च भगवन्नेतौ मे दैवतं परम्" (The father and mother are my supreme deities). This is a key teaching about parents being divine. So the question would be about who the text refers to as the supreme deities. The answer is parents, and the options would include other deities or concepts.
+
+Second question: The text mentions "एकादशविकारात्मा कलासम्भारसम्भृतः" (Elevenfold in nature, born from the elements). This refers to the human body. So the question could be about what the text describes as elevenfold. The answer is the human body.
+
+Third question: The text states "सर्वोपायैस्तु लोभस्य क्रोधस्य च विनिग्रहः" (The highest means is the control of greed and anger). So the question would be about the highest means to achieve spiritual goals. The answer is controlling greed and anger.
+
+Fourth question: The text says "आकिञ्चन्यं सुसन्तोषो निराशित्वमचापलम्" (Non-attachment, contentment, non-attachment to results). This is about the highest knowledge. So the question would be about the highest knowledge according to the text. The answer is non-attachment and contentment.
+
+Fifth question: The text mentions "एकपत्न्या न संशयः" (One wife, no doubt). This refers to the ideal of monogamy. So the question would be about the ideal of marriage. The answer is monogamy.
+
+I need to make sure each question has the correct reference, like the specific verses. Also, check that the options are plausible but incorrect. For example, in the first question, options could include other deities like Indra, Vishnu, or Brahma, but the correct answer is parents.
+
+I should also verify that the answers are directly from the text. For example, the part about parents being deities is explicit. The elevenfold elements refer to the body. Controlling greed and anger is stated as the highest means. Non-attachment is the highest knowledge. Monogamy is the ideal.
+
+Now, structure each entry with the reasoning, question, and answer. Ensure the XML format is correct, with proper tags and no markdown.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests understanding of the Mahabharata's emphasis on parental reverence. The text explicitly states parents as supreme deities, contrasting with other spiritual entities. Options include other deities (Indra, Vishnu) and abstract concepts (dharma), but the text directly names parents.
+  </reasoning>
+  <question>
+    In Mahabharata's Markandeya Parva (verse 17), who does the text identify as the supreme deities for a person?
+    A) Indra
+    B) Parents
+    C) Vishnu
+    D) Brahma
+  </question>
+  <answer>B) Parents</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses the text's metaphorical description of the human body. The verse explicitly calls the body "elevenfold" (ekādaśa-vikārātma), contrasting with other metaphysical concepts. Options include spiritual entities or abstract terms, but the text directly refers to the physical form.
+  </reasoning>
+  <question>
+    In Mahabharata's Markandeya Parva (verse 29), what does the text describe as "elevenfold in nature"?
+    A) The soul (atman)
+    B) The human body
+    C) The elements (mahābhūtās)
+    D) The senses (indriyas)
+  </question>
+  <answer>B) The human body</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the text's teaching on spiritual discipline. The verse directly states that controlling greed and anger is the "highest means" (sārathya). Other options represent virtues but are not explicitly labeled as the "highest means" in the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Markandeya Parva (verse 39), what does the text identify as the "highest means" to achieve spiritual liberation?
+    A) Charity (dāna)
+    B) Control of greed and anger
+    C) Ritual sacrifice (yajña)
+    D) Meditation (dhyāna)
+  </question>
+  <answer>B) Control of greed and anger</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the text's definition of "highest knowledge." The verse explicitly states that non-attachment (ākincanya) and contentment (santosha) constitute the ultimate wisdom. Other options represent virtues but are not directly labeled as "highest knowledge."
+  </reasoning>
+  <question>
+    In Mahabharata's Markandeya Parva (verse 46), what does the text define as "the highest knowledge"?
+    A) Knowledge of the Vedas
+    B) Non-attachment and contentment
+    C) Ritual purity (śauca)
+    D) Devotion to deities
+  </question>
+  <answer>B) Non-attachment and contentment</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses the text's marital ideal. The verse explicitly states that monogamy ("one wife") is the unshakable standard. Other options represent alternative relationships but are not affirmed as the "ideal" in the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Markandeya Parva (verse 5), what does the text declare as the "unshakable standard" for marriage?
+    A) Polyandry
+    B) Monogamy
+    C) Polygamy
+    D) Celibacy
+  </question>
+  <answer>B) Monogamy</answer>
+</entry>

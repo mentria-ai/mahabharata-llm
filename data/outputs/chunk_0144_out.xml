@@ -1,0 +1,95 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, places, and specific references. The text mentions Bhima, the Puspakini (a lake), Kuber, Yudhishthira, Draupadi, and some battles. There's also mention of the Kaliashringa (Kailash peak) and various sages and warriors.
+
+For each question, I need to ensure the answer is directly from the text. Let's check each part.
+
+1. The first stanza talks about a lake (Puspakini) with lotuses and sandalwood. The lake is described as divine and protected by rakshasas. So a question about the lake's location and protection makes sense.
+
+2. Bhima is mentioned as entering the lake and taking lotuses. The text says he took them for Kunti's son (Krisna?), but the exact reason might be in the text. Wait, the text says "कृष्णानिमित्तं विदितं ममैतत्" which translates to "I know it is for Krishna's sake." So the answer would be Krishna.
+
+3. There's a part where Yudhishthira questions Bhima about his actions. The text has Yudhishthira asking Bhima why he did it, and Bhima's response about the lake's divine nature. So a question about Yudhishthira's question.
+
+4. The text mentions that the lake is protected by Kuber (Vishnu's son) and others. So a question about who protects the lake.
+
+5. There's a part where Bhima is challenged by rakshasas, and he uses his mace (gada). The text says he took the mace and defeated them. So a question about Bhima's weapon.
+
+Now, I need to structure each question with the trigger phrase, specific references, and four options. Ensure answers are under 100 characters. Also, check that the options are plausible but incorrect except one.
+
+Let me draft each entry step by step, making sure to use exact references where possible. For example, the lake is in the "Nalinī" (Puspakini) and the parva might be "Kaliashringa" or similar. But since the user didn't specify, I'll use the context given in the text.
+
+Check for each answer's correctness based on the text. Avoid adding external knowledge. For example, the lake's protector is Kuber, as per the text. The mace is mentioned as "महागदां काञ्चनपट्टनद्धाम्" (great mace adorned with gold). So the answer would be "mace" (gada).
+
+Make sure each question is unique and covers different parts of the text. Avoid repetition. Also, ensure the reasoning explains why the answer is correct and why others are not.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the divine lake's location and protection. The text explicitly states it's guarded by rakshasas and associated with Kuber. Other options are plausible as they are mentioned in the text but not directly linked to the lake's protection.
+  </reasoning>
+  <question>
+    In Mahabharata's Nalinī Parva, which divine lake is described as protected by rakshasas and associated with Kuber?
+    A) Sita's Lake
+    B) Puspakini
+    C) Ganges
+    D) Yamuna
+  </question>
+  <answer>B) Puspakini</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses understanding of Bhima's actions and motivations. The text directly states he took lotuses for Krishna's sake. Other options reflect his role as a Pandava warrior but lack direct textual support for the specific reason.
+  </reasoning>
+  <question>
+    In Mahabharata's Nalinī Parva, why did Bhima take lotuses from the divine lake?
+    A) To honor Yudhishthira
+    B) For Krishna's sake
+    C) To impress Draupadi
+    D) To appease Kuber
+  </question>
+  <answer>B) For Krishna's sake</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question evaluates knowledge of Yudhishthira's dialogue with Bhima. The text shows Yudhishthira questioning Bhima's actions, while other options reflect his role as a king but not the specific context of this exchange.
+  </reasoning>
+  <question>
+    In Mahabharata's Nalinī Parva, which Pandava questioned Bhima about his lake intrusion?
+    A) Arjuna
+    B) Yudhishthira
+    C) Nakula
+    D) Sahadeva
+  </question>
+  <answer>B) Yudhishthira</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the lake's divine guardians. The text explicitly names Kuber as the protector, while other options are mentioned as participants in the scene but not as the primary guardian.
+  </reasoning>
+  <question>
+    In Mahabharata's Nalinī Parva, who is described as the guardian of the divine lake?
+    A) Indra
+    B) Kuber
+    C) Vishnu
+    D) Shiva
+  </question>
+  <answer>B) Kuber</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses knowledge of Bhima's weapon. The text explicitly mentions his mace (gada) as the tool used against rakshasas. Other options reflect his warrior status but lack direct textual support for the specific weapon.
+  </reasoning>
+  <question>
+    In Mahabharata's Nalinī Parva, what weapon did Bhima use to defeat the rakshasas?
+    A) Bow
+    B) Mace
+    C) Sword
+    D) Spear
+  </question>
+  <answer>B) Mace</answer>
+</entry>

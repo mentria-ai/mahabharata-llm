@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, and specific references. The text includes dialogues between Dhritarashtra, Yudhishthira, and others. There are mentions of Vyasa, Gandhari, and references to specific sections like "Vyasagamanam" and "Yudhishthiranshasanam." 
+
+For the first question, I notice Dhritarashtra asking Yudhishthira to allow him to go to the forest. The context is his old age and the need for a peaceful end. The correct answer would be Yudhishthira granting permission. The other options could be other characters like Bhishma or Drona, but they aren't mentioned here.
+
+Next, there's a part where Yudhishthira says he doesn't want to live if the king is not respected. The answer here is that he refuses to live without the king's honor. Other options might involve different reasons, but the text specifically mentions his refusal.
+
+Another section mentions the king's duty to protect the realm. The answer would be the king's responsibility. Other options could be about other duties, but the text clearly states this.
+
+Then, there's a part where Vyasa advises Yudhishthira to follow the path of kings. The answer is that Vyasa advises him. Other options might involve other advisors, but the text names Vyasa.
+
+Lastly, there's a reference to the king's role in maintaining order. The answer would be the king's duty to uphold justice. Other options could be about different aspects, but the text focuses on this.
+
+I need to ensure each question is specific, uses exact references, and the answers are directly from the text. Also, check that the options are plausible but incorrect. Make sure each question is unique and covers different parts of the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Dhritarashtra's request to Yudhishthira for permission to retire to the forest. The text explicitly states Yudhishthira's role in granting this, while other options represent unrelated figures or roles.
+  </reasoning>
+  <question>
+    In Mahabharata's Vyasagamanam (verse 1-3), which king grants Dhritarashtra permission to retire to the forest due to his old age and spiritual longing?
+    A) Bhishma
+    B) Drona
+    C) Yudhishthira
+    D) Karna
+  </question>
+  <answer>C) Yudhishthira</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Yudhishthira's moral stance on kingship. The text shows he refuses to live if the king's honor is compromised, while other options represent different philosophical positions not stated here.
+  </reasoning>
+  <question>
+    In Mahabharata's Yudhishthiranshasanam (verse 16-17), what does Yudhishthira declare about his life if the king's dignity is violated?
+    A) He would seek revenge
+    B) He would renounce kingship
+    C) He would refuse to live
+    D) He would flee the kingdom
+  </question>
+  <answer>C) He would refuse to live</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the king's duty to protect the realm. The text explicitly states this responsibility, while other options represent unrelated virtues or roles.
+  </reasoning>
+  <question>
+    In Mahabharata's Yudhishthiranshasanam (verse 12-14), what does the text emphasize as the king's primary duty?
+    A) Accumulating wealth
+    B) Protecting the realm
+    C) Expanding territory
+    D) Honoring ancestors
+  </question>
+  <answer>B) Protecting the realm</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Vyasa's role in advising Yudhishthira. The text explicitly names Vyasa as the advisor, while other options represent different figures or roles.
+  </reasoning>
+  <question>
+    In Mahabharata's Yudhishthiranshasanam (verse 1-5), who advises Yudhishthira on the path of righteous kingship?
+    A) Bhishma
+    B) Drona
+    C) Vyasa
+    D) Krishna
+  </question>
+  <answer>C) Vyasa</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the king's responsibility to uphold justice. The text explicitly states this duty, while other options represent different aspects of governance not mentioned here.
+  </reasoning>
+  <question>
+    In Mahabharata's Yudhishthiranshasanam (verse 25-26), what does the text emphasize as the king's fundamental duty?
+    A) Maintaining military strength
+    B) Upholding justice
+    C) Building grand structures
+    D) Hosting festivals
+  </question>
+  <answer>B) Upholding justice</answer>
+</entry>

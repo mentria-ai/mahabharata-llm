@@ -1,0 +1,213 @@
+<think>
+Okay, I need to create 10 quiz entries based on the provided Sanskrit verses. Let me start by understanding the content of the verses. The text seems to be from the Mahabharata, specifically parts of the Vana Parva and other sections. The verses mention various characters like Bhima, Hanuman, Yudhishthira, and others. There are references to different yugas (eras), like Satya, Treta, Dvapara, and Kali. Also, there's a lot about dharma, karma, and the duties of different varnas (social classes).
+
+First, I need to pick specific verses and create questions around them. Each entry must have a reasoning section with the verse reference, the Sanskrit quote, and bullet points explaining the answer and why other options are wrong. The questions should be self-contained, starting with "In the Mahabharata..." and include the citation.
+
+Let me look for key points. For example, verse 22 mentions the Satya Yuga being free from triguṇa (sattva, rajas, tamas). Another part talks about the Dvapara Yuga where Vishnu takes a form. There's a part where Bhima meets Hanuman, and another where Bhima fights a rakshasa (demon). Also, there's a mention of the four varnas and their duties.
+
+I need to ensure that each question is based solely on the given verses. For example, one question could be about who killed Śalya, but the provided verses don't mention that. Wait, the user's example had a question about Śalya, but the given verses don't have that. So I need to stick strictly to the verses provided.
+
+Looking at the verses, there's a part where Bhima meets Hanuman. Verse 1-4 of the first block: Bhima meets Hanuman, who is described as having a massive body, golden color, etc. So a question could be about Hanuman's appearance. Another part is about the four yugas and their characteristics.
+
+Another point is the duties of different varnas. Verse 34 mentions that the three duties (yajna, adhyayana, dana) are common for all, but the specific duties for each varna are given. So a question could be about the duties of Kshatriyas.
+
+Also, there's a part where Bhima is described as having a massive body, and he fights a rakshasa. So a question about Bhima's appearance or his fight.
+
+I need to make sure each question is unique and based on the verses. Let me check each verse for possible questions.
+
+1. Verse 22: Satya Yuga is free from triguṇa. So a question about which yuga is free from triguṇa.
+
+2. Verse 26: Dvapara Yuga, Vishnu's form. Question about Vishnu's form in Dvapara.
+
+3. Verse 34: Duties of Kshatriyas. Question about Kshatriya's duty.
+
+4. Verse 1-4: Bhima meets Hanuman. Question about Hanuman's appearance.
+
+5. Verse 10: The yuga's characteristics. Question about the yuga where dharma is reduced to one part.
+
+6. Verse 30: The four yugas and their characteristics. Question about which yuga is associated with the decline of dharma.
+
+7. Verse 34: The three duties (yajna, adhyayana, dana) for all. Question about the three duties common to all.
+
+8. Verse 35: Kshatriya's duty is to protect. Question about Kshatriya's duty.
+
+9. Verse 36: Shudras' duty is service. Question about Shudra's duty.
+
+10. Verse 37: Kshatriya's duty is to protect. Another question on this.
+
+Wait, but I need to make sure each question is based on the verses provided. Let me verify each.
+
+For example, verse 34 says: "Trayi varta, danda niti, trisro vidya, vijanatam." So the three duties are yajna, adhyayana, dana. So a question about the three duties common to all.
+
+Another part: "Kshatriya's duty is to protect, Vaishya's is to nurture, Shudra's is to serve." So questions on each varna's duty.
+
+Also, the part where Bhima is described as having a massive body, golden color, etc. So a question about his appearance.
+
+Another point: the verse where it says "In the Dvapara Yuga, dharma is reduced to one part." So a question about which yuga has dharma reduced to one part.
+
+I need to make sure the options are plausible but incorrect. For example, for the yuga with dharma reduced to one part, the options could be Satya, Treta, Dvapara, Kali. The answer is Dvapara.
+
+Another example: the three duties common to all are yajna, adhyayana, dana. So options could be yajna, adhyayana, dana, and another like kshatriya duty. The answer is the three mentioned.
+
+I need to create 10 such entries. Let me draft them one by one, ensuring they follow the structure and rules.
+</think>
+
+<entry>
+  <reasoning>
+    • **Vana-parvan 22.22**  
+    • Proof: *एतत्कृतयुगं नाम त्रैगुण्यपरिवर्जितम्*  
+    • The verse explicitly states the Satya Yuga is free from the three gunas (sattva, rajas, tamas).  
+    • Treta and Dvapara Yugas involve gunas; Kali Yuga is associated with decline, not purity.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, which yuga is described as "free from the three gunas" (sattva, rajas, tamas)?  
+    A) Treta Yuga   B) Dvapara Yuga   C) Satya Yuga   D) Kali Yuga
+  </question>
+  <answer>
+    C) Satya Yuga
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Vana-parvan 26.26**  
+    • Proof: *द्वापरे अपि युगे धर्मो द्विभागोनः प्रवर्तते*  
+    • The verse states that in Dvapara Yuga, dharma is divided into two parts.  
+    • Kali Yuga is described as having dharma reduced to one part; Treta and Satya Yugas have full dharma.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, which yuga is said to have dharma divided into two parts?  
+    A) Treta Yuga   B) Dvapara Yuga   C) Satya Yuga   D) Kali Yuga
+  </question>
+  <answer>
+    B) Dvapara Yuga
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Vana-parvan 34.34**  
+    • Proof: *द्विजानाममृतं धर्मो ह्येकश्चैवैकवर्णिकः*  
+    • The verse states that the dharma of twice-born (Brahmins, Kshatriyas, Vaishyas) is singular and universal.  
+    • Shudras’ dharma is service; Kshatriyas’ dharma is protection; Vaishyas’ dharma is agriculture.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, which group's dharma is described as "singular and universal" (ekashchaivaikavarnikah)?  
+    A) Shudras   B) Vaishyas   C) Kshatriyas   D) Twice-born (Brahmins, Kshatriyas, Vaishyas)
+  </question>
+  <answer>
+    D) Twice-born (Brahmins, Kshatriyas, Vaishyas)
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Vana-parvan 1.1-4**  
+    • Proof: *समुच्छ्रितमहाकायो द्वितीय इव पर्वतः*  
+    • The verse describes Hanuman as having a massive body, like a second mountain.  
+    • Bhima and Yudhishthira are not described as having such a form; Krsna’s form is divine but not mountain-like.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, which character is described as having a "massive body, like a second mountain"?  
+    A) Bhima   B) Yudhishthira   C) Hanuman   D) Krsna
+  </question>
+  <answer>
+    C) Hanuman
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Vana-parvan 35.35**  
+    • Proof: *पालनं क्षत्रियाणां वै वैश्यधर्मश्च पोषणम्*  
+    • The verse states that Kshatriyas’ dharma is protection, and Vaishyas’ dharma is nurturing.  
+    • Shudras’ dharma is service; Brahmins’ dharma is teaching and yajna.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, which group's dharma is explicitly stated as "protection" (pālanam)?  
+    A) Shudras   B) Vaishyas   C) Kshatriyas   D) Brahmins
+  </question>
+  <answer>
+    C) Kshatriyas
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Vana-parvan 36.36**  
+    • Proof: *शुश्रूषा तु द्विजातीनां शूद्राणां धर्म उच्यते*  
+    • The verse states that Shudras’ dharma is service (shushrusha).  
+    • Brahmins’ dharma is teaching; Kshatriyas’ dharma is protection; Vaishyas’ dharma is agriculture.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, which group's dharma is described as "service" (shushrusha)?  
+    A) Brahmins   B) Kshatriyas   C) Vaishyas   D) Shudras
+  </question>
+  <answer>
+    D) Shudras
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Vana-parvan 1.10**  
+    • Proof: *तदद्भुतं महारौद्रं विन्ध्यमन्दरसंनिभम्*  
+    • The verse describes Hanuman’s form as "astonishingly mighty, like the Vindhya mountain."  
+    • Bhima and Krsna are not compared to mountains; Yudhishthira’s form is not described.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, which character is likened to the Vindhya mountain in size?  
+    A) Bhima   B) Yudhishthira   C) Krsna   D) Hanuman
+  </question>
+  <answer>
+    D) Hanuman
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Vana-parvan 22.22**  
+    • Proof: *एतत्कृतयुगं नाम त्रैगुण्यपरिवर्जितम्*  
+    • The verse explicitly states the Satya Yuga is free from the three gunas.  
+    • Treta and Dvapara Yugas involve gunas; Kali Yuga is associated with tamas.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, which yuga is described as "free from the three gunas" (sattva, rajas, tamas)?  
+    A) Treta Yuga   B) Dvapara Yuga   C) Satya Yuga   D) Kali Yuga
+  </question>
+  <answer>
+    C) Satya Yuga
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Vana-parvan 34.34**  
+    • Proof: *याजनाध्यापने चोभे ब्राह्मणानां प्रतिग्रहः*  
+    • The verse states that Brahmins’ dharma includes teaching (adhyayana) and yajna.  
+    • Kshatriyas’ dharma is protection; Vaishyas’ dharma is agriculture; Shudras’ dharma is service.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, which group's dharma includes "teaching" (adhyayana)?  
+    A) Kshatriyas   B) Vaishyas   C) Shudras   D) Brahmins
+  </question>
+  <answer>
+    D) Brahmins
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Vana-parvan 37.37**  
+    • Proof: *क्षत्रधर्मोऽत्र कौन्तेय तव धर्माभिरक्षणम्*  
+    • The verse states that Kshatriyas’ dharma is protection (rakshana).  
+    • Brahmins’ dharma is teaching; Vaishyas’ dharma is agriculture; Shudras’ dharma is service.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, which group's dharma is explicitly described as "protection" (rakshana)?  
+    A) Brahmins   B) Vaishyas   C) Shudras   D) Kshatriyas
+  </question>
+  <answer>
+    D) Kshatriyas
+  </answer>
+</entry>

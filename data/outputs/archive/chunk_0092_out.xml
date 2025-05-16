@@ -1,0 +1,155 @@
+<think>
+Okay, I need to create 10 high-quality question-answer pairs based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for specific events, characters, and concepts. The text includes dialogues between characters like Krishna, Draupadi, Dhritarashtra, Bhima, and others. There are mentions of the Pandavas, Kauravas, and events like the game of dice, exile, and the decision to go into the forest.
+
+For each question, I need to make sure it's standalone, so I'll avoid references to "the passage." I should include context within the question. For example, if mentioning Draupadi, I should note she's the wife of the Pandavas.
+
+I need to vary the question types: factual, "did you know," detective, and philosophical. Let me check the text again for details.
+
+Looking at the verses, there's a part where Draupadi refuses the third boon, explaining that greed destroys dharma. That's a good point for a philosophical question. Also, the game of dice and the exile periods are key events.
+
+I should ensure that each answer is supported by the text. For example, when talking about Draupadi's refusal of the third boon, the text says she doesn't want to accept it because greed leads to destruction.
+
+Another point is the mention of different varas (boons) given by Dhritarashtra. The first boon was for Draupadi, the second for the Pandavas, and the third was refused. That's a factual question.
+
+I need to check for lesser-known elements. For example, "Draupadi" is a main character, but maybe "Shakuni" is mentioned as the one who advised the game of dice. Also, "Kuru" is the kingdom, so that's a place.
+
+I should avoid adding any information not in the text. For example, the text mentions that the Pandavas had to live in the forest for 13 years, including 12 years in disguise. That's a key event.
+
+Now, structuring each entry with reasoning, question, and answer. Let me draft a few examples.
+
+First question: What event led to the Pandavas' exile? The answer would mention the game of dice and the subsequent 13-year exile.
+
+Second question: Why did Draupadi refuse the third boon? Because greed destroys dharma, as per the text.
+
+Third question: Who advised Duryodhana to challenge the Pandavas to a game of dice? The text mentions Shakuni, but I need to check. Wait, in the text, it's mentioned that Shakuni was the one who advised, but the exact line might be in the verses. Let me check the text again. The text says "शकुनिरुवाच" (Shakuni said), so he was the one who advised.
+
+Another question: What was the significance of the 13-year exile? The answer would include living in the forest and in disguise.
+
+I need to make sure each question is unique and covers different aspects. Also, check for clarity and that the answers are fully supported by the text.
+
+I should also include questions about the structure of the boons, the role of Krishna, and the moral lessons like the consequences of greed.
+
+Now, I'll proceed to create 10 such questions, ensuring they are varied and cover different elements from the text.
+</think>
+
+<entry>
+  <reasoning>
+    The text includes Draupadi's refusal of the third boon, highlighting her moral stance against greed. This is a key philosophical point about dharma and consequences of desire.
+  </reasoning>
+  <question>
+    Why did Draupadi refuse the third boon offered by Dhritarashtra, and what moral principle did she emphasize?
+  </question>
+  <answer>
+    Draupadi refused the third boon because she believed greed (lobha) destroys dharma (righteousness). She stated that accepting it would make her unworthy of the boon, reflecting the Mahabharata's teaching that unchecked desire leads to moral downfall.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text explicitly mentions the 13-year exile period, including 12 years in disguise, which is a pivotal plot point in the Mahabharata.
+  </reasoning>
+  <question>
+    What was the duration and condition of the Pandavas' exile after losing the game of dice?
+  </question>
+  <answer>
+    The Pandavas had to live in exile for 13 years. The first 12 years were spent in the forest, with the final year requiring them to live in disguise to avoid detection. If discovered, they would have to start the exile again.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text references Shakuni as the advisor who orchestrated the game of dice, a critical event leading to the Pandavas' loss.
+  </reasoning>
+  <question>
+    Who was the key figure that advised Duryodhana to challenge the Pandavas to a game of dice, and what was the outcome of this decision?
+  </question>
+  <answer>
+    Shakuni, Duryodhana's maternal uncle, advised him to challenge the Pandavas to a game of dice. This led to the Pandavas losing their kingdom, wealth, and Draupadi, setting off the chain of events that culminated in the Kurukshetra war.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes Draupadi's first boon request, emphasizing her role as a symbol of dharma and her connection to the Pandavas.
+  </reasoning>
+  <question>
+    What did Draupadi ask for as her first boon from Dhritarashtra, and why was this request significant?
+  </question>
+  <answer>
+    Draupadi requested that the Pandavas be granted their rightful kingdom. This highlighted her role as a moral compass, ensuring the Pandavas' return to their ancestral throne and upholding dharma.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text mentions the three types of boons (varas) and their social hierarchy, reflecting the Mahabharata's commentary on societal values.
+  </reasoning>
+  <question>
+    According to the text, what were the three types of boons (varas) and which social groups were associated with them?
+  </question>
+  <answer>
+    The text states that one boon was for a Vaishya (merchant), two for a Kshatriya (warrior), and a hundred for a Brahmin (priest). This reflects the hierarchical values of the time, with Brahmins receiving the most boons.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text includes Bhima's vow to kill Duryodhana, showcasing his role as a warrior and his personal vendetta.
+  </reasoning>
+  <question>
+    What was Bhima's promise to the Pandavas during their exile, and what motivated him to make this vow?
+  </question>
+  <answer>
+    Bhima vowed to kill Duryodhana, driven by the latter's humiliation of Draupadi. This personal vendetta became a central motivation for Bhima's actions throughout the epic.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text references the "Swayamvara" of Draupadi, where she chose Arjuna as her husband, a key event in the Mahabharata's narrative.
+  </reasoning>
+  <question>
+    How did Draupadi choose her husband, and which Pandava did she select?
+  </question>
+  <answer>
+    Draupadi chose her husband through a "Swayamvara," a ritual where a woman selects her groom. She chose Arjuna, the third Pandava, after he successfully shot a target while riding a moving chariot.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text highlights the role of Krishna as a mediator and advisor, particularly in the context of the game of dice.
+  </reasoning>
+  <question>
+    What role did Krishna play in the events following the Pandavas' loss in the game of dice?
+  </question>
+  <answer>
+    Krishna advised the Pandavas to accept the exile as a test of patience and dharma. He also later became a key strategist and moral guide during the Kurukshetra war.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text includes the concept of "Dharma" as a central theme, particularly in Draupadi's refusal of the third boon.
+  </reasoning>
+  <question>
+    What philosophical teaching about dharma is illustrated by Draupadi's refusal of the third boon?
+  </question>
+  <answer>
+    Draupadi's refusal emphasized that dharma (righteousness) must not be compromised for personal gain. She believed that accepting the boon would violate her moral duty, illustrating the Mahabharata's theme of ethical integrity.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes the Pandavas' 13-year exile as a period of testing their patience and adherence to dharma.
+  </reasoning>
+  <question>
+    What was the purpose of the Pandavas' 13-year exile, and how did it test their character?
+  </question>
+  <answer>
+    The exile was a test of the Pandavas' patience and commitment to dharma. They had to endure hardships, live in disguise, and maintain their moral values, ultimately preparing them for the challenges of reclaiming their kingdom.
+  </answer>
+</entry>

@@ -1,0 +1,95 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, and specific references. The text seems to be from the Bhishma Parva, as it mentions Bhishma and other warriors. There's a lot of dialogue between Yudhishthira, Gandhari, and Krishna. The verses mention the aftermath of the war, Gandhari's grief, and the consequences of the war.
+
+For the first question, I notice that Yudhishthira is speaking to Krishna, asking about the consequences of the war. The text mentions that the Kauravas and Pandavas were destroyed, and Gandhari's curse. So a question about who is cursed could be good. The answer would be Gandhari, and the options would include other characters like Bhishma or Drona.
+
+Second, there's a part where Yudhishthira laments the destruction and asks Krishna for advice. The answer here might be that Krishna advises him to approach Gandhari. The options could include other advisors like Bhishma or Drona.
+
+Third, the text mentions that Gandhari's curse led to the destruction of the Kuru dynasty. So a question about the cause of the curse. The answer would be the death of her sons. Other options could be other events like the war itself.
+
+Fourth, there's a reference to the Kauravas and Pandavas being destroyed, and the text says that the Kuru dynasty was annihilated. So a question about which dynasty was destroyed. The answer is the Kuru dynasty, with options like Pandava or others.
+
+Fifth, the text includes a dialogue where Yudhishthira asks Krishna about the purpose of the war. The answer would be that it was to uphold dharma, but the options could include other reasons like revenge or power.
+
+I need to make sure each question is specific, includes the correct references, and the answers are directly from the text. Also, check that the options are plausible but incorrect. For example, in the first question, options like Bhishma or Drona are plausible but incorrect because the curse is from Gandhari.
+
+I should verify each answer against the text. For example, in the first question, the text says "गान्धार्याः क्रोधदीप्तायाः पूर्वं प्रशमनं भवेत्" which translates to Gandhari's anger needing to be calmed. So the curse is from her. The answer is Gandhari.
+
+Each question must have the trigger phrase and specific references. For example, "In Mahabharata's Bhishma Parva, which character's curse led to the destruction of the Kuru dynasty?" with options including Gandhari, Bhishma, Drona, and Karna.
+
+I need to ensure that each question is unique and covers different parts of the text. Also, check that the answers are under 100 characters. For example, "Gandhari's curse" is under 100.
+
+Finally, format each entry correctly with XML tags and reasoning. Make sure the reasoning explains why the answer is correct and why others are not. For example, in the first question, the reasoning would mention that Gandhari's curse is explicitly mentioned in the text, while others are not.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Gandhari's curse, a pivotal event in the Mahabharata. The text explicitly states her anger and curse leading to the Kuru dynasty's destruction. Other options represent key warriors but are not linked to the curse in the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, which character's curse led to the destruction of the Kuru dynasty?
+    A) Bhishma
+    B) Drona
+    C) Gandhari
+    D) Karna
+  </question>
+  <answer>C) Gandhari's curse</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Krishna's role in advising Yudhishthira. The text shows Krishna urging him to approach Gandhari to calm her anger. Other options represent warriors but lack direct textual support for this specific action.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, who did Krishna advise Yudhishthira to approach to calm Gandhari's anger?
+    A) Bhishma
+    B) Drona
+    C) Arjuna
+    D) Vidura
+  </question>
+  <answer>C) Arjuna</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the cause of Gandhari's curse. The text explicitly states her sons' deaths as the reason. Other options represent events but are not the direct cause mentioned in the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, what event caused Gandhari's curse?
+    A) Duryodhana's betrayal
+    B) The game of dice
+    C) The death of her sons
+    D) The war at Kurukshetra
+  </question>
+  <answer>C) The death of her sons</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the dynasty destroyed by Gandhari's curse. The text directly states the Kuru dynasty's annihilation. Other options represent rival factions but are not the target of the curse.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, which dynasty was destroyed by Gandhari's curse?
+    A) Pandava
+    B) Kuru
+    C) Yadava
+    D) Chedi
+  </question>
+  <answer>B) Kuru</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the purpose of the war as described in the text. The passage emphasizes dharma (righteousness) as the justification. Other options represent moral or political motivations but lack direct textual support.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, what was the stated purpose of the Kurukshetra war?
+    A) Revenge for Draupadi's humiliation
+    B) To uphold dharma
+    C) To gain wealth
+    D) To destroy the Kauravas
+  </question>
+  <answer>B) To uphold dharma</answer>
+</entry>

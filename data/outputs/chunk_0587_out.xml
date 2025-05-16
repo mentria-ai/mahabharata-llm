@@ -1,0 +1,101 @@
+<think>
+Okay, I need to create 5 multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements like characters, events, concepts, and specific references. The text seems to be from the Bhishma Parva, as it mentions Bhishma and Yudhishthira. There are references to the five doshas (defects) in the body, the nature of the soul, and discussions about karma and moksha. Also, there's mention of the Sankhya philosophy, which is a school of thought in Hinduism.
+
+For the first question, I notice that Bhishma is explaining the five doshas (kama, krodha, bhaya, nidra, and shvasa) in the text. The question could be about these doshas. The options would include the five, but the correct answer is the five mentioned. However, the text says "Pancha dosh" so the answer would be the five.
+
+Second, the text talks about the nature of the soul (atman) and how it transcends the body. There's a reference to the atman being beyond the three gunas (sattva, rajas, tamas). So a question about the gunas and the atman's state.
+
+Third, the text mentions the concept of moksha (liberation) and how it's achieved through knowledge. The Sankhya school is mentioned, so a question about Sankhya's view on moksha.
+
+Fourth, there's a part where it discusses the five doshas again, but maybe another aspect. Also, the text refers to the five elements (prithvi, ap, agni, vayu, akasha) but I need to check if that's present. Alternatively, the text mentions the five types of suffering (dukkha) but I need to verify.
+
+Fifth, the text has references to the cycle of creation and destruction (sarga and pralaya), so a question about the duration of a day and night of Brahma.
+
+Wait, the text says "yuga dvadasa sahasram kalpam viddhi chaturguṇam" which translates to "A yuga is twelve thousand years, and a kalpa is four times that." So a question about the duration of a kalpa.
+
+I need to make sure each question is based on explicit information. Let me check each part again.
+
+First question: The five doshas (kama, krodha, bhaya, nidra, shvasa) are mentioned. So the question would be about the five doshas in the text.
+
+Second question: The atman transcending the three gunas. The text says "sattvasya cha gunan kritsnaan rajascha gunan punah" but the atman is beyond them. So the answer is that the atman is beyond the three gunas.
+
+Third question: Sankhya's view on moksha. The text says "sankhya maha prajna" and that they achieve moksha through knowledge.
+
+Fourth question: The five elements (prithvi, ap, agni, vayu, akasha) are part of the Sankhya philosophy, but the text might not mention them. Wait, the text mentions "apam gunan" but not the five elements. Alternatively, the five doshas again. Maybe another aspect.
+
+Fifth question: The duration of a kalpa. The text says "yuga dvadasa sahasram kalpam viddhi chaturguṇam" which is 12,000 years for a yuga, and a kalpa is four times that, so 48,000 years. But the exact reference is in the text.
+
+I need to make sure each question is specific and uses the exact references. Also, the answers must be under 100 characters. Let me structure each entry with the reasoning, question, and answer.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Sankhya philosophy's core tenets. The text explicitly lists five doshas (defects) in the body, which are central to Sankhya's analysis of human suffering. Other options represent unrelated concepts like gunas or moksha, which are discussed but not the focus here.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 53-54), what are the five doshas (defects) that afflict the body according to Sankhya philosophy?
+    A) Kama, Krodha, Bhaya, Nidra, Shvasa
+    B) Dharma, Artha, Kama, Moksha, Dharma
+    C) Sattva, Rajas, Tamas, Moksha, Dharma
+    D) Jnana, Vijnana, Bhakti, Dhyana, Karma
+  </question>
+  <answer>A) Kama, Krodha, Bhaya, Nidra, Shvasa</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Sankhya's view of the soul's transcendence. The text explicitly states the atman (soul) exists beyond the three gunas (sattva, rajas, tamas). Other options represent gunas themselves or unrelated concepts like moksha.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 87-88), what state does the atman achieve according to Sankhya philosophy?
+    A) Transcends the three gunas (sattva, rajas, tamas)
+    B) Becomes one with the five elements
+    C) Is bound by karma and rebirth
+    D) Requires ritual purification
+  </question>
+  <answer>A) Transcends the three gunas (sattva, rajas, tamas)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Sankhya's path to liberation. The text explicitly states that Sankhya practitioners achieve moksha through knowledge (jnana). Other options represent different philosophical schools or practices.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 95), what method do Sankhya practitioners use to attain moksha (liberation)?
+    A) Knowledge (jnana) and self-realization
+    B) Ritual sacrifices and karma
+    C) Devotion to Vishnu
+    D) Meditation on the five elements
+  </question>
+  <answer>A) Knowledge (jnana) and self-realization</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests understanding of cosmic time cycles. The text explicitly states a kalpa (cosmic day) equals four yugas (12,000 years each). Other options represent different time units or philosophical concepts.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 14), what is the duration of a "kalpa" according to Sankhya cosmology?
+    A) Four yugas (48,000 years)
+    B) One yuga (12,000 years)
+    C) Ten thousand years
+    D) A single day of Brahma
+  </question>
+  <answer>A) Four yugas (48,000 years)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Sankhya's metaphysical framework. The text explicitly states that the atman (soul) is "akshara" (unmanifest) and "nirguna" (without qualities). Other options represent gunas or material elements.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 91), what term describes the atman's state beyond material existence?
+    A) Akshara (unmanifest)
+    B) Sattva (purity)
+    C) Prakriti (material nature)
+    D) Moksha (liberation)
+  </question>
+  <answer>A) Akshara (unmanifest)</answer>
+</entry>

@@ -1,0 +1,97 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, dialogues, and specific references. The text seems to be a dialogue between Chyavana, Nahuṣa, and other figures. There's mention of a dispute over the value of a cow, with Chyavana and Nahuṣa discussing the worth of cows and the importance of dharma. There's also a part where Chyavana and Kushika interact, and later, a story about a king (Nahuṣa) and his wife, and how they are treated by the sage Chyavana. 
+
+I need to make sure each question is based on explicit information from the text. Let's break it down.
+
+First question: The dialogue between Nahuṣa and Chyavana about the value of a cow. The text mentions Nahuṣa offering various amounts (thousands, hundreds, etc.) for the cow, but Chyavana insists on a fair value. The correct answer would be that Chyavana refused to accept the offered amounts. The options could include different values or reasons.
+
+Second question: The role of cows in the Mahabharata. The text has several verses praising cows, like their spiritual significance and their role in rituals. The answer would be that cows are considered sacred and their value is tied to dharma.
+
+Third question: The interaction between Chyavana and the king (Nahuṣa). The text mentions that after the discussion, the king and his wife were treated with respect, and they left. The answer could be about their departure after the discussion.
+
+Fourth question: The reason Chyavana refused to accept the king's offerings. The text says he didn't want to accept money but preferred the king's adherence to dharma. So the answer would be that he valued dharma over material offerings.
+
+Fifth question: The significance of cows in the Mahabharata. The text emphasizes cows as symbols of prosperity and spiritual merit. The answer would highlight their role in rituals and as a source of spiritual merit.
+
+I need to check each question for accuracy, ensuring that the answers are directly supported by the text. Also, make sure the options are plausible but incorrect. For example, in the first question, options could include different values offered, but the correct one is that Chyavana refused them. 
+
+I should also include specific references like the adhyāya or parva if possible. The text seems to be from the Chyavana-Kushika Samvada, so I can reference that. For example, "In Mahabharata's Chyavana-Kushika Samvada, which verse discusses the value of cows?" But the user wants the question to be specific with context. 
+
+Wait, the user said to include exact references (adhyāya, parva, śloka) when possible. However, the provided text doesn't have specific śloka numbers in the example. The user's example used "Bhishma Parva" and "Chyavana-Kushika Samvada" as references. So I can use the section names from the text, like "Chyavana-Kushika Samvada" and mention specific verses if possible.
+
+But the text provided has verses numbered up to 48, but the user's example didn't use specific numbers. So maybe just the section name is enough. For example, "In Mahabharata's Chyavana-Kushika Samvada, what was the reason Chyavana refused the king's offerings?"
+
+I need to make sure each question is unique and covers different parts of the text. Let me draft each one step by step, ensuring they are based on explicit information.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the dialogue between Nahuṣa and Chyavana regarding the value of a cow. The text explicitly states Chyavana refused material offerings, emphasizing dharma over wealth. Other options represent the escalating values offered by Nahuṣa but miss the core refusal.
+  </reasoning>
+  <question>
+    In Mahabharata's Chyavana-Kushika Samvada, why did Chyavana refuse Nahuṣa's offerings for the cow?
+    A) He preferred material wealth
+    B) He valued dharma over money
+    C) He was insulted by the offer
+    D) He wanted to test Nahuṣa's sincerity
+  </question>
+  <answer>B) He valued dharma over money</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the Mahabharata's emphasis on cows as sacred. The text explicitly states cows are "svarga's steps" and "kamadugha" (wish-fulfilling). Other options misrepresent their role as mere animals or economic assets.
+  </reasoning>
+  <question>
+    In Mahabharata's Chyavana-Kushika Samvada, what spiritual significance is attributed to cows?
+    A) They are symbols of greed
+    B) They are sources of material wealth
+    C) They are steps to heaven
+    D) They are enemies of dharma
+  </question>
+  <answer>C) They are steps to heaven</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the resolution of the dispute. The text states Nahuṣa and his wife left after Chyavana's teachings, emphasizing mutual respect. Other options misrepresent their fate or the outcome of the dialogue.
+  </reasoning>
+  <question>
+    In Mahabharata's Chyavana-Kushika Samvada, what happened to Nahuṣa and his wife after the discussion?
+    A) They were cursed by Chyavana
+    B) They became kings of the underworld
+    C) They left with blessings
+    D) They were transformed into animals
+  </question>
+  <answer>C) They left with blessings</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests understanding of the moral lesson. The text explicitly states cows are "yajna's essence" and "sacred to gods." Other options misinterpret their role as mere livestock or economic tools.
+  </reasoning>
+  <question>
+    In Mahabharata's Chyavana-Kushika Samvada, what is cows' role in rituals according to the text?
+    A) They are sacrificed for wealth
+    B) They are yajna's essence
+    C) They are symbols of war
+    D) They are used for labor
+  </question>
+  <answer>B) They are yajna's essence</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the narrative structure. The text explicitly states Chyavana's teachings led to Nahuṣa's transformation. Other options misrepresent the story's focus on dharma or materialism.
+  </reasoning>
+  <question>
+    In Mahabharata's Chyavana-Kushika Samvada, what was the central theme of Chyavana's teachings?
+    A) Wealth accumulation
+    B) Dharma and spiritual merit
+    C) Military strategy
+    D) Political power
+  </question>
+  <answer>B) Dharma and spiritual merit</answer>
+</entry>

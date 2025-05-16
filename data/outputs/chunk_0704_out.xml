@@ -1,0 +1,95 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by carefully reading through the text to identify key elements like characters, events, and specific references.
+
+First, I notice that the text includes references to various characters such as Dhritarashtra, Gandhari, Yudhishthira, Bhima, and others. There are mentions of their roles, relationships, and specific events like the distribution of the kingdom, the role of Vidura and Sanjaya, and the eventual decision of Dhritarashtra to go into exile.
+
+Looking at the structure, the text is divided into different sections (like २, ३, 4, etc.), which might correspond to specific parvas or chapters. For example, the mention of "Bhishma Parva" in the example suggests that the user wants specific references. However, the provided text here doesn't have the exact parva names but has numerical sections. I'll need to use those numbers as references.
+
+Each question must start with "In Mahabharata's [specific reference]..." and include exact references if possible. Let me check the text for specific details. For instance, in the first part, there's a mention of "Vaisampayana" as the speaker, which is a key figure in the Mahabharata as the narrator. Also, there's a reference to "Dhritarashtra" being the king, and the Pandavas receiving the kingdom after the war.
+
+Another point is the role of Gandhari, who is mentioned as the wife of Dhritarashtra and the mother of the Kauravas. The text also talks about the Pandavas governing the kingdom under Dhritarashtra's guidance, and the eventual exile of Dhritarashtra due to his guilt over the war.
+
+I need to ensure that each question is based on explicit information from the text. For example, the first question could be about who led the Kauravas in the first days of the war, but the text here doesn't mention that. Instead, it talks about the Pandavas governing the kingdom after the war. So I need to focus on what's present.
+
+Looking at the text, there's a mention of "Vidura" and "Sanjaya" as advisors to Dhritarashtra. Also, the text states that the Pandavas followed Dhritarashtra's commands, and there's a reference to the Pandavas receiving the kingdom after the war. Additionally, there's a part where Dhritarashtra decides to go into exile, and the text mentions that he was accompanied by Gandhari and others.
+
+So, possible questions could be about the advisors to Dhritarashtra, the Pandavas' governance under him, the reason for his exile, the role of Gandhari, and the distribution of the kingdom. Each question must have four options, with only one correct.
+
+I need to make sure that the options are plausible but incorrect. For example, if the question is about the advisors, the options could include other characters like Drona or Karna, but the correct answer would be Vidura and Sanjaya.
+
+Another point is the mention of "Dhritarashtra's decision to go into exile" and the reasons given, such as his guilt over the war. The text says he felt the need to atone, so the answer would relate to that.
+
+I should also check for specific verses. The text has numbers like २, ३, etc., which might correspond to specific sections. For example, the first part (२) mentions the Pandavas governing the kingdom, and the second part (३) talks about Dhritarashtra's behavior towards the Pandavas.
+
+Now, I'll draft five questions based on these points, ensuring each is unique and covers different parts of the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Dhritarashtra's advisors and their roles. The text explicitly names Vidura and Sanjaya as his trusted advisors, while Drona and Karna are prominent warriors but not his advisors. The context of Dhritarashtra's governance is critical to differentiate.
+  </reasoning>
+  <question>
+    In Mahabharata's section 2, who were the trusted advisors to Dhritarashtra that guided him in governance?
+    A) Drona and Karna
+    B) Vidura and Sanjaya
+    C) Bhishma and Kripa
+    D) Yudhishthira and Bhima
+  </question>
+  <answer>B) Vidura and Sanjaya</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the Pandavas' adherence to Dhritarashtra's authority. The text states they followed his commands, while Duryodhana and Karna are rivals. The context of post-war governance is key to avoid confusion with other Kaurava figures.
+  </reasoning>
+  <question>
+    In Mahabharata's section 4, which Kaurava leader did the Pandavas obey in matters of state after the war?
+    A) Duryodhana
+    B) Karna
+    C) Dhritarashtra
+    D) Kripa
+  </question>
+  <answer>C) Dhritarashtra</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Gandhari's role as a maternal figure. The text describes her as the mother of the Kauravas and a symbol of sorrow, while other options like Draupadi and Kunti are Pandava figures. The context of lineage is crucial for accuracy.
+  </reasoning>
+  <question>
+    In Mahabharata's section 8, who was the mother of the Kauravas and a central figure of grief in the epic?
+    A) Draupadi
+    B) Kunti
+    C) Gandhari
+    D) Subhadra
+  </question>
+  <answer>C) Gandhari</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses Dhritarashtra's exile. The text states he chose to live in the forest to atone for his guilt, while other options like Yudhishthira or Bhima are not mentioned in this context. The motive of penance is explicitly stated.
+  </reasoning>
+  <question>
+    In Mahabharata's section 5, why did Dhritarashtra decide to leave the kingdom and live in the forest?
+    A) To seek Yudhishthira's forgiveness
+    B) To atone for his role in the war
+    C) To join Bhima's exile
+    D) To escape Karna's wrath
+  </question>
+  <answer>B) To atone for his role in the war</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the Pandavas' distribution of resources. The text specifies they received royal gifts and honors from Dhritarashtra, while other options like Drona or Kripa are not mentioned in this context. The focus on royal gifts clarifies the answer.
+  </reasoning>
+  <question>
+    In Mahabharata's section 2, which group received royal gifts and honors from Dhritarashtra after the war?
+    A) The Kauravas
+    B) The Pandavas
+    C) The Brahmins
+    D) The Kshatriyas
+  </question>
+  <answer>B) The Pandavas</answer>
+</entry>

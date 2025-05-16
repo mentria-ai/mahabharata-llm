@@ -1,0 +1,147 @@
+<think>
+Okay, I need to create 10 high-quality question-answer pairs based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I notice that the text includes verses from the Bhagavad Gita, specifically parts where Lord Krishna advises Arjuna. There are references to different types of karma, dharma, and the importance of performing one's duty without attachment. Also, there's mention of various ascetics, the concept of renunciation (tyaga), and the different stages of life (ashramas). 
+
+I should identify specific events, characters, and concepts. For example, the text talks about the importance of performing one's prescribed duties (svadharma), the different types of karma, and the path of renunciation. There's also mention of the three types of ascetics (sannyasis) and their characteristics. 
+
+Now, I need to make sure each question is standalone. For example, instead of saying "In the passage...", I should provide context within the question. For lesser-known terms like "sannyasi" or "ashrama," I need to explain them briefly.
+
+Let me think of possible questions. One could be about the concept of svadharma. Another might be about the three types of ascetics. Also, the text mentions the importance of performing actions without attachment, so a question on that. There's also the idea of different paths leading to the same goal, like the three types of yajnas (sacrifices). 
+
+I need to check that each answer is fully supported by the text. For example, if a question is about the three types of ascetics, the answer should reference the specific verses that mention them. Also, the text talks about the consequences of not performing one's duty, so a question on that could be phrased as a detective-style question.
+
+I should vary the question types: factual, "did you know," detective, philosophical. For example, a "did you know" question could highlight that even gods and ancestors perform actions, emphasizing the universality of karma. A philosophical question might explore the moral dilemma of duty versus non-attachment.
+
+I need to ensure that each answer includes necessary context. For instance, explaining what "sannyasi" means if it's not well-known. Also, making sure that the questions don't refer to the text but instead use context from the text itself.
+
+Let me draft the first question: "What does the text emphasize as the key principle for fulfilling one's duties without attachment?" The answer would reference the verses about performing actions as a sacrifice to the divine, without desire for results.
+
+Another question: "What are the three types of ascetics (sannyasis) mentioned in the text, and what distinguishes them?" The answer would explain the three types based on their motivations and actions.
+
+I need to make sure each entry has a reasoning block, then the question and answer. Also, check that all information is from the provided text and not external knowledge.
+
+I should also check for any specific terms or concepts that need clarification. For example, "yajna" is a sacrifice, so explaining that in the answer if necessary.
+
+Alright, I think I have a good start. Now, I'll structure each entry with the required elements, ensuring they are self-contained and accurate.
+</think>
+
+<entry>
+  <reasoning>
+    The text emphasizes the concept of performing one's prescribed duties (svadharma) without attachment to results. This is a central teaching in the Bhagavad Gita, which is embedded in the Mahabharata. The verses highlight that action should be done as a sacrifice to the divine, not for personal gain.
+  </reasoning>
+  <question>
+    What principle does the text emphasize as essential for fulfilling one's duties without attachment to outcomes?
+  </question>
+  <answer>
+    The text emphasizes the principle of performing one's prescribed duties (svadharma) as a sacrifice to the divine, without desire for personal gain or results. This is illustrated through verses that describe actions done as offerings, ensuring alignment with cosmic order (dharma) while avoiding attachment to success or failure.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text explicitly mentions three types of ascetics (sannyasis) based on their motivations and actions. This distinction is critical for understanding the spiritual paths outlined in the Mahabharata.
+  </reasoning>
+  <question>
+    What are the three types of ascetics (sannyasis) described in the text, and what distinguishes them?
+  </question>
+  <answer>
+    The text describes three types of ascetics: 1) Those who renounce worldly life for spiritual growth (sannyasis), 2) Those who perform actions without attachment to results (karma yoga), and 3) Those who seek liberation through knowledge (jnana yoga). Their distinctions lie in their motivations—some pursue renunciation, others focus on selfless action, and others prioritize wisdom.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text highlights the universality of karma, stating that even gods and ancestors are bound by it. This challenges the notion of divine exemption and underscores the inevitability of consequences for actions.
+  </reasoning>
+  <question>
+    What surprising truth about karma does the text reveal about gods and ancestors?
+  </question>
+  <answer>
+    The text states that even gods and ancestors are bound by the law of karma, meaning their actions still produce consequences. This challenges the idea of divine immunity and emphasizes that all beings, regardless of status, are subject to the moral and spiritual laws of the universe.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text contrasts the paths of action (karma yoga) and renunciation (sannyasa). It argues that both are valid but requires understanding their purpose. This is a key philosophical debate in the Mahabharata.
+  </reasoning>
+  <question>
+    How does the text differentiate between the paths of action (karma yoga) and renunciation (sannyasa)?
+  </question>
+  <answer>
+    The text distinguishes these paths by their focus: karma yoga involves performing duties without attachment to results, while sannyasa involves complete renunciation of worldly life. Both are valid, but sannyasa is described as a higher path for those seeking liberation (moksha) through detachment from all desires.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text explicitly states that even animals and inanimate objects are part of the cycle of karma. This reflects the Mahabharata's inclusive view of all living beings.
+  </reasoning>
+  <question>
+    What does the text say about the role of animals and inanimate objects in the cycle of karma?
+  </question>
+  <answer>
+    The text states that all beings—living and non-living—are part of the karmic cycle. Even animals and inanimate objects (like trees) are bound by karma, as their existence and actions contribute to the universal order. This underscores the interconnectedness of all creation.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes the consequences of abandoning one's duty (dharma) as leading to spiritual and moral downfall. This is a central moral dilemma in the Mahabharata's narrative.
+  </reasoning>
+  <question>
+    What moral consequence does the text warn about for abandoning one's prescribed duty (dharma)?
+  </question>
+  <answer>
+    The text warns that abandoning one's dharma leads to spiritual and moral decay. It states that such actions create "karma" that binds the soul to suffering, as seen in the example of warriors who avoid battle out of fear, thereby violating their duty and facing eternal consequences.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text emphasizes that true renunciation (tyaga) involves detachment from all desires and outcomes, not just physical withdrawal. This is a nuanced philosophical concept.
+  </reasoning>
+  <question>
+    How does the text define true renunciation (tyaga), and why is it considered a higher path?
+  </question>
+  <answer>
+    True renunciation (tyaga) is defined as detachment from all desires and outcomes, performed as a sacrifice to the divine. It is considered higher because it transcends material attachments, aligning the soul with spiritual liberation (moksha) rather than worldly gains.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes the three types of yajnas (sacrifices) as tools for spiritual growth. This reflects the Mahabharata's emphasis on ritual and selfless action.
+  </reasoning>
+  <question>
+    What are the three types of yajnas (sacrifices) mentioned in the text, and what is their purpose?
+  </question>
+  <answer>
+    The text mentions three yajnas: 1) Daan (charity), 2) Yajna (sacrifice to gods), and 3) Jnana (knowledge). Their purpose is to purify the soul, maintain cosmic order, and foster selfless action, ensuring spiritual progress and harmony.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text highlights the importance of performing actions as offerings to the divine, which is a core teaching of the Bhagavad Gita. This is a key philosophical concept in the Mahabharata.
+  </reasoning>
+  <question>
+    What does the text teach about performing actions as offerings to the divine, and how does this relate to spiritual growth?
+  </question>
+  <answer>
+    The text teaches that performing actions as offerings to the divine (karma yoga) purifies the mind and leads to spiritual growth. By dedicating all actions to the divine without attachment, one transcends ego and achieves liberation (moksha).
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text contrasts the paths of action (karma yoga) and renunciation (sannyasa), emphasizing their roles in achieving spiritual liberation. This is a central theme in the Mahabharata's philosophical teachings.
+  </reasoning>
+  <question>
+    How does the text compare the paths of action (karma yoga) and renunciation (sannyasa) in achieving spiritual liberation?
+  </question>
+  <answer>
+    The text presents both paths as valid but distinct. Karma yoga involves performing duties without attachment, while sannyasa involves complete renunciation of worldly life. Both lead to liberation, but sannyasa is described as a higher path for those seeking ultimate freedom from the cycle of rebirth.
+  </answer>
+</entry>

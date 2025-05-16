@@ -1,0 +1,89 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, relationships, and specific references. The text seems to be from the "Damaayantee" or "Dharmaraja" section, possibly part of the Nala and Damayanti story. There are mentions of Nala, Damayanti, Bhima, and other characters. The verses talk about Nala's exile, his meeting with a serpent (Karkotaka), and Damayanti's sorrow.
+
+For each question, I need to ensure the answer is explicitly stated in the text. Let's break it down.
+
+1. **First Question**: The text mentions Nala being exiled and meeting a serpent. The serpent's name is Karkotaka. So, a question about who Nala met in the forest. Options would include Karkotaka, others like Bhima, a demon, or a king. The correct answer is Karkotaka.
+
+2. **Second Question**: Damayanti's lamentations. The text says she was in a forest, wearing half a garment, and was seen by people. So, a question about her appearance. Options could be half-veiled, in a palace, etc. The correct answer is half-veiled.
+
+3. **Third Question**: The text mentions that Nala was exiled due to a game of dice (dyut). So, a question about the reason for his exile. Options: game of dice, betrayal, etc. Correct answer is game of dice.
+
+4. **Fourth Question**: The text says that Nala was made to wear only one garment. So, a question about what he wore during exile. Options: one garment, two, etc. Correct answer is one garment.
+
+5. **Fifth Question**: The text mentions that Damayanti was seen by people in the forest. So, a question about who saw her. Options: Bhima, a king, etc. Correct answer is Bhima.
+
+I need to make sure each question has the exact reference. The text has verses numbered, so I can use those. Also, check that the options are plausible but incorrect except one. Avoid adding any external info. Each question must be unique and cover different parts of the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Nala's encounter with a serpent during his exile. The text explicitly names Karkotaka as the serpent who aids Nala. Other options represent plausible but incorrect figures from the epic.
+  </reasoning>
+  <question>
+    In Mahabharata's Nala Parva (verse 1), who did Nala meet in the forest after being exiled?
+    A) Karkotaka (serpent)
+    B) Bhima
+    C) A demon
+    D) A king
+  </question>
+  <answer>A) Karkotaka (serpent)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Damayanti's physical state during her sorrow. The text describes her as wearing half a garment (vast्रार्धकर्तसंवीता) and appearing destitute. Other options misrepresent her condition.
+  </reasoning>
+  <question>
+    In Mahabharata's Nala Parva (verse 18), how did Damayanti appear when she wandered the forest?
+    A) Half-veiled (vast्रार्धकर्तसंवीता)
+    B) In royal attire
+    C) With a crown
+    D) With a retinue
+  </question>
+  <answer>A) Half-veiled (vast्रार्धकर्तसंवीता)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses Nala's exile cause. The text explicitly states he was exiled after losing a game of dice (dyut) to a rival. Other options reflect common Mahabharata themes but lack textual support here.
+  </reasoning>
+  <question>
+    In Mahabharata's Nala Parva (verse 28), why was Nala exiled?
+    A) Lost a game of dice (dyut)
+    B) Betrayed his brother
+    C) Killed a king
+    D) Refused a marriage
+  </question>
+  <answer>A) Lost a game of dice (dyut)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Nala's attire during exile. The text states he wore "ekavasana" (one garment) after being stripped of his royal clothes. Other options misinterpret his condition.
+  </reasoning>
+  <question>
+    In Mahabharata's Nala Parva (verse 29), what did Nala wear during his exile?
+    A) One garment (ekavasana)
+    B) Two garments
+    C) A crown
+    D) A robe
+  </question>
+  <answer>A) One garment (ekavasana)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question identifies who saw Damayanti in the forest. The text states Bhima (Bhaimi) discovered her while searching for Nala. Other options represent unrelated characters.
+  </reasoning>
+  <question>
+    In Mahabharata's Nala Parva (verse 34), who discovered Damayanti in the forest?
+    A) Bhima
+    B) Karna
+    C) Duryodhana
+    D) Arjuna
+  </question>
+  <answer>A) Bhima</answer>
+</entry>

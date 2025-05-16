@@ -1,0 +1,11 @@
+transformers>=4.40
+datasets
+accelerate
+sentencepiece
+indic-nlp-library
+sacremoses
+bitsandbytes
+peft
+trl                         # PPO & SFT helpers (optional)
+tqdm
+mlx_lm

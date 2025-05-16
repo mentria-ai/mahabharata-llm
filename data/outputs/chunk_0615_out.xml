@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by carefully reading through the text to identify key elements.
+
+First, the text includes several sections like "Vishwamitra Upakhyana" and "Shukravasava Samvada." There's mention of characters like Vishwamitra, Satyavati, and others. The text talks about Vishwamitra's journey to attain brahmin status, his marriage to Satyavati, and the birth of Jamadagni. There's also a part about a deer and a tree, and some references to parvas like Bhishma Parva and others.
+
+For the first question, I can focus on Vishwamitra's transformation into a brahmin. The text says he became a brahmin through his tapas and marriage to Satyavati. The options would include his original status as a kshatriya, and others like a king or a sage. The correct answer is that he became a brahmin.
+
+Second question: The text mentions that Vishwamitra's son was Jamadagni. So the question could be about his son's name. Options would include Jamadagni, Shukracharya, etc. Correct answer is Jamadagni.
+
+Third question: The text talks about Vishwamitra's marriage to Satyavati. The reason given is that he wanted to attain brahmin status. So the question could be about why he married her. Options would include attaining brahmin status, gaining wealth, etc. Correct answer is attaining brahmin status.
+
+Fourth question: The text mentions that Vishwamitra's son was born from Satyavati. The question could be about the son's name. Again, Jamadagni is the answer.
+
+Fifth question: The text includes a story about a deer and a tree. The deer was killed by a hunter, leading to the tree's curse. The question could be about the cause of the tree's curse. Options would include the deer's death, a king's curse, etc. Correct answer is the deer's death.
+
+I need to ensure each question is specific, includes the exact references, and the answers are directly from the text. Also, check that the options are plausible but only one is correct. Avoid adding any external information. Make sure each question is about different parts of the text to cover various aspects.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Vishwamitra's transformation. The text explicitly states he became a brahmin through tapas and marriage to Satyavati. Other options represent his original kshatriya status or unrelated roles.
+  </reasoning>
+  <question>
+    In Mahabharata's Vishwamitra Upakhyana (adhyaya 3-4), what status did Vishwamitra attain after marrying Satyavati and performing tapas?
+    A) Kshatriya
+    B) Brahmin
+    C) Vaishya
+    D) Shudra
+  </question>
+  <answer>B) Brahmin</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Vishwamitra's lineage. The text directly names Jamadagni as his son. Other options are unrelated figures or his own name.
+  </reasoning>
+  <question>
+    In Mahabharata's Vishwamitra Upakhyana (adhyaya 5), who was the son born to Vishwamitra and Satyavati through their marriage?
+    A) Shukracharya
+    B) Jamadagni
+    C) Vishvamitra
+    D) Bhishma
+  </question>
+  <answer>B) Jamadagni</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the reason for Vishwamitra's marriage. The text states he sought to attain brahmin status through Satyavati. Other options misrepresent his motivations.
+  </reasoning>
+  <question>
+    In Mahabharata's Vishwamitra Upakhyana (adhyaya 3), why did Vishwamitra marry Satyavati?
+    A) To gain wealth
+    B) To attain brahmin status
+    C) To become a king
+    D) To escape a curse
+  </question>
+  <answer>B) To attain brahmin status</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Vishwamitra's spiritual achievements. The text explicitly states he became a "brahmarshi" (brahmin sage). Other options are unrelated titles.
+  </reasoning>
+  <question>
+    In Mahabharata's Vishwamitra Upakhyana (adhyaya 4), what title did Vishwamitra earn after his tapas and marriage?
+    A) Kshatriya
+    B) Brahmarshi
+    C) Vaishya
+    D) Shudra
+  </question>
+  <answer>B) Brahmarshi</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the symbolic event in the text. The story describes a deer killed by a hunter, leading to the tree's curse. Other options misrepresent the narrative.
+  </reasoning>
+  <question>
+    In Mahabharata's Shukravasava Samvada (adhyaya 5), what caused the tree's curse in the story of the hunter and deer?
+    A) A king's wrath
+    B) A deer's death
+    C) A sage's anger
+    D) A river's flood
+  </question>
+  <answer>B) A deer's death</answer>
+</entry>

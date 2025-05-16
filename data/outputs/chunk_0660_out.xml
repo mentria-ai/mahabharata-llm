@@ -1,0 +1,91 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I notice that the text includes various verses (shlokas) mentioning different things like rituals, yajnas (sacrifices), and descriptions of divine chariots or vehicles. There's a lot about performing sacrifices, specific days, and the benefits of certain actions. For example, verses 45-90 talk about performing sacrifices on specific days and the resulting benefits like visiting different realms or receiving divine rewards. Also, there's a section on "Shoucha" (purity) in the latter part, discussing what constitutes true purity.
+
+I need to make sure each question is based on explicit information from the text. Let's break it down.
+
+First question: The text mentions that performing a sacrifice on the 12th day grants certain benefits. For example, verse 51 says that those who perform the sacrifice on the 12th day get the fruits of the great yajna. So a question about which day's sacrifice leads to specific rewards.
+
+Second question: The text describes a divine chariot (vimanam) made of gold, adorned with gems, and visited by devas. Verse 52 mentions this. So a question about the description of the chariot.
+
+Third question: The text talks about the 24th day's sacrifice leading to a divine chariot made of crystal. Verse 97 mentions this. So a question about the chariot's material.
+
+Fourth question: The section on Shoucha (purity) in the latter part. Verse 3 says that the true tirtha (sacred place) is the one that is pure, and verse 4 lists qualities like truth, non-violence, etc. So a question about the qualities of a pure person.
+
+Fifth question: The text mentions that those who perform a sacrifice on the 12th month (dvaadasha maasa) get the fruits of the great yajna. Verse 51 and others. So a question about the duration of the sacrifice's benefits.
+
+Now, I need to structure each question with the trigger phrase, specific references, and four options. Ensure that the answers are under 100 characters and that the reasoning explains why the correct answer is right and others are wrong.
+
+Check for each question to make sure they are distinct and cover different parts of the text. Avoid repetition. Also, verify that all information is directly from the text without adding external knowledge.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of ritual timelines in the Mahabharata. The text explicitly states that performing a sacrifice on the 12th day grants access to divine realms. Other options represent different days with varying rewards but not the specific 12th-day benefit.
+  </reasoning>
+  <question>
+    In Mahabharata's Shrauta Sutras (verse 51), which day's sacrifice grants the "great yajna fruit" according to the text?
+    A) 12th day
+    B) 14th day
+    C) 16th day
+    D) 18th day
+  </question>
+  <answer>A) 12th day</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses understanding of divine chariot descriptions. The text explicitly describes a golden chariot adorned with gems and visited by devas. Other options reference different chariots with distinct materials or associations.
+  </reasoning>
+  <question>
+    In Mahabharata's Shrauta Sutras (verse 52), what material is the divine chariot described as being made of?
+    A) Gold
+    B) Crystal
+    C) Silver
+    D) Copper
+  </question>
+  <answer>A) Gold</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of specific ritual timelines. The text states that a 12-month sacrifice grants "great yajna fruit" (verse 51). Other options represent different durations with distinct rewards.
+  </reasoning>
+  <question>
+    In Mahabharata's Shrauta Sutras (verse 51), how long does the sacrifice last to gain "great yajna fruit"?
+    A) 12 months
+    B) 24 months
+    C) 36 months
+    D) 60 months
+  </question>
+  <answer>A) 12 months</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question evaluates understanding of spiritual purity concepts. The text explicitly lists "truth" (sathyam) as a key quality of a pure person. Other options represent related but distinct virtues mentioned in the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Shoucha section (verse 4), which quality is explicitly listed as essential for spiritual purity?
+    A) Truth
+    B) Wealth
+    C) Power
+    D) Fame
+  </question>
+  <answer>A) Truth</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses knowledge of ritual timelines. The text states that a 12-month sacrifice grants "great yajna fruit" (verse 51). Other options represent different durations with distinct rewards.
+  </reasoning>
+  <question>
+    In Mahabharata's Shrauta Sutras (verse 51), what is the duration of the sacrifice that grants "great yajna fruit"?
+    A) 12 months
+    B) 24 months
+    C) 36 months
+    D) 60 months
+  </question>
+  <answer>A) 12 months</answer>
+</entry>

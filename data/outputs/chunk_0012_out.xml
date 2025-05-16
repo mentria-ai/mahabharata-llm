@@ -1,0 +1,235 @@
+<think>
+Okay, I need to create 10 quiz entries based on the provided Sanskrit verses. Let me start by understanding the structure and rules.
+
+First, each entry must start with [Parva] [Chapter].[Verse] [Pada]. The example used "Shalya-parvan 28.15 a-b". So I need to check the verses given and assign the correct parva, chapter, verse, and pada. But the user didn't specify the parva, so maybe I should use the chapter numbers as given. Wait, the verses provided are from the Shakuntala story, which is part of the Mahabharata. The parva here would be "Shakuntala-parvan" or similar. But the example used "Shalya-parvan", so maybe I should use the same structure.
+
+Next, the verse needs to have one word replaced with "...". I need to find a verse where a specific word is missing. For example, in the first verse given: "इच्छामि त्वामहं ज्ञातुं तन्ममाचक्ष्व शोभने ||१३||" – maybe the missing word is the name of someone. But the example in the user's message had "Śalya" as the missing word. So I need to find a verse where a name or a term is missing.
+
+Looking at the verses, for example, verse 13: "इच्छामि त्वामहं ज्ञातुं तन्ममाचक्ष्व शोभने" – the missing word could be the name of the person being addressed. But the example had "Śalya" as the missing word. So maybe in this case, the missing word is "Śalya" but I need to check if that's present in the verses.
+
+Wait, the user provided a chunk of verses. Let me check the verses again. For example, in the first part, there's a verse: "ऊर्ध्वरेता महाभागो भगवाँल्लोकपूजितः | चलेद्धि वृत्ताद्धर्मोऽपि न चलेत्संशितव्रतः ||१६||" – maybe the missing word here is "Vishwamitra" or another name. But I need to ensure that the missing word is present in the original verse but replaced with "...".
+
+Another example: "कण्वष्याहं भगवतो दुःषन्त दुहिता मता | तपस्विनो धृतिमतो धर्मज्ञस्य यशस्विनः ||१५||" – here, the missing word could be "Kanva" or "Dushanta".
+
+But I need to make sure that the missing word is exactly one in the verse. Also, the reasoning must be based on the verses provided. For example, if the verse says "Dushanta said", then the answer would be Dushanta.
+
+I need to go through each verse and pick one word to replace. Let's start with the first verse in the provided text:
+
+"इच्छामि त्वामहं ज्ञातुं तन्ममाचक्ष्व शोभने ||१३||" – maybe the missing word is "Śalya" as in the example, but I need to check if that's in the verses. However, the example's verse was different. Alternatively, maybe the missing word is "Kanva" or another name.
+
+Alternatively, looking at verse 15: "कण्वष्याहं भगवतो दुःषन्त दुहिता मता | तपस्विनो धृतिमतो धर्मज्ञस्य यशस्विनः ||१५||" – here, the missing word could be "Kanva" (the sage) or "Dushanta" (the king). But the verse says "Kanva said" – so maybe the missing word is "Kanva".
+
+But the example had "Śalya" as the missing word. So I need to find similar instances.
+
+Another verse: "दुःषन्त उवाच||" – this is Dushanta speaking. So if a verse has "Dushanta said", the missing word would be "Dushanta".
+
+Looking at the verses, for example, verse 16: "ऊर्ध्वरेता महाभागो भगवाँल्लोकपूजितः | चलेद्धि वृत्ताद्धर्मोऽपि न चलेत्संशितव्रतः ||१६||" – here, the missing word could be "Vishwamitra" (the sage) as he is mentioned in the context.
+
+But I need to make sure that the missing word is present in the original verse. For example, if the verse is "Vishwamitra said...", then the missing word is "Vishwamitra".
+
+So, for each entry, I need to pick a verse where a name or term is missing, replace it with "...", then create a question and options.
+
+Let me try to create the first entry:
+
+Looking at verse 13: "इच्छामि त्वामहं ज्ञातुं तन्ममाचक्ष्व शोभने ||१३||" – the missing word could be "Śalya" as in the example, but I need to check if that's in the verses. However, the example's verse was different. Alternatively, maybe the missing word is "Kanva" or "Dushanta".
+
+Alternatively, looking at verse 15: "कण्वष्याहं भगवतो दुःषन्त दुहिता मता | तपस्विनो धृतिमतो धर्मज्ञस्य यशस्विनः ||१५||" – here, the missing word is "Kanva" (the sage) or "Dushanta" (the king). But the verse says "Kanva said...", so the missing word is "Kanva".
+
+So the question would be: "Who said 'I wish to know you'?" with options including Kanva, Dushanta, etc.
+
+But I need to make sure that the missing word is exactly one in the verse. Also, the reasoning must be based on the verses provided.
+
+Another example: verse 16 starts with "Dushanta said...", so the missing word is "Dushanta".
+
+So, for the first entry:
+
+[Shakuntala-parvan 13.13 a-b] (assuming the parva is Shakuntala, chapter 13, verse 13, a-b)
+
+"इच्छामि त्वामहं ज्ञातुं तन्ममाचक्ष्व शोभने ||१३||" – replace "शोभने" with "...". But the example had "Śalya" as the missing word. Alternatively, maybe the missing word is "Kanva" in another verse.
+
+Alternatively, looking at verse 16: "ऊर्ध्वरेता महाभागो भगवाँल्लोकपूजितः | चलेद्धि वृत्ताद्धर्मोऽपि न चलेत्संशितव्रतः ||१६||" – the missing word could be "Vishwamitra" (the sage) as he is mentioned in the context.
+
+But I need to check the verses. The verse says "ऊर्ध्वरेता महाभागो भगवाँल्लोकपूजितः" – "Urdhvaretā mahābāgo bhagavān loka-pūjitaḥ" – "Urdhvaretā" is a title, but maybe the missing word is "Vishwamitra" as the one being addressed.
+
+But this is getting complicated. I need to ensure that the missing word is present in the original verse but replaced. For example, if the verse is "Vishwamitra said...", then the missing word is "Vishwamitra".
+
+Another approach: look for verses where a name is mentioned, and replace that name with "...".
+
+For example, in verse 15: "कण्वष्याहं भगवतो दुःषन्त दुहिता मता | तपस्विनो धृतिमतो धर्मज्ञस्य यशस्विनः ||१५||" – here, "कण्वष्याहं" could be "Kanva said", so the missing word is "Kanva".
+
+So the question would be: "Who said 'I am the daughter of Bhagavat'?" with options including Kanva, Dushanta, etc.
+
+But I need to make sure that the missing word is the one that's replaced. Also, the reasoning must be based on the verses.
+
+I'll proceed to create 10 entries based on this approach, ensuring each has a unique verse and correct answer.
+</think>
+
+<entry>
+  <question>
+    **Shakuntala-parvan 13.13 a-b**  
+    *इच्छामि त्वामहं ज्ञातुं तन्ममाचक्ष्व ... ||१३||*  
+
+    Who said "I wish to know you"?
+
+    A) Śalya   B) Kanva   C) Dushanta   D) Vishwamitra
+  </question>
+  <answer>
+    B) Kanva  
+    • Verse 13 is spoken by Kanva, the sage, as he addresses Śakuntalā.  
+    • Śalya (A) is a later character; Dushanta (C) is her husband.  
+    • Vishwamitra (D) is a different sage involved in the story.  
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Shakuntala-parvan 15.15 a-b**  
+    *कण्वष्याहं भगवतो ... दुहिता मता ||१५||*  
+
+    Who is described as "the daughter of Bhagavat"?
+
+    A) Śakuntalā   B) Menaka   C) Dushanta   D) Vishwamitra
+  </question>
+  <answer>
+    A) Śakuntalā  
+    • Śakuntalā is Kanva's daughter, as stated in the verse.  
+    • Menaka (B) is her mother; Dushanta (C) is her husband.  
+    • Vishwamitra (D) is a separate sage.  
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Shakuntala-parvan 16.16 a-b**  
+    *ऊर्ध्वरेता महाभागो भगवाँल्लोकपूजितः ... ||१६||*  
+
+    Who is called "the great and revered Bhagavat"?
+
+    A) Vishwamitra   B) Dushanta   C) Śalya   D) Kanva
+  </question>
+  <answer>
+    A) Vishwamitra  
+    • Vishwamitra is the sage described as "Bhagavat" (divine).  
+    • Dushanta (B) is a king; Śalya (C) is a warrior.  
+    • Kanva (D) is a different sage.  
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Shakuntala-parvan 17.17 a-b**  
+    *कथं त्वं तस्य दुहिता ... तं मे छेत्तुमिहार्हसि ||१७||*  
+
+    Who questions "How can you be his daughter"?
+
+    A) Dushanta   B) Vishwamitra   C) Śalya   D) Menaka
+  </question>
+  <answer>
+    A) Dushanta  
+    • Dushanta (the king) challenges Śakuntalā's claim of being Vishwamitra's daughter.  
+    • Vishwamitra (B) is the sage; Śalya (C) is a warrior.  
+    • Menaka (D) is Śakuntalā's mother.  
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Shakuntala-parvan 18.18 a-b**  
+    *यथायमागमो मह्यं यथा चेदमभूत्पुरा ... ||१८||*  
+
+    Who says "This is my coming, as it was before"?
+
+    A) Śakuntalā   B) Dushanta   C) Vishwamitra   D) Menaka
+  </question>
+  <answer>
+    A) Śakuntalā  
+    • Śakuntalā recounts her origin to Dushanta.  
+    • Dushanta (B) is the listener; Vishwamitra (C) is her father.  
+    • Menaka (D) is her mother.  
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Shakuntala-parvan 19.19 a-b**  
+    *ऋषिः कश्चिदिहागम्य मम जन्माभ्यचोदयत् ... ||१९||*  
+
+    Who is the sage that caused Śakuntalā's birth?
+
+    A) Vishwamitra   B) Kanva   C) Dushanta   D) Śalya
+  </question>
+  <answer>
+    A) Vishwamitra  
+    • Vishwamitra is the sage who impregnated Menaka, leading to Śakuntalā's birth.  
+    • Kanva (B) is her foster father.  
+    • Dushanta (C) and Śalya (D) are unrelated.  
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Shakuntala-parvan 20.20 a-b**  
+    *तप्यमानः किल पुरा विश्वामित्रो महत्तपः ... ||२०||*  
+
+    Who performed great austerities (tapa)?
+
+    A) Vishwamitra   B) Dushanta   C) Śalya   D) Kanva
+  </question>
+  <answer>
+    A) Vishwamitra  
+    • Vishwamitra is the sage known for his intense austerities.  
+    • Dushanta (B) is a king; Śalya (C) is a warrior.  
+    • Kanva (D) is a different sage.  
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Shakuntala-parvan 21.21 a-b**  
+    *भीतः पुरंदरस्तस्मान्मेनकामिदमब्रवीत् ... ||२१||*  
+
+    Who said "I am afraid of Indra"?
+
+    A) Menaka   B) Vishwamitra   C) Dushanta   D) Śalya
+  </question>
+  <answer>
+    A) Menaka  
+    • Menaka (the apsara) fears Indra's wrath.  
+    • Vishwamitra (B) is the sage; Dushanta (C) is a king.  
+    • Śalya (D) is unrelated.  
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Shakuntala-parvan 22.22 a-b**  
+    *गुणैर्दिव्यैरप्सरसां मेनके त्वं विशिष्यसे ... ||२२||*  
+
+    Who is praised for divine qualities?
+
+    A) Śakuntalā   B) Menaka   C) Dushanta   D) Vishwamitra
+  </question>
+  <answer>
+    B) Menaka  
+    • Menaka (the apsara) is described as outstanding among apsaras.  
+    • Śakuntalā (A) is her daughter.  
+    • Dushanta (C) and Vishwamitra (D) are unrelated.  
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Shakuntala-parvan 23.23 a-b**  
+    *असावादित्यसङ्काशो विश्वामित्रः सुमध्यमे ... ||२३||*  
+
+    Who is compared to the sun?
+
+    A) Vishwamitra   B) Dushanta   C) Śalya   D) Kanva
+  </question>
+  <answer>
+    A) Vishwamitra  
+    • Vishwamitra's radiance is likened to the sun.  
+    • Dushanta (B) is a king; Śalya (C) is a warrior.  
+    • Kanva (D) is a different sage.  
+  </answer>
+</entry>

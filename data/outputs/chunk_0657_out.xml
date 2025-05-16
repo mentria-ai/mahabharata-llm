@@ -1,0 +1,95 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I notice that the text includes several verses, possibly from the "Ayushyana" (Ayushya) section, which is part of the Bhishma Parva. The verses talk about various rituals, duties, and moral teachings. For example, there's mention of giving gifts, the importance of conduct (ācāra), and specific practices related to cleanliness, food, and social behavior.
+
+The user wants exactly five questions, each with a specific reference, and the answers must be based solely on the text. I need to ensure that each question is unique and covers different parts of the text.
+
+Let me go through the text again. The first part mentions giving gifts like cows, gold, and other items. Then there's a lot about ācāra (conduct), like eating prāṅmukha (facing east), avoiding certain actions, and the importance of following rituals. Also, there are references to different types of people, like brāhmaṇas, kṣatriyas, and others, and their duties.
+
+For the first question, maybe about the gifts given. The text says "पुष्करेषु द्विजातिभ्यः प्रादां गाश्च सहस्रशः" which translates to giving thousands of cows to brāhmaṇas. So a question about who received thousands of cows.
+
+Second question could be about the importance of ācāra. The text states that "आचाराल्लभते ह्यायुराचाराल्लभते श्रियम्" (one gains life and prosperity through conduct). So a question on what one gains through good conduct.
+
+Third question might be about the number of cows given. The text mentions "सहस्राणि विभूषितानां" (thousands of decorated ones), but I need to check the exact numbers. Wait, the first verse says "सहस्रशः" (thousands), but maybe another verse has a specific number. Let me check. There's "षष्टिं सहस्राणि" (six thousand) in verse 12. So a question about how many cows were given.
+
+Fourth question could be about the consequences of bad conduct. The text says "दुराचारो हि पुरुषो नेहायुर्विन्दते महत्" (a person with bad conduct does not gain much life). So a question on what happens to those with bad conduct.
+
+Fifth question might be about the importance of certain rituals, like facing east while eating. The text mentions "आयुष्यं प्राङ्मुखो भुङ्क्ते" (one who eats facing east gains life). So a question on the effect of eating prāṅmukha.
+
+I need to make sure each question has the correct reference. For example, the first question could reference "Ayushyana" (107) as per the text's heading. The second question could be from the same section. The third question would reference the specific verse numbers. Each answer must be under 100 characters, so concise options.
+
+Now, I need to structure each entry with reasoning, question, and answer. The reasoning should explain why the question is important and why the answer is correct, while the other options are plausible but incorrect.
+
+Let me draft each question step by step, ensuring they are distinct and based on the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of specific gifts given in the Mahabharata. The text explicitly states that thousands of cows were given to brāhmaṇas, reflecting the importance of dāna (charity) in Vedic tradition. Other options represent different types of gifts but are not mentioned in this context.
+  </reasoning>
+  <question>
+    In Mahabharata's Ayushyana (107), which group received thousands of cows as gifts?
+    A) Kṣatriyas
+    B) Vaishyas
+    C) Brāhmaṇas
+    D) Shudras
+  </question>
+  <answer>C) Brāhmaṇas</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the Mahabharata's emphasis on ācāra (conduct) as a determinant of life and prosperity. The text explicitly states that conduct leads to longevity and wealth. Other options represent unrelated concepts like rituals or material wealth.
+  </reasoning>
+  <question>
+    In Mahabharata's Ayushyana (107), what does the text state one gains through proper conduct (ācāra)?
+    A) Wealth
+    B) Longevity
+    C) Knowledge
+    D) Power
+  </question>
+  <answer>B) Longevity</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of specific numerical details in the text. The verse explicitly mentions six thousand decorated cows given to brāhmaṇas. Other options represent plausible but incorrect numbers from the same context.
+  </reasoning>
+  <question>
+    In Mahabharata's Ayushyana (107), how many decorated cows were given to brāhmaṇas?
+    A) 1,000
+    B) 6,000
+    C) 10,000
+    D) 100,000
+  </question>
+  <answer>B) 6,000</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the Mahabharata's moral teachings about conduct. The text explicitly states that those with bad conduct (dūrācāra) do not gain longevity. Other options represent positive outcomes not directly tied to this specific warning.
+  </reasoning>
+  <question>
+    In Mahabharata's Ayushyana (107), what happens to those with bad conduct (dūrācāra)?
+    A) Gain wealth
+    B) Gain knowledge
+    C) Lose longevity
+    D) Gain power
+  </question>
+  <answer>C) Lose longevity</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of ritual practices described in the text. The verse explicitly states that eating facing east (prāṅmukha) brings prosperity. Other options represent different directions or unrelated practices.
+  </reasoning>
+  <question>
+    In Mahabharata's Ayushyana (107), which direction is recommended for eating to gain prosperity?
+    A) West
+    B) South
+    C) East
+    D) North
+  </question>
+  <answer>C) East</answer>
+</entry>

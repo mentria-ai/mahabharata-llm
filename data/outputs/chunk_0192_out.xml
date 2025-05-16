@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll read through the Sanskrit passage. It seems to be a dialogue between Kunti and the Sun God (Surya). The key elements here are Kunti, Surya, the boon (var), and the birth of Karna. The text mentions Kunti being blessed by Surya, the boon of invincibility (kavach and kundal), and the eventual birth of Karna. 
+
+For the first question, I can focus on the boon given by Surya. The text says Surya gives Kunti a boon, and she asks for a son who is invincible. The options would include the correct answer (invincible son) and other plausible options like a long life or wealth. 
+
+Next, the second question could be about the specific boon's components. The text mentions "kavach" (armor) and "kundal" (earrings), so the question would ask what the boon included. The options would be these two items versus others like a chariot or a weapon.
+
+Third, the birth of Karna. The text says Karna was born from the womb of Kunti, but he was placed in a basket and abandoned. The question could ask who was born to Kunti after the boon. The options would include Karna, Arjuna, Yudhishthira, and another character.
+
+Fourth, the reason Kunti didn't reveal the child. The text mentions she was afraid of her family's reaction. The options would be fear of family, fear of Surya's wrath, or something else.
+
+Fifth, the role of the boon in Karna's life. The text states that the boon made him invincible, but he was killed by Kritavarma. The question could ask why Karna was killed despite the boon. The options would be the specific condition (not to be killed by a chariot) versus other reasons.
+
+I need to ensure each question is specific, references the text, and includes the correct answer. Also, check that the options are plausible but only one is correct. Avoid adding any external information. Make sure the XML format is correct with the required tags.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Kunti's boon from Surya. The text explicitly states she requested an invincible son, which aligns with the "kavach" (armor) and "kundal" (earrings) boon. Other options represent common but incorrect interpretations of boons in the Mahabharata.
+  </reasoning>
+  <question>
+    In Mahabharata's Santi Parva (verse 289), what did Kunti request from Surya after being blessed with a son?
+    A) A chariot of fire
+    B) An invincible son
+    C) Immortality
+    D) A kingdom
+  </question>
+  <answer>B) An invincible son</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the specific components of Surya's boon. The text directly mentions "kavach" (armor) and "kundal" (earrings) as the invincibility symbols. Other options represent common Mahabharata elements but are not explicitly stated here.
+  </reasoning>
+  <question>
+    In Mahabharata's Santi Parva (verse 289), what two items did Surya grant Kunti to protect her son?
+    A) A sword and shield
+    B) Kavach (armor) and Kundal (earrings)
+    C) A crown and throne
+    D) A bow and arrows
+  </question>
+  <answer>B) Kavach (armor) and Kundal (earrings)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Karna's origin. The text explicitly states Karna was born to Kunti after the boon. Other options represent major Mahabharata figures but are not linked to this specific narrative.
+  </reasoning>
+  <question>
+    In Mahabharata's Santi Parva (verse 289), who was born to Kunti after receiving Surya's boon?
+    A) Arjuna
+    B) Karna
+    C) Yudhishthira
+    D) Duryodhana
+  </question>
+  <answer>B) Karna</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines Kunti's motivation for hiding Karna. The text states she feared her family's reaction. Other options represent common Mahabharata themes but are not directly supported by this passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Santi Parva (verse 289), why did Kunti hide her son Karna?
+    A) To protect him from Duryodhana
+    B) Fear of family disgrace
+    C) To train him as a warrior
+    D) To avoid Surya's wrath
+  </question>
+  <answer>B) Fear of family disgrace</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the limitation of Karna's boon. The text states he was invincible but could be killed by a chariot. Other options represent general Mahabharata themes but lack direct textual support.
+  </reasoning>
+  <question>
+    In Mahabharata's Santi Parva (verse 289), why was Karna ultimately killed despite Surya's boon?
+    A) By a sword
+    B) By a chariot
+    C) By poison
+    D) By betrayal
+  </question>
+  <answer>B) By a chariot</answer>
+</entry>

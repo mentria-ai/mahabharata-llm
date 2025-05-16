@@ -1,0 +1,93 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by carefully reading through the text to identify key elements.
+
+First, the text seems to be from the "Vana Parva" (Forest Parva) and "Karna Parva" sections. There are references to characters like Karna, Duryodhana, and others. The text mentions Karna receiving divine armor and earrings from Indra, which is a significant event. Also, there's a part where Karna is given a boon by Indra, and he asks for the ability to kill a specific enemy. 
+
+Looking at the verses, there's a mention of Karna's birth and adoption by Suta, who is also known as the charioteer. The text talks about Karna's divine armor and earrings, which are given by Indra. Another part discusses Karna's request for a boon, where he asks for the ability to kill a particular enemy, and Indra grants it. 
+
+I need to make sure each question is specific, includes the correct reference (like the parva or specific verses), and that the answers are directly from the text. For example, one question could be about who gave Karna the divine armor and earrings. The answer would be Indra, and the options would include other gods or characters. 
+
+Another point is the story of Karna's birth. The text mentions that he was found in a basket (māñjūṣā) by Suta's wife, Radha. So a question could be about who found Karna as a baby. The answer would be Suta's wife, and the options would include other characters like Duryodhana or Kunti.
+
+Also, there's a part where Karna asks for a boon, and Indra grants it. The question could be about what Karna asked for. The answer is the ability to kill a specific enemy, and the options would include other boons like invincibility or wealth.
+
+I need to check each verse to ensure the information is accurate. For example, in the text, it says "कुण्डलाभ्यां विमुक्तोऽहं वर्मणा सहजेन च" which translates to Karna being free from his armor and earrings. So a question about what Karna was given by Indra would have the answer as armor and earrings.
+
+Another part mentions Karna's request for a boon, where he says "एकमेवाहमिच्छामि रिपुं हन्तुं महाहवे" (I only wish to kill one enemy). So the answer would be killing a specific enemy, and the options would include other possibilities.
+
+I need to make sure each question is unique and covers different parts of the text. Let me structure each entry with the correct reference, context, and options. Also, the reasoning should explain why the answer is correct and why the others are not. For example, in the question about who found Karna, the other options might be characters involved in his life but not the one who found him.
+
+I should also verify the exact references. The text has verses numbered, so including the adhyaya or parva would be important. For example, "In Mahabharata's Karna Parva, who granted Karna divine armor and earrings?" The answer is Indra, and the options would include other gods or characters.
+
+I need to create five such questions, each with different aspects: one about the boon, one about the adoption, one about the armor and earrings, one about the request for a specific enemy, and another about the location where Karna was found. Each must be specific and based solely on the text provided.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Karna's divine gifts from Indra. The text explicitly states that Indra granted Karna armor and earrings. Other options represent other deities or characters but are not mentioned in this context.
+  </reasoning>
+  <question>
+    In Mahabharata's Karna Parva, who granted Karna divine armor (वर्म) and earrings (कुण्डल) to ensure invincibility in battle?
+    A) Duryodhana
+    B) Indra
+    C) Krishna
+    D) Bhishma
+  </question>
+  <answer>B) Indra</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Karna's adoption. The text states Suta (the charioteer) found Karna in a basket (मञ्जूषा) and raised him. Other options involve characters who interacted with Karna but were not his adoptive parents.
+  </reasoning>
+  <question>
+    In Mahabharata's Vana Parva, who adopted Karna after finding him in a basket (मञ्जूषा) and raised him as their son?
+    A) Duryodhana
+    B) Suta (the charioteer)
+    C) Krishna
+    D) Kunti
+  </question>
+  <answer>B) Suta (the charioteer)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Karna's boon request. The text shows Karna asked for the ability to kill a specific enemy (एकमेवाहमिच्छामि रिपुं हन्तुं). Other options represent unrelated boons or outcomes.
+  </reasoning>
+  <question>
+    In Mahabharata's Karna Parva, what did Karna specifically request from Indra as a boon to ensure victory?
+    A) Invincibility in all battles
+    B) The ability to kill one enemy
+    C) Wealth and power
+    D) Immortality
+  </question>
+  <answer>B) The ability to kill one enemy</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Karna's divine armor's origin. The text states the armor and earrings were "सहजं" (inherent) and "अमृतोद्भवं" (born from nectar). Other options misattribute the source.
+  </reasoning>
+  <question>
+    In Mahabharata's Karna Parva, where did Karna's divine armor (वर्म) and earrings (कुण्डल) originate according to the text?
+    A) From the gods' treasury
+    B) From nectar (अमृत)
+    C) From a celestial weapon
+    D) From a mortal king
+  </question>
+  <answer>B) From nectar (अमृत)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses Karna's final request to Indra. The text shows Karna asked to be free from his armor and earrings to face his fate. Other options represent unrelated outcomes or requests.
+  </reasoning>
+  <question>
+    In Mahabharata's Karna Parva, what did Karna ask Indra to remove before his final battle?
+    A) His chariot
+    B) His divine armor and earrings
+    C) His weapons
+    D) His royal title
+  </question>
+  <answer>B) His divine armor and earrings</answer>
+</entry>

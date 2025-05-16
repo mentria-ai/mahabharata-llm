@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I notice that the text includes verses about giving gifts like lamps (दीप), flowers (पुष्प), and other offerings. There's a mention of Nahuṣa and Agastya, and some stories about rituals and their consequences. Also, there's a part about the consequences of stealing Brahmin's property (ब्रह्मस्वहरणम्).
+
+For the first question, I can focus on the significance of giving lamps. The text says that giving a lamp leads to spiritual benefits, like seeing the divine and gaining purity. So the question could be about the purpose of giving a lamp. The options would include different reasons, with the correct one being about spiritual vision.
+
+Next, there's a story about Nahuṣa and his downfall due to pride. The text mentions that he was cursed by Bhrgu and became a serpent. So a question about who cursed Nahuṣa would be good. The options would include Bhrgu, Agastya, others, but the correct answer is Bhrgu.
+
+Another part talks about the consequences of stealing Brahmin's property. The text states that those who steal it end up in hell. So a question about the consequence of stealing Brahmin's property would work here. The answer would be hell (नरक).
+
+There's also a mention of the importance of giving gifts to gods, like flowers and incense. The text says that such offerings please the gods. So a question about the purpose of giving flowers and incense would be appropriate. The answer would be to please the gods.
+
+Lastly, the text discusses the story of Nahuṣa's transformation into a serpent. The question could be about what Nahuṣa became after being cursed. The answer would be a serpent (सर्प).
+
+I need to make sure each question has the correct reference, like the specific chapter or verse. For example, the part about Nahuṣa is in the "Nahusha" section, and the story about stealing Brahmin's property is in "Brahmasvaharana." Each question must be clear and based solely on the text provided, without adding external information.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of ritual offerings in the Mahabharata. The text explicitly states that giving lamps (दीप) grants spiritual vision and purity, aligning with the concept of "jyotir" (light) as a divine gift. Other options represent plausible but incorrect associations of rituals.
+  </reasoning>
+  <question>
+    In Mahabharata's "Dīpādīdanaphalam" (102), what was the primary purpose of giving lamps according to the text?
+    A) To gain wealth
+    B) To achieve spiritual vision
+    C) To avoid illness
+    D) To please kings
+  </question>
+  <answer>B) To achieve spiritual vision</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the Mahabharata's narrative about Nahuṣa's downfall. The text directly states that Bhṛgu cursed Nahuṣa for his arrogance, leading to his transformation into a serpent. Other options represent secondary figures or unrelated events.
+  </reasoning>
+  <question>
+    In Mahabharata's "Nahusha" section, who cursed Nahuṣa for his pride and caused him to become a serpent?
+    A) Agastya
+    B) Bhṛgu
+    C) Indra
+    D) Vishnu
+  </question>
+  <answer>B) Bhṛgu</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the Mahabharata's ethical teachings about stealing Brahmin property. The text explicitly states that such theft leads to hell (नरक). Other options represent plausible but incorrect consequences.
+  </reasoning>
+  <question>
+    In Mahabharata's "Brahmasvaharana" (104), what fate awaited those who stole Brahmin property according to the text?
+    A) Becoming a king
+    B) Rebirth as a cow
+    C) Eternal hell
+    D) Immortality
+  </question>
+  <answer>C) Eternal hell</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of ritual offerings' divine rewards. The text states that giving flowers and incense pleases gods, aligning with the concept of "upaharaya" (offerings). Other options represent unrelated rituals.
+  </reasoning>
+  <question>
+    In Mahabharata's "Dīpādīdanaphalam" (102), what was the purpose of offering flowers and incense to deities?
+    A) To gain political power
+    B) To please gods
+    C) To avoid natural disasters
+    D) To become a warrior
+  </question>
+  <answer>B) To please gods</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the Mahabharata's narrative about Nahuṣa's transformation. The text explicitly states he became a serpent (सर्प) after being cursed. Other options represent unrelated transformations.
+  </reasoning>
+  <question>
+    In Mahabharata's "Nahusha" section, what form did Nahuṣa take after being cursed by Bhṛgu?
+    A) A bird
+    B) A river
+    C) A serpent
+    D) A tree
+  </question>
+  <answer>C) A serpent</answer>
+</entry>

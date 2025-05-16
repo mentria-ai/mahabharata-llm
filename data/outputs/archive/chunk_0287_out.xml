@@ -1,0 +1,148 @@
+<think>
+Okay, I need to create 10 high-quality question-answer pairs based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, the text seems to be from the Bhagavad Gita, part of the Mahabharata. It's a dialogue between Arjuna and Krishna, discussing karma, dharma, and the nature of actions. There are verses about different types of sacrifices (yajna), charity (dana), and austerities (tapas), as well as the three gunas (sattva, rajas, tamas) and their influence on actions. Also, mentions of the four varnas (Brahmins, Kshatriyas, Vaishyas, Shudras) and their duties. The text also includes references to the five elements (adhisthana) and the concept of selfless action (karma yoga).
+
+Now, I need to make sure each question is standalone, doesn't refer to the passage, and includes necessary context. Let me brainstorm possible questions.
+
+1. **Factual question about the three types of sacrifices**: The text mentions yajna, dana, and tapas. So a question could be about what these are and their significance.
+
+2. **"Did you know" about the three gunas**: The text explains how actions are categorized based on sattva, rajas, and tamas. Highlighting that these influence the nature of actions.
+
+3. **Detective-style question about the purpose of yajna, dana, and tapas**: Why are these considered purifying? The text says they are purifying for wise people.
+
+4. **Philosophical question on the importance of performing one's svadharma**: The text emphasizes that following one's own duty is better than another's, even if flawed.
+
+5. **Question about the three types of knowledge (jnana)**: The text mentions three types of knowledge related to the three gunas. Explaining each.
+
+6. **Factual about the four varnas and their duties**: The text lists duties for Brahmins, Kshatriyas, Vaishyas, and Shudras. A question on that.
+
+7. **Question on the concept of sannyasa (renunciation)**: The text differentiates between true renunciation and false. Explaining the difference.
+
+8. **Question about the three types of actions (karma)**: The text describes actions based on the three gunas. Explaining each.
+
+9. **Philosophical about the importance of selfless action (karma yoga)**: The text emphasizes acting without attachment to results.
+
+10. **Question on the role of Krishna in the Gita**: The text has Krishna as the speaker, giving advice to Arjuna. Highlighting his role as a guide.
+
+Now, I need to make sure each question is self-contained. For example, when asking about yajna, dana, and tapas, the answer should explain what they are. For the varnas, clarify what each group's duties are. Also, check that all answers are based on the text provided, not external knowledge.
+
+Let me draft each entry with reasoning, question, and answer. Ensure that the answers include context and are supported by the text. Avoid vague terms. Use specific references from the text, like verses mentioned.
+</think>
+
+<entry>
+  <reasoning>
+    The text discusses the three types of yajna (sacrifices), dana (charity), and tapas (austerity) as essential for the wise. This question tests factual knowledge of these concepts and their significance.
+  </reasoning>
+  <question>
+    In the Mahabharata, what are the three types of actions considered purifying for the wise, and why are they emphasized?
+  </question>
+  <answer>
+    The three purifying actions are yajna (sacrifice), dana (charity), and tapas (austerity). The text states these are "pavani" (purifying) for the wise, as they align with spiritual discipline and selfless service, fostering moral and spiritual growth.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text explicitly categorizes actions into three types based on the gunas (sattva, rajas, tamas). This "Did you know" question highlights the philosophical depth of the Mahabharata's teachings on human motivation.
+  </reasoning>
+  <question>
+    Did you know that the Mahabharata classifies actions into three types based on their moral qualities? What are these types and how do they influence behavior?
+  </question>
+  <answer>
+    The Mahabharata divides actions into sattvic (pure, harmonious), rajasic (passionate, driven by desire), and tamasic (ignorant, destructive). Sattvic actions promote wisdom, rajasic ones fuel ambition, and tamasic actions lead to confusion. This framework explains how human behavior is shaped by inner qualities.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text contrasts true renunciation (sannyasa) with false abandonment. This detective-style question explores the moral implications of abandoning duty versus acting selflessly.
+  </reasoning>
+  <question>
+    Why does the Mahabharata warn against abandoning one's duties, even if they seem burdensome? What alternative does it propose?
+  </question>
+  <answer>
+    The text argues that abandoning duties out of fear or ignorance (moha) leads to spiritual failure. Instead, it advocates performing actions without attachment to results, as this aligns with dharma and leads to liberation (moksha).
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text emphasizes svadharma (one's own duty) as superior to others. This philosophical question explores the ethical principle behind this teaching.
+  </reasoning>
+  <question>
+    What ethical principle underlies the Mahabharata's assertion that fulfilling one's own duty, even imperfectly, is better than adopting another's?
+  </question>
+  <answer>
+    The Mahabharata teaches that svadharma (one's inherent duty) is rooted in one's nature and karma. Fulfilling it, even with flaws, maintains cosmic order and personal integrity, whereas abandoning it for another's path leads to moral and spiritual decay.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes three types of knowledge (jnana) tied to the gunas. This question tests understanding of how intellectual perspectives shape actions.
+  </reasoning>
+  <question>
+    How does the Mahabharata differentiate between knowledge (jnana) that leads to wisdom and that which perpetuates ignorance?
+  </question>
+  <answer>
+    The text distinguishes three types of knowledge: sattvic (truthful, enlightened), rajasic (selfish, materialistic), and tamasic (deluded, destructive). Sattvic knowledge sees unity in all beings, while tamasic knowledge perpetuates falsehoods and confusion.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text outlines specific duties for each of the four varnas (social classes). This factual question requires knowledge of these roles as described in the passage.
+  </reasoning>
+  <question>
+    What were the primary duties assigned to the four varnas (Brahmins, Kshatriyas, Vaishyas, Shudras) according to the Mahabharata?
+  </question>
+  <answer>
+    Brahmins were to study and teach dharma, perform rituals, and practice self-control. Kshatriyas protected society and upheld justice. Vaishyas engaged in agriculture, trade, and commerce. Shudras served the other classes, focusing on manual labor and supporting societal order.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text contrasts true renunciation with false abandonment. This question explores the moral implications of these two approaches.
+  </reasoning>
+  <question>
+    What is the difference between "sannyasa" (renunciation) and "nishedha" (abandonment) in the Mahabharata's teachings?
+  </question>
+  <answer>
+    Sannyasa refers to performing actions without attachment to results, maintaining duty while transcending desire. Nishedha is abandoning responsibilities out of fear or ignorance, which the text condemns as spiritually harmful.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes three types of actions (karma) based on the gunas. This question requires understanding how these classifications affect spiritual progress.
+  </question>
+  <answer>
+    The Mahabharata categorizes actions as sattvic (selfless, harmonious), rajasic (desire-driven, turbulent), or tamasic (ignorant, destructive). Sattvic actions lead to enlightenment, rajasic ones to worldly success, and tamasic actions to spiritual downfall.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text emphasizes Krishna's role as a guide. This question highlights his philosophical and ethical teachings.
+  </reasoning>
+  <question>
+    How does Krishna's role in the Mahabharata exemplify the concept of a spiritual guide?
+  </question>
+  <answer>
+    Krishna serves as a divine teacher, offering Arjuna wisdom on dharma, karma, and moksha. His teachings emphasize selfless action, duty, and devotion, guiding individuals toward spiritual liberation while navigating life's moral complexities.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text's focus on yajna, dana, and tapas as essential practices. This question explores their significance in the Mahabharata's ethical framework.
+  </reasoning>
+  <question>
+    Why are yajna (sacrifice), dana (charity), and tapas (austerity) considered vital practices in the Mahabharata?
+  </question>
+  <answer>
+    These practices cultivate selflessness, discipline, and spiritual growth. Yajna honors cosmic order, dana fosters generosity, and tapas strengthens willpower, all aligning with the pursuit of dharma and moksha.
+  </answer>
+</entry>

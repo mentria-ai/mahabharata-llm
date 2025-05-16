@@ -1,0 +1,89 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I notice that the text includes several sections like "श्रियो निवासस्थानानि" (The Abodes of Prosperity), "भङ्गाश्वनोपाख्यानम्" (The Tale of Bhangaśvan), and "शुभाशुभकर्मफलम्" (The Results of Good and Bad Deeds). Each of these sections has specific stories or teachings.
+
+Looking at the first part, there's a dialogue between Yudhishthira and Bhishma about where Sri (prosperity) resides. The verses mention that Sri dwells in virtuous people, those who are truthful, self-controlled, and devoted to dharma. This seems like a good topic for a question. The answer would be about the qualities of the person where Sri resides.
+
+Next, the section about Bhangaśvan (Bhangaśvan) is a story where a king, due to a mistake, becomes a woman. This is a mythological tale about transformation. The question could be about why he became a woman, referencing the yajna (sacrifice) he performed and the mistake with the horse. The answer would be that he was transformed due to a mistake in the yajna.
+
+Another part is about the results of good and bad deeds (śubhāśubhakarmaphalam). Here, Bhishma lists the three types of actions (kāya, vācā, manas) and the ten paths of action. The question could be about the three types of actions, with the answer being kāya, vācā, and manas.
+
+There's also a part where Bhishma talks about the three kinds of sins committed through the body: killing, stealing, and adultery. The question could be about the three bodily sins, with the answer being prāṇātipātā (killing), steyam (stealing), and paradāram (adultery).
+
+Lastly, the story of Upamanyu and Shiva's praise. The question could be about who praised Shiva, with the answer being Upamanyu.
+
+I need to make sure each question is specific, includes the exact reference (like the section name and verses), and that the options are plausible but only one is correct. Also, check that the answers are under 100 characters and the reasoning explains why the correct answer is right and others are wrong.
+
+Let me structure each entry with the required XML tags and ensure the questions are diverse, covering different parts of the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of dharma's abode as per Bhishma's teachings. The text explicitly states that Sri (prosperity) resides in virtuous individuals who uphold truth, self-control, and dharma. Other options represent virtues but not the specific qualities mentioned.
+  </reasoning>
+  <question>
+    In Mahabharata's "Shri Nivasa Sthanani" (11.1-10), where does Sri (prosperity) permanently reside according to Bhishma?
+    A) In those who commit theft
+    B) In the deceitful
+    C) In the truthful and self-controlled
+    D) In the greedy
+  </question>
+  <answer>C) In the truthful and self-controlled</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the mythological transformation of Bhangaśvan. The text states he became a woman due to a mistake in a yajna (sacrifice) involving a horse. Other options represent unrelated myths or events.
+  </reasoning>
+  <question>
+    In Mahabharata's "Bhangashvanopakhyana" (12.1-49), why did King Bhangashvan transform into a woman?
+    A) Due to a curse from a sage
+    B) As punishment for adultery
+    C) Mistakenly drinking water from a sacred pool
+    D) A mistake in a yajna (sacrifice) involving a horse
+  </question>
+  <answer>D) A mistake in a yajna (sacrifice) involving a horse</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses understanding of karmic paths. The text explicitly lists three bodily actions (kāya) and four verbal actions (vācā). Other options represent unrelated classifications.
+  </reasoning>
+  <question>
+    In Mahabharata's "Shubhashubhakarmaphalam" (13.2), how many types of actions (karmas) are categorized as harmful?
+    A) 3 bodily, 4 verbal, 3 mental
+    B) 2 bodily, 3 verbal, 4 mental
+    C) 4 bodily, 2 verbal, 3 mental
+    D) 5 bodily, 3 verbal, 2 mental
+  </question>
+  <answer>A) 3 bodily, 4 verbal, 3 mental</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of bodily sins. The text explicitly lists prāṇātipātā (killing), steyam (stealing), and paradāram (adultery) as the three bodily sins. Other options represent virtues or unrelated concepts.
+  </reasoning>
+  <question>
+    In Mahabharata's "Shubhashubhakarmaphalam" (13.3), which three actions are classified as bodily sins (kāya-pāpa)?
+    A) Lying, stealing, anger
+    B) Killing, stealing, adultery
+    C) Greed, pride, envy
+    D) Covetousness, deceit, violence
+  </question>
+  <answer>B) Killing, stealing, adultery</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the myth of Upamanyu's praise of Shiva. The text states Upamanyu (a sage) composed hymns praising Shiva. Other options represent unrelated sages or deities.
+  </reasoning>
+  <question>
+    In Mahabharata's "Upamanyu Upakhyana" (14.1), which sage composed hymns praising Shiva?
+    A) Vyasa
+    B) Vashishtha
+    C) Upamanyu
+    D) Kashyapa
+  </question>
+  <answer>C) Upamanyu</answer>
+</entry>

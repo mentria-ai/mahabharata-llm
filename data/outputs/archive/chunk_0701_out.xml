@@ -1,0 +1,159 @@
+<think>
+Okay, I need to create 10 high-quality question-answer pairs based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll read through the text to identify key elements. The text seems to be part of the Mahabharata's Sabha Parva, focusing on Yudhishthira's interactions with Krishna, the Ashvamedha Yajna (horse sacrifice), and the distribution of wealth. There are mentions of characters like Yudhishthira, Krishna, Bhima, Draupadi, and others. The Ashvamedha Yajna is a significant event here, where Yudhishthira performs a grand sacrifice, and there's a lot about the rituals, offerings, and the distribution of wealth to the Brahmins and others.
+
+Now, I need to make sure each question is standalone, doesn't refer to the passage, and includes necessary context. Let me think of different types of questions: factual, "did you know," detective, philosophical.
+
+First question: The Ashvamedha Yajna is a major event. So, a factual question about who performed it and why. The text mentions Yudhishthira performing it, and the purpose was to assert his sovereignty and gain spiritual merit. Also, the text says that the yajna was done to distribute wealth and ensure prosperity.
+
+Second question: The text mentions that after the yajna, Yudhishthira decided to give away the entire earth. So a question about his decision and the reason. The answer would include that he felt it was his duty to distribute wealth and that he wanted to renounce worldly possessions.
+
+Third question: The text has a part where Yudhishthira says that the earth was given to him by Arjuna, and he wants to divide it among his brothers. So a question about why he wanted to divide the earth. The answer would mention that he felt it was his duty to share the wealth and that he wanted to follow the principles of dharma.
+
+Fourth question: The text mentions that after the yajna, a lot of wealth was distributed. A "did you know" question about the scale of distribution. The answer would note that millions of coins were given, and even the lowest classes received gifts.
+
+Fifth question: The text mentions that the yajna was performed with the help of sages and that it was a grand event. A detective-style question about the role of sages. The answer would explain that the sages guided the rituals and ensured they were performed correctly.
+
+Sixth question: The text has a part where Yudhishthira gives away all his wealth. A philosophical question about his motivation. The answer would discuss his adherence to dharma and the concept of renunciation.
+
+Seventh question: The text mentions that after the yajna, Yudhishthira went to the forest. A question about his decision to go into exile. The answer would explain that he wanted to renounce worldly life and focus on spiritual pursuits.
+
+Eighth question: The text mentions that the yajna was performed to gain the favor of the gods. A question about the purpose of the yajna. The answer would include that it was to seek divine blessings and ensure prosperity.
+
+Ninth question: The text has a part where Yudhishthira distributes wealth to all classes. A question about the distribution. The answer would mention that even the lowest classes received gifts, emphasizing equality.
+
+Tenth question: The text mentions that after the yajna, Yudhishthira felt purified. A question about the spiritual outcome. The answer would discuss the purification from sins and the attainment of spiritual merit.
+
+I need to make sure each question is self-contained, with context provided. Also, check that all answers are based on the text and don't add external info. For example, the Ashvamedha Yajna's purpose, the distribution of wealth, Yudhishthira's motivations, and the role of sages are all in the text.
+
+Now, structure each entry with reasoning, question, and answer. Ensure that the answers have necessary context, like explaining what the Ashvamedha Yajna is if it's a lesser-known term. But since the user is learning about Mahabharata, it's okay to mention it as a grand horse sacrifice.
+
+Check for any specific details: the text says that Yudhishthira gave away the earth, distributed wealth to all, and that the yajna was performed with the help of sages. Also, the text mentions that even the lowest classes received gifts, and that Yudhishthira felt purified after the yajna.
+
+Make sure each answer is concise but includes all relevant details from the text. Avoid vague references. For example, when mentioning the distribution of wealth, specify that it was in the form of coins and gifts to all classes.
+
+Now, format each entry with XML tags as specified. The reasoning should explain why the question is formed, based on the text. The question must be standalone, and the answer must include context and be supported by the text.
+
+I think that's a solid plan. Now, time to write each entry with these considerations.
+</think>
+
+<entry>
+  <reasoning>
+    The text describes Yudhishthira's Ashvamedha Yajna, a grand horse sacrifice, and his distribution of wealth. This question tests understanding of the event's purpose and context.
+  </reasoning>
+  <question>
+    What was the purpose of Yudhishthira's Ashvamedha Yajna, and how did it reflect his role as a king?
+  </question>
+  <answer>
+    Yudhishthira performed the Ashvamedha Yajna to assert his sovereignty and gain spiritual merit. The text states this yajna was a means to distribute vast wealth to all classes, reinforcing his duty as a king to ensure prosperity and uphold dharma. It also symbolized his acceptance of divine blessings for his realm.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text highlights Yudhishthira's decision to renounce worldly possessions after the yajna. This question explores his motivations and the event's significance.
+  </reasoning>
+  <question>
+    Why did Yudhishthira decide to give away the entire earth after the Ashvamedha Yajna, and what does this reveal about his character?
+  </question>
+  <answer>
+    Yudhishthira gave away the earth to fulfill his dharma as a king, ensuring equitable distribution of wealth and renouncing personal attachment. The text emphasizes his adherence to righteousness, as he believed sharing resources was essential for societal harmony and spiritual purity.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text details the distribution of wealth during the yajna. This question focuses on the scale and inclusivity of the event.
+  </reasoning>
+  <question>
+    How did Yudhishthira's distribution of wealth during the Ashvamedha Yajna reflect his commitment to social equity?
+  </question>
+  <answer>
+    Yudhishthira distributed vast amounts of gold and gifts to all classes, including Brahmins, Kshatriyas, Vaishyas, and Shudras. The text notes that even the lowest classes received offerings, demonstrating his commitment to social equity and the principle of universal welfare in dharma.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text mentions Yudhishthira's spiritual purification after the yajna. This question explores the philosophical aspect of his actions.
+  </reasoning>
+  <question>
+    What philosophical principle guided Yudhishthira's decision to renounce wealth after the Ashvamedha Yajna?
+  </question>
+  <answer>
+    Yudhishthira's actions were guided by the principle of *sannyasa* (renunciation) and *dharma*. The text states he felt purified from sins and sought to focus on spiritual pursuits, aligning with the Mahabharata's emphasis on detachment and righteousness as paths to liberation (*moksha*).
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes the role of sages in the yajna. This question highlights their significance in ensuring ritual correctness.
+  </reasoning>
+  <question>
+    How did sages contribute to the success of Yudhishthira's Ashvamedha Yajna, and what does this reveal about Vedic traditions?
+  </question>
+  <answer>
+    Sages like Vyasa and other learned Brahmins guided the yajna's rituals, ensuring they followed Vedic procedures. The text emphasizes their role in maintaining spiritual and social order, reflecting the Vedic tradition's reliance on scholarly authority for sacred ceremonies.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text mentions Yudhishthira's decision to go into the forest after the yajna. This question explores his motivations and the event's symbolism.
+  </reasoning>
+  <question>
+    Why did Yudhishthira choose to leave the kingdom and enter the forest after completing the Ashvamedha Yajna?
+  </question>
+  <answer>
+    Yudhishthira went into the forest to renounce worldly life and focus on spiritual growth. The text suggests this was a fulfillment of his dharma, as he sought to detach from material possessions and prepare for his final journey, aligning with the Mahabharata's themes of asceticism and the cyclical nature of life.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text highlights the role of Krishna in Yudhishthira's decisions. This question examines their relationship and its impact on the narrative.
+  </reasoning>
+  <question>
+    How did Krishna influence Yudhishthira's actions during the Ashvamedha Yajna, and what does this reveal about their relationship?
+  </question>
+  <answer>
+    Krishna advised Yudhishthira to perform the yajna to assert his kingship and distribute wealth. The text portrays their relationship as one of mutual respect, with Krishna acting as a guide for dharma. This reflects Krishna's role as a divine mentor in the Mahabharata.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes the yajna's grandeur and its impact on the kingdom. This question focuses on its societal effects.
+  </reasoning>
+  <question>
+    What were the societal effects of Yudhishthira's Ashvamedha Yajna, and how did it strengthen his rule?
+  </question>
+  <answer>
+    The yajna's grandeur and wealth distribution solidified Yudhishthira's authority by demonstrating his ability to provide for all subjects. The text notes that even the lowest classes received gifts, fostering loyalty and reinforcing his role as a just and generous ruler.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text includes a dialogue where Yudhishthira reflects on his brother Arjuna's role. This question explores the moral implications of his statement.
+  </reasoning>
+  <question>
+    What moral dilemma did Yudhishthira face when he declared that the earth was given to him by Arjuna, and how did he resolve it?
+  </question>
+  <answer>
+    Yudhishthira struggled with the ethical implications of claiming land won by Arjuna. The text shows he resolved this by distributing the earth among his brothers, emphasizing fairness and avoiding conflict, which aligns with the Mahabharata's emphasis on *dharma* and brotherly harmony.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes the yajna's aftermath and Yudhishthira's spiritual transformation. This question examines the event's lasting impact.
+  </reasoning>
+  <question>
+    How did the Ashvamedha Yajna shape Yudhishthira's later actions and spiritual journey?
+  </question>
+  <answer>
+    The yajna's success and wealth distribution led Yudhishthira to renounce material life, as the text shows him entering the forest to focus on spiritual pursuits. This marked a shift from worldly governance to seeking *moksha*, reflecting the Mahabharata's theme of life's impermanence and the pursuit of higher purpose.
+  </answer>
+</entry>

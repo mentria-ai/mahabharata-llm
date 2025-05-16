@@ -1,0 +1,143 @@
+<think>
+Okay, I need to create 10 high-quality question-answer pairs based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look through the verses to identify key elements. The text seems to be a dialogue between various characters like Dhritarashtra, Sanjaya, Vidura, and others. There are mentions of the Pandavas, Kauravas, and references to events like the exile, the dice game, and the need for peace. 
+
+For the first question, I notice that there's a mention of the Pandavas enduring hardships. The verse says they "atitiksham" (endured) their suffering. So a factual question could be about why the Pandavas endured their hardships. The answer would explain their patience and the context of their exile.
+
+Next, there's a reference to Vidura, who is described as a wise minister. A "Did you know" question could highlight his role. The answer would mention his wisdom and his advice to Dhritarashtra.
+
+Another part talks about the need for peace and avoiding war. A detective-style question might ask why the Pandavas sought peace despite being wronged. The answer would explain their desire for harmony and the consequences of war.
+
+There's also a mention of Duryodhana and the Kauravas. A question about the Kauravas' actions during the dice game could be a good factual question. The answer would reference their deceit and the Pandavas' suffering.
+
+The text includes verses about dharma and righteousness. A philosophical question could explore the concept of dharma in the Mahabharata, using the verses where dharma is discussed.
+
+I need to ensure each question is standalone, with context provided. For example, when mentioning Vidura, I should explain he's a wise minister. Also, check that all answers are based solely on the text provided, without adding external knowledge.
+
+I should vary the question types: factual, "Did you know," detective, philosophical. Make sure each answer is concise but includes necessary details. Avoid referring to the text itself in the questions.
+
+Let me check each verse again to make sure I'm not missing any key elements. For instance, the mention of Kshatriya dharma, the role of kings, and the importance of patience. Also, the dialogue between Dhritarashtra and Vidura about the Pandavas' suffering.
+
+I need to create 10 such pairs. Let me draft them one by one, ensuring each is unique and covers different aspects of the text.
+</think>
+
+<entry>
+  <reasoning>
+    The text includes direct references to the Pandavas' endurance of suffering during their exile. The verse explicitly states "तात संहत्य जीवामो मा द्विषद्भ्यो वशं गमः" (Let us live together, O brother, and avoid being enslaved by enemies), reflecting their resolve to endure hardships. This provides a clear factual question about their motivations.
+  </reasoning>
+  <question>
+    Why did the Pandavas choose to endure their hardships during their exile instead of seeking immediate revenge?
+  </question>
+  <answer>
+    The Pandavas chose to endure their hardships during the exile to maintain unity and avoid further conflict. They prioritized patience and strategic survival over immediate retaliation, as emphasized in the dialogue where they resolve to "live together" and avoid being "enslaved by enemies." This reflects their adherence to dharma (righteousness) and long-term planning.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text highlights Vidura's role as a wise advisor. The verse "विदुरं द्रष्टुमिच्छामि तमिहानय माचिरम्" (I wish to see Vidura; send him here quickly) underscores his importance. His counsel is repeatedly sought, making him a key figure for a "Did you know" question.
+  </reasoning>
+  <question>
+    Did you know that Vidura, a key advisor in the Mahabharata, was known for his unwavering commitment to dharma and his role in advising kings? What specific event in the text shows his moral stance?
+  </question>
+  <answer>
+    Yes, Vidura was renowned for his wisdom and adherence to dharma. In the text, he is sent to advise Dhritarashtra after the Pandavas' suffering. His dialogue emphasizes ethical governance, stating that kings should avoid actions that harm others, as seen in verses where he criticizes the Kauravas' deceit and advocates for justice.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text explicitly mentions the Pandavas' refusal to retaliate despite being wronged. The line "मा वधीष्म कुरूनिति" (Do not kill the Kauravas) shows their desire for peace. This provides a detective-style question about their motivations.
+  </reasoning>
+  <question>
+    Why did the Pandavas refuse to retaliate against the Kauravas despite their betrayal, as hinted in the text?
+  </question>
+  <answer>
+    The Pandavas refused to retaliate to avoid further bloodshed and uphold dharma. They emphasized peace, stating "Let us live together" and "Do not kill the Kauravas," even after suffering. This reflects their moral commitment to non-violence and the belief that justice should be pursued through righteousness, not vengeance.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text references the dice game's deceit. The line "कृष्णां केशेष्वधर्षयत्" (Dressed Krishna in the hair) alludes to the humiliation of Draupadi. This is a pivotal event for a factual question.
+  </reasoning>
+  <question>
+    What event in the Mahabharata involved the humiliation of Draupadi, and how is it referenced in the text?
+  </question>
+  <answer>
+    The text alludes to the dice game's aftermath, where Draupadi was humiliated by the Kauravas. The verse "कृष्णां केशेष्वधर्षयत्" (Dressed Krishna in the hair) symbolizes her forced exposure, a pivotal moment that fueled the Pandavas' resolve to fight for justice and restore honor.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text emphasizes dharma as the highest duty. The line "परं धर्मात्पाण्डवस्यानृशंस्यं" (The highest dharma of the Pandavas is non-violence) directly addresses this concept. A philosophical question about dharma is appropriate here.
+  </reasoning>
+  <question>
+    What does the Mahabharata teach about dharma (righteousness) through the Pandavas' actions, as reflected in the text?
+  </question>
+  <answer>
+    The Mahabharata teaches that dharma requires prioritizing non-violence and justice over personal gain. The Pandavas' endurance of suffering and refusal to retaliate exemplify this, as seen in verses stating their commitment to "non-violence" and "righteousness" even when wronged.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text mentions the Kauravas' internal conflicts. The line "कुरुक्षयार्थे निरयो व्यपादि" (The Kauravas' destruction is inevitable) highlights their downfall. A detective-style question about their fate is fitting.
+  </reasoning>
+  <question>
+    What internal conflict led to the Kauravas' downfall, as suggested in the text?
+  </question>
+  <answer>
+    The Kauravas' downfall stemmed from their greed and refusal to uphold dharma. The text implies their destruction was inevitable due to their deceitful actions, such as the dice game and humiliation of Draupadi, which violated moral principles and alienated allies.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text references the role of kings in upholding dharma. The line "राज्यैकदेशमपि नः प्रयच्छ शममिच्छताम्" (Grant us even a part of the kingdom to live in peace) shows the Pandavas' plea for justice. A factual question about their demands is appropriate.
+  </reasoning>
+  <question>
+    What specific demand did the Pandavas make to the Kauravas to avoid war, as mentioned in the text?
+  </question>
+  <answer>
+    The Pandavas demanded "even a part of the kingdom" to live in peace, as stated in "राज्यैकदेशमपि नः प्रयच्छ शममिच्छताम्." This reflects their desire for reconciliation and adherence to dharma, even after being wronged.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text highlights Vidura's advice to Dhritarashtra. The line "अभ्येत्य त्वां तात वदामि सञ्जय; अजातशत्रुं च सुखेन पार्थम्" (I will speak to you, O brother, about the peaceful Pandavas) shows his role in mediating. A "Did you know" question about his role is suitable.
+  </reasoning>
+  <question>
+    Did you know that Vidura played a crucial role in mediating between the Pandavas and Kauravas? How is this shown in the text?
+  </question>
+  <answer>
+    Yes, Vidura mediated by advising Dhritarashtra to grant the Pandavas a portion of the kingdom. The text shows him urging the Kauravas to "live together" and avoid war, emphasizing his role as a moral arbiter who sought peace through dharma.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text references the concept of "kshatriya dharma" (kings' duty). The line "कुले जातो धर्मवान्यो यशस्वी" (A person born into a family that upholds dharma is virtuous) underscores this. A philosophical question about kingship is fitting.
+  </reasoning>
+  <question>
+    What does the Mahabharata teach about the duties of kings, as illustrated in the text?
+  </question>
+  <answer>
+    The Mahabharata teaches that kings must uphold dharma, protect their people, and avoid greed. The text emphasizes that a king's duty includes ensuring justice, as seen in verses where Vidura criticizes the Kauravas' deceit and advocates for righteous rule.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text mentions the importance of patience. The line "अलमेव शमायास्मि तथा युद्धाय सञ्जय" (I am content with peace, O Sanjaya, and also with war) reflects the Pandavas' resolve. A philosophical question about their choice is appropriate.
+  </reasoning>
+  <question>
+    How did the Pandavas balance their desire for peace with their readiness for war, as shown in the text?
+  </question>
+  <answer>
+    The Pandavas balanced peace and war by prioritizing dharma. They sought reconciliation ("I am content with peace") but remained prepared for battle ("and also with war") if justice was denied, as seen in their dialogue with Sanjaya. This reflects their adherence to moral principles over personal vengeance.
+  </answer>
+</entry>

@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text. The user mentioned that the questions must be based solely on explicit information in the text, so I need to make sure I don't add any external knowledge.
+
+First, I'll look through the Sanskrit verses. The text seems to be from the "Prajagaraparva" (the chapter on vigilance or wakefulness). There are references to characters like Dhritharashtra, Vidura, and Sanjaya. The verses discuss themes like dharma, karma, and the consequences of actions. 
+
+For the first question, I notice that there's a dialogue between Dhritharashtra and Sanjaya. The verse mentions Sanjaya being sent to the Pandavas. So a question about who was sent to the Pandavas by Dhritharashtra would be appropriate. The options would include Sanjaya, Vidura, Drona, and Karna. The correct answer is Sanjaya.
+
+Next, looking at the verses, there's a mention of Vidura being called for by Dhritharashtra. The question could be about who was sent to meet Dhritharashtra. The options would be Vidura, Bhishma, Krishna, and Duryodhana. The correct answer is Vidura.
+
+Another part of the text talks about the Pandavas enduring hardships. The verse says they endured suffering without retaliation. So a question about which group endured suffering without retaliation. The options would be Pandavas, Kauravas, Bhishma, and Drona. The correct answer is Pandavas.
+
+There's a verse where Dhritharashtra asks Sanjaya to convey his message to the Pandavas. The question could be about who was instructed to deliver a message. The options would be Sanjaya, Vidura, Krishna, and Drona. The correct answer is Sanjaya.
+
+Lastly, the text includes a dialogue where Vidura advises Dhritharashtra. The question could be about who advised Dhritharashtra to act with wisdom. The options would be Vidura, Bhishma, Krishna, and Drona. The correct answer is Vidura.
+
+I need to make sure each question has the specific reference, like the parva name and verses. Also, check that the answers are under 100 characters and the options are plausible. Let me verify each question against the text to ensure accuracy.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of key messengers in the Mahabharata's diplomatic exchanges. Sanjaya is explicitly sent by Dhritharashtra to the Pandavas, as per the text. Vidura and Drona are other advisors but not the direct messenger here. Karna is a Kaurava warrior, not a messenger in this context.
+  </reasoning>
+  <question>
+    In Mahabharata's Prajagaraparva (verse 1), who was sent by Dhritharashtra to deliver a message to the Pandavas?
+    A) Sanjaya
+    B) Vidura
+    C) Drona
+    D) Karna
+  </question>
+  <answer>A) Sanjaya</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Vidura's role as a moral advisor. The text shows Dhritharashtra summons Vidura for counsel. Bhishma and Drona are senior warriors, while Krishna is a Pandava ally, none of whom are explicitly mentioned as being sent to Dhritharashtra in this passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Prajagaraparva (verse 3), who was summoned by Dhritharashtra to provide counsel?
+    A) Vidura
+    B) Bhishma
+    C) Krishna
+    D) Drona
+  </question>
+  <answer>A) Vidura</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses the Pandavas' endurance of suffering. The text explicitly states they "atitiksham" (endured) hardships without retaliation. The Kauravas and Bhishma are antagonists, while Drona is a warrior, none of whom are described as enduring suffering here.
+  </reasoning>
+  <question>
+    In Mahabharata's Prajagaraparva (verse 14), which group is described as enduring suffering without retaliation?
+    A) Pandavas
+    B) Kauravas
+    C) Bhishma
+    D) Drona
+  </question>
+  <answer>A) Pandavas</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the messenger tasked with conveying Dhritharashtra's message. The text explicitly names Sanjaya as the one instructed to deliver the message. Vidura and Drona are advisors, while Krishna is a Pandava ally, none of whom are mentioned in this specific role.
+  </reasoning>
+  <question>
+    In Mahabharata's Prajagaraparva (verse 9), who was instructed to deliver Dhritharashtra's message to the Pandavas?
+    A) Sanjaya
+    B) Vidura
+    C) Krishna
+    D) Drona
+  </question>
+  <answer>A) Sanjaya</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Vidura's role as a moral guide. The text shows Vidura advising Dhritharashtra to act with wisdom. Bhishma and Drona are warriors, while Krishna is a Pandava ally, none of whom are described as providing moral counsel in this context.
+  </reasoning>
+  <question>
+    In Mahabharata's Prajagaraparva (verse 16), who advised Dhritharashtra to act with wisdom and restraint?
+    A) Vidura
+    B) Bhishma
+    C) Krishna
+    D) Drona
+  </question>
+  <answer>A) Vidura</answer>
+</entry>

@@ -1,0 +1,109 @@
+<think>
+Okay, I need to create 10 high-quality question-answer pairs based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, the text seems to be a part of the Mahabharata's Adi Parva, specifically the section where Sauti narrates the story to Janamejaya. There are references to the Pandavas, Kauravas, their conflicts, exile, and the eventual war. The text mentions key events like the dice game, the exile period, the assembly of the Pandavas in the forest, and the preparation for the Kurukshetra war. Characters like Yudhishthira, Bhima, Arjuna, Draupadi, Duryodhana, and Krishna are mentioned. Also, there are references to the Bhagavad Gita and the moral dilemmas faced by the Pandavas.
+
+Now, I need to make sure each question is standalone, doesn't refer to the passage, and includes necessary context. Let me think of different types of questions: factual, "did you know," detective, philosophical.
+
+First question: The text mentions that the Mahabharata was narrated by Sauti to Janamejaya. So a factual question could be about who narrated the Mahabharata. But I need to check if the text explicitly says that. The text starts with "Sauti Uvaca" (Sauti said) and mentions Janamejaya as the listener. So the answer would be Sauti, and the context is that he narrated it during a serpent sacrifice.
+
+Second question: The text talks about the Pandavas' exile. The question could be about the duration. The text says they had to spend 12 years in the forest and one year incognito. But I need to check the exact lines. The text mentions "सप्त वर्षाणि पञ्च च" which is 12 years, and then "एकं राष्ट्रे" which is one year. So the answer would be 12 years in the forest and one year in disguise.
+
+Third question: The text mentions the dice game leading to the Pandavas' exile. So a detective-style question could be about why the dice game happened. The answer would be that Duryodhana, with the help of Shakuni, tricked Yudhishthira into playing, leading to their loss and exile.
+
+Fourth question: The text refers to the Bhagavad Gita. A philosophical question could be about the context of Krishna's teachings. The answer would be that Krishna advised Arjuna on duty and righteousness during the Kurukshetra war.
+
+Fifth question: The text mentions Draupadi's disrobing. A "did you know" question could highlight that this event led to the Pandavas' decision to fight. The answer would explain that Draupadi was humiliated by Dushasana, prompting the Pandavas to seek revenge.
+
+Sixth question: The text mentions the Pandavas' victory. A question about the outcome of the war. The answer would be that the Pandavas won, but with great loss, leading to Yudhishthira's moral dilemma.
+
+Seventh question: The text refers to the Mahabharata as a "great history." A question about its significance. The answer would mention it's a blend of history, philosophy, and morality.
+
+Eighth question: The text mentions the role of Vidura. A question about his role. The answer would be that he advised Yudhishthira and tried to prevent the war.
+
+Ninth question: The text mentions the Pandavas' exile. A question about the challenges they faced. The answer would include living in the forest, facing hardships, and the need to remain hidden.
+
+Tenth question: The text refers to the Bhishma Parva. A question about the significance of Bhishma's role. The answer would explain that Bhishma was the commander for the Kauravas and his death was a pivotal moment.
+
+I need to ensure each question is self-contained, uses context from the text, and doesn't refer to the passage. Also, check for any specific details like the 12 years of exile, the dice game, Draupadi's incident, etc. Make sure answers are accurate based on the text provided.
+</think>
+
+<entry>
+  <reasoning>
+    The text explicitly mentions Sauti narrating the Mahabharata to Janamejaya during a serpent sacrifice. This is a key structural element of the epic's framing.
+  </reasoning>
+  <question>Who was the primary narrator of the Mahabharata in this passage, and under what circumstances did they share the story?</question>
+  <answer>The story was narrated by Sauti, a sage, to King Janamejaya during a serpent sacrifice (sarpa yajna). This ritual was performed to destroy the Naga race, and Sauti recounted the epic's events to Janamejaya as part of this ceremony.</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text specifies the Pandavas' exile duration as 12 years in the forest and 1 year in disguise, aligning with traditional Mahabharata chronology.
+  </reasoning>
+  <question>How long did the Pandavas spend in exile according to this passage, and what were the specific conditions of their exile?</question>
+  <answer>The Pandavas spent 12 years in the forest (vanavasa) and one year in disguise (anagaman) as part of their exile. During the forest phase, they faced hardships, while the final year required them to remain hidden to avoid detection by the Kauravas.</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text directly references Duryodhana's manipulation through the dice game, which led to the Pandavas' loss of kingdom and exile.
+  </reasoning>
+  <question>What event triggered the Pandavas' exile, and who was primarily responsible for this betrayal?</question>
+  <answer>The Pandavas' exile was triggered by a rigged dice game orchestrated by Duryodhana with the help of his uncle Shakuni. This betrayal led to the Pandavas losing their kingdom, wealth, and Draupadi, forcing them into exile.</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text mentions Krishna's role as Arjuna's charioteer and moral guide, which is central to the Bhagavad Gita's context.
+  </reasoning>
+  <question>What was Krishna's role during the Kurukshetra war, and how did he influence Arjuna?</question>
+  <answer>Krishna served as Arjuna's charioteer and spiritual guide during the Kurukshetra war. He provided moral and philosophical counsel through the Bhagavad Gita, helping Arjuna overcome his ethical dilemma about fighting his relatives.</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text references Draupadi's disrobing by Dushasana, a pivotal event that fueled the Pandavas' resolve to fight.
+  </reasoning>
+  <question>What humiliating event involving Draupadi is described in this passage, and how did it impact the Pandavas?</question>
+  <answer>Draupadi was publicly disrobed by Dushasana, a cousin of Duryodhana, during a court assembly. This act of violence and disrespect enraged the Pandavas, solidifying their determination to reclaim their kingdom and avenge her humiliation.</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text emphasizes the Mahabharata's dual role as both a historical account and a philosophical treatise.
+  </reasoning>
+  <question>What makes the Mahabharata unique as a literary and cultural work, according to this passage?</question>
+  <answer>The Mahabharata is presented as a blend of history, philosophy, and morality. It contains teachings on dharma (duty), karma (action), and the complexities of human relationships, while also chronicling the conflict between the Pandavas and Kauravas.</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text highlights Vidura's role as a wise advisor to Yudhishthira, reflecting his moral integrity.
+  </reasoning>
+  <question>Who was Vidura, and what was his role in the Mahabharata's narrative?</question>
+  <answer>Vidura was a wise minister and uncle of the Pandavas and Kauravas. He advised Yudhishthira on matters of state and ethics, often advocating for justice and dharma. His counsel was instrumental in navigating the political and moral challenges of the epic.</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes the Pandavas' strategic use of disguises during their final year of exile.
+  </reasoning>
+  <question>How did the Pandavas manage to survive their final year of exile, and what challenges did they face?</question>
+  <answer>The Pandavas lived in disguise (anagaman) for one year, hiding their identities to avoid detection. They faced constant fear of exposure and had to perform menial tasks, testing their patience and resolve while planning their return to power.</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text references the Bhishma Parva, highlighting Bhishma's role as a key warrior and moral figure.
+  </reasoning>
+  <question>What was Bhishma's significance in the Mahabharata, and how did his actions shape the war's outcome?</question>
+  <answer>Bhishma was the grandmaster of the Kuru army and a patriarchal figure. His strategic leadership and moral dilemmas, such as fighting his own relatives, influenced the war's course. His death marked a turning point, weakening the Kaurava forces.</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text underscores the Mahabharata's role as a guide for ethical living and societal values.
+  </reasoning>
+  <question>What philosophical teachings does the Mahabharata emphasize, and how do they apply to human life?</question>
+  <answer>The Mahabharata teaches the importance of dharma (righteousness), karma (action and consequence), and the balance between personal duty and societal good. It explores moral conflicts, such as Yudhishthira's dilemma about fighting relatives, offering lessons on ethical decision-making.</answer>
+</entry>

@@ -1,0 +1,279 @@
+<think>
+Okay, I need to create 10 quiz entries based on the provided Sanskrit verses. Let me start by understanding the structure and rules.
+
+First, each entry must start with [Parva] [Chapter].[Verse] [Pada]. The example given uses "Shalya-parvan 28.15 a-b". So I need to check the verses provided and assign the correct parva, chapter, and verse numbers.
+
+Looking at the verses, they seem to be from the "Hidimba-vadha-parva" (Hidimba's Death) and "Bakava-vadha-parva" (Bakava's Death). The verses are numbered, so I'll need to map them accordingly.
+
+Next, I need to replace exactly one word in the śloka with "...". The question should ask for the missing word, and there should be four options, with one correct. The reasoning should explain why the correct answer is right, and the wrong options should be plausible but incorrect.
+
+Let me go through the verses one by one.
+
+First verse: "पथि प्रच्छन्नमासेदुर्धार्तराष्ट्रभयात्तदा ||४||" – Here, the word "धार्तराष्ट्र" might be the missing one. But I need to check the context. The verse says "in the path, he hid due to fear of the Kauravas." So the missing word could be "कौरव" (Kauravas). But the original has "धार्तराष्ट्र" which refers to the Kauravas. So maybe the missing word is "कौरव" but the verse has "धार्तराष्ट्र" which is a synonym. Wait, the user says to replace exactly one word. So maybe the original verse has a word that's missing. Let me check the exact verse.
+
+The verse is: "पथि प्रच्छन्नमासेदुर्धार्तराष्ट्रभयात्तदा ||४||" – So the word "धार्तराष्ट्र" is part of the verse. If I replace it with "...", then the question would be about who they feared. The answer would be "Kauravas" (कौरव). But the verse uses "धार्तरा�ष्ट्र" which is another name for the Kauravas. So the missing word is "कौरव" (Kauravas). So the question would be: "Who did they hide from due to fear?" with options including Kauravas, Pandavas, etc.
+
+Another verse: "कृच्छ्रेण मातरं त्वेकां सुकुमारीं यशस्विनीम्" – Maybe the missing word is "सुकुमारीं" (the gentle one), but I need to check. Alternatively, maybe "यशस्विनीम्" (the glorious one). But the user wants to replace one word. Let's say the missing word is "सुकुमारीं" (gentle), but I need to confirm the context.
+
+But the user's example had "Śalya" as the missing word. So I need to find a verse where replacing one word makes sense. Let me check the verses again.
+
+Looking at the verses provided, the first part is from the Hidimba-vadha-parva. For example, verse 139.1: "तत्र तेषु शयानेषु हिडिम्बो नाम राक्षसः" – Here, the missing word could be "हिडिम्बो" (Hidimba), but that's the name. Alternatively, maybe "राक्षसः" (demon). But the user wants to replace one word. Let's say the verse is "तत्र तेषु शयानेषु ___ नाम राक्षसः" – the missing word is "हिडिम्बो" (Hidimba). So the question would be "What is the name of the demon?" with options including Hidimba, others.
+
+Another verse: "हिडिम्बो नाम राक्षसः" – if the missing word is "हिडिम्बो" (Hidimba), then the question is about the demon's name.
+
+But I need to make sure that the missing word is part of the verse. Let me check the exact verses.
+
+For example, in the verse: "हिडिम्बो नाम राक्षसः" – if I replace "हिडिम्बो" with "...", then the question is "What is the name of the demon?" with options like Hidimba, Ravana, etc.
+
+Another example: "भीम उवाच||" – but that's a dialogue. Maybe in the verse where Bhima speaks, the missing word is his name. But the user's example had "Śalya" as the missing word. So I need to find similar instances.
+
+Another verse: "हिडिम्बं निहतं दृष्ट्वा संहृष्टास्ते तरस्विनः" – here, the missing word could be "हिडिम्बं" (Hidimba), but that's the name. So the question would be "Who was killed?" with options including Hidimba, etc.
+
+I need to create 10 such entries. Let me go through the verses and pick 10 instances where replacing a word makes sense.
+
+1. Verse 139.1: "तत्र तेषु शयानेषु ___ नाम राक्षसः" – missing word is "हिडिम्बो" (Hidimba)
+2. Verse 139.4: "अहं कामगमा वीर रक्षोबलसमन्विता" – missing word could be "रक्षोबलसमन्विता" (armed with demons), but maybe another word. Alternatively, "वीर" (hero) – but not sure. Maybe "कामगमा" (desiring love) – but the user's example had a name. So maybe the missing word is "राक्षस" (demon) – but need to check.
+
+Alternatively, in verse 139.12: "तां तथा मानुषं रूपं बिभ्रतीं सुमनोहरम्" – missing word could be "मानुषं" (human), but that's part of the verse. Maybe "सुमनोहरम्" (beautiful) – but not sure.
+
+Alternatively, in verse 139.20: "अद्य त्वां भगिनी पाप कृष्यमाणं मया भुवि" – missing word could be "भगिनी" (sister), but that's part of the verse. Maybe "पाप" (sinful) – but again, need to find a word that's missing.
+
+Alternatively, in verse 140.1: "तां विदित्वा चिरगतां हिडिम्बो राक्षसेश्वरः" – missing word could be "हिडिम्बो" (Hidimba), but that's the name. So the question would be "Who is the demon lord?" with options including Hidimba.
+
+Another verse: 140.3: "आपतत्येष दुष्टात्मा सङ्क्रुद्धः पुरुषादकः" – missing word could be "पुरुषादकः" (the man-eater), but that's part of the verse. Maybe "दुष्टात्मा" (wicked soul) – but again, need to find a missing word.
+
+Alternatively, in verse 140.12: "तथा सञ्जल्पतस्तस्य भीमसेनस्य भारत" – missing word could be "भीमसेनस्य" (of Bhima), but that's part of the verse. Maybe "भारत" (the Bharata) – but that's a name.
+
+This is challenging. I need to ensure that the missing word is a key term that's essential to the verse. Let me try to find 10 instances.
+
+1. [Hidimba-vadha-parva 139.1 a-b] "तत्र तेषु शयानेषु ___ नाम राक्षसः" – missing word is "हिडिम्बो" (Hidimba)
+2. [Hidimba-vadha-parva 139.4 a-b] "अहं कामगमा वीर ___" – missing word is "रक्षोबलसमन्विता" (armed with demons)
+3. [Hidimba-vadha-parva 139.12 a-b] "तां तथा मानुषं रूपं बिभ्रतीं सुमनोहरम्" – missing word is "मानुषं" (human)
+4. [Hidimba-vadha-parva 139.20 a-b] "अद्य त्वां भगिनी पाप कृष्यमाणं मया भुवि" – missing word is "भगिनी" (sister)
+5. [Hidimba-vadha-parva 139.27 a-b] "मातरं भ्रातरं ज्येष्ठं कनिष्ठानपरानिमान्" – missing word is "ज्येष्ठं" (eldest)
+6. [Hidimba-vadha-parva 139.28 a-b] "को हि सुप्तानिमान्भ्रातृन्दत्त्वा राक्षसभोजनम्" – missing word is "राक्षसभोजनम्" (demon's meal)
+7. [Hidimba-vadha-parva 139.30 a-b] "न भयाद्बोधयिष्यामि भ्रातुस्तव दुरात्मनः" – missing word is "दुरात्मनः" (wicked)
+8. [Hidimba-vadha-parva 139.32 a-b] "तं वा प्रेषय तन्वङ्गि भ्रातरं पुरुषादकम्" – missing word is "पुरुषादकम्" (man-eater)
+9. [Hidimba-vadha-parva 140.1 a-b] "तां विदित्वा चिरगतां हिडिम्बो राक्षसेश्वरः" – missing word is "हिडिम्बो" (Hidimba)
+10. [Hidimba-vadha-parva 140.3 a-b] "आपतत्येष दुष्टात्मा सङ्क्रुद्धः पुरुषादकः" – missing word is "पुरुषादकः" (man-eater)
+
+Now, for each of these, I need to create a question and four options. The correct answer is the missing word. The wrong options should be related but incorrect.
+
+For example, the first entry:
+
+[Hidimba-vadha-parva 139.1 a-b] "तत्र तेषु शयानेषु ___ नाम राक्षसः" – missing word is "हिडिम्बो" (Hidimba)
+
+Question: "What is the name of the demon in this verse?"
+
+Options:
+A) Ravana
+B) Hidimba
+C) Kali
+D) Shiva
+
+Answer: B) Hidimba
+
+Reasoning:
+- The verse mentions the demon's name as Hidimba.
+- Ravana and Shiva are other demons but not in this context.
+- Kali is a goddess, not a demon here.
+
+I need to do this for all 10 entries, ensuring that the missing word is correctly identified and the options are plausible.
+</think>
+
+<entry>
+  <question>
+    **Hidimba-vadha-parva 139.1 a-b**  
+    *तत्र तेषु शयानेषु ___ नाम राक्षसः*  
+
+    What is the name of the demon in this verse?
+
+    A) Ravana   B) Hidimba   C) Kali   D) Shiva
+  </question>
+  <answer>
+    B) Hidimba
+    • The verse explicitly names Hidimba as the demon.  
+    • Ravana and Shiva are other mythological figures but unrelated here.  
+    • Kali is a goddess, not a demon in this context.
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Hidimba-vadha-parva 139.4 a-b**  
+    *अहं कामगमा वीर ___*  
+
+    What term describes the demon's strength in this verse?
+
+    A) रक्षोबलसमन्विता (armed with demons)  
+    B) विक्रमान्विता (valiant)  
+    C) दुष्टात्मा (wicked soul)  
+    D) घोरदर्शनः (terrible appearance)
+  </question>
+  <answer>
+    A) रक्षोबलसमन्विता (armed with demons)
+    • The verse describes the demon as "armed with demons" (रक्षोबलसमन्विता).  
+    • Other options describe appearance or character but not strength.  
+    • "विक्रमान्विता" (valiant) is unrelated to the context of strength.
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Hidimba-vadha-parva 139.12 a-b**  
+    *तां तथा मानुषं रूपं बिभ्रतीं सुमनोहरम्*  
+
+    What term describes the demon's appearance in this verse?
+
+    A) मानुषं (human)  
+    B) सुमनोहरम् (beautiful)  
+    C) घोरदर्शनः (terrible appearance)  
+    D) विक्रमान्विता (valiant)
+  </question>
+  <answer>
+    B) सुमनोहरम् (beautiful)
+    • The verse describes the demon as "beautiful" (सुमनोहरम्).  
+    • "मानुषं" (human) refers to her form, not appearance.  
+    • "घोरदर्शनः" (terrible appearance) is a later description of another demon.
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Hidimba-vadha-parva 139.20 a-b**  
+    *अद्य त्वां भगिनी पाप कृष्यमाणं मया भुवि*  
+
+    What term describes the demon's relationship to the Pandavas?
+
+    A) भगिनी (sister)  
+    B) राक्षसभोजनम् (demon's meal)  
+    C) पुरुषादकम् (man-eater)  
+    D) दुष्टात्मा (wicked soul)
+  </question>
+  <answer>
+    A) भगिनी (sister)
+    • The verse states the demon is "sister" (भगिनी) to the Pandavas.  
+    • "राक्षसभोजनम्" (demon's meal) is a later reference.  
+    • "पुरुषादकम्" (man-eater) is another demon's title.
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Hidimba-vadha-parva 139.27 a-b**  
+    *मातरं भ्रातरं ज्येष्ठं कनिष्ठानपरानिमान्*  
+
+    What term describes the eldest brother in this verse?
+
+    A) ज्येष्ठं (eldest)  
+    B) कनिष्ठान (youngest)  
+    C) राक्षसभोजनम् (demon's meal)  
+    D) दुष्टात्मा (wicked soul)
+  </question>
+  <answer>
+    A) ज्येष्ठं (eldest)
+    • The verse explicitly names the eldest brother as "ज्येष्ठं".  
+    • "कनि�ष्ठान" (youngest) is the opposite.  
+    • "राक्षसभोजनम्" and "दुष्टात्मा" are unrelated to familial roles.
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Hidimba-vadha-parva 139.28 a-b**  
+    *को हि सुप्तानिमान्भ्रातृन्दत्त्वा राक्षसभोजनम्*  
+
+    What term describes the demon's meal in this verse?
+
+    A) राक्षसभोजनम् (demon's meal)  
+    B) घोरदर्शनः (terrible appearance)  
+    C) विक्रमान्विता (valiant)  
+    D) मानुषं (human)
+  </question>
+  <answer>
+    A) राक्षसभोजनम् (demon's meal)
+    • The verse directly refers to the demon's meal as "राक्षसभोजनम्".  
+    • Other options describe appearance or form, not the meal.  
+    • "मानुषं" (human) is unrelated to the context of food.
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Hidimba-vadha-parva 139.30 a-b**  
+    *न भयाद्बोधयिष्यामि भ्रातुस्तव दुरात्मनः*  
+
+    What term describes the demon's character in this verse?
+
+    A) दुरात्मनः (wicked)  
+    B) घोरदर्शनः (terrible appearance)  
+    C) विक्रमान्विता (valiant)  
+    D) मानुषं (human)
+  </question>
+  <answer>
+    A) दुरात्मनः (wicked)
+    • The verse describes the demon as "wicked" (दुरात्मनः).  
+    • "घोरदर्शनः" (terrible appearance) is a later description.  
+    • "मानुषं" (human) refers to her form, not character.
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Hidimba-vadha-parva 139.32 a-b**  
+    *तं वा प्रेषय तन्वङ्गि भ्रातरं पुरुषादकम्*  
+
+    What term describes the demon's role in this verse?
+
+    A) पुरुषादकम् (man-eater)  
+    B) राक्षसभोजनम् (demon's meal)  
+    C) घोरदर्शनः (terrible appearance)  
+    D) विक्रमान्विता (valiant)
+  </question>
+  <answer>
+    A) पुरुषादकम् (man-eater)
+    • The verse explicitly names the demon as "man-eater" (पुरुषादकम्).  
+    • "राक्षसभोजनम्" (demon's meal) is a later reference.  
+    • "घोरदर्शनः" (terrible appearance) is unrelated to role.
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Hidimba-vadha-parva 140.1 a-b**  
+    *तां विदित्वा चिरगतां हिडिम्बो राक्षसेश्वरः*  
+
+    What term describes the demon's title in this verse?
+
+    A) हिडिम्बो (Hidimba)  
+    B) राक्षसेश्वरः (demon lord)  
+    C) घोरदर्शनः (terrible appearance)  
+    D) विक्रमान्विता (valiant)
+  </question>
+  <answer>
+    B) राक्षसेश्वरः (demon lord)
+    • The verse refers to Hidimba as "demon lord" (राक्षसेश्वरः).  
+    • "हिडिम्बो" (Hidimba) is the name, not the title.  
+    • "घोरदर्शनः" (terrible appearance) is a later description.
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Hidimba-vadha-parva 140.3 a-b**  
+    *आपतत्येष दुष्टात्मा सङ्क्रुद्धः पुरुषादकः*  
+
+    What term describes the demon's role in this verse?
+
+    A) पुरुषादकः (man-eater)  
+    B) राक्षसभोजनम् (demon's meal)  
+    C) घोरदर्शनः (terrible appearance)  
+    D) विक्रमान्विता (valiant)
+  </question>
+  <answer>
+    A) पुरुषादकः (man-eater)
+    • The verse explicitly names the demon as "man-eater" (पुरुषादकः).  
+    • "राक्षसभोजनम्" (demon's meal) is a later reference.  
+    • "घोरदर्शनः" (terrible appearance) is unrelated to role.
+  </answer>
+</entry>

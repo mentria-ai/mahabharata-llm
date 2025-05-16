@@ -1,0 +1,111 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text. The passage seems to be from the "Madra Kutsanam" section, which is part of the Bhishma Parva. There are several verses here, and the content involves dialogues between Karna and Shalya, as well as references to other characters like Arjuna, Krishna, and Duryodhana.
+
+First, I should identify key elements: characters involved, their relationships, specific events, and any unique terms or references. The text mentions Karna's challenge to Arjuna, Shalya's role as a charioteer, and some descriptions of battles. Also, there's a part about the Madras (a region or people) and their moral conduct, which might be a topic.
+
+For each question, I need to ensure that the answer is explicitly stated in the text. Let me go through the verses again. 
+
+The first verse (69) mentions Karna addressing Arjuna, saying "If you don't flee, you are already killed." This could be a question about Karna's challenge. Then, in verse 70, Shalya speaks, and there's a reference to Madra. Verse 72 has Karna saying "Go, Madra, take this chariot." So maybe a question about who is addressed as Madra.
+
+Another part is about Karna's offers to Arjuna, like giving a chariot, horses, etc. Verse 2-12 lists various gifts Karna is willing to give. So a question about what Karna offers Arjuna. Also, there's a mention of Karna's charioteer being Shalya (verse 73). 
+
+Then, there's a part where Karna is compared to a lion and a tiger, and Shalya's advice. Also, the text discusses the Madras and their moral conduct, like verses 73-80, which talk about the Madras not having virtues, their behavior, and how they are considered low in the social hierarchy.
+
+So possible questions:
+
+1. Who does Karna address as "Madra" in the text? (Shalya, maybe? Or another character? Need to check.)
+
+2. What does Karna offer Arjuna in the dialogue? (Various gifts listed in verses 2-12.)
+
+3. Who is Karna's charioteer? (Shalya, as per verse 73.)
+
+4. What is the reference to the Madras' moral conduct? (Their lack of virtues, as per verses 73-80.)
+
+5. What does Shalya say about Karna's character? (That he's devoid of virtues, as in verses 54-56.)
+
+But I need to make sure the answers are directly from the text. Let me verify each point.
+
+For example, in verse 72, Karna says "Yāhi Madreśa cāpyeṇa Kārṇaḥ prāha yuyutsayā" – "Go, Madra, take this chariot." So Madra here is Shalya, as he's the one being addressed. So the answer would be Shalya.
+
+Another point: Karna's offers to Arjuna (verses 2-12) include a chariot, horses, etc. So the question could be about what Karna offers Arjuna, with options like a chariot, a horse, a gem, etc.
+
+Also, in verse 73, it's mentioned that Karna's chariot is driven by Shalya. So the question could be about Karna's charioteer.
+
+Regarding the Madras, verses 73-80 discuss their lack of virtues, so a question about their moral conduct.
+
+Another part is Shalya's advice to Karna, like in verse 54-56, where Shalya criticizes Karna's lack of virtues.
+
+So I can structure five questions based on these points. Each must have the trigger phrase, specific reference, and options based on the text. Need to ensure that the options are plausible but only one is correct. Also, keep answers under 100 characters.
+
+Now, I'll draft each entry with reasoning, question, and answer.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Karna's direct address to Shalya. The text explicitly states Karna commanding Shalya to take his chariot, making Shalya the correct answer. Other options like Arjuna or Krishna are central figures but not addressed here.
+  </reasoning>
+  <question>
+    In Mahabharata's Madra Kutsanam (verse 72), who does Karna address as "Madra" while offering his chariot?
+    A) Arjuna
+    B) Shalya
+    C) Duryodhana
+    D) Krishna
+  </question>
+  <answer>B) Shalya</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Karna's conditional offers to Arjuna. The text lists specific gifts (chariot, horses, etc.) in verses 2-12. The correct answer is the chariot, as it's the first and most significant gift mentioned. Other options are plausible but less central.
+  </reasoning>
+  <question>
+    In Mahabharata's Madra Kutsanam (verses 2-12), what does Karna promise to give Arjuna if he wins the battle?
+    A) A gem
+    B) A chariot
+    C) A horse
+    D) A kingdom
+  </question>
+  <answer>B) A chariot</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Karna's charioteer, explicitly named in verse 73. Shalya is directly identified as the charioteer, while other options like Drona or Bhishma are key warriors but not charioteers here.
+  </reasoning>
+  <question>
+    In Mahabharata's Madra Kutsanam (verse 73), who serves as Karna's charioteer during the battle?
+    A) Drona
+    B) Shalya
+    C) Bhishma
+    D) Duryodhana
+  </question>
+  <answer>B) Shalya</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines Shalya's critique of Karna's character. The text explicitly states Shalya calls Karna "guṇahīna" (devoid of virtues). Other options like "mūḍha" (fool) are used but not as direct descriptors of his moral state.
+  </reasoning>
+  <question>
+    In Mahabharata's Madra Kutsanam (verse 54), what does Shalya accuse Karna of lacking?
+    A) Wealth
+    B) Virtues
+    C) Strength
+    D) Intelligence
+  </question>
+  <answer>B) Virtues</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses the Madras' moral degradation. The text explicitly states they lack "śauca" (purity) and "dharma" (righteousness). Other options like "wealth" or "power" are not directly criticized in the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Madra Kutsanam (verses 73-80), what quality do the Madras lack according to Shalya's speech?
+    A) Wealth
+    B) Purity
+    C) Power
+    D) Knowledge
+  </question>
+  <answer>B) Purity</answer>
+</entry>

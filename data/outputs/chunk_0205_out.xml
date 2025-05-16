@@ -1,0 +1,91 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, objects, and specific references. The text seems to be from the Bhishma Parva, as it mentions Bhishma and other warriors. There's a lot of dialogue between characters like Arjuna, Bhishma, and others. The text includes references to weapons, like the Gandiva bow, and mentions of specific locations like the Shala tree.
+
+For each question, I need to ensure that the answer is explicitly stated in the text. Let me check each part.
+
+1. The first part mentions Arjuna's Gandiva bow. The text says "गाण्डीवं परमायुधम्" (Gandiva is the supreme weapon). So a question about the supreme weapon of Arjuna would be valid.
+
+2. There's a mention of the Shala tree where Arjuna hides. The text says "शमीमुपसङ्गम्य पार्थो वैराटिमब्रवीत्" (Arjuna approached the Shala tree). So a question about the tree where Arjuna hides.
+
+3. The text refers to the Gandiva bow being made by Brahma, Indra, and others. The line "ब्रह्मा पूर्वमधारयत्" (Brahma first held it) and others. So a question about the origin of the Gandiva.
+
+4. There's a part where Arjuna is described as wearing a specific type of armor. The text mentions "कवचानि च" (armor), but I need to find the exact term. Wait, the text says "दिव्यानि कवचानि च" (divine armors). But maybe the specific armor is mentioned elsewhere. Alternatively, there's a mention of "हेमचित्रत्सरुर्महान्" (a golden, intricate bow). Wait, no, that's the bow. Maybe the armor is "कवचानि" but not specific. Alternatively, the text mentions "शरान्धारयते दश" (carries ten arrows). Not sure. Maybe another aspect.
+
+5. The text includes a dialogue where Bhishma and others are described as being afraid of Arjuna's might. The line "भीष्मो द्रोणः कृपो द्रौणिः पौरुषं तदपूजयन्" (Bhishma, Drona, Kripa, and Drupada revered his valor). So a question about who revered Arjuna's valor.
+
+Now, I need to structure each question with the trigger phrase, specific references, and four options. Ensure that the answers are directly from the text. Also, check that each question is on different parts of the text.
+
+Let me draft each entry step by step, making sure the reasoning explains why the answer is correct and why others are not. Also, keep answers under 100 characters.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Arjuna's iconic weapon. The text explicitly states "गाण्डीवं परमायुधम्" (Gandiva is the supreme weapon), confirming it as his primary armament. Other options like Dhanush or Chakram are not mentioned in this context.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (Shalya Parva), which weapon is described as "परमायुधम्" (supreme weapon) in Arjuna's possession?
+    A) Dhanush (Bow)
+    B) Chakram (Disc)
+    C) Gandiva
+    D) Trishula (Trident)
+  </question>
+  <answer>C) Gandiva</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Arjuna's strategic retreat. The text states he "उपसङ्गम्य शमीम्" (approached the Shala tree) to hide, emphasizing its role as a symbolic refuge. Other options like Kuru or Panchala lack direct textual support.
+  </reasoning>
+  <question>
+    In Mahabharata's Shalya Parva, where did Arjuna seek refuge to avoid direct confrontation with the Kauravas?
+    A) Kuru Palace
+    B) Panchala Kingdom
+    C) Shala Tree
+    D) Indra's Heaven
+  </question>
+  <answer>C) Shala Tree</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the divine origin of Gandiva. The text explicitly names Brahma, Indra, and other deities as its creators. Other options like Karna or Drona are not mentioned in this context.
+  </reasoning>
+  <question>
+    In Mahabharata's Shalya Parva, which deity is NOT credited with creating Arjuna's Gandiva bow?
+    A) Brahma
+    B) Indra
+    C) Karna
+    D) Surya
+  </question>
+  <answer>C) Karna</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Arjuna's armor. The text mentions "दिव्यानि कवचानि च" (divine armors), but the specific term "हेमचित्रत्सरुर्महान्" (golden, intricate) refers to his bow, not armor. The correct answer is the bow's description.
+  </reasoning>
+  <question>
+    In Mahabharata's Shalya Parva, which description matches Arjuna's weapon "हेमचित्रत्सरुर्महान्" (golden, intricate)?
+    A) Divine armor
+    B) Golden chariot
+    C) Bow
+    D) Sacred chariot
+  </question>
+  <answer>C) Bow</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses recognition of Arjuna's revered status. The text states "भीष्मो द्रोणः कृपो द्रौणिः पौरुषं तदपूजयन्" (Bhishma, Drona, Kripa, and Drupada revered his valor). Other options like Karna or Duryodhana are not mentioned in this context.
+  </reasoning>
+  <question>
+    In Mahabharata's Shalya Parva, which warriors revered Arjuna's valor before battle?
+    A) Karna and Duryodhana
+    B) Bhishma, Drona, Kripa, and Drupada
+    C) Dhrishtadyumna and Yudhishthira
+    D) Kritavarma and Karna
+  </question>
+  <answer>B) Bhishma, Drona, Kripa, and Drupada</answer>
+</entry>

@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, and specific references. The text seems to be from the Bhishma Parva, as it mentions Bhishma and Drona. There are references to battles, warriors like Bhima, and some specific events like the death of certain warriors.
+
+For the first question, I notice that the text mentions "महोदरस्तु समरे भीमं विव्याध पत्रिभिः" which translates to "Mahodara wounded Bhima with arrows." So, the question could be about who wounded Bhima. The options would include Mahodara, Drona, Karna, and Duryodhana. The correct answer is Mahodara.
+
+Next, looking for another event. There's a mention of "आदित्यकेतुः सप्तत्या बह्वाशी चापि पञ्चभिः" which refers to Adityaketu using 70 arrows and Bahalas (maybe a name?) with 5. But I need to check the context. Alternatively, there's a line about "विशालाक्षशिरश्छित्त्वा पातयामास भूतले" which means Vishalaksha cut off the head. So, the question could be about who beheaded someone. The answer might be Vishalaksha.
+
+Another part mentions "अपराजितो महाराज पराजिष्णुर्महारथः" which refers to Aparajita, a warrior. So, a question about the warrior who was called Aparajita. The options would include Aparajita, Drona, Karna, and Duryodhana. The answer is Aparajita.
+
+Looking for another event, there's a mention of "इरावान" (Iraavan) and his death. The text says "इरावानथ सङ्क्रुद्धः सर्वांस्तान्निशितैः शरैः" which means Iraavan attacked with arrows. But the question could be about who killed Iraavan. The answer might be the sons of Suyodhana (Duryodhana's sons), but the text says "सौबलस्यात्मजाः शूरा निर्गता रणमूर्धनि" which refers to the sons of Suyodhana. So the answer would be the sons of Suyodhana.
+
+Lastly, there's a mention of "भीष्ममेव जिघांसया" which means Bhishma was the target. So a question about who was the target of the attack. The answer would be Bhishma.
+
+I need to make sure each question is specific, includes the correct references, and the options are plausible. Also, check that the answers are directly from the text without adding external info.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of key warriors and their roles in the Kurukshetra battle. Mahodara is explicitly mentioned as the one who wounded Bhima with arrows. Other options represent other warriors but are not linked to this specific act in the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 16), who wounded Bhima with arrows in the battle?
+    A) Mahodara
+    B) Drona
+    C) Karna
+    D) Duryodhana
+  </question>
+  <answer>A) Mahodara</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights a pivotal moment in the war where Vishalaksha beheads an opponent. The text directly states "विशालाक्षशिरश्छित्त्वा पातयामास भूतले" (Vishalaksha cut off the head). Other options are warriors but not linked to this specific act.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 25), which warrior beheaded an enemy with three arrows?
+    A) Vishalaksha
+    B) Drona
+    C) Karna
+    D) Bhishma
+  </question>
+  <answer>A) Vishalaksha</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question identifies a warrior known as "Aparajita" (unconquered). The text explicitly states "अपराजितो महाराज पराजिष्णुर्महारथः" (Aparajita, the unconquered great charioteer). Other options are warriors but not named as Aparajita in the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 18), which warrior is described as "Aparajita" (unconquered) in the battle?
+    A) Aparajita
+    B) Drona
+    C) Karna
+    D) Bhishma
+  </question>
+  <answer>A) Aparajita</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question references the sons of Suyodhana (Duryodhana) who attacked Iraavan. The text states "सौबलस्यात्मजाः शूरा निर्गता रणमूर्धनि" (the sons of Suyodhana emerged in the battle). Other options are warriors but not linked to this specific event.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 22), which group of warriors attacked Iraavan in the battle?
+    A) Suyodhana's sons
+    B) Drona's disciples
+    C) Karna's allies
+    D) Bhishma's warriors
+  </question>
+  <answer>A) Suyodhana's sons</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question identifies Bhishma as the target of an attack. The text states "धर्मपुत्रस्य शासनात् संरब्धान्यभ्यधावन्त भीष्ममेव जिघांसया" (the Pandavas attacked Bhishma with determination). Other options are warriors but not the primary target here.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 15), which warrior was the primary target of the Pandavas' attack?
+    A) Bhishma
+    B) Drona
+    C) Karna
+    D) Duryodhana
+  </question>
+  <answer>A) Bhishma</answer>
+</entry>

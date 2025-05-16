@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create 5 multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, objects, and specific references. The text seems to be from the Bhishma Parva, as it mentions Arjuna and Krishna. There are references to divine weapons (astras), battles, and interactions between gods and warriors.
+
+Question 1: The text mentions Arjuna receiving divine weapons from Lord Shiva. The specific reference is in the 48th verse. So, the question could be about which astra was given. The options would include Raudra, Pashupata, etc. The correct answer is Pashupata.
+
+Question 2: There's a mention of a divine chariot (Rath) given by Indra. The text says "रथं दिव्यं महाप्रभम्" (divine chariot). So, the question could be about the chariot's name. The answer is Indra's chariot.
+
+Question 3: The text talks about Arjuna's armor (kavacha) and crown (kirita). The verse mentions "अभेद्यं कवचं चेदं" (invincible armor). So, the question could be about the armor's name. The answer is Gandiva.
+
+Question 4: There's a reference to a divine mace (Dhanush) given by Shiva. The verse says "गाण्डीवे समयोजयत्" (placed in Gandiva). So, the question is about the mace's name. The answer is Gandiva.
+
+Question 5: The text mentions a divine weapon given by Shiva, which is the Pashupata. The verse says "प्रददौ च मम प्रीतः सोऽस्त्रं पाशुपतं प्रभुः" (gave me the Pashupata). So, the question is about the astra's name. The answer is Pashupata.
+
+I need to make sure each question has the correct reference, and the options are plausible but only one is correct. Also, check that the answers are under 100 characters. Let me structure each entry with the reasoning, question, and answer as per the example.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of divine weapons (astras) in the Mahabharata. The text explicitly states that Lord Shiva gave Arjuna the Pashupata astra. Other options like Raudra or Brahmastra are mentioned elsewhere but not in this specific context.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 48), which divine weapon did Lord Shiva bestow upon Arjuna after he demonstrated his prowess?
+    A) Raudra Astra
+    B) Pashupata Astra
+    C) Brahmastra
+    D) Trishula
+  </question>
+  <answer>B) Pashupata Astra</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the divine chariot given to Arjuna by Indra. The text describes it as "divine and mighty" (दिव्यं महाप्रभम्). Other options like Kalki's chariot or Vishnu's are not mentioned here.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 12), which divine chariot was gifted to Arjuna by Indra during his celestial journey?
+    A) Kalki's Chariot
+    B) Indra's Divine Chariot
+    C) Vishnu's Sudarshan Chakra
+    D) Yama's Black Chariot
+  </question>
+  <answer>B) Indra's Divine Chariot</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Arjuna's invincible armor. The text explicitly states "अभेद्यं कवचं चेदं" (invincible armor). Other options like Gandiva's mace or Shiva's trident are unrelated to armor.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 14), what divine armor was bestowed upon Arjuna by Lord Shiva to protect him in battle?
+    A) Gandiva's Mace
+    B) Shiva's Trishula
+    C) Indra's Vajra
+    D) Invincible Armor (Abhaya Kavacha)
+  </question>
+  <answer>D) Invincible Armor (Abhaya Kavacha)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Arjuna's divine bow. The text states "गाण्डीवे समयोजयत्" (placed in Gandiva). Other options like Dhanush or Rudra's bow are not mentioned in this context.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 14), which divine bow was given to Arjuna by Lord Shiva to fight the battle of Kurukshetra?
+    A) Dhanush
+    B) Gandiva
+    C) Rudra's Bow
+    D) Parashu
+  </question>
+  <answer>B) Gandiva</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the divine mace (Dhanush) given to Arjuna. The text explicitly mentions "गाण्डीवे समयोजयत्" (placed in Gandiva). Other options like Trishula or Sudarshan are unrelated to maces.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 14), what divine mace was entrusted to Arjuna by Lord Shiva for his celestial battles?
+    A) Trishula
+    B) Sudarshan
+    C) Gandiva
+    D) Chakravyuha
+  </question>
+  <answer>C) Gandiva</answer>
+</entry>

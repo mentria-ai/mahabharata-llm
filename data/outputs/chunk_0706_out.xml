@@ -1,0 +1,99 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text. The user provided a passage that seems to be from the Bhishma Parva, possibly verses 7-26. The text includes discussions on strategy, diplomacy, and the duties of a king. There are references to kings like Dhritarashtra, Yudhishthira, and Bhishma, as well as mentions of different types of warfare and alliances.
+
+First, I need to ensure that each question is based solely on the information given. I can't add any external knowledge. Let me go through the text again to pick out key points.
+
+Looking at the first part: "यदा स्वपक्षो बलवान्परपक्षस्तथाबलः | विगृह्य शत्रून्कौन्तेय यायात्क्षितिपतिस्तदा ||७||" This talks about when a king's forces are strong, he should attack. So maybe a question about when to attack in war.
+
+Another part: "सन्ध्यर्थं राजपुत्रं च लिप्सेथा भरतर्षभ | विपरीतस्तु तेऽदेयः पुत्र कस्याञ्चिदापदि ||११||" This mentions giving a son in diplomacy. So a question about giving a son as a diplomatic gesture.
+
+Then there's a mention of different types of forces: "आददीत बलं राजा मौलं मित्रबलं तथा | अटवीबलं भृतं चैव तथा श्रेणीबलं च यत् ||७||" Here, the king should take various types of forces. So a question about the types of forces a king should gather.
+
+Another part: "यद्येवमभियायाच्च दुर्बलं बलवान्नृपः | सामादिभिरुपायैस्तं क्रमेण विनिवर्तयेत् ||१७||" This talks about using diplomatic means to deal with a strong king. So a question about using diplomacy when facing a stronger king.
+
+Also, there's a part about the king's duty to protect his people: "कार्यं यत्नेन शत्रूणां स्वराष्ट्रं रक्षता स्वयम् ||१३||" So a question about the king's responsibility to protect his kingdom.
+
+Now, I need to make sure each question is specific, includes the exact reference, and the options are plausible but only one correct. Let me structure each entry with the required XML format.
+
+First question: About when to attack. The text says when the king's forces are strong, he should attack. So the answer is when the king's forces are strong. Options would include other scenarios like when the enemy is strong, when there's a truce, etc.
+
+Second question: Giving a son in diplomacy. The text mentions giving a son in a specific situation. So the answer is giving a son as a diplomatic gesture. Options could be other forms of diplomacy.
+
+Third question: Types of forces. The text lists different forces like maula (army), mitrabala (allied forces), etc. So the answer is the four types mentioned.
+
+Fourth question: Using diplomacy when facing a stronger king. The text says to use diplomatic means. Options would be other strategies.
+
+Fifth question: The king's responsibility to protect his kingdom. The text says the king should protect it with effort. So the answer is the king's duty to protect his kingdom.
+
+I need to check that each question is based on the text and that the options are plausible. Also, ensure that the references are correct. For example, the first question refers to verse 7, the second to 11, etc. Make sure the answers are concise and under 100 characters.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests understanding of strategic timing in warfare. The text explicitly states that a king should attack when his forces are strong and the enemy's are not. Other options represent different strategic scenarios but are not directly supported by the verse.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 7), when should a king launch an attack according to the text?
+    A) When the enemy's forces are stronger
+    B) When both sides are evenly matched
+    C) When his own forces are strong and the enemy's are weak
+    D) When there is a truce with the enemy
+  </question>
+  <answer>C) When his own forces are strong and the enemy's are weak</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines diplomatic practices. The text specifically mentions giving a son as a diplomatic gesture in times of crisis. Other options represent different forms of diplomacy but are not directly referenced in the verse.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 11), what should a king do when facing a crisis according to the text?
+    A) Declare war immediately
+    B) Give a son as a diplomatic gesture
+    C) Seek alliances with neighboring kings
+    D) Retreat to a fortified city
+  </question>
+  <answer>B) Give a son as a diplomatic gesture</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses knowledge of military organization. The text explicitly lists four types of forces a king should gather. Other options represent different military concepts but are not directly mentioned in the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 7), what four types of forces should a king gather according to the text?
+    A) Naval, aerial, cavalry, and infantry
+    B) Army (maula), allied forces (mitrabala), forest forces (atavi), and chariot forces (sreni)
+    C) Mercenary, local militia, royal guard, and spies
+    D) Light infantry, heavy infantry, archers, and siege forces
+  </question>
+  <answer>B) Army (maula), allied forces (mitrabala), forest forces (atavi), and chariot forces (sreni)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of diplomatic strategies. The text explicitly states that a weaker king should use diplomatic means to deal with a stronger opponent. Other options represent different approaches but are not directly supported by the verse.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 17), what strategy should a weaker king use against a stronger opponent according to the text?
+    A) Launch a surprise attack
+    B) Use diplomatic means (sama)
+    C) Seek foreign alliances
+    D) Destroy the enemy's resources
+  </question>
+  <answer>B) Use diplomatic means (sama)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the king's duty to protect his kingdom. The text explicitly states that a king must protect his realm through effort. Other options represent different responsibilities but are not directly mentioned in the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 13), what responsibility does the text assign to a king regarding his kingdom?
+    A) To share power with allies
+    B) To protect his realm through effort
+    C) To focus on spiritual duties
+    D) To prioritize trade over defense
+  </question>
+  <answer>B) To protect his realm through effort</answer>
+</entry>

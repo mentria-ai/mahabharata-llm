@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, and specific references. The text seems to be from the Bhishma Parva, as it mentions Bhishma and other warriors. There are references to battles, like the one between Bhima and Duryodhana. Also, there's mention of specific warriors like Bhima, Duryodhana, and others. 
+
+For the first question, I notice that Bhima is talking about defeating Duryodhana. The text says "अद्य तेऽहं रणे दर्पं सर्वं नाशयिता नृप" which translates to "Today, I will destroy all pride in the battlefield." So the question could be about Bhima's declaration to defeat Duryodhana. The options would include other warriors, but the correct answer is Bhima.
+
+Next, looking for another event. There's a mention of Bhima's strength and his vow to kill Duryodhana. The text says "भीम उवाच" (Bhima said) and "अहं सुयोधनं सङ्ख्ये हनिष्यामि न संशयः" (I will kill Duryodhana without doubt). So another question could be about Bhima's vow to kill Duryodhana. The options would include other warriors, but the answer is Bhima.
+
+Third, there's a part where Bhima mentions his mace (gada) being heavier than Duryodhana's. The text says "अध्यर्धेन गुणेनेयं गदा गुरुतरी मम" (My mace is heavier by half the strength). So the question could be about Bhima's mace being heavier. The options would include other weapons, but the answer is his mace.
+
+Fourth, there's a reference to the battle between Bhima and Duryodhana. The text mentions "तमेकाकिनमासाद्य धार्तराष्ट्रं महाबलम्" (Approaching the mighty Duryodhana). So the question could be about Bhima confronting Duryodhana. The options would include other warriors, but the answer is Bhima.
+
+Lastly, there's a part where Bhima says he will destroy Duryodhana's pride. The text says "अद्य तेऽहं रणे दर्पं सर्वं नाशयिता नृप" (Today, I will destroy all pride in the battlefield). So the question could be about Bhima's declaration to destroy Duryodhana's pride. The options would include other warriors, but the answer is Bhima.
+
+I need to make sure each question is specific, includes the correct references, and the options are plausible but incorrect. Also, check that the answers are under 100 characters. Let me structure each entry with the reasoning, question, and answer as per the example.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Bhima's decisive vow to kill Duryodhana. The text explicitly states Bhima's certainty in defeating Duryodhana, while other options represent other warriors who fought but did not make this specific declaration.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 16), which warrior declared "I will kill Duryodhana without doubt" before the Kurukshetra war?
+    A) Arjuna
+    B) Bhishma
+    C) Bhima
+    D) Karna
+  </question>
+  <answer>C) Bhima</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Bhima's physical superiority over Duryodhana. The text directly states his mace was "heavier by half the strength" compared to Duryodhana's. Other options represent different weapons or warriors not mentioned in this context.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 17), which warrior claimed his mace was "heavier by half the strength" than Duryodhana's?
+    A) Arjuna's bow
+    B) Karna's chariot
+    C) Bhima's mace
+    D) Drona's sword
+  </question>
+  <answer>C) Bhima's mace</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Bhima's confrontation with Duryodhana. The text describes Bhima approaching Duryodhana in battle, while other options represent different warriors or events not tied to this specific encounter.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 28), which warrior confronted Duryodhana in single combat after the war began?
+    A) Krishna
+    B) Yudhishthira
+    C) Bhima
+    D) Shalya
+  </question>
+  <answer>C) Bhima</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Bhima's role in destroying Duryodhana's pride. The text explicitly states Bhima's intent to "destroy all pride in the battlefield," while other options represent different warriors or outcomes.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 45), which warrior vowed to destroy Duryodhana's pride before the war?
+    A) Arjuna
+    B) Drona
+    C) Bhima
+    D) Kripa
+  </question>
+  <answer>C) Bhima</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Bhima's declaration of war against Duryodhana. The text directly states Bhima's certainty in defeating Duryodhana, while other options represent different warriors or events not tied to this specific declaration.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 30), which warrior declared "I will destroy Duryodhana's pride" before the battle?
+    A) Yudhishthira
+    B) Dhrishtadyumna
+    C) Bhima
+    D) Satyaki
+  </question>
+  <answer>C) Bhima</answer>
+</entry>

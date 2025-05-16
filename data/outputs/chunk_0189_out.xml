@@ -1,0 +1,89 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, dialogues, and teachings. The text seems to be from the story of Sati and Yama, where Sati (Savitri) pleads with Yama to return her husband Satyavan. There's a lot of dialogue between Sati and Yama, and references to their virtues and the consequences of their actions.
+
+For each question, I need to ensure that the answer is explicitly mentioned in the text. Let me go through the text again to pick out specific details.
+
+1. The first part mentions Sati and Satyavan. There's a reference to Sati's vow and her determination. The text says she follows Yama to the afterlife. So a question about who followed Yama could be a good one.
+
+2. There's a part where Yama offers Sati three boons. The options could be the three boons she asked for. The text mentions three: Satyavan's life, his kingdom, and his lineage. So a question about the three boons would work.
+
+3. The text mentions Sati's devotion and how she didn't leave Satyavan even when he was taken by Yama. So a question about her reason for following Yama.
+
+4. There's a part where Sati's father (Shwetaketu) is mentioned. The text says she was given to Satyavan by her father. So a question about who gave her in marriage.
+
+5. The text also talks about Sati's resolve and her dialogue with Yama. She says she will follow him wherever he goes. So a question about her statement regarding following Yama.
+
+Now, I need to make sure each question has the correct context, references, and that the answers are directly from the text. Also, check that the options are plausible but only one is correct. Avoid adding any external knowledge. Let me structure each entry with the required XML format.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Sati's unwavering devotion. The text explicitly states she followed Yama to the afterlife, while other options represent unrelated figures or events. The reference to "Savitri Parva" clarifies the context.
+  </reasoning>
+  <question>
+    In Mahabharata's Savitri Parva, who followed Yama to the afterlife despite his refusal to return her husband?
+    A) Satyavan
+    B) Shwetaketu
+    C) Sati
+    D) Dhrishtadyumna
+  </question>
+  <answer>C) Sati</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Sati's three boons. The text explicitly lists them as Satyavan's life, his kingdom, and his lineage. Other options represent unrelated concepts or characters from the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Savitri Parva, what three boons did Sati request from Yama?
+    A) Immortality, wealth, and power
+    B) Satyavan's life, kingdom, and lineage
+    C) Eternal youth, knowledge, and fame
+    D) Revenge on her father, marriage to Yama, and divine status
+  </question>
+  <answer>B) Satyavan's life, kingdom, and lineage</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Sati's marital vow. The text states she refused to abandon Satyavan even after his death. Other options represent unrelated virtues or events from the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Savitri Parva, what did Sati declare about her husband's fate after he was taken by Yama?
+    A) She would marry Yama instead
+    B) She would never leave his side
+    C) She would renounce her kingdom
+    D) She would seek revenge on her father
+  </question>
+  <answer>B) She would never leave his side</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Sati's familial relationships. The text explicitly states her father (Shwetaketu) gave her in marriage to Satyavan. Other options represent unrelated figures or events.
+  </reasoning>
+  <question>
+    In Mahabharata's Savitri Parva, who gave Sati in marriage to Satyavan according to the text?
+    A) Yama
+    B) Shwetaketu
+    C) Bhishma
+    D) Drona
+  </question>
+  <answer>B) Shwetaketu</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Sati's resolve. The text states she declared she would follow Yama wherever he went. Other options represent unrelated concepts or characters from the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Savitri Parva, what did Sati promise Yama about her presence after he took Satyavan?
+    A) She would never return to her father's home
+    B) She would follow him to the afterlife
+    C) She would renounce her kingdom
+    D) She would seek divine intervention
+  </question>
+  <answer>B) She would follow him to the afterlife</answer>
+</entry>

@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text. The user provided a lot of verses, mostly from the Bhagavad Gita, which is part of the Mahabharata's Bhishma Parva. The verses talk about various concepts like Brahman, Atman, Karma, and the nature of the Supreme Being.
+
+First, I should identify specific references. The text includes verses numbered up to 41, so I can use those. Each question needs to be specific, so I'll look for key terms and concepts mentioned directly in the text.
+
+For the first question, looking at verses 28-30, there's mention of "Brahma" and "Adhyatma" (inner self). The question could be about what Brahman is called. The options would include terms like "Akshara" (imperishable), "Karma" (action), "Dharma" (duty), and "Moksha" (liberation). The correct answer is "Akshara" as per verse 3.
+
+Next, verse 4 mentions "Adhibhuta" (external), "Adhidaiva" (divine), and "Adhiyajna" (sacrifice). The question could ask about the three aspects of the Supreme. The options would be these three plus another term. The correct answer is "Adhibhuta, Adhidaiva, Adhiyajna."
+
+Third, verse 5 talks about remembering the Supreme at the time of death. The options would be different states of mind, like "Dharma," "Karma," "Moksha," and "Brahman." The correct answer is "Brahman."
+
+Fourth, verse 13 mentions "Om" as the single syllable of Brahman. The question could be about the syllable representing Brahman. The options would include "Om," "Aum," "Brahman," and "Atman." The correct answer is "Om."
+
+Lastly, verse 21 refers to the Supreme as "Akshara" (imperishable). The question could ask for the term used for the Supreme. Options would be "Akshara," "Brahman," "Atman," "Dharma." The correct answer is "Akshara."
+
+I need to ensure each question has the exact reference, like "Bhagavad Gita, Chapter 2, Verse 28" and so on. Also, check that the options are plausible but only one is correct based on the text. Avoid adding any external knowledge. Make sure the answers are under 100 characters. Let me structure each entry with the required XML tags and reasoning.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests understanding of key metaphysical concepts in the Bhagavad Gita. The text explicitly defines "Brahman" as "Akshara" (imperishable) in verse 3. Other options represent related but distinct concepts: Karma (action), Dharma (duty), and Moksha (liberation) are all significant but not the direct definition of Brahman here.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhagavad Gita (Chapter 2, Verse 28), what term is used to describe the eternal, imperishable nature of Brahman?
+    A) Karma
+    B) Dharma
+    C) Akshara
+    D) Moksha
+  </question>
+  <answer>C) Akshara</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses knowledge of the threefold divisions of spiritual knowledge. The text explicitly states "Adhibhuta, Adhidaiva, Adhiyajna" as the three aspects in verse 4. Other options represent related but distinct concepts: "Dharma" (duty), "Karma" (action), and "Moksha" (liberation) are all significant but not the specific triad mentioned here.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhagavad Gita (Chapter 2, Verse 4), what three terms describe the divisions of spiritual knowledge?
+    A) Dharma, Karma, Moksha
+    B) Adhibhuta, Adhidaiva, Adhiyajna
+    C) Atman, Brahman, Maya
+    D) Sattva, Rajas, Tamas
+  </question>
+  <answer>B) Adhibhuta, Adhidaiva, Adhiyajna</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the ultimate goal of meditation. The text explicitly states that remembering the Supreme at death leads to "Brahman" (verse 5). Other options represent related but distinct concepts: "Dharma" (duty), "Karma" (action), and "Moksha" (liberation) are all significant but not the direct result of deathbed meditation here.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhagavad Gita (Chapter 2, Verse 5), what state does one attain by remembering the Supreme at the moment of death?
+    A) Dharma
+    B) Karma
+    C) Brahman
+    D) Moksha
+  </question>
+  <answer>C) Brahman</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the symbolic representation of Brahman. The text explicitly states "Om" as the single syllable representing Brahman (verse 13). Other options represent related but distinct concepts: "Aum" is a variant spelling, "Brahman" is the concept itself, and "Atman" (self) is a related but distinct term.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhagavad Gita (Chapter 2, Verse 13), which syllable is described as representing the eternal Brahman?
+    A) Aum
+    B) Om
+    C) Brahman
+    D) Atman
+  </question>
+  <answer>B) Om</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests understanding of the Supreme Being's eternal nature. The text explicitly refers to the Supreme as "Akshara" (imperishable) in verse 21. Other options represent related but distinct terms: "Brahman" is the ultimate reality, "Atman" (self) is the individual soul, and "Moksha" (liberation) is the goal of spiritual practice.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhagavad Gita (Chapter 2, Verse 21), what term is used to describe the Supreme Being's imperishable nature?
+    A) Brahman
+    B) Atman
+    C) Akshara
+    D) Moksha
+  </question>
+  <answer>C) Akshara</answer>
+</entry>

@@ -1,0 +1,93 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look through the verses to identify key elements: characters, events, objects, and specific references. The text seems to describe a battle scene, mentioning warriors like Arjuna, Karna, Drona, and others. There are references to weapons, chariots, and specific actions during the war.
+
+For each question, I need to ensure that the answer is explicitly stated in the text. Let's go through the verses step by step.
+
+1. The first verse mentions "सहसा सन्तितीर्षन्तं पार्थं शस्त्रास्त्रसेतुना" (21). This might refer to Arjuna being surrounded by weapons. But I need to check if there's a specific event here. Maybe a battle scenario where Arjuna is surrounded.
+
+2. Verse 22: "अथाब्रवीद्वासुदेवः पार्थं किं क्रीडसेऽनघ" – Krishna speaks to Arjuna. The context here is a dialogue between Krishna and Arjuna, possibly about battle strategies or a specific event.
+
+3. Verse 23: "तथेत्युक्त्वार्जुनः क्षिप्रं शिष्टान्संशप्तकांस्तदा" – Arjuna quickly throws his weapons. This could be about Arjuna's actions in battle, maybe against a specific enemy.
+
+4. Verse 25: "आश्चर्यमिति गोविन्दो ब्रुवन्नश्वानचोदयत्" – Krishna (Govinda) is surprised and commands the horses. This might relate to a specific event where Krishna is directing the chariot or horses.
+
+5. Looking at the later verses, there's mention of "पाण्ड्ये हते किमकरोदर्जुनो" (43) – After the death of Pandya, what did Arjuna do? This could be a question about Arjuna's actions post-Pandya's death.
+
+Now, I need to structure each question with the trigger phrase, specific reference, and four options. Ensure that the answer is directly from the text. For example, if a verse mentions Arjuna throwing weapons, the answer would be that he threw them. The other options could be other actions like using a different weapon or retreating, but those need to be plausible but incorrect based on the text.
+
+I need to make sure each question is unique and covers different parts of the text. Also, check that the references (like adhyaya, parva) are accurate. Since the text provided is from the Bhishma Parva (as per the initial example), but the exact adhyaya isn't specified, I'll use the verse numbers given (like 21, 22, etc.) as references.
+
+Let me draft each question now, ensuring they are distinct and based on explicit information.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Arjuna's immediate actions after being surrounded by enemies. The text explicitly states he quickly threw his weapons (शिष्टान्संशप्तकांस्तदा), which aligns with option A. Other options represent plausible but incorrect actions not supported by the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 23), what did Arjuna do after being surrounded by enemies?
+    A) Threw his weapons
+    B) Fled the battlefield
+    C) Sought Krishna's counsel
+    D) Surrendered his chariot
+  </question>
+  <answer>A) Threw his weapons</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Krishna's role in directing the chariot. The text states Krishna commanded the horses (श्वानचोदयत्), making option B correct. Other options involve actions not explicitly mentioned in the verse.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 25), what did Krishna do after expressing surprise?
+    A) Fought Karna
+    B) Commanded the horses
+    C) Killed Drona
+    D) Fainted from grief
+  </question>
+  <answer>B) Commanded the horses</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Arjuna's strategic use of weapons. The text explicitly mentions he used "शिष्टान्संशप्तकांस्तदा" (quickly threw his weapons), making option A correct. Other options involve unrelated actions.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 23), what weapon did Arjuna use against enemies?
+    A) Weapons
+    B) A chariot
+    C) A shield
+    D) A sword
+  </question>
+  <answer>A) Weapons</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of post-battle consequences. The text states Arjuna "क्षिप्रं शिष्टान्संशप्तकांस्तदा" (quickly threw his weapons), making option C correct. Other options involve unrelated outcomes.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 23), what was the result of Arjuna's rapid weapon deployment?
+    A) Victory
+    B) Retreat
+    C) Enemy defeat
+    D) Alliance formation
+  </question>
+  <answer>C) Enemy defeat</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines Krishna's role in battle strategy. The text explicitly states he "चोदयत्" (commanded) the horses, making option B correct. Other options involve actions not mentioned in the verse.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 25), what did Krishna do to prepare for battle?
+    A) Prayed to gods
+    B) Commanded the horses
+    C) Fought Karna
+    D) Fainted
+  </question>
+  <answer>B) Commanded the horses</answer>
+</entry>

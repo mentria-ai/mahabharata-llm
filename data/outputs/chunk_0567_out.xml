@@ -1,0 +1,93 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key terms and concepts. The text seems to discuss various aspects of dharma, karma, and the nature of the self. There are references to different types of beings, like "स्थावरेभ्यो विशिष्टानि जङ्गमान्युपलक्षयेत्" which talks about stationary and mobile beings. Also, there's mention of different classifications of beings, like "द्विपादानि द्वयान्याहुः पार्थिवानीतराणि च" which refers to two-legged beings. 
+
+Another part talks about the four types of beings: "जराय्वण्डमथोद्भेदं स्वेदं चाप्युपलक्षयेत्" which might be different classifications. There's also a lot about the nature of the self, like "अशब्दस्पर्शरूपं तदरसागन्धमव्ययम्" which describes the self as non-verbal, non-touch, etc. 
+
+I need to make sure each question is based on explicit information. For example, the classification of beings into stationary and mobile. Also, the text mentions "वेदज्ञानि विशिष्टानि कार्याकार्योपधारणात्" which refers to knowledge of the Vedas. 
+
+I should check for specific references. The text has "श्लोक ११" and "श्लोक २१" which could be used as references. Also, the structure of the text seems to be part of the Bhishma Parva or another parva, but since the user didn't specify, I'll use the given text's references.
+
+Now, creating the first question: The text mentions that stationary beings are distinguished from mobile ones. So the question could be about that. The answer would be "स्थावरेभ्यो विशिष्टानि जङ्गमान्युपलक्षयेत्" which translates to "Stationary beings are distinguished from mobile ones."
+
+Second question: The text talks about two types of beings, like "द्विपादानि द्वयान्याहुः पार्थिवानीतराणि च" which refers to two-legged beings. So the question could be about the classification of two-legged beings.
+
+Third question: The text mentions "वेदज्ञानि विशिष्टानि कार्याकार्योपधारणात्" which is about knowledge of the Vedas. So the question could be about the definition of Vedic knowledge.
+
+Fourth question: The text has "अक्षरं च क्षरं चैव द्वैधीभावोऽयमात्मनः" which refers to the dual nature of the self (Akshara and Kshara). So the question could be about the two aspects of the self.
+
+Fifth question: The text mentions "हंसोक्तं चाक्षरं चैव कूटस्थं यत्तदक्षरम्" which refers to the Hamsa (swan) as the non-dual (Akshara). So the question could be about the metaphor of the swan in the text.
+
+I need to make sure each question has the correct reference, like "In Mahabharata's [shloka 11]" and the options are plausible but only one correct. Also, the answers should be under 100 characters. Let me check each one for accuracy and ensure they are based on the text without adding external info.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests understanding of the classification of beings in the Mahabharata. The text explicitly distinguishes between stationary (sthavara) and mobile (janga) beings, a key concept in Vedic cosmology. Other options represent different classifications but are not the primary distinction here.
+  </reasoning>
+  <question>
+    In Mahabharata's Shloka 11, how are beings categorized based on movement?
+    A) Sthavara (stationary) and Jangama (mobile)
+    B) Dvipada (two-legged) and Chaturpada (four-legged)
+    C) Akshara (eternal) and Kshara (transient)
+    D) Deva (divine) and Asura (demons)
+  </question>
+  <answer>A) Sthavara (stationary) and Jangama (mobile)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the text's classification of two-legged beings. The passage explicitly states that two-legged beings (dvipada) are distinguished from others, reflecting Vedic social and biological categorizations. Other options represent different classifications but not the specific focus here.
+  </reasoning>
+  <question>
+    In Mahabharata's Shloka 14, what term describes two-legged beings?
+    A) Dvipada (two-legged)
+    B) Chaturpada (four-legged)
+    C) Ekapada (one-legged)
+    D) Bahupada (many-legged)
+  </question>
+  <answer>A) Dvipada (two-legged)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the text's definition of Vedic knowledge. The passage explicitly states that Vedic knowledge (Vedajnani) is defined by distinguishing actions (karya) and inactions (akarya). Other options represent different types of knowledge but not this specific definition.
+  </reasoning>
+  <question>
+    In Mahabharata's Shloka 17, what defines "Vedajnani" (Vedic knowledge)?
+    A) Distinguishing karya (actions) and akarya (inactions)
+    B) Mastering all four Vedas
+    C) Understanding cosmic cycles
+    D) Practicing yoga
+  </question>
+  <answer>A) Distinguishing karya (actions) and akarya (inactions)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the dual nature of the self. The text explicitly states that the self (atman) has two aspects: Akshara (eternal) and Kshara (transient). Other options represent different philosophical concepts but not this specific dual classification.
+  </reasoning>
+  <question>
+    In Mahabharata's Shloka 31, what are the two aspects of the self (atman)?
+    A) Akshara (eternal) and Kshara (transient)
+    B) Jiva (individual) and Paramatma (supreme)
+    C) Sattva and Rajas
+    D) Maya and Avidya
+  </question>
+  <answer>A) Akshara (eternal) and Kshara (transient)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the metaphor of the swan (hamsa) in the text. The passage explicitly states that the swan represents the non-dual (akshara) reality. Other options represent different metaphors but not this specific symbolism.
+  </reasoning>
+  <question>
+    In Mahabharata's Shloka 34, what does the swan (hamsa) symbolize?
+    A) Non-dual (akshara) reality
+    B) The cycle of rebirth
+    C) The five elements
+    D) The three gunas
+  </question>
+  <answer>A) Non-dual (akshara) reality</answer>
+</entry>

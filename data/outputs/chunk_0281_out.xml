@@ -1,0 +1,89 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look through the verses to identify key elements. The text includes dialogues between Arjuna and Krishna, discussions about dharma, and references to the Kurukshetra war. There are mentions of specific characters like Bhishma, Drona, Karna, and others. Also, there's a lot about the moral dilemmas Arjuna faces, leading to the Bhagavad Gita.
+
+For each question, I need to ensure it's based solely on the text. Let me check each verse for explicit information. 
+
+Question 1: The text starts with Bhima and Duryodhana. There's a mention of Bhishma as the commander. So, a question about who led the Kaurava forces on the first day. The answer would be Bhishma. Other options could be Drona, Karna, Duryodhana.
+
+Question 2: The text includes a dialogue where Arjuna is reluctant to fight. The reason is the kinship and moral conflict. So, a question about why Arjuna hesitates. The answer is the kinship and moral conflict. Options could be fear of losing relatives, desire for peace, etc.
+
+Question 3: There's a reference to the chariots of the Pandavas and Kauravas. The text mentions specific chariots like the one of Krishna and Arjuna. So, a question about the chariots of the Pandavas. The answer would be the chariots of Krishna and Arjuna. Options could include other chariots.
+
+Question 4: The text has verses where Krishna advises Arjuna. The concept of dharma and karma is central. So, a question about the teaching of the Bhagavad Gita. The answer is the importance of duty. Options could be other teachings like non-violence, etc.
+
+Question 5: There's a mention of the consequences of kula-kshaya (destruction of family). So, a question about the consequences of family destruction. The answer is the loss of dharma and varna-sankara. Options could be other consequences like loss of wealth.
+
+I need to make sure each question has the exact reference. For example, the first question could reference the Bhishma Parva, and the verses mentioned. The second question could reference the Bhagavad Gita's context. Each answer must be under 100 characters. Also, the reasoning should explain why the answer is correct and why others are not. Let me structure each entry accordingly.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of key commanders in the Kurukshetra war. The text explicitly names Bhishma as the Kaurava commander for the first 10 days. Drona and Karna led later, while Duryodhana was the king, not a commander.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verses 12-13), who led the Kaurava forces on the first day of battle?
+    A) Bhishma
+    B) Drona
+    C) Karna
+    D) Duryodhana
+  </question>
+  <answer>A) Bhishma</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Arjuna's moral conflict. The text shows he refuses to fight due to kinship ties and fear of destroying family dharma. Other options reflect surface-level emotions but miss the core dharma issue.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhagavad Gita (verses 34-36), why does Arjuna refuse to fight the Kauravas?
+    A) Fear of losing wealth
+    B) Kinship and dharma concerns
+    C) Lack of weapons
+    D) Desire for peace
+  </question>
+  <answer>B) Kinship and dharma concerns</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on specific chariots mentioned in the text. The text explicitly names Krishna's Panchajanya and Arjuna's Devadatta. Other options refer to unrelated chariots or weapons.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhagavad Gita (verses 14-16), which chariots did Krishna and Arjuna use?
+    A) Panchajanya and Devadatta
+    B) Ananta and Virata
+    C) Kunti and Drupada
+    D) Gandiva and Karna
+  </question>
+  <answer>A) Panchajanya and Devadatta</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests understanding of Krishna's core teaching. The text emphasizes duty (dharma) over personal attachment. Other options reflect partial truths but miss the central message of action without desire.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhagavad Gita (verses 35-38), what is Krishna's primary teaching to Arjuna?
+    A) Non-violence
+    B) Duty (dharma)
+    C) Surrender to God
+    D) Avoidance of conflict
+  </question>
+  <answer>B) Duty (dharma)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses the consequence of family destruction. The text explicitly states kula-kshaya leads to varna-sankara (social disorder). Other options misrepresent the text's focus on dharma.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhagavad Gita (verses 40-42), what does Krishna warn about kula-kshaya (family destruction)?
+    A) Loss of wealth
+    B) Social disorder (varna-sankara)
+    C) Political power
+    D) Divine punishment
+  </question>
+  <answer>B) Social disorder (varna-sankara)</answer>
+</entry>

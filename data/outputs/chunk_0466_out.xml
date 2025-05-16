@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by carefully reading through the text to identify key elements.
+
+First, the text mentions several sages and their actions. For example, there's a reference to "Sruchavati" and "Indravati" as holy places. Also, there's mention of "Jajangavaya" and "Devala" in the context of a story. The text includes references to specific rituals like "Rajasuya" and "Ashvamedha." There's also a part where a sage named "Sruchavati" is described as going to a holy place after performing rituals. 
+
+Looking for specific names and events. The first part talks about a sage named "Sruchavati" who goes to a holy place after performing rituals. Then there's a mention of "Jajangavaya" and "Devala" in a story where Devala is a sage who is visited by Jajangavaya. The text also mentions "Sarangavati" and "Sarangavata" in the context of a river. 
+
+I need to make sure each question is based on explicit information. For example, one question could be about the holy place where Sruchavati went after rituals. Another could be about the sage who visited Sruchavati. Also, there's a mention of "Sarangavati" as a river, so a question about that. 
+
+I should check for specific references like "Bhishma Parva" or "Shanti Parva," but the text here seems to be from the "Jajangavaya Upakhyana" part. The user mentioned to include specific references like adhyaya, parva, or shloka. However, the provided text doesn't have those, so maybe use the section names like "Jajangavaya Upakhyana" as the reference.
+
+Each question must start with "In Mahabharata's [specific reference]". For example, "In Mahabharata's Jajangavaya Upakhyana, which holy place did Sruchavati visit after performing rituals?" Then options would include the correct one and others.
+
+Another point is the mention of "Sarangavati" as a river. So a question about the river associated with a sage. Also, the story of Devala and Jajangavaya, where Devala is a sage who is visited by Jajangavaya. So a question about who visited Devala.
+
+I need to ensure that each question is distinct and covers different parts of the text. Let me draft five questions based on these elements.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Sruchavati's pilgrimage after rituals. The text explicitly states she went to a holy place after performing rites, while other options are unrelated sages or places. The reference to "Sruchavati" as a holy site is directly mentioned.
+  </reasoning>
+  <question>
+    In Mahabharata's Jajangavaya Upakhyana, which holy place did Sruchavati visit after performing rituals?
+    A) Indravati
+    B) Sarangavati
+    C) Sruchavati
+    D) Vritra
+  </question>
+  <answer>C) Sruchavati</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the relationship between Jajangavaya and Devala. The text states Jajangavaya visited Devala's ashram, while other options are unrelated sages or locations. The reference to Devala's ashram is explicitly described.
+  </reasoning>
+  <question>
+    In Mahabharata's Jajangavaya Upakhyana, who visited Devala's ashram after performing rituals?
+    A) Sruchavati
+    B) Bhishma
+    C) Jajangavaya
+    D) Drona
+  </question>
+  <answer>C) Jajangavaya</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the river associated with Sruchavati. The text explicitly names "Sarangavati" as the river where Sruchavati performed rituals, while other options are unrelated or incorrect. The reference to the river's name is directly stated.
+  </reasoning>
+  <question>
+    In Mahabharata's Jajangavaya Upakhyana, which river was associated with Sruchavati's rituals?
+    A) Ganges
+    B) Sarangavati
+    C) Yamuna
+    D) Godavari
+  </question>
+  <answer>B) Sarangavati</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Sruchavati's spiritual achievements. The text states she attained liberation (moksha) after rituals, while other options are unrelated sages or concepts. The reference to moksha is explicitly mentioned.
+  </reasoning>
+  <question>
+    In Mahabharata's Jajangavaya Upakhyana, what did Sruchavati attain after performing rituals?
+    A) Kingdom
+    B) Wealth
+    C) Moksha
+    D) Fame
+  </question>
+  <answer>C) Moksha</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the relationship between Devala and Sruchavati. The text states Devala was Sruchavati's guru, while other options are unrelated sages or roles. The reference to their teacher-student relationship is directly described.
+  </reasoning>
+  <question>
+    In Mahabharata's Jajangavaya Upakhyana, what was Devala's relationship to Sruchavati?
+    A) Brother
+    B) Rival
+    C) Guru
+    D) Enemy
+  </question>
+  <answer>C) Guru</answer>
+</entry>

@@ -1,0 +1,105 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, and teachings. The text seems to be from the Bhishma Parva, as it mentions Bhishma's death and the aftermath. There's a lot of dialogue between Yudhishthira and others, discussing the consequences of war, the role of dharma, and the moral dilemmas faced by the Pandavas.
+
+The first stanza mentions Bhishma, Shalya, Karna, and Vasudeva. So maybe a question about who led the Kaurava forces on the first day. But the user's example had Bhishma as the answer. However, the text here might not explicitly state that. Wait, the example was from a different part. I need to check the given text.
+
+Looking at the first lines: "भीष्मावमानात्सङ्ख्यायां रथानामर्धकीर्तनात् | शल्यात्तेजोवधाच्चापि वासुदेवनयेन च ||१२||" This seems to mention Bhishma, Shalya, Karna, and Vasudeva. But the exact context is unclear. Maybe a question about who was killed in the battle? The next stanza mentions Karna being killed by Arjuna. So maybe a question about who was killed by Arjuna.
+
+Another part: "युधिष्ठिर महाबाहो नैनं शोचितुमर्हसि |" Yudhishthira is speaking, advising not to grieve. So a question about Yudhishthira's advice to Arjuna.
+
+There's a lot of discussion about dharma, karma, and the consequences of actions. For example, "धर्मः कामश्च स्वर्गश्च हर्षः क्रोधः श्रुतं दमः |" which talks about dharma, kama, svarga, etc. So a question about what is said to be the source of these elements.
+
+Also, there's mention of Karna's death: "हतो वैकर्तनः कर्णो दिवाकरसमद्युतिः ||१४||" So Karna was killed by Arjuna. That's a key point.
+
+Another part: "कुन्ती शोकपरीताङ्गी दुःखोपहतचेतना | अब्रवीन्मधुराभाषा काले वचनमर्थवत् ||३||" Kunti speaks to Yudhishthira, advising him not to grieve. So a question about who advised Yudhishthira to stop grieving.
+
+Also, there's a part where Yudhishthira laments the deaths of his brothers and the destruction of the Kuru dynasty. So a question about who laments the loss of his brothers.
+
+I need to make sure each question is based on explicit information. Let me check each part again.
+
+First question: Who was killed by Arjuna? The text says "हतो वैकर्तनः कर्णो" which means Karna was killed. So the answer is Karna.
+
+Second question: Who advised Yudhishthira not to grieve? Kunti is the one who spoke to him, as per "कुन्ती शोकपरीताङ्गी... अब्रवीन्मधुराभाषा काले वचनमर्थवत् ||३||" So Kunti.
+
+Third question: Who is described as having the radiance of the sun? The line "दिवाकरसमद्युतिः" refers to Karna, so the answer is Karna.
+
+Fourth question: What is the source of dharma, kama, svarga, etc.? The line "धर्मः कामश्च स्वर्गश्च हर्षः क्रोधः श्रुतं दमः | अर्थादेतानि सर्वाणि प्रवर्तन्ते नराधिप" says that these are all derived from wealth (artha). So the answer is wealth.
+
+Fifth question: Who laments the loss of his brothers? Yudhishthira is the one who laments, as per "युधिष्ठिरस्तु धर्मात्मा शोकव्याकुलचेतनः | शुशोच दुःखसन्तप्तः स्मृत्वा कर्णं महारथम् ||१||" So Yudhishthira.
+
+Now, I need to structure each question with the trigger phrase, specific reference, and options. Make sure the answers are under 100 characters. Also, check that the options are plausible but incorrect. For example, for Karna's death, options could include other warriors like Drona, Bhishma, or Kritavarma.
+
+Let me draft each entry now.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of key warriors and their fates. Karna's death by Arjuna is explicitly mentioned. Other options are major warriors but not killed by Arjuna in this context.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, who was killed by Arjuna in the Kurukshetra war?
+    A) Bhishma
+    B) Drona
+    C) Karna
+    D) Kritavarma
+  </question>
+  <answer>C) Karna</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Kunti's role in advising Yudhishthira. Other options represent other characters but not the one directly addressing him in this passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, who advised Yudhishthira not to grieve over his brothers' deaths?
+    A) Krishna
+    B) Dhrishtadyumna
+    C) Kunti
+    D) Vidura
+  </question>
+  <answer>C) Kunti</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Karna's epithet. The text explicitly compares him to the sun. Other options are major warriors but lack this specific description.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, who is described as having the radiance of the sun?
+    A) Arjuna
+    B) Duryodhana
+    C) Karna
+    D) Bhishma
+  </question>
+  <answer>C) Karna</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests understanding of dharma's source. The text explicitly states that dharma and other values arise from wealth. Other options are related concepts but not the direct source.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, what is stated as the source of dharma, kama, and svarga?
+    A) Duty
+    B) Wealth
+    C) Knowledge
+    D) Devotion
+  </question>
+  <answer>B) Wealth</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question identifies Yudhishthira's lamentation. The text explicitly describes him as grief-stricken. Other options are warriors but not the one expressing sorrow here.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, who laments the loss of his brothers and the Kuru dynasty?
+    A) Drona
+    B) Bhishma
+    C) Yudhishthira
+    D) Karna
+  </question>
+  <answer>C) Yudhishthira</answer>
+</entry>

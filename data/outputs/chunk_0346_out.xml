@@ -1,0 +1,91 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, places, and specific references. The text seems to be from the Bhishma Parva, as there are mentions of Arjuna, Krishna, and Duryodhana. There are references to specific verses (like 25-41) and sections like "Dāruka" and "Śrī Kṛṣṇa." 
+
+For the first question, I notice that the text mentions Arjuna's resolve to fight, using the Pāśupatastra. The verse 10 says "मया क्रुद्देन समरे पाण्डवार्थे निपातिताम्" which translates to "I will destroy him in battle for the Pandavas' sake." So a question about the weapon used by Arjuna could be good. The options would include Pāśupatastra, Brahmāstra, etc.
+
+Next, looking for other elements. There's a mention of Duryodhana's army being described as "अक्षौहिण्यः सुदुर्जयाः" (12), which are the Kaurava forces. So a question about the number of Kaurava warriors could be another question.
+
+Another part is about the divine weapons. Verse 16 mentions the Pāśupatastra, which is a divine weapon. So a question about which weapon is described as "paramāstra" (supreme weapon) could be another.
+
+Then, there's a reference to the divine chariot and its decorations (34-35). The text mentions "छत्रं जाम्बूनदैर्जालैरर्कज्वलनसंनिभैः" (a canopy made of Jambu leaves and golden threads). So a question about the chariot's canopy could be another.
+
+Lastly, there's a mention of the divine chariot's wheel (32) with "कल्पयित्वा यथाशास्त्रमादाय व्रतसंयतः" (arranged according to the scriptures). So a question about the chariot's preparation could be the fifth.
+
+I need to ensure each question is specific, with exact references. Also, check that the answers are directly from the text. For example, the Pāśupatastra is mentioned in verse 16, so that's the correct answer. The other options like Brahmāstra are plausible but not mentioned here.
+
+I should also make sure the options are plausible but incorrect. For example, in the chariot question, options could include different parts of the chariot, but the correct one is the canopy.
+
+Now, structuring each entry with the required XML format, including reasoning, question, and answer. Each question must start with "In Mahabharata's" and include specific references. Let me verify each verse and ensure the answers are accurate based on the text provided.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Arjuna's divine weapon. The text explicitly mentions the Pāśupatastra as the weapon he vowed to use against Jayadratha. Other options are major weapons but not directly linked to this specific vow in the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 10), which divine weapon did Arjuna vow to use against Jayadratha?
+    A) Pāśupatastra
+    B) Brahmāstra
+    C) Sañjayastra
+    D) Vajra
+  </question>
+  <answer>A) Pāśupatastra</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the Kaurava army's numerical strength. The text directly states "अक्षौहिण्यः सुदुर्जयाः" (12) referring to their massive forces. Other options represent different military units but aren't explicitly mentioned here.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 12), what term describes the Kaurava army's overwhelming numerical strength?
+    A) Akshauhini
+    B) Chakravyuha
+    C) Sainya
+    D) Vyuha
+  </question>
+  <answer>A) Akshauhini</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the divine chariot's symbolic decorations. The text describes "छत्रं जाम्बूनदैर्जालैरर्कज्वलनसंनिभैः" (34) as the canopy's materials. Other options represent chariot components but aren't explicitly described here.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 34), what material adorned Arjuna's divine chariot's canopy?
+    A) Jambu leaves
+    B) Gold
+    C) Silver
+    D) Iron
+  </question>
+  <answer>A) Jambu leaves</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the chariot's ritual preparation. The text states "कल्पयित्वा यथाशास्त्रमादाय व्रतसंयतः" (32) about arranging the chariot according to scriptures. Other options represent chariot parts but aren't directly mentioned.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 32), what did Arjuna do with his chariot before battle?
+    A) Arranged it according to scriptures
+    B) Decorated it with flowers
+    C) Fueled it with ghee
+    D) Named it after a river
+  </question>
+  <answer>A) Arranged it according to scriptures</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the divine chariot's symbolic elements. The text describes "शक्तिं चक्रं धनुः शरान्" (32) as the weapons carried. Other options represent chariot components but aren't explicitly listed here.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 32), what weapons did Arjuna carry on his chariot?
+    A) Chakra, bow, arrows
+    B) Sword, shield, spear
+    C) Mace, dagger, slingshot
+    D) Bow, arrow, sword
+  </question>
+  <answer>A) Chakra, bow, arrows</answer>
+</entry>

@@ -1,0 +1,89 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, places, and specific references. The text seems to be from the Bhishma Parva, as there are mentions of Bhishma and the Kurukshetra war. There are references to Arjuna, Krishna, Duryodhana, and other warriors. The verses describe various actions, like Arjuna entering a place, receiving gifts, and the atmosphere of the battlefield.
+
+For each question, I need to ensure that the answer is explicitly mentioned in the text. Let's go through the text step by step.
+
+1. The first part mentions Arjuna entering a place (कक्ष्यां) and being greeted. There's a mention of gifts given to the brahmins. So a question about who received gifts could be formed here. The text says "पाण्डवः दान्तान्वेदव्रतस्नातान्स्नातानवभृथेषु च" which translates to the Pandavas giving gifts. But the specific mention is "पाण्डवः" (Pandavas) giving gifts to the brahmins. So the answer would be Pandavas.
+
+2. Another part talks about Arjuna being adorned with gold and other items. The text says "सौवर्णं सर्वतोभद्रं मुक्तावैडूर्यमण्डितम्" which means adorned with gold and gems. So a question about what adorned Arjuna could be about his attire.
+
+3. There's a mention of Arjuna entering a place (कक्ष्याम) and being greeted by the Pandavas. The text says "समुत्थायार्जुनं प्रेम्णा सस्वजे पाण्डवर्षभः" which means the Pandava hero (Yudhishthira) greeted Arjuna. So a question about who greeted Arjuna could be answered by Yudhishthira.
+
+4. The text mentions that Arjuna was given gifts like gold, horses, and clothes. The specific line is "पाण्डवः दान्तान्वेदव्रतस्नातान्स्नातानवभृथेषु च" and "अलङ्कृतं चाश्वशतं वासांसीष्टाश्च दक्षिणाः". So the answer would be that the Pandavas gave gifts to the brahmins.
+
+5. There's a part where Arjuna is described as being adorned with a golden chariot. The line "रथं रथवरस्याजौ वानरर्षभलक्षणम्" refers to a chariot. But the exact reference might be tricky. Alternatively, the text mentions "सौवर्णं सर्वतोभद्रं मुक्तावैडूर्यमण्डितम्" which is about his adornment. So a question about what adorned him would be about gold and gems.
+
+I need to make sure each question is specific, includes the correct reference (like adhyaya or parva), and the options are plausible but only one correct. Also, check that the answers are under 100 characters. Let me structure each entry with the required XML format.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Arjuna's ceremonial entry into the Kuru camp. The text explicitly states he was adorned with gold and gems, reflecting his royal status. Other options refer to different warriors or attributes not directly mentioned here.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (Shloka 10-12), what adorned Arjuna as he entered the Kuru camp?
+    A) Silver armor
+    B) Gold and gems
+    C) Iron chains
+    D) Animal hides
+  </question>
+  <answer>B) Gold and gems</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the Pandavas' ritual offerings to brahmins. The text specifically mentions "पाण्डवः" (Pandavas) giving gifts, while other options refer to different warriors or groups not mentioned in this context.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (Shloka 17), who gave gifts to brahmins during a ritual?
+    A) Kauravas
+    B) Pandavas
+    C) Karna
+    D) Drona
+  </question>
+  <answer>B) Pandavas</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Yudhishthira's role in greeting Arjuna. The text explicitly states "सस्वजे पाण्डवर्षभः" (Pandava hero greeted him), while other options refer to unrelated warriors or events.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (Shloka 2), who greeted Arjuna with affection upon his return?
+    A) Duryodhana
+    B) Yudhishthira
+    C) Karna
+    D) Bhishma
+  </question>
+  <answer>B) Yudhishthira</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Arjuna's chariot description. The text mentions "रथं रथवरस्याजौ वानरर्षभलक्षणम्" (chariot of the king of horses), while other options refer to unrelated symbols or objects.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (Shloka 11), what symbolized Arjuna's chariot?
+    A) Peacock
+    B) King of horses
+    C) Eagle
+    D) Lion
+  </question>
+  <answer>B) King of horses</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the symbolic meaning of Arjuna's golden attire. The text describes him as "सौवर्णं सर्वतोभद्रं" (golden all-protective), while other options misinterpret the symbolism of his regalia.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (Shloka 12), what did Arjuna's golden attire symbolize?
+    A) Wealth
+    B) All-protective divinity
+    C) Military power
+    D) Royal lineage
+  </question>
+  <answer>B) All-protective divinity</answer>
+</entry>

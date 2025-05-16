@@ -1,0 +1,89 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, teachings, and specific references. The text includes verses from the Ashramavasa Parva, mentions of Nakhula, Agastya's yajna, and discussions about dharma, yajnas, and the consequences of actions. There's also a part where Nakhula is transformed into a cow and later released from a curse.
+
+For each question, I need to ensure the answer is explicitly stated in the text. Let's break it down:
+
+1. **Nakula's Transformation**: The text mentions Nakula being transformed into a cow (काञ्चनीकृतः) due to his actions. This is a clear event. The question should reference the specific parva and the reason for his transformation.
+
+2. **Agastya's Yajna**: The text talks about Agastya's yajna and the consequences of not performing it properly. The question could focus on the result of Agastya's yajna and the role of Indra.
+
+3. **Dharma and Yajnas**: There are verses about the importance of dharma and yajnas. For example, the verse about yajnas being the basis of dharma. The question could ask about the foundation of dharma according to the text.
+
+4. **Nakula's Release from Curse**: The text mentions Nakula being released after performing a yajna. The question should identify the yajna that led to his release.
+
+5. **Consequences of Improper Yajnas**: The text discusses the outcomes of yajnas done without proper dharma. The question could ask about the result of such yajnas.
+
+I need to make sure each question has the correct reference (like the specific parva or verse numbers) and that the options are plausible but only one is correct. Also, check that the answers are under 100 characters and the questions are clear and specific.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Nakula's transformation and its cause. The text explicitly states he was transformed into a cow (काञ्चनीकृतः) due to his actions. Other options reference unrelated events or characters.
+  </reasoning>
+  <question>
+    In Mahabharata's Ashramavasa Parva, why was Nakula transformed into a cow?
+    A) To test his patience
+    B) For insulting a sage
+    C) As punishment for improper yajna
+    D) To protect him from war
+  </question>
+  <answer>B) For insulting a sage</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Agastya's yajna and its divine consequences. The text states Indra's role in ending the drought through Agastya's tapas. Other options misattribute the cause of the yajna's success.
+  </reasoning>
+  <question>
+    In Mahabharata's Ashramavasa Parva, what caused the drought to end after Agastya's yajna?
+    A) A celestial war
+    B) Indra's intervention
+    C) A river's revival
+    D) A king's donation
+  </question>
+  <answer>B) Indra's intervention</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses the text's teaching on yajnas as dharma's foundation. The verse explicitly states yajnas as the "root of dharma." Other options reference peripheral concepts like wealth or rituals.
+  </reasoning>
+  <question>
+    In Mahabharata's Ashramavasa Parva, what is identified as the root of dharma?
+    A) Wealth
+    B) Yajnas
+    C) Kingship
+    D) Knowledge
+  </question>
+  <answer>B) Yajnas</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Nakula's redemption. The text states he was released from the curse through a yajna. Other options reference unrelated rituals or events.
+  </reasoning>
+  <question>
+    In Mahabharata's Ashramavasa Parva, which yajna led to Nakula's release from his curse?
+    A) Ashvamedha
+    B) Sankalpa
+    C) Vajapeya
+    D) Satapatha
+  </question>
+  <answer>B) Sankalpa</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the text's warning about improper yajnas. The verse states such yajnas lead to no spiritual fruit. Other options misrepresent the consequences of yajnas.
+  </reasoning>
+  <question>
+    In Mahabharata's Ashramavasa Parva, what happens when yajnas are performed without dharma?
+    A) They grant worldly power
+    B) They yield no spiritual fruit
+    C) They anger gods
+    D) They create karma
+  </question>
+  <answer>B) They yield no spiritual fruit</answer>
+</entry>

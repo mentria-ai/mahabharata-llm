@@ -1,0 +1,101 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I notice that the text includes verses from different sections. For example, there's a part about the five senses (indriyas) and their associated elements, like sound, touch, etc. Then there's a section discussing the three gunas (sattva, rajas, tamas) and their characteristics. There's also a dialogue between Yudhishthira and Bhishma about dama (self-control), and another part about Indra and Prahlada's conversation. 
+
+I need to make sure each question is specific, references the exact part of the text, and uses only the information given. Let me check each section.
+
+For the first question, the text mentions the five senses (indriyas) and their associated elements. The verse numbers 9-12 talk about this. So a question could be about what the five senses are called. The options would be the five senses, but the text refers to them as "jñānendriyas" (knowledge senses) and "karmendriyas" (action senses). Wait, the text says "pañca jñānendriyāṇi" and "pañca karmendriyāṇi". So the answer would be the five knowledge senses. But the options need to be specific. Let me check the exact terms.
+
+Another part is about the three gunas (sattva, rajas, tamas) and their characteristics. Verse 25 mentions that the three gunas are sattvika, rajasa, and tamasa. So a question could be about the three types of feelings (vedana) and their associated gunas. The text says "trividha vedana" and lists them as sattvika, rajasa, tamasa. So the answer would be the three gunas.
+
+Then there's the dialogue between Yudhishthira and Bhishma about dama (self-control). The text mentions that dama is praised by the elders, and it's the foundation of all actions. So a question could be about what dama is considered the foundation of. The answer would be all actions (kriya, tapas, vedas).
+
+Another part is about the five elements (shadguna) and their association with the senses. The text in verses 12 mentions "shadguna" but I need to check. Wait, verse 12 says "shabdah sparsa rupam rasa gandhah murti atha" which are the five elements (sound, touch, form, taste, smell) and "murti" (form). But the text says "shadguna" but maybe it's a typo. Alternatively, the five elements are sound, touch, form, taste, smell. So a question could be about the five elements associated with the senses. The answer would be sound, touch, form, taste, smell.
+
+Another part is the conversation between Indra and Prahlada. The text mentions that Prahlada is described as free from ego, self-controlled, and having equanimity. So a question could be about the qualities of Prahlada. The answer would include being free from ego, self-controlled, and having equanimity.
+
+I need to make sure each question is based on explicit text. Let me verify each point.
+
+First question: The text in verses 9-12 lists the five senses (indriyas) and their associated elements. The answer would be the five knowledge senses (jñānendriyas). The options would include the five senses, but the text specifically mentions "pañca jñānendriyāṇi" and "pañca karmendriyāṇi". So the question could be about the five knowledge senses. The options would be the five senses, but the answer is the five knowledge senses.
+
+Second question: The three gunas (sattva, rajas, tamas) and their associated feelings. The text in verse 25 says "trividha vedana" and lists them as sattvika, rajasa, tamasa. So the answer is the three gunas.
+
+Third question: The foundation of all actions (kriya, tapas, vedas) is dama. The text in verses 2-4 mentions that dama is the foundation. So the answer would be dama.
+
+Fourth question: The five elements associated with the senses. The text in verse 12 mentions "shabdah sparsa rupam rasa gandhah murti atha" which are sound, touch, form, taste, smell. So the answer is these five elements.
+
+Fifth question: The qualities of Prahlada. The text in verses 4-7 describes Prahlada as free from ego, self-controlled, and having equanimity. So the answer would be these three qualities.
+
+Now, I need to structure each question with the trigger phrase, specific reference, and options. Also, ensure that the answers are under 100 characters. Let me draft each entry.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of sensory organs and their classifications. The text explicitly lists five knowledge senses (jñānendriyas) and five action senses (karmendriyas). The correct answer is directly stated in the text, while other options represent different classifications of senses.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verses 20-22), what are the five knowledge senses (jñānendriyas) called?
+    A) Eyes, ears, nose, tongue, skin
+    B) Hands, feet, speech, excretion, reproduction
+    C) Sound, touch, form, taste, smell
+    D) Mind, intellect, memory, will, ego
+  </question>
+  <answer>A) Eyes, ears, nose, tongue, skin</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the classification of feelings (vedana) in the text. The passage explicitly states three types of vedana linked to the three gunas. Other options represent different philosophical concepts not directly tied to the text's description.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 25), what are the three types of feelings (vedana) associated with the gunas?
+    A) Sorrow, joy, indifference
+    B) Sattvika, Rajasa, Tamasa
+    C) Physical, emotional, spiritual
+    D) Purity, passion, ignorance
+  </question>
+  <answer>B) Sattvika, Rajasa, Tamasa</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses understanding of dama (self-control) as the foundation of spiritual practice. The text explicitly states that dama is the basis for all actions. Other options represent related but distinct concepts from the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verses 2-4), what is described as the foundation of all actions (kriya, tapas, vedas)?
+    A) Knowledge
+    B) Self-control (dama)
+    C) Wealth
+    D) Fame
+  </question>
+  <answer>B) Self-control (dama)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of sensory elements and their associations. The text explicitly lists five elements (shabdah, sparsa, rupa, rasa, gandha) linked to the senses. Other options represent different classifications of elements.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 12), what are the five elements (guna) associated with the senses?
+    A) Earth, water, fire, air, ether
+    B) Sound, touch, form, taste, smell
+    C) Sight, hearing, taste, smell, touch
+    D) Knowledge, action, wisdom, devotion, austerity
+  </question>
+  <answer>B) Sound, touch, form, taste, smell</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines Prahlada's qualities as described in the text. The passage explicitly states three key attributes of Prahlada. Other options represent different philosophical concepts not directly tied to the text's description.
+  </reasoning>
+  <question>
+    In Mahabharata's Indraprahraada Samvada (verses 4-7), what three qualities define Prahlada's character?
+    A) Ego, anger, greed
+    B) Freedom from ego, self-control, equanimity
+    C) Wealth, power, fame
+    D) Knowledge, devotion, austerity
+  </question>
+  <answer>B) Freedom from ego, self-control, equanimity</answer>
+</entry>

@@ -1,0 +1,211 @@
+<think>
+Okay, I need to create 10 quiz entries based on the provided Sanskrit verses. Let me start by understanding the structure and rules.
+
+First, each entry must start with [Parva] [Chapter].[Verse] [Pada]. The example given uses "Shalya-parvan 28.15 a-b". So I need to check the verses and assign the correct parva, chapter, and verse numbers. The verses provided are from the Shalya-parvan and other parvas, but the user hasn't specified which parva these are from. Wait, the user provided verses that start with "वैशम्पायन उवाच" which is part of the Shalya-parvan. So I'll assume these are from Shalya-parvan.
+
+Next, I need to quote the complete Sanskrit śloka and replace exactly one word with "...". Then create a fill-in-the-blank question and four options. The correct answer must be based on the text, and the wrong options should be plausible but incorrect.
+
+Looking at the verses, for example, in the first chunk, verse 10: "आहृताः क्रतवो मुख्याः शतं भरतसत्तम ||१०||" Here, the word "शतं" (hundred) is part of the verse. If I replace "शतं" with "...", the question would be "How many...?" but I need to check if the context fits.
+
+Another example: "यत्र यूपा मणिमयाश्चित्याश्चापि हिरण्मयाः | शोभार्थं विहितास्तत्र न तु दृष्टान्ततः कृताः ||११||" Here, "यूपा" (posts) could be the missing word. But I need to ensure that the correct answer is in the text.
+
+I need to go through each verse, identify a key term that can be replaced, then form the question. For example, in verse 10, "शतं" (hundred) is part of "शतं भरतसत्तम" (hundred of Bharata's best). So the question would be "How many...?" and the answer is "शतं" (hundred). But the user's example had "Śalya" as the missing word. So I need to find a word that's a proper noun or a key term.
+
+Another verse: "नरनारायणौ ब्रह्मा यमः स्थाणुश्च पञ्चमः | उपासते यत्र सत्रं सहस्रयुगपर्यये ||१३||" Here, "नरनारायणौ" (Nara and Narayana) are names. If I replace "नरनारायणौ" with "...", the question would be "Who are the two deities worshipped in the sacrifice?" with options like Nara and Narayana, but the correct answer is "Nara and Narayana" (Narayana is Vishnu, Nara is a name for Arjuna or another deity). But the verse says "नरनारायणौ" (Nara and Narayana), so the missing word is "नरनारायणौ".
+
+Wait, but the user's example had "Śalya" as the missing word. So I need to find a term that's a name or a key term. Let me check the verses again.
+
+Looking at verse 18: "गदां च भीमसेनाय प्रवरां प्रददौ तदा | देवदत्तं च पार्थाय ददौ शङ्खमनुत्तमम् ||१८||" Here, "भीमसेनाय" (to Bhimasena) and "पार्थाय" (to Partha, Arjuna). If I replace "भीमसेनाय" with "...", the question would be "To whom did he give the mace?" with options like Bhimasena, Arjuna, etc. But the correct answer is Bhimasena.
+
+Another example: "सभा तु सा महाराज शातकुम्भमयद्रुमा | दश किष्कुसहस्राणि समन्तादायताभवत् ||१९||" Here, "शातकुम्भमयद्रुमा" (made of Shatakrabha wood). If I replace "शातकुम्भमयद्रुमा" with "...", the question would be "What was the assembly made of?" with options like Shatakrabha wood, etc.
+
+I need to make sure that the missing word is a key term, and the options are plausible. Also, the reasoning should be concise.
+
+Now, I'll go through each verse and pick one word to replace. Let's start with the first few verses.
+
+1. Verse 10: "आहृताः क्रतवो मुख्याः शतं भरतसत्तम ||१०||" Here, "शतं" (hundred) is the number. The question could be "How many...?" but the correct answer is "शतं" (hundred). But the user's example had a name. Maybe "भरतसत्तम" (best of Bharata). So the question would be "Who were the main sacrifices brought?" with options like "Bharata's best", but the correct answer is "Bharata's best" (भरतसत्तम). But the verse says "क्रतवो मुख्याः शतं भरतसत्तम" (the main sacrifices were a hundred of Bharata's best). So the missing word is "शतं" (hundred) or "भरतसत्तम" (best of Bharata). But the user's example had a name. So maybe "भरतसत्तम" is the missing word. But I need to check the context.
+
+Alternatively, in verse 18: "गदां च भीमसेनाय प्रवरां प्रददौ तदा | देवदत्तं च पार्थाय ददौ शङ्खमनुत्तमम् ||१८||" Here, "भीमसेनाय" (to Bhimasena) and "पार्थाय" (to Partha, Arjuna). If I replace "भीमसेनाय" with "...", the question is "To whom did he give the mace?" with options like Bhimasena, Arjuna, etc. The correct answer is Bhimasena.
+
+Another verse: "यत्र यूपा मणिमयाश्चित्याश्चापि हिरण्मयाः | शोभार्थं विहितास्तत्र न तु दृष्टान्ततः कृताः ||११||" Here, "यूपा" (posts) are made of gems and gold. If I replace "यूपा" with "...", the question is "What were the posts made of?" but the correct answer is "posts" (यूपा). But that's not a name. So maybe another word.
+
+Alternatively, in verse 13: "नरनारायणौ ब्रह्मा यमः स्थाणुश्च पञ्चमः | उपासते यत्र सत्रं सहस्रयुगपर्यये ||१३||" Here, "नरनारायणौ" (Nara and Narayana) are the deities. So the missing word is "नरनारायणौ" (Nara and Narayana). The question would be "Who are the deities worshipped in the sacrifice?" with options like Nara and Narayana, Brahma, Yama, etc. The correct answer is Nara and Narayana.
+
+Another verse: "तत्र गत्वा स जग्राह गदां शङ्खं च भारत | स्फाटिकं च सभाद्रुमं यदासीद्वृषपर्वणः ||१६||" Here, "भारत" (Bharata) is the name. The question could be "Who took the mace and conch?" with options like Bhima, Arjuna, etc. But the correct answer is "Bharata" (the name of the king). But the context is that he took the mace and conch. The verse says "स जग्राह गदां शङ्खं च भारत" (he took the mace and conch, Bharata). So the missing word is "भारत" (Bharata). But the context is that he took the mace and conch. So the question would be "Who took the mace and conch?" with options like Bhima, Arjuna, etc. But the correct answer is "Bharata" (the king). But I need to check if that's accurate.
+
+Alternatively, in verse 18: "गदां च भीमसेनाय प्रवरां प्रददौ तदा | देवदत्तं च पार्थाय ददौ शङ्खमनुत्तमम् ||१८||" Here, "भीमसेनाय" (to Bhimasena) and "पार्थाय" (to Partha, Arjuna). So the missing word could be "भीमसेनाय" (to Bhimasena). The question would be "To whom was the mace given?" with options like Bhimasena, Arjuna, etc. The correct answer is Bhimasena.
+
+I need to make sure that the missing word is a key term, and the options are plausible. Also, the reasoning should be concise.
+
+Now, I'll create 10 entries based on these observations.
+</think>
+
+<entry>
+  <question>
+    **Shalya-parvan 10.10 a-b**  
+    *आहृताः क्रतवो मुख्याः ... भरतसत्तम ||१०||*  
+
+    How many main sacrifices were brought?
+
+    A) Hundred (शतं)   B) Thousand (सहस्रं)   C) Ten (दश)   D) Hundred (शतं)
+  </question>
+  <answer>
+    A) Hundred (शतं)
+    • Verse states "hundred of Bharata's best" — the missing word is "शतं" (hundred).  
+    • Other options are numbers mentioned elsewhere but not in this context.  
+    • "भरतसत्तम" (best of Bharata) is a title, not a number.
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Shalya-parvan 11.11 a-b**  
+    *यत्र यूपा मणिमयाश्चित्याश्चापि ... हिरण्मयाः ||११||*  
+
+    What were the posts made of?
+
+    A) Gems (मणिमयाः)   B) Gold (हिरण्मयाः)   C) Silver (स्वर्णमयाः)   D) Stone (शिलामयाः)
+  </question>
+  <answer>
+    B) Gold (हिरण्मयाः)
+    • Verse specifies "gold" (हिरण्मयाः) for the posts.  
+    • "मणिमयाः" (gem-studded) is a separate descriptor.  
+    • Other options are materials mentioned elsewhere but not in this context.
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Shalya-parvan 13.13 a-b**  
+    *नरनारायणौ ... यमः स्थाणुश्च पञ्चमः ||१३||*  
+
+    Who are the deities worshipped in the sacrifice?
+
+    A) Nara and Narayana (नरनारायणौ)   B) Brahma (ब्रह्मा)   C) Yama (यमः)   D) Sthāṇu (स्थाणुश्च)
+  </question>
+  <answer>
+    A) Nara and Narayana (नरनारायणौ)
+    • Verse explicitly names Nara and Narayana as the deities.  
+    • Other options are separate entities (Brahma, Yama, Sthāṇu).  
+    • "Nara and Narayana" are often associated with Vishnu and Arjuna.
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Shalya-parvan 16.16 a-b**  
+    *तत्र गत्वा स जग्राह गदां शङ्खं च ... ||१६||*  
+
+    Who took the mace and conch?
+
+    A) Bhima (भीमसेन)   B) Arjuna (पार्थ)   C) Yudhishthira (युधिष्ठिर)   D) Bharata (भारत)
+  </question>
+  <answer>
+    D) Bharata (भारत)
+    • Verse states "he took the mace and conch, Bharata" — the missing word is "भारत" (Bharata).  
+    • Other options are warriors but not the subject here.  
+    • "Bharata" refers to the king or a title, not a specific warrior.
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Shalya-parvan 18.18 a-b**  
+    *गदां च भीमसेनाय ... ददौ शङ्खमनुत्तमम् ||१८||*  
+
+    To whom was the mace given?
+
+    A) Bhimasena (भीमसेन)   B) Arjuna (पार्थ)   C) Yudhishthira (युधिष्ठिर)   D) Kṛṣṇa (कृष्ण)
+  </question>
+  <answer>
+    A) Bhimasena (भीमसेन)
+    • Verse states "he gave the mace to Bhimasena" — the missing word is "भीमसेनाय".  
+    • Other options are warriors but not the recipient here.  
+    • "Bhimasena" is a key character associated with the mace.
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Shalya-parvan 19.19 a-b**  
+    *सभा तु सा महाराज ... दश किष्कुसहस्राणि ||१९||*  
+
+    How many thousand of what were present?
+
+    A) Ten thousand (दश किष्कुसहस्राणि)   B) Hundred thousand (शत किष्कुसहस्राणि)   C) One thousand (एक किष्कुसहस्राणि)   D) Ten (दश)
+  </question>
+  <answer>
+    A) Ten thousand (दश कि�ष्कुसहस्राणि)
+    • Verse specifies "ten thousand" (दश कि�ष्कुसहस्राणि) as the number.  
+    • Other options are numbers but not the exact phrase.  
+    • "Kishkusha" refers to a type of tree or a group, but the number is key here.
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Shalya-parvan 27.27 a-b**  
+    *तां सभामभितो नित्यं पुष्पवन्तो महाद्रुमाः ||२७||*  
+
+    What kind of trees were present in the assembly?
+
+    A) Flowering (पुष्पवन्तो)   B) Sacred (महाद्रुमाः)   C) Golden (सुवर्णमयाः)   D) Diamond (मणिमयाः)
+  </question>
+  <answer>
+    A) Flowering (पुष्पवन्तो)
+    • Verse states "flowering trees" (पुष्पवन्तो) were present.  
+    • "Mahādruṃ" (great trees) is a descriptor but not the missing word.  
+    • Other options are materials or colors mentioned elsewhere.
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Shalya-parvan 30.30 a-b**  
+    *मणिरत्नचितां तां तु केचिदभ्येत्य पार्थिवाः ||३०||*  
+
+    Who approached the assembly?
+
+    A) Kings (पार्थिवाः)   B) Sages (ऋषयः)   C) Warriors (क्षत्रियाः)   D) Merchants (व्यापारिणः)
+  </question>
+  <answer>
+    A) Kings (पार्थिवाः)
+    • Verse states "kings approached the assembly" — the missing word is "पार्थिवाः".  
+    • Other options are groups mentioned elsewhere but not the subject here.  
+    • "Pārthivāḥ" (kings) is the direct term for rulers.
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Shalya-parvan 34.34 a-b**  
+    *निष्ठितां धर्मराजाय मयो राज्ञे न्यवेदयत् ||३४||*  
+
+    Who did Mayā (the architect) present the assembly to?
+
+    A) Yudhishthira (धर्मराजाय)   B) Bhima (भीमसेन)   C) Arjuna (पार्थ)   D) Kṛṣṇa (कृष्ण)
+  </question>
+  <answer>
+    A) Yudhishthira (धर्मराजाय)
+    • Verse states "Maya presented the assembly to the king" — the missing word is "धर्मराजाय" (Yudhishthira).  
+    • Other options are warriors but not the recipient here.  
+    • "Dharmarājā" is a title for Yudhishthira.
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Shalya-parvan 100.100 a-b**  
+    *कथं वै सफला वेदाः कथं वै सफलं धनम् ||१००||*  
+
+    How are the Vedas successful?
+
+    A) Through Agnihotra (अग्निहोत्रफला)   B) Through wealth (धनम्)   C) Through knowledge (ज्ञानम्)   D) Through rituals (क्रिया)
+  </question>
+  <answer>
+    A) Through Agnihotra (अग्निहोत्रफला)
+    • Verse states "Vedas are successful through Agnihotra" — the missing word is "अग्निहोत्रफला".  
+    • Other options are abstract concepts but not the direct answer.  
+    • "Agnihotra" is a specific ritual mentioned in the text.
+  </answer>
+</entry>

@@ -1,0 +1,139 @@
+<think>
+Okay, I need to create 10 high-quality question-answer pairs based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll read through the verses to identify key elements. The text includes verses from the Bhagavad Gita, mentions of Krishna, Arjuna, Bhishma, and other characters. There are references to the Kurukshetra war, various warriors, and philosophical teachings. 
+
+For each question, I need to ensure it's standalone, so I'll avoid phrases like "the passage" and include necessary context. Let me note specific events, characters, and concepts. For example, the verses talk about Krishna as the Supreme Lord, the importance of surrendering to him, and the battle strategies. There's also mention of different warriors and their roles.
+
+I should vary the question types: factual, "did you know," detective, and philosophical. For example, a factual question about Krishna's role, a "did you know" about the significance of certain verses, a detective question about motivations, and a philosophical one about the teachings.
+
+I need to check that each answer is fully supported by the text. For instance, the text says "Kṛṣṇo yasya prasīdet" which means Krishna is the one who grants victory. Also, there's mention of Bhishma's role in the battle and the consequences of not surrendering to Krishna.
+
+I should also make sure to explain any lesser-known terms. For example, "Kṛṣṇa" is the Supreme Lord, "Bhishma" is a key warrior, and "Kurukshetra" is the battlefield. 
+
+Let me draft the first question: "What does the verse 'Kṛṣṇo yasya prasīdet' emphasize about Krishna's role in the Mahabharata?" The answer would explain that it highlights Krishna as the one who grants victory to those who surrender to him.
+
+Another question could be about the significance of Bhishma's role in the battle. The text mentions Bhishma as the commander for the Kauravas, so the answer would explain his strategic importance.
+
+I need to ensure each question is unique and covers different aspects. Let me check for 10 and make sure they are varied and accurate based on the text provided.
+</think>
+
+<entry>
+  <reasoning>
+    The text includes verses emphasizing Krishna's role as the Supreme Lord and the importance of surrendering to him. This question highlights a key philosophical teaching from the passage.
+  </reasoning>
+  <question>
+    What does the verse "Kṛṣṇo yasya prasīdet" emphasize about Krishna's role in the Mahabharata?
+  </question>
+  <answer>
+    This verse emphasizes that Krishna, as the Supreme Lord, grants victory and protection to those who surrender to him. It underscores the concept of bhakti (devotion) as a path to spiritual and worldly success, a central theme in the Mahabharata's teachings.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes Bhishma as a strategic commander and a revered patriarch. This question explores his dual role in the narrative.
+  </reasoning>
+  <question>
+    How does the Mahabharata portray Bhishma's role in the Kurukshetra war, and what does his character symbolize?
+  </question>
+  <answer>
+    Bhishma is depicted as the commander of the Kaurava army and a patriarch who upholds dharma (cosmic order) despite personal conflicts. His character symbolizes the struggle between duty and personal ethics, reflecting the moral complexities of the epic.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text mentions specific warriors and their roles. This question highlights a lesser-known aspect of the battle's structure.
+  </reasoning>
+  <question>
+    What does the text reveal about the composition of the armies at Kurukshetra, and how did this reflect the political landscape of the time?
+  </question>
+  <answer>
+    The text describes armies led by key warriors like Bhishma (Kauravas) and Drona (Pandavas), with alliances including kings from regions like Kalinga and Gandhara. This reflects the fragmented political alliances of ancient India, where regional powers supported either the Kauravas or Pandavas.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text includes references to divine weapons and their symbolism. This question explores a philosophical concept from the passage.
+  </reasoning>
+  <question>
+    What philosophical teaching is conveyed through the imagery of "divine weapons" in the Mahabharata's battle descriptions?
+  </question>
+  <answer>
+    The divine weapons (e.g., Brahmastra) symbolize the destructive power of unchecked ambition and the consequences of violating dharma. They serve as metaphors for the moral and spiritual battles faced by the warriors.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text mentions specific warriors like Shikhandha. This question highlights a unique aspect of the narrative.
+  </reasoning>
+  <question>
+    Who is Shikhandha, and what role does he play in the Mahabharata's battle narrative?
+  </question>
+  <answer>
+    Shikhandha is a warrior who fought on the Pandava side. His role is significant as he was instrumental in killing Bhishma, fulfilling a prophecy and highlighting themes of karma and destiny in the epic.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text includes verses about the consequences of not surrendering to Krishna. This question explores a moral dilemma.
+  </reasoning>
+  <question>
+    What does the Mahabharata warn about in the verse that states "Those who do not surrender to Krishna are lost"?
+  </question>
+  <answer>
+    The verse warns that without devotion to Krishna, individuals face spiritual and material ruin. It emphasizes the importance of bhakti as a means to navigate life's challenges and achieve liberation (moksha).
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes the chaos of battle. This question explores the epic's portrayal of war's brutality.
+  </reasoning>
+  <question>
+    How does the Mahabharata's text depict the physical and emotional toll of the Kurukshetra war?
+  </question>
+  <answer>
+    The text vividly describes the battlefield as a maelstrom of arrows, broken chariots, and fallen warriors. It conveys the devastation through metaphors like "rain of arrows" and "blood-soaked earth," reflecting the human cost of war.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text includes references to regional alliances. This question highlights a historical context.
+  </reasoning>
+  <question>
+    Which regional kingdoms are mentioned as supporting the Kauravas or Pandavas in the Mahabharata's battle descriptions?
+  </question>
+  <answer>
+    The text mentions Kalinga (led by Kritavarma), Gandhara (Duryodhana's ally), and other regions like Kamboja. These alliances reflect the geopolitical landscape of ancient India, where regional powers influenced the war's outcome.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text includes a verse about the importance of dharma. This question explores a core teaching.
+  </reasoning>
+  <question>
+    What does the Mahabharata emphasize through the concept of "dharma" in the context of the Kurukshetra war?
+  </question>
+  <answer>
+    Dharma in the Mahabharata represents moral duty and righteousness. The war's narrative explores how characters like Yudhishthira and Bhishma grapple with dharma, highlighting the tension between personal ethics and societal obligations.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes the role of divine intervention. This question explores a philosophical aspect.
+  </reasoning>
+  <question>
+    How does the Mahabharata portray the role of divine beings like Krishna in the Kurukshetra war?
+  </question>
+  <answer>
+    Divine beings like Krishna are depicted as guides and protectors. Krishna's role as a charioteer and philosopher in the Bhagavad Gita illustrates the interplay between human agency and divine will, offering spiritual guidance amid conflict.
+  </answer>
+</entry>

@@ -1,0 +1,85 @@
+<think>
+Okay, I need to create 5 multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text. The user mentioned that the questions must be based solely on explicit information in the text, so I need to make sure I don't add any external knowledge.
+
+First, I'll look through the verses to identify key themes, characters, and concepts. The text seems to discuss duties, virtues, and the nature of kingship. There are references to different types of strength (like prajna-bala), the importance of dharma, and the consequences of actions. Also, there are mentions of specific characters like Bhishma, Drona, and the Pandavas, but I need to check if the text explicitly states these.
+
+Looking at the verses, for example, verse 15 talks about the king who is supported by his people. Verse 16 mentions the king's duty to protect his people. There's a reference to the five types of strength (bala) in verses 48-51. Also, there's a mention of the importance of not being deceitful (verse 20) and the consequences of not following dharma (verse 44).
+
+I need to make sure each question is specific. For example, one question could be about the five types of strength. Another could be about the qualities of a good king. Another might be about the consequences of not following dharma. Also, there's a mention of the importance of not being deceitful (verse 20) and the role of a king in protecting his people (verse 16).
+
+I need to check each verse to ensure the answers are directly from the text. For example, verse 48-51 list the five types of strength: physical, political, wealth, birth, and wisdom. So a question about the five types of strength would have those as options.
+
+Another point is the verse about the king's duty to protect his people, which is in verse 16. The options would include different aspects of that duty.
+
+I also need to make sure the questions are diverse, covering different parts of the text. Let me draft each question step by step, ensuring they are based on explicit text references and that the options are plausible but only one is correct.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests understanding of the Mahabharata's concept of "bala" (strength). The text explicitly lists five types of strength, with prajna-bala (wisdom) as the supreme form. Other options represent lower forms of strength mentioned in the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (shlokas 48-51), which of these is described as the supreme form of strength?
+    A) Physical strength (bahu-bala)
+    B) Wealth (dhanabala)
+    C) Wisdom (prajna-bala)
+    D) Royal lineage (ajna-bala)
+  </question>
+  <answer>C) Wisdom (prajna-bala)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the Mahabharata's teachings on royal duty. The text explicitly states that a king must protect his people, with specific reference to "vyaaghra" (tigers) as symbols of protection. The other options represent incorrect interpretations of the text's metaphors.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (shloka 42), what metaphor illustrates the relationship between kings and their people?
+    A) A king is like a forest without tigers
+    B) A king is like a tiger protecting its forest
+    C) A king is like a deer in a forest
+    D) A king is like a river without fish
+  </question>
+  <answer>B) A king is like a tiger protecting its forest</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the Mahabharata's ethical teachings. The text explicitly states that deceitful people face consequences, with "nirarthak" (purposeless) actions leading to downfall. Other options represent related but incorrect concepts from the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (shloka 32), what term describes actions that lead to downfall due to deceit?
+    A) Dharma
+    B) Nirarthak (purposeless)
+    C) Kama
+    D) Artha
+  </question>
+  <answer>B) Nirarthak (purposeless)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses understanding of the Mahabharata's views on leadership. The text explicitly states that a king must avoid deceit and maintain integrity, with "nirarthak" (purposeless) actions as a warning. Other options represent related but incorrect concepts.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (shloka 20), what quality is essential for a king to avoid downfall?
+    A) Wealth
+    B) Deceit
+    C) Integrity
+    D) Military power
+  </question>
+  <answer>C) Integrity</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the Mahabharata's teachings on royal responsibility. The text explicitly states that a king must protect his people, with "vyaaghra" (tigers) as symbols of protection. The other options represent incorrect interpretations of the text's metaphors.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (shloka 41), what warning is given about abandoning one's people?
+    A) "Do not abandon the forest"
+    B) "Do not abandon the tigers"
+    C) "Do not abandon the deer"
+    D) "Do not abandon the river"
+  </question>
+  <answer>A) "Do not abandon the forest"</answer>
+</entry>

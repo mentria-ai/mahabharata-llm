@@ -1,0 +1,89 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, places, and specific references. The text seems to be from the Bhishma Parva, as it mentions Bhishma, Drona, and other key figures. There are references to Duryodhana, Karna, and Krishna. The text talks about Duryodhana's plans to honor Krishna, the construction of grand assemblies (sabhas), and the interactions between various kings and warriors.
+
+For each question, I need to ensure that the answer is explicitly mentioned in the text. Let me go through the text again to pick out specific details.
+
+1. The first part mentions Duryodhana planning to honor Krishna with various gifts and assemblies. The text says "दुर्योधनं च सामात्यं हृष्टरोमाब्रवीदिदम्" which translates to Duryodhana spoke with joy. Also, there's mention of setting up assemblies (sabhas) in various places. So a question about who planned to honor Krishna with assemblies and gifts would be valid.
+
+2. The text mentions that Duryodhana wanted to set up a grand assembly (sabha) in Vrikshala. The line "विदधे कौरवो राजा बहुरत्नां मनोरमाम्" indicates that the Kaurava king (Duryodhana) built a magnificent assembly hall. So a question about who built a grand assembly in Vrikshala would work.
+
+3. There's a part where Duryodhana says he would offer various gifts to Krishna, including chariots, horses, and food. The line "एकेनापि पतत्यह्ना योजनानि चतुर्दश" mentions that even one chariot would cover fourteen yojanas. So a question about the number of yojanas a chariot would cover could be a question.
+
+4. The text mentions that Duryodhana planned to honor Krishna with gifts, and that Krishna was considered the son of Devaki. The line "कृष्णमक्लिष्टकर्माणमासाद्यायं सुदुर्मतिः" refers to Krishna as the son of Devaki. So a question about Krishna's mother would be valid.
+
+5. There's a part where Duryodhana's plan to honor Krishna is discussed, and the text mentions that Krishna was to be honored with various gifts. The line "स नो मान्यश्च पूज्यश्च सर्वथा मधुसूदनः" refers to Krishna as the beloved of the world. So a question about Krishna's title could be another question.
+
+Now, I need to make sure each question is specific, includes the correct reference, and the options are plausible but only one is correct. Also, the answers must be under 100 characters. Let me structure each entry accordingly.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Duryodhana's strategic plan to honor Krishna. The text explicitly states he intended to offer lavish gifts and assemblies, contrasting with Krishna's moral stance. Other options represent unrelated figures or events.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 2), who planned to honor Krishna with grand assemblies and gifts to secure his favor?
+    A) Bhishma
+    B) Drona
+    C) Duryodhana
+    D) Karna
+  </question>
+  <answer>C) Duryodhana</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Duryodhana's architectural ambition. The text specifies he built a "manoraman" (magnificent) assembly hall in Vrikshala. Other options refer to different rulers or structures.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 16), which ruler constructed a lavish assembly hall in Vrikshala to honor Krishna?
+    A) Yudhishthira
+    B) Bhishma
+    C) Duryodhana
+    D) Vidura
+  </question>
+  <answer>C) Duryodhana</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Duryodhana's overconfidence. The text states a single chariot would cover 14 yojanas, emphasizing his excessive offerings. Other options represent unrelated metrics or figures.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 12), how many yojanas would a single chariot cover according to Duryodhana's plan?
+    A) 7
+    B) 14
+    C) 21
+    D) 28
+  </question>
+  <answer>B) 14</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Krishna's lineage. The text explicitly refers to him as "Devakiputra" (son of Devaki). Other options represent incorrect familial relationships.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 20), what title describes Krishna as the son of Devaki?
+    A) Vasudeva
+    B) Devakiputra
+    C) Kuntibhoja
+    D) Panduputra
+  </question>
+  <answer>B) Devakiputra</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Krishna's universal reverence. The text states he was "sarvathaha madhusudana" (beloved of the world). Other options represent partial or incorrect epithets.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 7), what epithet describes Krishna as the world's beloved?
+    A) Dhananjaya
+    B) Madhusudana
+    C) Keshava
+    D) Janardana
+  </question>
+  <answer>B) Madhusudana</answer>
+</entry>

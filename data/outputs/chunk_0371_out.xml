@@ -1,0 +1,105 @@
+<think>
+Okay, I need to create 5 multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, weapons, and specific references. The text seems to describe battles between Bhima and Karna, their weapons, and some strategic moves. There are mentions of specific weapons like the "Kartavirya" (a type of bow), "Gandiva" (Arjuna's bow), and "Sudarshana Chakra" (Krishna's discus). Also, there are references to the Kauravas and Pandavas, and specific actions like Bhima using a chariot, Karna's arrows, and the use of various weapons.
+
+Now, I need to make sure each question is based on explicit information from the text. Let's go through the text line by line.
+
+Looking at the first few verses: "तपनीयं महाराज दीप्तं ज्योतिरिवाम्बरात् ||४||" – This seems to describe something bright, maybe a weapon. But I need to check if there's a specific reference. Then, "अथापरेण भल्लेन सूतपुत्रं स्तनान्तरे | आजघान भृशं भीमः स्मयन्निव महाबलः ||५||" – Here, Bhima attacks Sutaputra (Karna) with a mace. So, one question could be about Bhima's weapon against Karna.
+
+Another part: "ततः क्रुद्धो रणे कर्णः पीडितो दृढधन्वना | वेगं चक्रे महावेगो भीमसेनवधं प्रति ||९||" – Karna, angry, starts a great attack against Bhima. So, maybe a question about Karna's attack on Bhima.
+
+Then, "तस्मै कर्णः शितान्बाणान्कर्मारपरिमार्जितान् | सुवर्णविकृतान्क्रुद्धः प्राहिणोद्वधकाङ्क्षया ||४०||" – Karna shoots sharp, gold-ornamented arrows. So, a question about Karna's arrows.
+
+Another part: "कराभ्यामाददानस्य संदधानस्य चाशुगान् | विकर्षतो मुञ्चतो वा नान्तरं ददृशू रणे ||२२||" – Karna using both hands to draw the bow. So, a question about Karna's bow technique.
+
+Also, "गार्ध्रपत्राञ्शिलाधौतान्कार्तस्वरविभूषितान् | महावेगान्प्रदीप्ताग्रान्मुमोचाधिरथिः शरान् ||२७||" – Karna's arrows are described as having garuda feathers and are fast. So, a question about the description of Karna's arrows.
+
+Now, I need to make sure each question is specific, includes the correct reference, and the options are based on the text. Also, avoid adding any external info. Let's draft the first question.
+
+Question 1: In Mahabharata's Bhishma Parva (verse 5), which weapon did Bhima use to attack Karna? Options: A) Mace, B) Sword, C) Bow, D) Spear. The text says "भल्लेन" which is mace. So answer A.
+
+Question 2: In Mahabharata's Bhishma Parva (verse 9), why did Karna start a great attack against Bhima? Options: A) To protect Duryodhana, B) Because he was angry, C) To save Arjuna, D) To gain glory. The text says "क्रुद्धो रणे कर्णः" so answer B.
+
+Question 3: In Mahabharata's Bhishma Parva (verse 40), what type of arrows did Karna shoot at Bhima? Options: A) Wooden, B) Sharp and gold-ornamented, C) Iron, D) Silver. The text says "शितान्बाणान्कर्मारपरिमार्जितान् सुवर्णविकृतान्क्रुद्धः" so answer B.
+
+Question 4: In Mahabharata's Bhishma Parva (verse 22), how did Karna use his hands while drawing the bow? Options: A) One hand, B) Both hands, C) No hands, D) Using a chariot. The text says "कराभ्यामाददानस्य" so answer B.
+
+Question 5: In Mahabharata's Bhishma Parva (verse 27), what were Karna's arrows described as having? Options: A) Feathers of Garuda, B) Silver, C) Gold, D) Iron. The text mentions "गार्ध्रपत्राञ्शिलाधौतान्कार्तस्वरविभूषितान्" so answer A.
+
+I need to check if these verses are correctly referenced. The user provided verses up to 94, but the example in the user's message had verses up to 94. However, the exact references might be adhyaya or parva. Since the user didn't specify, but the example used "Bhishma Parva" and specific verses, I'll use that. Also, ensure that the options are plausible but incorrect. For example, in question 3, other options like wooden or iron arrows are plausible but incorrect. Similarly for others.
+
+Now, format each entry as XML with reasoning, question, and answer. Make sure the answers are under 100 characters. Also, check for any possible errors, like incorrect references or misinterpretations. For example, in verse 27, "गार्ध्रपत्राञ्शिलाधौतान्कार्तस्वरविभूषितान्" translates to "feathers of Garuda" (Garuda is the king of birds, so "गार्ध्र" is Garuda). So the answer is A. That's correct.
+
+Each question is based on explicit text, no external info. The options are plausible. Now, structure them into XML entries.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Bhima's weapon against Karna. The text explicitly mentions Bhima using a mace ("भल्लेन") to attack Karna. Other options like sword or bow are common weapons but not specified here.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 5), which weapon did Bhima use to attack Karna?
+    A) Mace
+    B) Sword
+    C) Bow
+    D) Spear
+  </question>
+  <answer>A) Mace</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Karna's motivation. The text states Karna was "क्रुद्धो" (angry) and attacked Bhima. Other options like protecting Duryodhana or gaining glory are plausible but not explicitly mentioned.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 9), why did Karna launch a fierce attack on Bhima?
+    A) To protect Duryodhana
+    B) Because he was angry
+    C) To save Arjuna
+    D) To gain glory
+  </question>
+  <answer>B) Because he was angry</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Karna's arrows. The text describes them as "शितान्बाणान्कर्मारपरिमार्जितान् सुवर्णविकृतान्क्रुद्धः" (sharp, gold-ornamented arrows). Other options like wooden or iron are plausible but not specified.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 40), what type of arrows did Karna shoot at Bhima?
+    A) Wooden
+    B) Sharp and gold-ornamented
+    C) Iron
+    D) Silver
+  </question>
+  <answer>B) Sharp and gold-ornamented</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests Karna's bow technique. The text states he used "कराभ्यामाददानस्य" (both hands) to draw the bow. Other options like one hand or a chariot are plausible but not explicitly mentioned.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 22), how did Karna use his hands while drawing the bow?
+    A) One hand
+    B) Both hands
+    C) No hands
+    D) Using a chariot
+  </question>
+  <answer>B) Both hands</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the description of Karna's arrows. The text mentions "गार्ध्रपत्राञ्शिलाधौतान्कार्तस्वरविभूषितान्" (feathers of Garuda). Other options like silver or iron are plausible but not specified.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 27), what were Karna's arrows described as having?
+    A) Feathers of Garuda
+    B) Silver
+    C) Gold
+    D) Iron
+  </question>
+  <answer>A) Feathers of Garuda</answer>
+</entry>

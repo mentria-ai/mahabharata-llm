@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by carefully reading through the text to identify key elements.
+
+First, the text includes verses from the Bhishma Parva and other sections. There's mention of different yugas (ages) like Dvapara and Kali, which are important in Hindu cosmology. The text also talks about the names of Vishnu, like Nara-Narayana, and references to deities like Brahma, Rudra, and others. There's a part about the creation of the universe, the role of deities in maintaining dharma, and specific events like the naming of Vishnu and the concept of yuga cycles.
+
+For the first question, I can focus on the yugas. The text mentions Dvapara and Kali yugas, and the decline of dharma. The correct answer would be Dvapara, as the verse 75 refers to it. The other options could be Kali, but the context here is about the transition from Dvapara to Kali.
+
+Second, the text discusses the names of Vishnu. The verse 8 mentions that his names are known in the Vedas, Upanishads, etc. The correct answer is "Narayana," which is a primary name of Vishnu. Other options could be "Krishna" or "Rama," but the text specifically uses "Narayana."
+
+Third, there's a part about the creation of the universe. The text says that the universe was created from the cosmic egg (Hiranyagarbha). The correct answer here would be "Hiranyagarbha," while others like "Brahma" or "Vishnu" are deities but not the cosmic egg.
+
+Fourth, the text mentions the role of deities in maintaining dharma. The verse 78 talks about the importance of dharma in the Kali yuga. The correct answer is "Kali yuga," and the other options could be Dvapara or Treta.
+
+Fifth, the text refers to the names of Vishnu in different contexts. The verse 89 mentions that he is the beginning, middle, and end of all beings. The correct answer here is "Narayana," as it's a primary name. Other options could be "Brahma" or "Rudra," but the text specifically uses "Narayana."
+
+I need to make sure each question is specific, includes the exact reference, and the options are plausible but incorrect. Also, check that the answers are under 100 characters. Let me structure each entry with the reasoning, question, and answer as per the example.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of yuga cycles and dharma decline. The text explicitly states Dvapara as the intermediate age before Kali, with dharma losing two legs. Other options represent later yugas or incorrect attributes.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 75), which yuga is described as having dharma losing two legs?
+    A) Treta
+    B) Dvapara
+    C) Kali
+    D) Satya
+  </question>
+  <answer>B) Dvapara</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Vishnu's primary name in Vedic texts. The text explicitly states "Narayana" as the supreme deity's name. Other options are epithets but not the primary name mentioned in the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Vishnu Sahasranama (shloka 8), which name is declared as the supreme deity's eternal identity?
+    A) Krishna
+    B) Rama
+    C) Narayana
+    D) Hari
+  </question>
+  <answer>C) Narayana</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of cosmic creation concepts. The text explicitly mentions "Hiranyagarbha" as the cosmic egg. Other options are deities or concepts not directly referenced in this context.
+  </reasoning>
+  <question>
+    In Mahabharata's Vishnu Sahasranama (shloka 89), what is described as the origin of all beings?
+    A) Brahma
+    B) Rudra
+    C) Hiranyagarbha
+    D) Vishnu
+  </question>
+  <answer>C) Hiranyagarbha</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines dharma's role in Kali yuga. The text explicitly states that dharma will be reduced to one leg in Kali. Other options represent different yugas or incorrect attributes.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 76), what state is dharma said to be in during Kali yuga?
+    A) Four legs
+    B) Three legs
+    C) Two legs
+    D) One leg
+  </question>
+  <answer>D) One leg</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests recognition of Vishnu's universal role. The text explicitly states he is the beginning, middle, and end of all existence. Other options are deities or concepts not directly referenced in this context.
+  </reasoning>
+  <question>
+    In Mahabharata's Vishnu Sahasranama (shloka 89), what role is attributed to Vishnu as the ultimate reality?
+    A) Creator
+    B) Destroyer
+    C) Beginning, middle, and end
+    D) Sustainer
+  </question>
+  <answer>C) Beginning, middle, and end</answer>
+</entry>

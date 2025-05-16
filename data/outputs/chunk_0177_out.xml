@@ -1,0 +1,89 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by carefully reading through the text to identify key elements like characters, events, and teachings.
+
+First, the text mentions several characters: Dhritarashtra, Vidura, Bhishma, Drona, Kripa, Karna, Gandhari, Dushasana, Yudhishthira, Bhima, Duryodhana, and others. There are references to specific parvas like Bhishma Parva, Rajasuya Parva, and others. The text also includes dialogues and events like the invitation to the Rajasuya Yajna, the dream of the mriga (deer), and the story of Maudgalya and the Vrihadratha.
+
+For each question, I need to ensure that the answer is explicitly stated in the text. Let me check each part.
+
+1. The first part talks about Dushasana sending a messenger to the Pandavas. The question could be about who sent the messenger. The text says "Dushasanaabravīt" (Dushasana said). So the answer is Dushasana. The options would include other characters like Bhishma, Drona, Karna.
+
+2. The Rajasuya Yajna is mentioned. The text says Yudhishthira was invited. The question could be about who was invited. The answer is Yudhishthira. Options might include Duryodhana, Bhishma, etc.
+
+3. The dream of the mriga (deer) is in the "Mriga-Svapna-Bhaya Parva". The question could be about the parva name. The answer is Mriga-Svapna-Bhaya Parva. Options would include other parvas like Bhishma Parva, etc.
+
+4. The story of Maudgalya and Vrihadratha is in the "Vrihadratha Parva". The question could be about the parva where this story is told. The answer is Vrihadratha Parva. Options would include other parvas.
+
+5. The text mentions that Duryodhana was sent to the forest. The question could be about who was sent. The answer is Duryodhana. Options include other characters.
+
+I need to make sure each question has the exact reference, like the parva name, and that the options are plausible but incorrect. Also, check that the answers are directly from the text without adding external info. Let me structure each entry with the required XML format and reasoning.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of specific diplomatic actions in the Rajasuya Parva. Dushasana is explicitly mentioned as the one who sent the messenger to the Pandavas. Other options represent key figures but are not the sender in this context.
+  </reasoning>
+  <question>
+    In Mahabharata's Rajasuya Parva, who sent a messenger to the Pandavas to invite them to a yajna?
+    A) Bhishma
+    B) Drona
+    C) Karna
+    D) Dushasana
+  </question>
+  <answer>D) Dushasana</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses understanding of the Rajasuya Yajna's invitees. The text explicitly states Yudhishthira was invited, while other options were rivals or unrelated figures in this context.
+  </reasoning>
+  <question>
+    In Mahabharata's Rajasuya Parva, who was invited to perform the yajna by Duryodhana's messenger?
+    A) Bhishma
+    B) Drona
+    C) Yudhishthira
+    D) Karna
+  </question>
+  <answer>C) Yudhishthira</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the Mriga-Svapna-Bhaya Parva's narrative. The text explicitly describes Yudhishthira's dream of hunted deer, while other parvas focus on different events like Bhishma's leadership or Karna's fate.
+  </reasoning>
+  <question>
+    In Mahabharata's Mriga-Svapna-Bhaya Parva, what event did Yudhishthira experience in the forest?
+    A) Battle with Karna
+    B) Dream of hunted deer
+    C) Duel with Bhishma
+    D) Conversation with Vidura
+  </question>
+  <answer>B) Dream of hunted deer</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines knowledge of the Vrihadratha Parva's story. The text directly links Maudgalya's story to this parva, while other parvas focus on different narratives like the Rajasuya Yajna or Bhishma's death.
+  </reasoning>
+  <question>
+    In Mahabharata's Vrihadratha Parva, which story is explicitly recounted about a sage's sacrifice?
+    A) Bhishma's death
+    B) Karna's fate
+    C) Maudgalya's Vrihadratha story
+    D) Duryodhana's forest exile
+  </question>
+  <answer>C) Maudgalya's Vrihadratha story</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question evaluates understanding of the forest exile narrative. The text explicitly states Duryodhana was sent to the forest, while other options represent figures involved in different events like the Rajasuya Yajna or Bhishma's leadership.
+  </reasoning>
+  <question>
+    In Mahabharata's Mriga-Svapna-Bhaya Parva, who was sent to the forest by Duryodhana's command?
+    A) Yudhishthira
+    B) Bhishma
+    C) Duryodhana
+    D) Karna
+  </question>
+  <answer>C) Duryodhana</answer>
+</entry>

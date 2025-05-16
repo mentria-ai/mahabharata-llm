@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I notice that the text includes several sections like "Santasujata Parva" and specific verses. The dialogue is between Dhritarashtra and Sanatsujata, discussing topics like death, dharma, and the nature of the soul. There's mention of different types of sins, virtues, and the importance of certain actions.
+
+For the first question, I should focus on a clear topic. The text talks about the nature of death and how it's caused by ignorance (pramada). The verse mentions that those who are ignorant (pramada) are led to death. So a question about what leads to death according to Sanatsujata would work. The options would include pramada, karma, etc. The correct answer is pramada.
+
+Next, another section discusses the twelve faults (doshas) of humans, like anger, desire, etc. The question could be about the number of faults. The text lists twelve, so the answer is twelve. The options would have numbers around that.
+
+Third, there's a part where Sanatsujata explains that the soul (atman) is not destroyed by death. The question could be about what remains after death. The answer is the soul (atman), and the options would include other elements like body, karma, etc.
+
+Fourth, the text mentions that the Brahmins are considered the highest in the Vedic tradition. The question could be about which group is considered the highest. The answer is Brahmins, with options like Kshatriyas, Vaishyas, etc.
+
+Lastly, there's a part where it's stated that the soul (atman) is eternal and not destroyed by death. The question could be about what is not destroyed by death. The answer is the soul (atman), with other options like the body, mind, etc.
+
+I need to make sure each question has the specific reference, like the parva and verses. Also, check that the answers are directly from the text. Avoid adding any external knowledge. Each question should be distinct, covering different aspects of the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests understanding of Sanatsujata's teachings on death. The text explicitly states that ignorance (pramada) leads to death, contrasting with karma or external forces. Other options represent common misconceptions about mortality.
+  </reasoning>
+  <question>
+    In Mahabharata's Santasujata Parva (42.4), what does Sanatsujata identify as the primary cause of death?
+    A) Karma
+    B) Ignorance (Pramada)
+    C) External forces
+    D) Divine will
+  </question>
+  <answer>B) Ignorance (Pramada)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses knowledge of Sanatsujata's classification of human faults. The text explicitly lists twelve faults (doshas) including anger, desire, and pride. Other options represent partial truths but not the exact count.
+  </reasoning>
+  <question>
+    In Mahabharata's Santasujata Parva (42.7-8), how many fundamental human faults (doshas) does Sanatsujata describe?
+    A) Six
+    B) Twelve
+    C) Eight
+    D) Fourteen
+  </question>
+  <answer>B) Twelve</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question evaluates understanding of Sanatsujata's metaphysical teachings. The text explicitly states that the soul (atman) remains after death, contrasting with physical elements. Other options represent common materialist misconceptions.
+  </reasoning>
+  <question>
+    In Mahabharata's Santasujata Parva (42.14), what does Sanatsujata claim remains after death?
+    A) The body
+    B) The soul (Atman)
+    C) Memories
+    D) Karma
+  </question>
+  <answer>B) The soul (Atman)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Sanatsujata's social hierarchy teachings. The text explicitly states that Brahmins are considered the highest in spiritual authority. Other options represent historical social divisions but not the specific claim here.
+  </reasoning>
+  <question>
+    In Mahabharata's Santasujata Parva (42.24), which group does Sanatsujata describe as having spiritual authority over others?
+    A) Kshatriyas
+    B) Brahmins
+    C) Vaishyas
+    D) Shudras
+  </question>
+  <answer>B) Brahmins</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses understanding of Sanatsujata's eternal soul concept. The text explicitly states that the soul (atman) is not destroyed by death, contrasting with physical elements. Other options represent common materialist misconceptions.
+  </reasoning>
+  <question>
+    In Mahabharata's Santasujata Parva (42.30), what does Sanatsujata declare remains undestroyed by death?
+    A) The body
+    B) The soul (Atman)
+    C) The mind
+    D) The senses
+  </question>
+  <answer>B) The soul (Atman)</answer>
+</entry>

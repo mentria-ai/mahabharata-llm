@@ -1,0 +1,89 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key events, characters, and specific references. The text seems to describe the battle between Bhima and Duryodhana. There are mentions of Bhima hitting Duryodhana with a mace, Duryodhana's death, and reactions from other characters like Yudhishthira and Krishna. Also, there's a part where Bhima is addressing Duryodhana, referencing past events like the dice game and Draupadi's humiliation.
+
+For each question, I need to ensure the answer is directly from the text. Let's break it down:
+
+1. **Question 1**: The text mentions Bhima hitting Duryodhana with a mace. The reference is in the Bhishma Parva, but the exact adhyaya isn't given. However, the text says "ऊरू दुर्योधनस्याथ बभञ्ज प्रियदर्शनौ" which translates to Bhima breaking Duryodhana's thigh. So the question could be about who broke Duryodhana's thigh. The answer is Bhima. Options would include other warriors, but the text specifically mentions Bhima.
+
+2. **Question 2**: The text includes a dialogue where Bhima says "गौर्गौरिति पुरा मन्द द्रौपदीमेकवाससम्" referring to Draupadi's humiliation. So the question could be about Bhima's reference to Draupadi's past. The answer is Draupadi. Other options might be other characters like Kunti or Gandhari.
+
+3. **Question 3**: There's a part where Yudhishthira addresses Bhima, questioning his actions. The text has "धर्मराज किमर्थं त्वमधर्ममनुमन्यसे" which is Yudhishthira asking why Bhima followed adharma. The answer is Yudhishthira. Options could include other kings like Krishna or Dhritharashtra.
+
+4. **Question 4**: The text mentions that after Duryodhana's death, the earth shook and there was a great sound. The reference is in the Shantiparva, but the exact adhyaya isn't clear. The question could be about the event after Duryodhana's death. The answer is the earth shaking. Options might include other events like the sky darkening or animals crying.
+
+5. **Question 5**: The text includes a dialogue where Krishna advises Bhima to calm down, referencing dharma. The line "आत्मवृद्धिर्मित्रवृद्धिर्मित्रमित्रोदयस्तथा" is from Krishna. So the question could be about who advised Bhima to calm down. The answer is Krishna. Options might include other characters like Yudhishthira or Dhritharashtra.
+
+I need to make sure each question has the exact reference, even if it's just the parva. Also, check that the options are plausible but incorrect. For example, in the first question, other warriors like Drona or Karna aren't mentioned in this context. Each question should be distinct and cover different parts of the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Bhima's decisive action against Duryodhana. The text explicitly states Bhima broke Duryodhana's thigh with a mace. Other options represent other warriors but not the one who delivered the fatal blow. The reference to "ऊरू दुर्योधनस्याथ बभञ्ज प्रियदर्शनौ" (44) confirms this.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, who broke Duryodhana's thigh with a mace during their duel?
+    A) Bhishma
+    B) Drona
+    C) Bhima
+    D) Karna
+  </question>
+  <answer>C) Bhima</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Bhima's reference to Draupadi's past humiliation. The text explicitly mentions Bhima invoking Draupadi's "ekavasam" (single garment) during his confrontation with Duryodhana. Other options represent unrelated figures or events.
+  </reasoning>
+  <question>
+    In Mahabharata's Shantiparva, which character did Bhima reference when accusing Duryodhana of past injustice?
+    A) Kunti
+    B) Draupadi
+    C) Gandhari
+    D) Subhadra
+  </question>
+  <answer>B) Draupadi</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Yudhishthira's moral dilemma. The text shows Yudhishthira questioning Bhima's actions, asking "किमर्थं त्वमधर्ममनुमन्यसे" (Why do you follow adharma?). Other options represent different characters' perspectives.
+  </reasoning>
+  <question>
+    In Mahabharata's Shantiparva, who questioned Bhima's adherence to dharma after killing Duryodhana?
+    A) Krishna
+    B) Dhritharashtra
+    C) Yudhishthira
+    D) Arjuna
+  </question>
+  <answer>C) Yudhishthira</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the cosmic reaction to Duryodhana's death. The text describes the earth shaking and rivers flowing with blood. Other options represent unrelated phenomena like celestial sounds or animal reactions.
+  </reasoning>
+  <question>
+    In Mahabharata's Shantiparva, what natural phenomenon occurred after Duryodhana's death?
+    A) Sky darkened
+    B) Earth shook
+    C) Sun vanished
+    D) Mountains crumbled
+  </question>
+  <answer>B) Earth shook</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Krishna's role in calming Bhima. The text shows Krishna advising Bhima to prioritize dharma over personal anger. Other options represent different advisors or mentors in the epic.
+  </reasoning>
+  <question>
+    In Mahabharata's Shantiparva, who advised Bhima to control his anger after killing Duryodhana?
+    A) Gandhari
+    B) Vidura
+    C) Krishna
+    D) Dhritharashtra
+  </question>
+  <answer>C) Krishna</answer>
+</entry>

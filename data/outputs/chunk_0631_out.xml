@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look through the verses to identify key elements. The text includes various sections like the Brahma Gita, discussions on the duties of Brahmins, the nature of women, and dialogues between characters like Bhishma, Yudhishthira, and others. 
+
+For the first question, I notice verses about Brahmins and their duties. The text mentions that Brahmins should not perform certain tasks, like those of the Kshatriyas. So a question about what Brahmins should not do could work. The correct answer would be "Shudra's duties" as per verse 7. The other options could be other roles like Kshatriya or Vaishya, which are plausible but incorrect.
+
+Next, looking at the section about women's nature, there's a dialogue between Bhishma and Yudhishthira. The text states that women are the root of all faults (verse 1). So a question about the root of faults could have that as the answer. Other options might be other roles or attributes mentioned, but the text specifically says "women are the root of all faults."
+
+Another part discusses the importance of Brahmins and their role in society. Verse 21 says that the earth cannot be governed without Brahmins. So a question about what the earth cannot do without could have Brahmins as the answer. Other options might be kings or gods, but the text clearly states Brahmins.
+
+Then, there's a part about the duties of a householder (Grihastha) and how they should perform their duties. Verse 19 mentions that a householder's actions are not lost if they perform them with purity. So a question about what ensures a householder's actions are not lost would have "purity" as the answer. Other options could be wealth or rituals, but the text specifies purity.
+
+Lastly, looking at the section about the nature of women, verse 12 says that women are the root of all faults. Another question could be about what the text says about women's role, with the answer being that they are the root of faults. Other options might be about their role in society, but the text specifically states this.
+
+I need to make sure each question is specific, includes the correct reference, and the options are plausible but incorrect. Also, check that all answers are under 100 characters and the questions are diverse, covering different parts of the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Brahminical duties and societal roles. The text explicitly states that Brahmins should not perform Shudra duties (verse 7). Other options represent valid roles but contradict the text's direct statement.
+  </reasoning>
+  <question>
+    In Mahabharata's Brahma Gita (verse 7), what duties are explicitly forbidden for Brahmins according to the text?
+    A) Kshatriya duties
+    B) Shudra duties
+    C) Vaishya duties
+    D) Artisan duties
+  </question>
+  <answer>B) Shudra duties</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses the text's perspective on women's societal role. The text directly states "women are the root of all faults" (verse 1). Other options reflect cultural stereotypes but lack textual support.
+  </reasoning>
+  <question>
+    In Mahabharata's discussion on women's nature (verse 1), what does the text claim about women's role in societal faults?
+    A) They are moral pillars
+    B) They are root of all faults
+    C) They are divine protectors
+    D) They are neutral observers
+  </question>
+  <answer>B) They are root of all faults</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the text's view on societal governance. The text states "the earth cannot be governed without Brahmins" (verse 21). Other options represent plausible but unsupported claims about governance.
+  </reasoning>
+  <question>
+    In Mahabharata's discourse on social order (verse 21), what group is essential for maintaining societal governance according to the text?
+    A) Kshatriyas
+    B) Brahmins
+    C) Vaishyas
+    D) Shudras
+  </question>
+  <answer>B) Brahmins</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of household duties. The text states "a householder's actions are not lost through purity" (verse 19). Other options represent common but unsupported beliefs about household success.
+  </reasoning>
+  <question>
+    In Mahabharata's discussion on householders (verse 19), what quality ensures actions are not lost according to the text?
+    A) Wealth
+    B) Purity
+    C) Rituals
+    D) Status
+  </question>
+  <answer>B) Purity</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses the text's perspective on women's societal role. The text states "women are the root of all faults" (verse 12). Other options reflect cultural stereotypes but lack textual support.
+  </reasoning>
+  <question>
+    In Mahabharata's dialogue about women (verse 12), what role does the text explicitly assign to women in societal structures?
+    A) Moral guides
+    B) Root of all faults
+    C) Divine creators
+    D) Neutral observers
+  </question>
+  <answer>B) Root of all faults</answer>
+</entry>

@@ -1,0 +1,28 @@
+# finetune_config.yaml for QLoRA fine-tuning of Qwen3-30B-A3B on Mac mini M4 Pro (24GB)
+model: "mlx-community/Qwen3-30B-A3B-4bit"   # 4-bit quantized model for QLoRA
+train: true                             # run training
+fine_tune_type: "lora"                  # fine-tune type: lora (default)
+data: "finetune/data"                  # path to data directory (train.jsonl and valid.jsonl)
+
+# Training parameters
+batch_size: 1                           # small batch size for memory constraints
+iters: 1000                             # total training iterations (adjust as needed)
+learning_rate: 1e-4                     # reduced learning rate to avoid instability
+steps_per_report: 10                    # log loss every 10 steps
+steps_per_eval: 200                     # evaluate on validation every 200 steps (with our patch)
+val_batches: -1                         # use entire validation set for evaluation
+save_every: 100                         # save adapter weights every 100 steps
+optimizer: "adamw"                      # use AdamW optimizer for better stability
+
+# LoRA parameters
+adapter_path: "finetune/adapters"       # directory to save LoRA checkpoints
+num_layers: 2                           # reduced to 2 layers to avoid memory issues
+grad_checkpoint: true                   # enable gradient checkpointing for memory efficiency
+
+# Sequence parameters
+max_seq_length: 512                     # reduced sequence length to avoid memory issues
+mask_prompt: true                       # mask prompts during training
+
+# Other parameters
+warmup_steps: 100                       # linear warmup steps
+weight_decay: 0.01                      # weight decay for Adam optimizer 

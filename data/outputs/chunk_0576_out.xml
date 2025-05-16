@@ -1,0 +1,103 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I notice that the text includes several verses, some of which are from the Bhishma Parva and others from the Kunti Dhara Upanishad. The verses discuss topics like dharma, karma, and the nature of the self. There's a dialogue between Surya and Kapila, and mentions of different paths (prapancas) and the importance of scriptural authority (shastras). Also, there's a story about a Brahmin and the deity Kundadhar.
+
+For each question, I need to ensure that the answer is explicitly stated in the text. Let me go through the text again to pick out key points.
+
+1. The first part talks about the nature of the self (atman) and the three gunas (sattva, rajas, tamas). The verse mentions that the self is not bound by these gunas. So a question could be about what the self is not bound by.
+
+2. There's a discussion on the importance of scriptural authority (shastras) and the two paths (prapancas). The text says that the two paths are the word (shabda) and the eternal (para). So a question about the two paths.
+
+3. The text mentions that the self (atman) is not bound by the three gunas. Another question could be about what the self is not bound by.
+
+4. There's a part where it says that the self is not affected by the three gunas. So another question on that.
+
+5. The story of the Brahmin and Kundadhar involves a request for wealth. The deity offers wealth, but the Brahmin doesn't ask for it. So a question about what the Brahmin didn't ask for.
+
+Wait, but I need to make sure each question is distinct and covers different parts of the text. Let me check each verse again.
+
+First verse: "गतिज्ञः सर्वभूतानां तं देवा ब्राह्मणं विदुः" – The gods know the one who is the knower of all beings. But this might not be a good question as it's too vague.
+
+Another part: "शब्दब्रह्मणि निष्णातः परं ब्रह्माधिगच्छति" – One who is established in the word (shabda) attains the supreme Brahman. So a question about the path to Brahman.
+
+Also, the text mentions that the self (atman) is not bound by the three gunas. So that's a key point.
+
+Another part: "वेदाः प्रमाणं लोकानां न वेदाः पृष्ठतःकृताः" – The Vedas are the means of knowledge for the world, but they are not merely written. So a question about the role of Vedas.
+
+Also, the story of the Brahmin and Kundadhar: the Brahmin didn't ask for wealth, but the deity offered it. So a question about what the Brahmin didn't ask for.
+
+I need to make sure each question is specific, with the correct reference. Let me structure each entry with the trigger phrase, context, and four options. The answers must be directly from the text.
+
+Now, I'll draft each question one by one, ensuring they are distinct and based on explicit text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests understanding of the nature of the self (atman) in the context of gunas. The text explicitly states that the self is not bound by the three gunas (sattva, rajas, tamas), making this a core philosophical point. Other options represent common misconceptions about the self's relationship with gunas.
+  </reasoning>
+  <question>
+    In Mahabharata's Upanishadic dialogue, what are the three qualities (gunas) that the self (atman) is explicitly stated to be unaffected by?
+    A) Sattva, Raja, Tamas
+    B) Satya, Dharma, Ahimsa
+    C) Jnana, Bhakti, Karma
+    D) Kama, Krodha, Lobha
+  </question>
+  <answer>A) Sattva, Raja, Tamas</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the dual paths (prapancas) discussed in the text. The passage clearly distinguishes between the word (shabda) and the eternal (para), which are the two fundamental paths. Other options represent philosophical concepts but not the specific dual paths mentioned.
+  </reasoning>
+  <question>
+    In Mahabharata's philosophical discourse, what are the two fundamental paths (prapancas) that lead to the supreme Brahman according to the text?
+    A) Shabda (word) and Para (eternal)
+    B) Jnana and Bhakti
+    C) Dharma and Moksha
+    D) Karma and Samsara
+  </question>
+  <answer>A) Shabda (word) and Para (eternal)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses the text's assertion about the Vedas' role as the ultimate authority. The passage explicitly states that the Vedas are the means of knowledge (pramana) for the world, making this a foundational concept. Other options represent related but distinct concepts.
+  </reasoning>
+  <question>
+    In Mahabharata's Upanishadic section, what is identified as the ultimate means of knowledge (pramana) for the world according to the text?
+    A) Veda (Vedas)
+    B) Smriti (custom)
+    C) Nyaya (logic)
+    D) Darsana (philosophy)
+  </question>
+  <answer>A) Veda (Vedas)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the story of the Brahmin and Kundadhar. The text explicitly states that the Brahmin did not ask for wealth, focusing on his spiritual dedication. Other options represent possible but incorrect details from the narrative.
+  </reasoning>
+  <question>
+    In Mahabharata's Kundadhar Upanishad, what did the Brahmin explicitly NOT request from the deity Kundadhar despite being offered it?
+    A) Wealth
+    B) Knowledge
+    C) Longevity
+    D) Fame
+  </question>
+  <answer>A) Wealth</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the text's teaching about the nature of true knowledge. The passage states that knowledge (jnana) alone leads to liberation, making this the central point. Other options represent related but incorrect concepts.
+  </reasoning>
+  <question>
+    In Mahabharata's philosophical discourse, what is identified as the sole means to liberation (moksha) according to the text?
+    A) Jnana (knowledge)
+    B) Bhakti (devotion)
+    C) Karma (action)
+    D) Dharma (duty)
+  </question>
+  <answer>A) Jnana (knowledge)</answer>
+</entry>

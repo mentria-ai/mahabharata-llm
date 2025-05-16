@@ -1,0 +1,91 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I notice that the text includes verses from the Bhishma Parva and the Anushasana Parva. There's a lot about the four yugas (Krita, Treta, Dvapara, Kali) and their characteristics. Also, there's a dialogue between Bhima and Hanuman, discussing duties, dharma, and the structure of society. 
+
+For the first question, I can focus on the description of the Krita Yuga. The text mentions that in the Krita Yuga, there were no diseases, no deceit, and people followed dharma without any desire for rewards. The correct answer would be the Krita Yuga. The other options could be Treta, Dvapara, and Kali, which are the other yugas with different characteristics.
+
+Next, looking at the dialogue between Bhima and Hanuman, there's a part where Hanuman explains that in the Krita Yuga, people didn't need to perform rituals or sacrifices because dharma was naturally followed. The question could be about what was not present in the Krita Yuga. The answer would be "sacrifices" (yajnas), while the other options might be rituals, avarice, or deceit.
+
+Another part talks about the four varnas (Brahmins, Kshatriyas, Vaishyas, Shudras) and their duties. The text states that in the Krita Yuga, people followed their svadharma without any desire for rewards. So a question could be about the nature of duties in the Krita Yuga. The answer would be "svadharma" (one's own duty), with other options being external rewards, rituals, or caste-based roles.
+
+Then, there's a mention of Hanuman's transformation and Bhima's reaction. The text says that Hanuman's form was like a mountain, and Bhima was amazed. The question could be about the comparison of Hanuman's form. The answer would be "a mountain," with other options being a river, a fire, or a tree.
+
+Lastly, the text discusses the duties of different varnas. For example, Brahmins were to study and teach, Kshatriyas to protect, Vaishyas to trade, and Shudras to serve. A question could ask about the duty of Kshatriyas. The answer would be "protecting the kingdom," with other options being teaching, trading, or serving.
+
+I need to make sure each question is specific, includes the correct references, and that the answers are directly from the text. Also, check that the options are plausible but incorrect. For example, in the yuga question, Treta might have some rituals, Dvapara might have more deceit, and Kali would have the most issues. 
+
+I should also verify the exact verses. The yuga descriptions are in verses 9-21, and the Hanuman-Bhima dialogue is in verses 1-25 of the section. The varna duties are mentioned in verses 17-36. 
+
+Now, structuring each entry with the required XML format, ensuring the reasoning explains why the answer is correct and why others are not. Also, keeping answers under 100 characters. Let me draft each question now.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the Krita Yuga's characteristics. The text explicitly states that in the Krita Yuga, there were no diseases, deceit, or desire for rewards. Other yugas (Treta, Dvapara, Kali) are described as progressively deteriorating in these aspects.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verses 9-21), which yuga is described as having no diseases, deceit, or desire for rewards?
+    A) Treta Yuga
+    B) Dvapara Yuga
+    C) Krita Yuga
+    D) Kali Yuga
+  </question>
+  <answer>C) Krita Yuga</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text explicitly states that in the Krita Yuga, people followed dharma without seeking rewards. Other yugas introduced rituals (yajnas) and material desires. The answer is directly supported by the verse mentioning "sacrifices" (yajnas) as absent in the Krita Yuga.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 13), what was NOT practiced in the Krita Yuga according to the text?
+    A) Rituals (yajnas)
+    B) Avarice
+    C) Deceit
+    D) Disease
+  </question>
+  <answer>A) Rituals (yajnas)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text states that in the Krita Yuga, people followed their svadharma (own duty) without external rewards. Other options like "external rewards" or "caste-based roles" are contradicted by the text's emphasis on natural dharma.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 17), what did people in the Krita Yuga follow without external rewards?
+    A) External rewards
+    B) Svadharma
+    C) Caste-based roles
+    D) Material desires
+  </question>
+  <answer>B) Svadharma</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes Hanuman's form as "like a mountain" (Vindhya mountain) and "golden" (souvarna). Other options like "river" or "fire" are not mentioned. The comparison to a mountain emphasizes his immense size and strength.
+  </reasoning>
+  <question>
+    In Mahabharata's Anushasana Parva (verse 5), how is Hanuman's form described when he appears to Bhima?
+    A) Like a river
+    B) Like a mountain
+    C) Like a fire
+    D) Like a tree
+  </question>
+  <answer>B) Like a mountain</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text explicitly assigns Kshatriyas the duty of "protecting the kingdom" (nigrahapalana). Other varnas have distinct roles: Brahmins teach, Vaishyas trade, Shudras serve. The answer is directly stated in the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Anushasana Parva (verse 35), what is the primary duty of Kshatriyas according to the text?
+    A) Teaching
+    B) Trading
+    C) Protecting the kingdom
+    D) Serving
+  </question>
+  <answer>C) Protecting the kingdom</answer>
+</entry>

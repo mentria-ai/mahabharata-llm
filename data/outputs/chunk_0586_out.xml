@@ -1,0 +1,89 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look through the verses to identify key elements. The text includes dialogues between Yudhishthira and Bhishma, discussing yoga, sannyasa, and spiritual concepts. There are references to sannyasa (renunciation), the three gunas (sattva, rajas, tamas), and various spiritual practices. Also, there's mention of different realms like svarga (heaven), narak (hell), and moksha (liberation). 
+
+For each question, I need to ensure that the answer is explicitly stated in the text. Let's go through the verses step by step.
+
+1. The first part talks about sannyasa. Verse 43 mentions that a sannyasi should avoid certain things. The correct answer would be avoiding kama (desire) and krodha (anger). The other options might include things like food or rituals, but the text specifically lists kama and krodha.
+
+2. The text discusses the three gunas. Verse 14 mentions sattva, rajas, and tamas with their respective gunas. The answer here would be sattva being tenfold. The other options could be numbers for other gunas, but the text states sattva as ten.
+
+3. There's a part about the path of yoga. Verse 50 says that the path of sannyasa is difficult. The options would include different challenges, but the text specifically mentions the path being difficult.
+
+4. The text mentions the five elements (pancha bhutas). Verse 28 talks about the five elements and their qualities. The answer would be earth (prithvi), but the options might include other elements.
+
+5. Another part discusses the seven sages (saptarshi). Verse 28 mentions the seven sages. The answer would be the seven sages, with other options being different groups.
+
+I need to make sure each question is specific, includes the correct reference, and the options are plausible but only one is correct. Also, check that the answers are under 100 characters and the reasoning explains why the correct answer is right and others are wrong.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests understanding of sannyasa (renunciation) principles. The text explicitly states that a sannyasi must avoid kama (desire) and krodha (anger). Other options like food or rituals are not mentioned as prohibitions. The reference to "sannyasa" in the text directly supports this answer.
+  </reasoning>
+  <question>
+    In Mahabharata's Sanyasa Parva (verse 43), what two qualities must a sannyasi avoid according to Bhishma's teachings?
+    A) Wealth and fame
+    B) Kama (desire) and Krodha (anger)
+    C) Food and water
+    D) Marriage and family
+  </question>
+  <answer>B) Kama (desire) and Krodha (anger)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines knowledge of the three gunas (sattva, rajas, tamas). The text explicitly states sattva has tenfold qualities, rajas nine, and tamas eight. Other options like "five elements" or "six virtues" are unrelated to this specific numerical description in the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Sanyasa Parva (verse 14), how many qualities does sattva (purity) possess according to Bhishma's teachings?
+    A) Five
+    B) Eight
+    C) Ten
+    D) Twelve
+  </question>
+  <answer>C) Ten</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of spiritual paths. The text explicitly states the sannyasa path is "durogam" (difficult). Other options like "easy" or "unlimited" contradict the text's description of its challenges. The reference to "sannyasa" in the text directly supports this answer.
+  </reasoning>
+  <question>
+    In Mahabharata's Sanyasa Parva (verse 50), what quality does Bhishma attribute to the path of sannyasa?
+    A) Easy
+    B) Unchanging
+    C) Difficult
+    D) Eternal
+  </question>
+  <answer>C) Difficult</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses understanding of elemental classifications. The text explicitly lists pancha bhutas (five elements) with specific qualities. Other options like "seven sages" or "three gunas" are unrelated to this specific description in the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Sanyasa Parva (verse 28), how many elements (bhutas) does Bhishma describe as having distinct qualities?
+    A) Three
+    B) Five
+    C) Seven
+    D) Nine
+  </question>
+  <answer>B) Five</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of saptarshi (seven sages). The text explicitly mentions "saptarshi" (seven sages) in verse 28. Other options like "twelve rishis" or "four directions" are unrelated to this specific reference in the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Sanyasa Parva (verse 28), which group of sages does Bhishma specifically mention?
+    A) Twelve rishis
+    B) Seven sages (saptarshi)
+    C) Four directions
+    D) Six virtues
+  </question>
+  <answer>B) Seven sages (saptarshi)</answer>
+</entry>

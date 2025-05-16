@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, teachings, and specific references. The text seems to be from the Bhishma Parva, as it mentions Bhishma and other kings. There are verses about kingship, dharma, and various duties of a ruler. 
+
+For the first question, I notice verses 26-28 mention "शुचिस्तु पृथिवीपालो लोकचित्तग्रहे रतः" which talks about a king who is pure and devoted to the people's welfare. The correct answer would be "Shuchi" (the pure one), but I need to check the options. The other options could be other kings or titles. 
+
+Next, looking at verses 13-14, there's a discussion about the origin of kingship. The text says "नैव राज्यं न राजासीन्न दण्डो न च दाण्डिकः" which implies that initially, there was no kingdom, king, or punishment. So the question could be about the origin of kingship, with the answer being "No kingdom, king, or punishment existed initially."
+
+Another part mentions "एकस्य च प्रसादेन कृत्स्नो लोकः प्रसीदति" which means the world is pleased by one's grace. The question could be about the effect of a king's grace, with the answer being "The world is pleased."
+
+Looking for specific references, like "भीष्म उवाच" (Bhishma said) in verse 1, so a question about Bhishma's teachings. The answer would be "Bhishma taught the duties of a king."
+
+Another part talks about "राज्यं हि सुमहत्तन्त्रं दुर्धार्यमकृतात्मभिः" which states that kingship is a great responsibility. The question could be about the nature of kingship, with the answer being "A great and difficult responsibility."
+
+I need to ensure each question is distinct, covers different parts of the text, and uses exact references. Also, check that the options are plausible but only one is correct. Avoid adding external info. Let me structure each entry with the required XML format.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of ideal royal qualities from the text. The verse emphasizes purity and people-centric governance, aligning with "Shuchi" (the pure one). Other options represent different royal traits but not the specific quality described.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 26-28), which term describes a king who remains pure and devoted to his people's welfare?
+    A) Shuchi (the pure one)
+    B) Dharma-raksha (dharma protector)
+    C) Kshatriya (warrior)
+    D) Rajan (king)
+  </question>
+  <answer>A) Shuchi (the pure one)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses the origin of kingship as described in the text. The verse explicitly states no kingdom or punishment existed initially. Other options reflect later developments in governance.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 13-14), what existed before the establishment of kingship and law?
+    A) No kingdom, king, or punishment
+    B) A divine monarchy
+    C) A council of sages
+    D) A warrior-led republic
+  </question>
+  <answer>A) No kingdom, king, or punishment</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the text's teaching about royal grace. The verse states the world is pleased by a king's grace. Other options misinterpret the text's focus on collective well-being.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 10), what effect does a king's grace have on his subjects?
+    A) The world is pleased
+    B) Enemies become allies
+    C) Wealth increases
+    D) Enemies are defeated
+  </question>
+  <answer>A) The world is pleased</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Bhishma's role in the text. The verse explicitly states Bhishma taught royal duties. Other options represent different figures or roles in the epic.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 1), who is described as teaching the duties of a king?
+    A) Bhishma
+    B) Krishna
+    C) Vidura
+    D) Sage Vyasa
+  </question>
+  <answer>A) Bhishma</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses the text's view on kingship's responsibility. The verse states kingship is a "great and difficult responsibility." Other options reflect different aspects of governance not emphasized here.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 21), what is described as a "great and difficult responsibility"?
+    A) Kingship
+    B) Warfare
+    C) Priesthood
+    D) Agriculture
+  </question>
+  <answer>A) Kingship</answer>
+</entry>

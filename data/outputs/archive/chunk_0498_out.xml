@@ -1,0 +1,147 @@
+<think>
+Okay, I need to create 10 high-quality question-answer pairs based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I notice that the text includes verses from the Mahabharata, possibly from the Bhishma Parva or other sections. The verses discuss themes like dharma, karma, and the consequences of actions. There are mentions of kings, warriors, and philosophical concepts. 
+
+I should identify specific events, characters, or teachings. For example, there's a reference to Yudhishthira's lament over the deaths of his relatives, which is a key part of the Mahabharata. Also, there's discussion about the nature of karma and the role of deities. 
+
+I need to make sure each question is standalone. For instance, instead of saying "In the passage...", I should provide context within the question. For example, asking about Yudhishthira's sorrow during the exile. 
+
+I should check for lesser-known elements. The text mentions "Ashvamedha" (a horse sacrifice), "Brahma-hatya" (killing a Brahmin), and "prayaschitta" (expiation). These need to be explained in the answers. 
+
+I need to vary the question types: factual, "did you know", detective, philosophical. For example, a detective-style question could explore why Yudhishthira feels guilty. A philosophical question might ask about the nature of dharma versus karma. 
+
+I should ensure answers are comprehensive, using details from the text. For example, when talking about prayaschitta, mention the specific rituals like Ashvamedha or giving gifts. 
+
+I need to avoid adding information not in the text. For example, the text mentions that killing a Brahmin is a grave sin, but I shouldn't add other sins not mentioned. 
+
+Let me draft the first question: "What philosophical concept is discussed in the verses where it is stated that 'karma is the result of actions, and the Lord is the doer'?" The answer would explain the debate between karma and divine will. 
+
+Another question: "What is the significance of the Ashvamedha sacrifice mentioned in the text, and how is it related to expiation?" Answer would explain it's a ritual for atonement. 
+
+I need to check each question for self-containment and accuracy. Also, ensure that each answer includes necessary context without referencing the text directly. 
+
+I should also include questions about specific characters like Yudhishthira, and concepts like dharma. For example, "Why does Yudhishthira feel guilty after the war, and what does the text suggest about his duty?" 
+
+Make sure to cover different parts of the text, not just one section. Check for 10 unique questions. Avoid repetition. Each answer should be concise but informative, using the text's content.
+</think>
+
+<entry>
+  <reasoning>
+    The text contains verses discussing karma, dharma, and expiation (prayaschitta). The first question addresses a core philosophical debate in the Mahabharata about divine will versus human action. The answer draws directly from the text's assertion that "karma is the result of actions" and the role of the Lord as the ultimate doer.
+  </reasoning>
+  <question>
+    What philosophical debate is presented in the verses that state "karma is the result of actions, and the Lord is the doer," and how does this relate to the concept of dharma?
+  </question>
+  <answer>
+    The text presents a philosophical debate about whether actions are solely the result of human effort (karma) or if the divine will (Ishvara) is the ultimate force behind them. It suggests that while individuals perform actions, their outcomes are governed by cosmic order (dharma). This reflects the Mahabharata's exploration of free will versus divine destiny, emphasizing that even righteous actions must align with dharma to avoid sin.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text explicitly mentions "Ashvamedha" (horse sacrifice) as a form of prayaschitta. The question focuses on this ritual's significance, which is a key element in the Mahabharata's ethical framework. The answer connects it to the text's discussion of expiation for grave sins.
+  </reasoning>
+  <question>
+    What is the significance of the Ashvamedha sacrifice in the context of expiation (prayaschitta) as described in the text, and which sin does it specifically address?
+  </question>
+  <answer>
+    The Ashvamedha sacrifice is described as a ritual for expiating the sin of killing a Brahmin (Brahma-hatya). The text states that performing this sacrifice allows a person to purify themselves of such a grave sin, reflecting the Mahabharata's emphasis on ritual atonement for moral transgressions.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text includes Yudhishthira's lament over the deaths of his relatives, a pivotal moment in the Mahabharata. The question highlights this emotional conflict, while the answer explains the moral dilemma of upholding dharma versus personal grief.
+  </reasoning>
+  <question>
+    Why does Yudhishthira express sorrow over the deaths of his relatives in the text, and what moral dilemma does this reveal about his duty (dharma)?
+  </question>
+  <answer>
+    Yudhishthira laments the deaths of his relatives, including brothers, sons, and allies, caused by the war. This sorrow reveals a moral conflict between his duty as a king to uphold dharma (cosmic order) and his personal grief. The text suggests that even righteous wars have unavoidable consequences, emphasizing the complexity of moral responsibility.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text discusses "prayaschitta" (expiation) for various sins. The question focuses on the ritual for killing a cow, a lesser sin than Brahmin-killing. The answer draws from the text's specific mention of gifting 100 cows to expiate this sin.
+  </reasoning>
+  <question>
+    What expiation (prayaschitta) is prescribed in the text for the sin of killing a cow, and how does this compare to the punishment for more severe sins like Brahmin-killing?
+  </reasoning>
+  <answer>
+    The text prescribes gifting 100 cows to expiate the sin of killing a cow. In contrast, killing a Brahmin requires more severe rituals like the Ashvamedha sacrifice. This reflects the Mahabharata's graded system of moral accountability, where the gravity of the sin determines the required atonement.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text mentions "Brahma-hatya" (killing a Brahmin) as the most severe sin. The question explores why this act is considered so grave, while the answer references the text's emphasis on Brahmins as spiritual guides.
+  </reasoning>
+  <question>
+    Why is the act of killing a Brahmin (Brahma-hatya) considered the most severe sin in the text, and what does this reveal about the Mahabharata's view of spiritual authority?
+  </question>
+  <answer>
+    The text portrays Brahmins as custodians of dharma and spiritual knowledge. Killing one is deemed the gravest sin because it disrupts cosmic and social order. This reflects the Mahabharata's reverence for Brahmins as moral and religious authorities, whose protection is essential for societal harmony.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text includes a "detective-style" question about the motivation behind Yudhishthira's guilt. The answer connects his remorse to the text's discussion of karma and the inevitability of consequences.
+  </reasoning>
+  <question>
+    What motivates Yudhishthira's guilt after the war, and how does the text explain the inevitability of consequences for actions, even when performed in accordance with dharma?
+  </question>
+  <answer>
+    Yudhishthira's guilt stems from the destruction of his family and allies, despite the war being fought to restore dharma. The text suggests that actions, even righteous ones, have unavoidable consequences governed by karma. This underscores the Mahabharata's theme that moral duty (dharma) does not exempt individuals from the results of their actions.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes the "Ashvamedha" sacrifice as a means of expiation. The question highlights its role in restoring social order, while the answer explains its connection to the Mahabharata's emphasis on ritual purity.
+  </reasoning>
+  <question>
+    How does the Ashvamedha sacrifice function as a means of restoring social and spiritual order, according to the text, and what does this reveal about the Mahabharata's view of ritual?
+  </question>
+  <answer>
+    The Ashvamedha sacrifice is portrayed as a ritual to purify a king of grave sins and reaffirm his role as a moral leader. The text suggests that rituals like this were essential for maintaining cosmic and social harmony, reflecting the Mahabharata's belief in the transformative power of prescribed ceremonies.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text includes a "did you know" element about the 100 cows for expiating cow-killing. The answer clarifies this lesser-known detail, emphasizing the Mahabharata's detailed ethical code.
+  </reasoning>
+  <question>
+    Did you know that the text specifies a particular number of cows to be gifted as expiation for killing a cow? What is this number, and what does it reveal about the Mahabharata's ethical framework?
+  </question>
+  <answer>
+    The text states that gifting 100 cows expiates the sin of killing a cow. This specificity reveals the Mahabharata's intricate ethical code, where even minor sins require precise atonement, reflecting a society deeply concerned with moral accountability and ritual correctness.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text discusses the concept of "karma" as both action and its result. The question explores this duality, while the answer explains the text's view of karma as an impartial force.
+  </reasoning>
+  <question>
+    How does the text describe the relationship between action (karma) and its consequences, and what does this imply about the impartiality of cosmic order?
+  </question>
+  <answer>
+    The text portrays karma as an impartial force where actions inevitably produce their results, regardless of the actor's intentions. This implies that cosmic order (dharma) operates without bias, ensuring that all beings face the consequences of their deeds, reinforcing the Mahabharata's emphasis on moral responsibility.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text includes a philosophical question about the nature of dharma versus karma. The answer draws from the text's assertion that dharma is the foundation of action, while karma is its outcome.
+  </reasoning>
+  <question>
+    What is the Mahabharata's perspective on the relationship between dharma (moral duty) and karma (action), as reflected in the text's assertion that "dharma is the foundation of all actions"?
+  </question>
+  <answer>
+    The text suggests that dharma provides the ethical framework for actions, while karma is the inevitable result of those actions. This implies that fulfilling one's dharma ensures righteous karma, but actions outside dharma lead to negative consequences, highlighting the interdependence of moral duty and cosmic law.
+  </answer>
+</entry>

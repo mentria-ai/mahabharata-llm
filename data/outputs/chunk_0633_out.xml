@@ -1,0 +1,84 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, teachings, and specific references. The text seems to include dialogues between characters like Vipula, Devasharma, and Bhishma. There are mentions of marriages, duties, and moral lessons. For example, there's a part where Vipula is talking about a vow (shaptha) and the consequences of breaking it. Also, there's a discussion about the duties of women and the importance of marriage rituals.
+
+I need to make sure each question is specific, includes the exact reference (like adhyaya or parva), and uses only the information given. Let me check each part.
+
+First question: The text mentions Vipula and Devasharma discussing a vow. The shaptha (vow) is a key point. So, a question about who took the vow and what it was. The answer would be Vipula, and the options would include other characters.
+
+Second question: The text talks about the duties of women and the importance of marriage. There's a part where it says "svarga" (heaven) is for those who follow dharma. So, a question about the consequence of following dharma in marriage.
+
+Third question: There's a mention of different types of marriages (Brahma, Daiva, etc.). The text lists them, so a question about which marriage type is mentioned.
+
+Fourth question: The text discusses the importance of the marriage ritual (panigrahana). A question about what the ritual signifies.
+
+Fifth question: There's a part where it says that a woman's husband is her god (deva). So, a question about the term used for the husband in marriage.
+
+I need to make sure each question has the correct reference. For example, the shaptha part is in the section with verses 15-20. The marriage types are in the "Vivaha Dharma" section. Each answer must be under 100 characters, and the options should be plausible but incorrect.
+
+Let me structure each entry with the reasoning, question, and answer. Check that all info is from the text. Avoid adding external knowledge. Make sure the questions are diverse and cover different parts of the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of vows and their consequences in the Mahabharata. The text explicitly states that Vipula took a vow (shaptha) to protect his wife, and breaking it led to dire consequences. Other options represent unrelated figures or concepts.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verses 15-20), who took a vow to protect his wife and faced severe consequences for breaking it?
+    A) Devasharma
+    B) Bhishma
+    C) Vipula
+    D) Markandeya
+  </question>
+  <answer>C) Vipula</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the Mahabharata's teaching on marital duty. The text states that following dharma in marriage leads to heavenly rewards (svarga). Other options represent unrelated concepts like wealth or lineage.
+  </reasoning>
+  <question>
+    In Mahabharata's Vivaha Dharma (verses 18-20), what reward is promised to those who uphold dharma in marriage?
+    A) Wealth
+    B) Immortality
+    C) Heaven (svarga)
+    D) Rebirth as a king
+  </question>
+  <answer>C) Heaven (svarga)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of marriage classifications. The text explicitly lists four types of marriages (Brahma, Daiva, etc.). Other options represent unrelated terms or concepts.
+  </reasoning>
+  <question>
+    In Mahabharata's Vivaha Dharma (verses 3-9), which marriage type is described as "gift of the girl to the groom by her father"?
+    A) Gandharva
+    B) Asura
+    C) Brahma
+    D) Arsha
+  </question>
+  <answer>C) Brahma</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the significance of marriage rituals. The text states that the panigrahana (hand-holding) ritual symbolizes the husband's role as the woman's "god" (deva). Other options represent unrelated elements of marriage.
+  </question>
+  <answer>D) Deva (god)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of marital obligations. The text explicitly states that a woman's husband is her "deva" (god) and she must obey him. Other options represent unrelated teachings or concepts.
+  </reasoning>
+  <question>
+    In Mahabharata's Vivaha Dharma (verses 11-12), what term is used to describe a husband's divine role in a woman's life?
+    A) Kshatriya
+    B) Brahmin
+    C) Deva (god)
+    D) Vaishya
+  </question>
+  <answer>C) Deva (god)</answer>
+</entry>

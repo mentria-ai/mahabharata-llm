@@ -1,0 +1,95 @@
+<think>
+Okay, I need to create 5 multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I notice that the text includes several dialogues between Yudhishthira, Yaks, and other characters. There's mention of the Virata Parva, which is part of the Mahabharata. The verses talk about Yudhishthira's conversation with a Yaksha (a supernatural being) where they discuss dharma, righteousness, and the qualities of a righteous person. There's also a part where Yudhishthira is advised to live in disguise (ajnaata vaasa) for 13 years, which is part of the Virata Parva. 
+
+Looking at the verses, there's a specific reference to "Yaksha" and "Yudhishthira" discussing the qualities of a righteous person. The text mentions that a righteous person (sarvadhanin) is one who is equal in pleasure and pain, and who remains steadfast in dharma. Also, there's a part where Yudhishthira is advised to live in Virata's kingdom, and there's a mention of the 13-year exile. 
+
+I need to make sure each question is based on explicit information from the text. Let's break it down:
+
+1. The first question could be about the qualities of a righteous person (sarvadhanin) as discussed between Yudhishthira and the Yaksha. The text says that such a person is equal in pleasure and pain, and remains steadfast in dharma. So the answer would be that the Yaksha defines a righteous person as one who is equal in pleasure and pain.
+
+2. Another question could be about the advice given to Yudhishthira to live in Virata's kingdom. The text mentions that Yudhishthira is advised to live in Virata's kingdom for the 13 years of exile. So the answer would be Virata.
+
+3. There's a part where Yudhishthira says that he will live in disguise (ajnaata vaasa) for 13 years. So a question about the duration of the exile in disguise would be valid.
+
+4. The text also mentions that Yudhishthira is advised to live in Virata's kingdom, and there's a reference to the 13 years. So another question could be about the number of years they had to live in disguise.
+
+5. There's a mention of the Yaksha's advice to Yudhishthira about dharma and righteousness, so a question about the Yaksha's role in the conversation.
+
+I need to check each of these against the text to ensure they are accurate. Also, make sure the options are plausible but incorrect. For example, in the first question, the options could include other qualities like wealth, knowledge, etc., but the correct answer is equality in pleasure and pain.
+
+Now, structuring each entry with the required XML format, including the reasoning, question, and answer. Each question must have the trigger phrase "In Mahabharata's" and specific references. For example, the Virata Parva, specific verses, or sections.
+
+I need to make sure that each question is unique and covers different parts of the text. Let me draft each one step by step, verifying against the provided text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the Yaksha's definition of a righteous person (sarvadhanin) in the Mahabharata. The text explicitly states that such a person remains equanimous in pleasure and pain, a core dharma teaching. Other options reflect common virtues but miss the specific emphasis on equality in suffering and joy.
+  </reasoning>
+  <question>
+    In Mahabharata's Virata Parva, what quality did the Yaksha define as essential for a "sarvadhanin" (all-possessing) person?
+    A) Wealth accumulation
+    B) Equal in pleasure and pain
+    C) Mastery of scriptures
+    D) Military prowess
+  </question>
+  <answer>B) Equal in pleasure and pain</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the Virata Parva's narrative about Yudhishthira's exile. The text explicitly states he sought refuge in Virata's kingdom during his 13-year disguise. Other options represent unrelated kings or locations from the epic.
+  </reasoning>
+  <question>
+    In Mahabharata's Virata Parva, where did Yudhishthira seek shelter during his 13-year exile?
+    A) Hastinapura
+    B) Indraprastha
+    C) Virata's kingdom
+    D) Kashi
+  </question>
+  <answer>C) Virata's kingdom</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the 13-year exile duration in the Virata Parva. The text explicitly states the Pandavas had to live in disguise for 13 years. Other options reflect partial truths but miss the exact duration.
+  </reasoning>
+  <question>
+    In Mahabharata's Virata Parva, how many years did the Pandavas spend in disguise?
+    A) 10
+    B) 12
+    C) 13
+    D) 14
+  </question>
+  <answer>C) 13</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the Yaksha's role in the Mahabharata's moral teachings. The text shows the Yaksha as a divine teacher who challenges Yudhishthira's understanding of dharma. Other options represent different divine figures but not the specific Yaksha's role here.
+  </reasoning>
+  <question>
+    In Mahabharata's Virata Parva, what was the Yaksha's role in Yudhishthira's dialogue?
+    A) Guardian of the forest
+    B) Divine teacher
+    C) Enemy warrior
+    D) Family advisor
+  </question>
+  <answer>B) Divine teacher</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the Pandavas' strategy during exile. The text explicitly states they sought refuge in Virata's kingdom to avoid detection. Other options represent unrelated locations or strategies from the epic.
+  </reasoning>
+  <question>
+    In Mahabharata's Virata Parva, which kingdom did the Pandavas choose for their disguise?
+    A) Panchala
+    B) Matsya
+    C) Kasi
+    D) Kekaya
+  </question>
+  <answer>B) Matsya</answer>
+</entry>

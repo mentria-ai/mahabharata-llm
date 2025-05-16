@@ -1,0 +1,115 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by carefully reading through the text to identify key elements.
+
+First, the text includes several verses. Let me look for mentions of specific characters, events, and parvas. For example, there's a mention of Bhishma, Drona, Karna, and others. There's also reference to the Bhishma Parva, as seen in the example. The text talks about the Pandavas and Kauravas, their warriors, and some key events like battles and dialogues.
+
+Question 1: The text starts with "अहं ह्येकः पार्थिवान्सर्वयोधा..." which seems to be a statement by a character. Looking at the context, it might be Karna. But I need to check the exact reference. The verse numbers are given as 99-103. The line "वृद्धो भीष्मः शान्तनवः कृपश्च; द्रोणः सपुत्रो विदुरश्च धीमान्" mentions Bhishma, Santanu, Kripa, Drona, and Vidura. So maybe a question about who is mentioned as the commander of the Kaurava forces. But the example given earlier was about Bhishma leading on the first day. However, the text here might not explicitly state that. Wait, the user said to use only information present. So if the text says "भीष्मः शान्तनवः कृपश्च" then maybe a question about who is mentioned as the commander. But I need to check the exact lines.
+
+Another part: "वैशम्पायन उवाच" which is the narrator. Then there's a mention of Narayana and Nara, like "नरनारायणौ देवौ पूर्वदेवाविति श्रुतिः" which refers to Narayana and Nara as the original deities. So a question about who is referred to as the original deities.
+
+Another part: "कर्ण उवाच" which is Karna speaking. So maybe a question about Karna's statement. The text includes "नैवमायुष्मता वाच्यं यन्मामात्थ पितामह" which is Karna's dialogue. So a question about what Karna says.
+
+Also, there's a mention of "वृकोदरः" which is Bhima. So a question about Bhima's role or characteristics.
+
+I need to make sure each question is based on explicit text. Let's structure each question with the trigger phrase, specific reference, and four options. For example, the first question could be about who is referred to as the original deities (Narayana and Nara). The text says "नरनारायणौ देवौ पूर्वदेवाविति श्रुतिः" so the answer is Narayana and Nara. But the options need to be four, with one correct. So options could be A) Narayana and Nara, B) Vishnu and Shiva, etc.
+
+Another question could be about the commander of the Kaurava forces, but the text might not explicitly state that. However, in the example, the user used "Bhishma Parva" and the question about Bhishma leading on the first day. But in the given text, there's a line "भीष्मः शान्तनवः कृपश्च" which lists Bhishma, Santanu, Kripa. But maybe the question is about who is mentioned as the commander. However, the text might not explicitly say that. So I need to check if the text says "भीष्मः शान्तनवः कृपश्च" is part of a list of commanders. If so, then the answer would be Bhishma. But I need to make sure the text supports that.
+
+Another part: "कर्ण उवाच" and his statement about not following the father's advice. So a question about Karna's statement. The text says "नैवमायुष्मता वाच्यं यन्मामात्थ पितामह" which translates to "It is not appropriate to speak thus, O father." So the answer would be that Karna says it's not appropriate to speak thus. But the options need to be in Sanskrit or English? The example uses English, so I'll use English.
+
+Another line: "वृकोदरः" which is Bhima. So a question about Bhima's role. The text says "वृकोदरः" is mentioned in the context of being a warrior. So a question about who is known as Vrikodara (Bhima).
+
+Also, there's a mention of "नरनारायणौ" which are the two deities. So a question about who is referred to as the original deities.
+
+I need to make five distinct questions. Let me outline them:
+
+1. Who is referred to as the original deities (Narayana and Nara) in the text?
+2. Which character says "It is not appropriate to speak thus, O father"?
+3. Who is known as Vrikodara (Bhima) in the text?
+4. Which commander is listed with Santanu and Kripa?
+5. What is the name of the warrior who is described as having immense strength and is a key Pandava?
+
+But I need to check the exact text for each. For example, the line "नरनारायणौ देवौ पूर्वदेवाविति श्रुतिः" directly states that Narayana and Nara are the original deities. So question 1 would be about that.
+
+Karna's statement is in "कर्ण उवाच" and the line "नैवमायुष्मता वाच्यं यन्मामात्थ पितामह" which is Karna addressing his father. So the answer is Karna.
+
+Vrikodara is Bhima, mentioned in "वृकोदरः" in the context of being a warrior.
+
+The commander listed with Santanu and Kripa is Bhishma, as per "वृद्धो भीष्मः शान्तनवः कृपश्च" which lists Bhishma, Santanu, Kripa. So the answer would be Bhishma.
+
+The warrior with immense strength is Bhima, as "महाबाहुर्महाबलः" is mentioned in the text. So the answer is Bhima.
+
+Now, I need to structure each question with the trigger phrase, specific reference, and four options. Also, ensure that the answers are under 100 characters.
+
+Let me draft each entry now.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of divine figures in the Mahabharata. The text explicitly states that Narayana and Nara are the original deities, aligning with their role as cosmic entities. Other options represent different divine pairs but are not mentioned in the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 19), which divine pair is described as the "original deities" (पूर्वदेवाविति श्रुतिः)?
+    A) Vishnu and Shiva
+    B) Narayana and Nara
+    C) Brahma and Saraswati
+    D) Indra and Varuna
+  </question>
+  <answer>B) Narayana and Nara</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Karna's defiance of his father's advice. The text directly quotes Karna's statement about rejecting paternal counsel. Other options represent different characters' dialogues but are not tied to this specific verse.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 29), which character declares "It is not appropriate to speak thus, O father" (नैवमायुष्मता वाच्यं यन्मामात्थ पितामह)?
+    A) Arjuna
+    B) Karna
+    C) Duryodhana
+    D) Bhishma
+  </question>
+  <answer>B) Karna</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question identifies Bhima's epithet. The text explicitly refers to him as "Vrikodara" (वृकोदरः), meaning "wolf-bellied," a known nickname for Bhima. Other options represent different warriors or epithets not mentioned here.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 31), which Pandava is described as "Vrikodara" (वृकोदरः), a term meaning "wolf-bellied"?
+    A) Yudhishthira
+    B) Bhima
+    C) Nakula
+    D) Sahadeva
+  </question>
+  <answer>B) Bhima</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Kaurava commanders. The text lists Bhishma, Santanu, and Kripa as key figures. Other options represent different warriors or roles not tied to this specific verse.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 103), which Kaurava commander is explicitly named alongside Santanu and Kripa?
+    A) Drona
+    B) Bhishma
+    C) Karna
+    D) Duryodhana
+  </question>
+  <answer>B) Bhishma</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question identifies Bhima's role in battle. The text describes him as "mahabahu" (great-armed) and "mahabala" (great-armed), emphasizing his strength. Other options represent different warriors or attributes not tied to this verse.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 6), which Pandava is described as "mahabahu" (great-armed) and "mahabala" (great-armed)?
+    A) Arjuna
+    B) Bhima
+    C) Yudhishthira
+    D) Nakula
+  </question>
+  <answer>B) Bhima</answer>
+</entry>

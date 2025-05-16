@@ -1,0 +1,183 @@
+<think>
+Okay, I need to create 10 quiz entries based on the provided Sanskrit verses. Let me start by understanding the content of the verses. The text seems to be from the Mahabharata, specifically parts of the Vana Parva, possibly the story of the Pandavas in the forest. There are references to characters like Bhima, Kṛṣṇa, Draupadi, and Hanuman. The verses describe events like the Pandavas wandering in the forest, encountering Hanuman, and some interactions with nature and deities.
+
+First, I need to pick specific verses and create questions around them. Each entry must have a reasoning section with the verse reference, the Sanskrit quote, and bullet points explaining the answer and why the other options are wrong. The questions should be self-contained, starting with "In the Mahabharata..." and include the citation.
+
+Let me look for key events. For example, there's a part where Bhima meets Hanuman. The verse 144.13 mentions Bhima meeting Hanuman. Another part is about Draupadi being carried by Nakula. Also, there's a mention of the Pandavas being in the forest, and some interactions with the environment like wind and rain.
+
+I need to ensure that each question is based solely on the given verses. For example, one question could be about who carried Draupadi. The verse 144.5 says Nākula carried her. So the answer would be Nākula, with distractors like Bhima, Kṛṣṇa, or Dharma.
+
+Another point is the meeting between Bhima and Hanuman. The verse 146.73-74 has Bhima and Hanuman talking. The question could be about who Hanuman is, with options like a demon, a god, a king, or a sage. The answer is a sage (Vānara), but the verse says he's a vānara, which is a monkey, but in the context, he's a sage.
+
+Also, there's a part where the Pandavas are in the forest, and the wind and rain are described. Maybe a question about who was carried by Nākula. Another could be about the reason for the Pandavas' journey, but the verses don't mention that, so I need to stick to what's there.
+
+I need to make sure each entry has four options, with the correct one based on the verse. Also, the distractors should be plausible, like other Pandava brothers or deities.
+
+Let me check each verse for possible questions. For example, verse 144.13 mentions Bhima taking Kṛṣṇa to a tree. So a question could be who took Kṛṣṇa to the tree, with options like Bhima, Dharma, Arjuna, or Nakula. The answer is Bhima.
+
+Another verse, 144.14, mentions Dharma and Dhaumya in the forest. So a question about who was in the forest with Dharma. The answer would be Dhaumya, but the verse says Dharma and Dhaumya, so the options could be Dhaumya, Arjuna, Kṛṣṇa, or Nakula.
+
+I need to make sure each question is unique and covers different parts of the verses. Also, avoid external knowledge, just use the given text. For example, the meeting with Hanuman is in the verses, so that's a good point.
+
+I'll proceed to create 10 entries, each with a different focus based on the verses provided.
+</think>
+
+<entry>
+  <reasoning>
+    • **Vana-parvan 144.5**  
+    • Proof: *नकुल उवाच|| राजन्पाञ्चालराजस्य सुतेयमसितेक्षणा*  
+    • Nākula carried Draupadi after she fainted.  
+    • Bhima and Kṛṣṇa were present but not the ones who carried her. Dharma is unrelated here.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, who carried Draupadi after she fainted in the forest (see Vana-parvan 144.5)?  
+    A) Bhima   B) Kṛṣṇa   C) Nākula   D) Dharma
+  </question>
+  <answer>
+    C) Nākula
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Vana-parvan 144.13**  
+    • Proof: *ततः कार्मुकमुद्यम्य भीमसेनो महाबलः*  
+    • Bhima took Kṛṣṇa to a tree for shelter.  
+    • Dharma and Arjuna were elsewhere; Kṛṣṇa was not carried.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, who carried Kṛṣṇa to a tree for shelter during the storm (see Vana-parvan 144.13)?  
+    A) Dharma   B) Arjuna   C) Bhima   D) Yudhiṣṭhira
+  </question>
+  <answer>
+    C) Bhima
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Vana-parvan 146.73–74**  
+    • Proof: *हनूमान्वायुतनयो वायुपुत्रमभाषत*  
+    • Hanuman identified himself as the son of Vāyu (wind god).  
+    • He was not a demon, king, or sage in this context.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, who did Hanuman claim to be during his dialogue with Bhima (see Vana-parvan 146.73–74)?  
+    A) A demon   B) A king   C) A sage   D) The son of Vāyu
+  </question>
+  <answer>
+    D) The son of Vāyu
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Vana-parvan 146.12**  
+    • Proof: *सागरं मकरालयम्*  
+    • Hanuman compared himself to the ocean (Sāgara) in his dialogue.  
+    • The other options are unrelated to his self-description.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, what did Hanuman liken himself to during his conversation with Bhima (see Vana-parvan 146.12)?  
+    A) A mountain   B) A river   C) The ocean (Sāgara)   D) A fire
+  </question>
+  <answer>
+    C) The ocean (Sāgara)
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Vana-parvan 146.23**  
+    • Proof: *अहं केसरिणः क्षेत्रे वायुना जगदायुषा*  
+    • Hanuman described himself as a vānara (monkey) born from Vāyu.  
+    • He was not a god, warrior, or demon.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, what term did Hanuman use to describe himself during his dialogue (see Vana-parvan 146.23)?  
+    A) A god   B) A warrior   C) A vānara (monkey)   D) A demon
+  </question>
+  <answer>
+    C) A vānara (monkey)
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Vana-parvan 146.30**  
+    • Proof: *विष्णुर्मानुषरूपेण चचार वसुधामिमाम्*  
+    • Rāma appeared in human form (mānuṣarūpa) to wander the earth.  
+    • The other options misinterpret his divine nature.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, what form did Rāma take when he wandered the earth (see Vana-parvan 146.30)?  
+    A) Divine   B) Animal   C) Human (mānuṣarūpa)   D) Divine-automaton
+  </question>
+  <answer>
+    C) Human (mānuṣarūpa)
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Vana-parvan 146.32**  
+    • Proof: *स हत्वा वालिनं राज्ये सुग्रीवं प्रत्यपादयत्*  
+    • Hanuman defeated Vali and installed Sugrīva as king.  
+    • The other options misattribute the action.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, what did Hanuman do to Vali after their fight (see Vana-parvan 146.32)?  
+    A) Killed him   B) Exiled him   C) Made him king   D) Fought him to a draw
+  </question>
+  <answer>
+    A) Killed him
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Vana-parvan 146.36**  
+    • Proof: *ततः प्रतिष्ठिते रामे वीरोऽयं याचितो मया*  
+    • Hanuman praised Rāma as a hero who destroyed Rāvaṇa.  
+    • The other options misrepresent Rāma’s deeds.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, what did Hanuman say about Rāma’s victory over Rāvaṇa (see Vana-parvan 146.36)?  
+    A) He was defeated   B) He was exiled   C) He destroyed Rāvaṇa   D) He fled
+  </question>
+  <answer>
+    C) He destroyed Rāvaṇa
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Vana-parvan 146.40**  
+    • Proof: *अयं च मार्गो मर्त्यानामगम्यः कुरुनन्दन*  
+    • Hanuman warned Bhima that the path was inaccessible to mortals.  
+    • The other options misinterpret the divine nature of the path.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, what did Hanuman say about the path he guarded (see Vana-parvan 146.40)?  
+    A) It was for gods only   B) It was for animals   C) It was inaccessible to mortals   D) It was for warriors
+  </question>
+  <answer>
+    C) It was inaccessible to mortals
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Vana-parvan 146.41**  
+    • Proof: *दिव्यो देवपथो ह्येष नात्र गच्छन्ति मानुषाः*  
+    • Hanuman declared the path as divine and unreachable for humans.  
+    • The other options misrepresent the path’s nature.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, what did Hanuman say about the path he guarded (see Vana-parvan 146.41)?  
+    A) It was for animals   B) It was for gods only   C) It was for warriors   D) It was for sages
+  </question>
+  <answer>
+    B) It was for gods only
+  </answer>
+</entry>

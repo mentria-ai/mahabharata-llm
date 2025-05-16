@@ -1,0 +1,85 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by carefully reading through the text to identify key elements like characters, events, and teachings.
+
+First, I notice mentions of Agni (fire) and his role in yajnas (sacrifices). There's a part where it says "Agni is the hota (priest) of yajnas" and that Brahmins are considered Agni-bhuta (transformed into fire). That could be a good question about Agni's role.
+
+Next, there's a reference to Vishwarupa (the cosmic form) and his role in the battle against the asuras. The text mentions that Vishwarupa was the purohita (priest) of the gods and that he was killed by Indra. This could be a question about Vishwarupa's role and his death.
+
+Another part talks about the story of Indra and his wife Shachi. Indra was cursed by Nahusha and had to leave his throne, leading to a conflict. This could be a question about the curse on Indra and the role of Nahusha.
+
+There's also a mention of the sage Bhrigu cursing Agni to be a devourer of all, which is a key point. That's another potential question about Bhrigu's curse on Agni.
+
+Lastly, the text includes a story about the river Vipasha (Vipas) and the sage Vasishta. The river was created when Vasishta's tapas (austerities) caused the water to flow. This could be a question about the origin of the Vipasha river.
+
+I need to ensure each question is specific, includes the correct references, and that the answers are directly from the text. Also, check that the options are plausible but only one is correct. Let me structure each entry with the required XML format, making sure to include the trigger phrase and specific references.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Agni's role in Vedic rituals. The text explicitly states Agni is the "hota" (priest) of yajnas and that Brahmins are "agnibhuta" (transformed into fire). Other options reference roles of other deities but not Agni's direct priestly function.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (shlokas 5-7), who is described as the "hota" (priest) of yajnas and considered "agnibhuta" (transformed into fire) by Brahmins?
+    A) Indra
+    B) Agni
+    C) Vishnu
+    D) Brahma
+  </question>
+  <answer>B) Agni</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines Vishwarupa's role as a divine intermediary. The text states he was the "purohita" (priest) of gods and was killed by Indra. Other options reference different divine figures but not his specific role as a mediator.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (shlokas 17-18), which deity served as the "purohita" (priest) for gods and was killed by Indra during a conflict with asuras?
+    A) Vishnu
+    B) Shiva
+    C) Vishwarupa
+    D) Brahma
+  </question>
+  <answer>C) Vishwarupa</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Indra's curse by Nahusha. The text describes how Indra was cursed to lose his throne and had to leave his kingdom, leading to a conflict with Shachi. Other options reference different curses but not this specific event.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (shlokas 31-32), which king was cursed by Nahusha to lose his throne and leave his kingdom, leading to a conflict with his wife Shachi?
+    A) Varuna
+    B) Indra
+    C) Vritra
+    D) Karna
+  </question>
+  <answer>B) Indra</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Bhrigu's curse on Agni. The text explicitly states Bhrigu cursed Agni to "devour all" (sarvabhakshatvam). Other options reference different sages or curses but not this specific act.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (shloka 43), which sage cursed Agni to "devour all" (sarvabhakshatvam) as punishment for a transgression?
+    A) Vashistha
+    B) Bhrigu
+    C) Kashyapa
+    D) Angirasa
+  </question>
+  <answer>B) Bhrigu</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the origin of the Vipasha river. The text states it was created when Vasishta's tapas (austerities) caused water to flow. Other options reference different rivers or sages but not this specific origin story.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (shloka 42), which river was created when sage Vasishta's tapas (austerities) caused water to flow?
+    A) Ganges
+    B) Yamuna
+    C) Vipasha
+    D) Godavari
+  </question>
+  <answer>C) Vipasha</answer>
+</entry>

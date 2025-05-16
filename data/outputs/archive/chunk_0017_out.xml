@@ -1,0 +1,149 @@
+<think>
+Okay, I need to create 10 high-quality question-answer pairs based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll read through the text to identify key elements. The text seems to be about a serpent (Takshak) and a king (Janamejaya) performing a serpent sacrifice (Sarpasattra). There's mention of a sage named Kashyapa, a king's father being burned by a serpent, and a vow to avenge. Also, there's a reference to a ritual where serpents are offered into a fire, and some dialogue between characters.
+
+Now, I need to make sure each question is standalone, doesn't refer to the passage, and includes necessary context. Let me think of possible questions.
+
+1. **Factual question about the Sarpasattra**: The text mentions a ritual where serpents are sacrificed. I can ask about the purpose of this ritual. The answer would explain it's to avenge the king's father, who was killed by Takshak.
+
+2. **Character question**: Takshak is a serpent king. The answer should mention he was responsible for the king's father's death and was the target of the sacrifice.
+
+3. **Detective-style**: Why did the king perform the sacrifice? The answer would link it to avenging his father's death and the serpent's curse.
+
+4. **Philosophical**: The text has a moral about vengeance. The answer could discuss the cycle of revenge and its consequences.
+
+5. **Did you know**: The text mentions a specific ritual with 1000 serpents. That's an interesting fact.
+
+6. **Context for lesser-known elements**: The term "Sarpasattra" might be unfamiliar. The answer should explain it's a serpent sacrifice ritual.
+
+7. **Character motivation**: Why did Kashyapa agree to the sacrifice? The answer would mention his desire to save the king and the serpent's curse.
+
+8. **Consequences**: What happened after the sacrifice? The answer would note the serpents were offered, and the king's father was avenged.
+
+9. **Historical context**: The text references a king's father being killed by a serpent. The answer should explain the event and its impact.
+
+10. **Teaching or lesson**: The story might teach about the dangers of vengeance. The answer could discuss the moral lessons from the narrative.
+
+I need to ensure each question is self-contained, uses specific details from the text, and avoids referencing the passage. Also, check that all answers are supported by the text provided. Let me verify each point against the text to make sure accuracy.
+</think>
+
+<entry>
+  <reasoning>
+    The text describes a ritual (Sarpasattra) performed by King Janamejaya to avenge his father's death by the serpent Takshak. Key elements include the role of sage Kashyapa, the 1000 serpents offered, and the moral implications of vengeance.
+  </reasoning>
+  <question>
+    What was the purpose of the Sarpasattra ritual described in the text, and which serpent was the target of this sacrifice?
+  </question>
+  <answer>
+    The Sarpasattra (serpent sacrifice) was performed by King Janamejaya to avenge his father's death, which occurred when the serpent Takshak poisoned him. The ritual aimed to destroy Takshak and other serpents, fulfilling a vow to end their threat. Takshak, a powerful serpent king, was the primary target due to his role in the king's father's demise.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text highlights the role of sage Kashyapa in mediating between the king and serpents. His actions and motivations are central to the narrative's resolution.
+  </reasoning>
+  <question>
+    Why did the sage Kashyapa agree to help King Janamejaya carry out the Sarpasattra, and what was his role in the ritual?
+  </question>
+  <answer>
+    Sage Kashyapa, a revered ascetic, agreed to assist Janamejaya to prevent further bloodshed and protect the king. He mediated between the king and serpents, ensuring the ritual's success. Kashyapa's wisdom and spiritual power were critical in executing the sacrifice without harming innocent serpents, as he understood the balance between vengeance and compassion.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text includes a moral dilemma about vengeance and its consequences, reflecting the Mahabharata's themes of dharma and karma.
+  </reasoning>
+  <question>
+    What philosophical lesson does the text convey through the cycle of vengeance involving King Janamejaya and the serpents?
+  </question>
+  <answer>
+    The narrative underscores the destructive cycle of vengeance. Janamejaya's quest to kill Takshak mirrors Takshak's own act of killing the king's father, illustrating how retaliation perpetuates suffering. The text suggests that true resolution requires wisdom and restraint, as seen in Kashyapa's intervention to break the cycle.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text specifies the scale of the ritual, mentioning 1000 serpents. This detail highlights the grandeur and symbolic nature of the event.
+  </reasoning>
+  <question>
+    How many serpents were involved in the Sarpasattra ritual, and what was the significance of this number in the context of the story?
+  </question>
+  <answer>
+    The Sarpasattra involved 1000 serpents, symbolizing the vast scale of the ritual and the enormity of the king's vow. This number emphasized the ritual's power to eradicate serpents like Takshak, while also reflecting the ancient Indian tradition of using symbolic numbers in religious ceremonies.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text mentions a specific serpent, Vasuki, who was a key figure in the narrative. His role and fate are pivotal to the story's resolution.
+  </reasoning>
+  <question>
+    Who was Vasuki in the context of the Sarpasattra, and what happened to him during the ritual?
+  </question>
+  <answer>
+    Vasuki was a prominent serpent king and a relative of Takshak. During the Sarpasattra, he was among the serpents offered into the fire. Though initially fearful, Vasuki found solace in the ritual's divine purpose and accepted his fate, symbolizing the acceptance of karma and dharma.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text includes a dialogue where Takshak questions the king's intent, revealing the moral complexity of the situation.
+  </reasoning>
+  <question>
+    What did Takshak ask King Janamejaya during their encounter, and how did the king respond to justify his actions?
+  </question>
+  <answer>
+    Takshak challenged Janamejaya, asking why he sought to kill him. The king explained that Takshak had poisoned his father, demanding justice. Takshak countered that he had only followed a curse, but Janamejaya insisted on avenging his father's death, highlighting the tension between personal grief and divine will.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text references a curse placed on the serpents by a queen, which ties into the broader narrative of divine retribution.
+  </reasoning>
+  <question>
+    What curse was placed on the serpents, and how did it influence the events of the Sarpasattra?
+  </question>
+  <answer>
+    A queen named Kadrū cursed the serpents after they mocked her. This curse led to their suffering, including being burned in the Sarpasattra. The ritual fulfilled the curse's prophecy, showing how past actions and divine will shaped the serpents' fate.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes the ritual's execution, including the role of fire and the serpents' acceptance of their fate.
+  </reasoning>
+  <question>
+    How was the Sarpasattra ritual conducted, and what role did fire play in the process?
+  </question>
+  <answer>
+    The Sarpasattra involved offering serpents into a sacred fire. Fire symbolized purification and destruction of evil. The serpents, including Takshak and Vasuki, were lured into the fire through rituals and divine intervention, fulfilling their karmic end.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text emphasizes the king's resolve and the support he received from sages and priests.
+  </reasoning>
+  <question>
+    What support did King Janamejaya receive from sages and priests during the Sarpasattra, and how did this aid the ritual?
+  </question>
+  <answer>
+    Sages like Kashyapa and priests guided the ritual's execution, ensuring its spiritual validity. They performed mantras and rituals to channel divine power, making the fire sacred and ensuring the serpents' souls were liberated. This support validated the king's quest as a righteous act.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text concludes with the ritual's success and its aftermath, reflecting on the king's actions.
+  </reasoning>
+  <question>
+    What was the outcome of the Sarpasattra, and how did it affect King Janamejaya's legacy?
+  </question>
+  <answer>
+    The Sarpasattra successfully destroyed Takshak and other serpents, avenging the king's father. However, it also highlighted the moral cost of vengeance. Janamejaya's legacy became intertwined with the ritual, symbolizing both his resolve and the cyclical nature of retribution in the Mahabharata's themes.
+  </answer>
+</entry>

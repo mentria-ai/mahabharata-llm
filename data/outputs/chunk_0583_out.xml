@@ -1,0 +1,97 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look through the verses to identify key themes, characters, and teachings. The text seems to discuss dharma, karma, social duties, and the consequences of actions. There are mentions of different varnas (social classes), the importance of good deeds, and the role of kings and sages.
+
+For each question, I need to ensure that the answer is explicitly stated in the text. Let me check each verse for specific information.
+
+The first verse (1) talks about equanimity in pleasure and pain. The second verse (2) mentions that one should not envy others. Verse 3 describes various people who are pitiable. Verse 4 discusses the consequences of envy. 
+
+Looking at the later verses, there's a lot about the duties of different varnas, the importance of dharma, and the results of good and bad actions. For example, verse 22 mentions that a king should protect his people, and verse 23 talks about a person who is free from desire and envy.
+
+I need to make sure each question is specific and references the exact verses. Let me draft the first question about the qualities of a wise person. The text says "बुद्धिमान्" (wise) in verse 1. The options could include different traits, with the correct answer being "equanimity in pleasure and pain."
+
+Another question could be about the consequences of envy, referencing verse 2. The correct answer would be that envy leads to being pitiable. The other options might be about different outcomes, but the text clearly states that those who envy are pitiable.
+
+For the third question, looking at verse 4, it mentions that those who are free from desire and envy are pitiable. The options could include different traits, with the correct answer being "free from desire and envy."
+
+The fourth question could be about the duties of a king, referencing verse 22. The text says a king should protect his people, so the answer would be "protect his people."
+
+The fifth question might be about the result of good actions, referencing verse 5. The text states that good actions lead to elevation, so the answer would be "elevation."
+
+I need to check each verse to ensure the answers are directly from the text. Also, make sure the options are plausible but incorrect. For example, in the first question, options could include other virtues like charity or knowledge, but the correct answer is equanimity.
+
+I should also verify the exact references. For example, verse 1 is part of the Parashara Smriti, which is part of the Mahabharata's Shanti Parva. So the context would be "In Mahabharata's Shanti Parva, verse 1..."
+
+Each question must be unique and cover different parts of the text. Let me structure each entry with the reasoning, question, and answer as per the example.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests understanding of key dharma concepts. The text explicitly states that a wise person (बुद्धिमान्) remains equanimous in pleasure and pain. Other options represent common virtues but are not directly described as the defining trait of wisdom in the verse.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (verse 1), what quality defines a wise person (बुद्धिमान्)?
+    A) Charity
+    B) Knowledge of scriptures
+    C) Equanimity in pleasure and pain
+    D) Wealth accumulation
+  </question>
+  <answer>C) Equanimity in pleasure and pain</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the consequences of envy. The text directly states that those who envy others become pitiable (शोच्यतां यान्ति). Other options represent common outcomes but are not explicitly linked to envy in the verse.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (verse 2), what fate awaits those who envy others?
+    A) Wealth
+    B) Spiritual enlightenment
+    C) Pitiable existence
+    D) Political power
+  </question>
+  <answer>C) Pitiable existence</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on social duties. The text explicitly states that those free from desire and envy (निःस्नेहं) are pitiable. Other options represent common virtues but are not directly described as the defining trait of pitiable people in the verse.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (verse 3), who are described as pitiable (शोच्यतां यान्ति)?
+    A) Wealthy merchants
+    B) Those free from desire and envy
+    C) Religious scholars
+    D) Military leaders
+  </question>
+  <answer>B) Those free from desire and envy</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of royal duties. The text explicitly states that kings must protect their people (पालनं च प्रजानाम्). Other options represent common duties but are not directly linked to kingship in the verse.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (verse 22), what duty is emphasized for kings?
+    A) Performing rituals
+    B) Protecting subjects
+    C) Accumulating wealth
+    D) Engaging in warfare
+  </question>
+  <answer>B) Protecting subjects</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the result of good actions. The text states that good deeds (पुण्येन कर्मणा) lead to elevation (उत्कर्षार्थं). Other options represent common outcomes but are not explicitly linked to good actions in the verse.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (verse 5), what does good action (पुण्येन कर्मणा) lead to?
+    A) Poverty
+    B) Elevation
+    C) Rebirth
+    D) Punishment
+  </question>
+  <answer>B) Elevation</answer>
+</entry>

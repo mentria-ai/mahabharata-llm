@@ -1,0 +1,101 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, teachings, and specific references. The text seems to be a dialogue between Jajali and Tulaadhara, discussing dharma, ahimsa (non-violence), and the importance of yajnas (sacrifices). There are mentions of various concepts like the nature of dharma, the role of yajnas, and the consequences of actions.
+
+For each question, I need to ensure that the answer is explicitly stated in the text. Let me go through the verses again.
+
+The first verse mentions Jajali and Tulaadhara discussing dharma. There's a reference to "Bhishma Parva" in the example, but the given text doesn't have that. So I need to check if the text has specific parvas or adhyayas. The text here seems to be from the Shanti Parva, but I'm not sure. However, the user said to use exact references if possible. Since the text provided doesn't have specific parva names, maybe I should use the context of the dialogue between Jajali and Tulaadhara.
+
+Looking at the verses, there's a lot about ahimsa (non-violence) and the importance of yajnas. For example, verse 29 says "न भूतानामहिंसाया ज्यायान्धर्मोऽस्ति कश्चन" which translates to "There is no dharma greater than non-injury to beings." That's a key point.
+
+Another part talks about the nature of dharma being subtle (sukshma) and not easily understood (verse 35-36). Also, there's mention of yajnas and their role in sustaining life, like "यज्ञात्प्रजा प्रभवति नभसोऽम्भ इवामलम्" (From yajna, progeny arises, like rain from the sky).
+
+I need to make sure each question is specific. For example, one question could be about the greatest dharma according to the text. Another could be about the role of yajnas. Also, there's a part where it says that those who do not perform yajnas are not fit for offerings (verse 11). 
+
+I should check each verse to find explicit statements. For example, verse 29 states that non-injury is the highest dharma. Another verse (12) mentions that those who do not see the fruit of yajnas are not fit. 
+
+I need to create five distinct questions. Let me outline them:
+
+1. What is the highest dharma according to the text? (Ahimsa)
+2. What is the role of yajnas in sustaining life? (They are the source of progeny and sustenance)
+3. What is the consequence of not performing yajnas? (Not fit for offerings)
+4. What is the nature of dharma as per the text? (Subtle and not easily understood)
+5. What is the teaching about the importance of yajnas? (They are essential for the world's sustenance)
+
+Now, I need to structure each question with the trigger phrase, specific context, and four options. Ensure that the answers are directly from the text. Also, check that the options are plausible but incorrect except for the correct one.
+
+For example, the first question: "In Mahabharata's dialogue between Jajali and Tulaadhara, what is stated as the highest dharma?" The answer is non-injury (ahimsa). The options would include other dharmas like yajnas, charity, etc.
+
+I need to make sure each question is unique and covers different parts of the text. Also, verify that the references are accurate. Since the text provided doesn't have specific parva names, I'll use the context of the dialogue between Jajali and Tulaadhara, and reference the verses where applicable.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests understanding of the core teaching on non-violence (ahimsa) as the supreme dharma. The text explicitly states that no dharma surpasses non-injury to beings. Other options represent valid dharmas but are explicitly subordinate here.
+  </reasoning>
+  <question>
+    In Mahabharata's dialogue between Jajali and Tulaadhara, what is stated as the highest dharma?
+    A) Yajnas (sacrifices)
+    B) Non-injury to beings (Ahimsa)
+    C) Charity (Dana)
+    D) Study of scriptures (Vedas)
+  </question>
+  <answer>B) Non-injury to beings (Ahimsa)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the text's emphasis on yajnas as life-sustaining. The verse explicitly compares progeny arising from yajnas to rain from the sky. Other options represent related but secondary concepts.
+  </reasoning>
+  <question>
+    In Mahabharata's dialogue between Jajali and Tulaadhara, what analogy is used to describe the role of yajnas in sustaining life?
+    A) Like fire consuming fuel
+    B) Like rain from the sky
+    C) Like a river flowing to the sea
+    D) Like a tree bearing fruit
+  </question>
+  <answer>B) Like rain from the sky</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses the text's warning about those who neglect yajnas. The verse states such individuals are unfit for offerings. Other options represent valid but incorrect interpretations of the text's message.
+  </reasoning>
+  <question>
+    In Mahabharata's dialogue between Jajali and Tulaadhara, what fate is described for those who do not perform yajnas?
+    A) They become kings
+    B) They are unfit for offerings
+    C) They gain wisdom
+    D) They achieve liberation
+  </question>
+  <answer>B) They are unfit for offerings</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the text's view on dharma's subtlety. The verse explicitly states that dharma's nature is subtle and not easily understood. Other options represent common but incorrect interpretations of the text's message.
+  </reasoning>
+  <question>
+    In Mahabharata's dialogue between Jajali and Tulaadhara, how is the nature of dharma described?
+    A) As rigid and unchanging
+    B) As subtle and difficult to grasp
+    C) As purely ritualistic
+    D) As dependent on wealth
+  </question>
+  <answer>B) As subtle and difficult to grasp</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the text's teaching on yajnas' essential role. The verse states that yajnas are the foundation of the world's sustenance. Other options represent related but incorrect concepts.
+  </reasoning>
+  <question>
+    In Mahabharata's dialogue between Jajali and Tulaadhara, what is described as the foundation of the world's sustenance?
+    A) Wealth
+    B) Yajnas (sacrifices)
+    C) Knowledge
+    D) Kingship
+  </question>
+  <answer>B) Yajnas (sacrifices)</answer>
+</entry>

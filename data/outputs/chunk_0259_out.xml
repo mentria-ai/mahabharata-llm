@@ -1,0 +1,89 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, dialogues, and specific references. The text includes conversations between Kunti and Karna, Karna's dialogue about his lineage, and mentions of various parvas like Bhishma Parva, Abhijnana Parva, etc. There's also mention of specific verses (like 143, 144, etc.) and characters like Karna, Kunti, Duryodhana, Bhishma, and others.
+
+For each question, I need to ensure that the answer is explicitly stated in the text. Let's break it down:
+
+1. **Karna's Lineage**: The text has Karna addressing Kunti, and she denies his claim of being her son. She mentions he was born from a different mother. So a question about Karna's parentage would be good here. The correct answer would be that Kunti says he's not her son but born from another mother. The options could include other characters or incorrect claims.
+
+2. **Karna's Response to Kunti**: Karna's dialogue where he refuses to accept Kunti's words. The text has him saying he won't accept her words, so a question about his response. The answer would be that he refuses to accept her words, and the options could include other actions like accepting or being angry.
+
+3. **Karna's Statement on Duty**: There's a part where Karna talks about his duty towards the Kauravas. The question could be about his reason for fighting against Arjuna. The answer would be his duty to the Kauravas, with options like loyalty to Kunti, personal honor, etc.
+
+4. **Karna's Reference to the Sun**: In the text, Karna mentions being born under the sun (Surya), which is a common motif. A question about his birth or lineage could reference this. The answer would be that he was born under the sun, with options like other deities or unrelated reasons.
+
+5. **Karna's Final Decision**: The text has Karna deciding to fight against Arjuna despite their brotherly bond. The question could be about his reason for fighting. The answer would be his sense of duty and loyalty to the Kauravas, with options like personal gain or revenge.
+
+I need to make sure each question has the exact reference, like the specific parva or verse numbers. Also, check that the options are plausible but incorrect except for the correct one. Avoid adding any external knowledge. Let me verify each point against the text to ensure accuracy.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Karna's lineage and Kunti's denial. The text explicitly states Kunti rejected Karna as her son, citing his birth from another mother. Other options reflect common misconceptions about Karna's parentage.
+  </reasoning>
+  <question>
+    In Mahabharata's Abhijnana Parva (143), when Karna claims to be Kunti's son, what does she explicitly state about his parentage?
+    A) He is her biological son
+    B) He was born from another mother
+    C) He is Duryodhana's brother
+    D) He is a foster child
+  </question>
+  <answer>B) He was born from another mother</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Karna's defiance of Kunti's claims. The text shows Karna rejecting her words to maintain his identity as a Kaurava. Other options reflect his complex relationship with both Kunti and Duryodhana.
+  </reasoning>
+  <question>
+    In Mahabharata's Abhijnana Parva (143), how does Karna respond to Kunti's claim of maternal kinship?
+    A) He accepts her as mother
+    B) He rejects her words to preserve his Kaurava identity
+    C) He demands a duel
+    D) He weeps in sorrow
+  </question>
+  <answer>B) He rejects her words to preserve his Kaurava identity</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines Karna's sense of duty. The text explicitly states he fights Arjuna due to his loyalty to the Kauravas. Other options reflect his personal honor or past betrayals but miss the core duty motif.
+  </reasoning>
+  <question>
+    In Mahabharata's Abhijnana Parva (143), what motivates Karna to fight Arjuna despite their brotherly bond?
+    A) Personal revenge
+    B) Loyalty to the Kauravas
+    C) Greed for wealth
+    D) Fear of death
+  </question>
+  <answer>B) Loyalty to the Kauravas</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Karna's symbolic birth. The text explicitly mentions his birth under the sun (Surya), a common motif in his character. Other options reflect his warrior status but miss the solar symbolism.
+  </reasoning>
+  <question>
+    In Mahabharata's Abhijnana Parva (143), what celestial body is associated with Karna's birth according to the text?
+    A) Moon
+    B) Sun
+    C) Mars
+    D) Jupiter
+  </question>
+  <answer>B) Sun</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Karna's tragic resolve. The text shows him choosing to fight Arjuna despite their bond. Other options reflect his internal conflict but miss the decisive action described.
+  </reasoning>
+  <question>
+    In Mahabharata's Abhijnana Parva (143), what does Karna decide to do despite his bond with Arjuna?
+    A) Surrender
+    B) Fight
+    C) Seek Krishna's help
+    D) Flee
+  </question>
+  <answer>B) Fight</answer>
+</entry>

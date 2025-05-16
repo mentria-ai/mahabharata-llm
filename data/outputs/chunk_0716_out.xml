@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key events, characters, and specific references. The text seems to be from the Mahaprasthanika Parva, which deals with the Pandavas' journey after the Kurukshetra war. There are mentions of various characters like Arjuna, Krishna, the Vrishnis, and events like the destruction of the Yadavas, the migration to Dwarka, and the eventual decline of the Yadava dynasty.
+
+For the first question, I notice that the text mentions the destruction of the Vrishni and Anakha clans due to a Brahman's curse. The reference is in the verses provided. So, a question about who was destroyed by a Brahman's curse would be good. The options would include the Vrishnis, Anakhas, and others. The correct answer is the Vrishnis and Anakhas.
+
+Next, looking at the migration of the Pandavas, there's a mention of them moving to various places like Indraprastha, Dwaraka, and others. The text says they gave up their kingdom to the Yadavas. So a question about who received the kingdom after the Pandavas left. The answer would be the Yadavas, specifically the son of Vasudeva.
+
+Another part talks about the Pandavas leaving their kingdom and going into exile. The text mentions they gave up their kingdom to the Yadavas. So a question about who received the kingdom after the Pandavas left. The answer is the Yadavas.
+
+Then, there's a reference to the Pandavas moving to different places like Indraprastha and Dwaraka. The question could be about where they went after leaving their kingdom. The answer would be Indraprastha and Dwaraka.
+
+Lastly, the text mentions the destruction of the Vrishni and Anakha clans, leading to the end of the Yadava dynasty. A question about the cause of their destruction would be about the Brahman's curse. The answer is the curse.
+
+I need to make sure each question is specific, includes the correct references, and the options are plausible but only one is correct. Also, check that the answers are under 100 characters and the context is clear.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the Yadava dynasty's destruction. The text explicitly states that the Vrishnis and Anakhas were destroyed by a Brahman's curse. Other options represent unrelated groups or events.
+  </reasoning>
+  <question>
+    In Mahabharata's Mahaprasthanika Parva, which clan was destroyed by a Brahman's curse according to the text?
+    A) Pandavas
+    B) Vrishnis
+    C) Kauravas
+    D) Panchalas
+  </question>
+  <answer>B) Vrishnis</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the Pandavas' act of relinquishing their kingdom. The text states they gave their kingdom to the Yadavas after the war. Other options represent unrelated recipients or events.
+  </reasoning>
+  <question>
+    In Mahabharata's Mahaprasthanika Parva, to whom did the Pandavas surrender their kingdom after the Kurukshetra war?
+    A) Kauravas
+    B) Yadavas
+    C) Panchalas
+    D) Gandharas
+  </question>
+  <answer>B) Yadavas</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the Pandavas' exile. The text explicitly mentions their migration to Indraprastha and Dwaraka. Other options represent unrelated locations or events.
+  </reasoning>
+  <question>
+    In Mahabharata's Mahaprasthanika Parva, where did the Pandavas settle after leaving their kingdom?
+    A) Hastinapura
+    B) Indraprastha
+    C) Khandava
+    D) Varanavata
+  </question>
+  <answer>B) Indraprastha</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the Yadava dynasty's end. The text states their destruction was prophesied and fulfilled. Other options represent unrelated causes or events.
+  </reasoning>
+  <question>
+    In Mahabharata's Mahaprasthanika Parva, what event marked the end of the Yadava dynasty?
+    A) War with Kauravas
+    B) Brahman's curse
+    C) Internal strife
+    D) Natural disaster
+  </question>
+  <answer>B) Brahman's curse</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the Pandavas' final journey. The text describes their migration to various locations. Other options represent unrelated destinations or events.
+  </reasoning>
+  <question>
+    In Mahabharata's Mahaprasthanika Parva, where did the Pandavas eventually settle after their migrations?
+    A) Dwaraka
+    B) Indraprastha
+    C) Kashi
+    D) Khandava
+  </question>
+  <answer>A) Dwaraka</answer>
+</entry>

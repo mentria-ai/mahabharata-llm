@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by carefully reading through the text to identify key elements.
+
+First, the text seems to be from the Shalya Parva and the Yudhishthira Ananda section. There are references to characters like Arjuna, Krishna, Karna, Duryodhana, and others. The verses mention battles, the death of Karna, and the aftermath. 
+
+For the first question, I notice that Karna is killed by Arjuna. The text says "हतो बलभिदा वृत्रः संयुगे भूरितेजसा" which translates to "Karna was slain by Arjuna in the battle." So a question about who killed Karna would be good. The options would include Arjuna, Duryodhana, Bhishma, and Krishna. The correct answer is Arjuna.
+
+Next, looking for another event. There's a mention of the conch shells (shankha) being blown by Arjuna and Krishna. The text says "पाञ्चजन्यस्य निर्घोषो देवदत्तस्य चोभयोः" which refers to the conch shells of Arjuna (Panchajanya) and Krishna (Devadatta). So a question about the conch shells of Arjuna and Krishna would work. The options would be their names, and the answer is Panchajanya and Devadatta.
+
+Third, the text mentions that after Karna's death, Yudhishthira is praised. The verse "युधिष्ठिरं नन्दयतः स्म वीरौ" indicates that Yudhishthira was praised. So a question about who was praised after Karna's death. Options could be Yudhishthira, Bhima, Arjuna, and Duryodhana. The answer is Yudhishthira.
+
+Fourth, there's a part where Duryodhana is described as being overwhelmed after Karna's death. The text says "हा कर्ण हा कर्ण इति शोचमानः पुनः पुनः" which shows his grief. So a question about who was overwhelmed after Karna's death. Options: Duryodhana, Arjuna, Bhima, Krishna. Correct answer is Duryodhana.
+
+Lastly, the text mentions the aftermath of the battle, with many warriors killed. The verse "सर्वे निहताः" indicates that all warriors were killed. So a question about who was killed in the battle. Options: All warriors, Only Karna, Only Duryodhana, Only Arjuna. The answer is All warriors.
+
+I need to make sure each question has the specific reference, like the Shalya Parva or the Yudhishthira Ananda section. Also, check that the answers are under 100 characters and the options are plausible. Let me structure each entry with the reasoning, question, and answer as per the example.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of key combatants in the Mahabharata's Shalya Parva. Karna's death by Arjuna is explicitly described, while Duryodhana and Bhishma are other major warriors. Krishna's role was strategic, not direct combat.
+  </reasoning>
+  <question>
+    In Mahabharata's Shalya Parva (verse 3), who killed Karna in the Kurukshetra war?
+    A) Arjuna
+    B) Duryodhana
+    C) Bhishma
+    D) Krishna
+  </question>
+  <answer>A) Arjuna</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the iconic conch shells of Arjuna and Krishna. The text explicitly names their conch shells (Panchajanya and Devadatta) as part of the battle's divine symbolism. Other options refer to unrelated items.
+  </reasoning>
+  <question>
+    In Mahabharata's Shalya Parva (verse 57), which conch shells were blown by Arjuna and Krishna to signal the war's start?
+    A) Panchajanya and Devadatta
+    B) Shankha and Gada
+    C) Ananta and Nandaka
+    D) Chakravak and Vajra
+  </question>
+  <answer>A) Panchajanya and Devadatta</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Yudhishthira's role after Karna's death. The text shows he was praised by warriors, while Bhima and Arjuna were more active in combat. Duryodhana's fate was separate.
+  </reasoning>
+  <question>
+    In Mahabharata's Shalya Parva (verse 30), who was praised by warriors after Karna's death?
+    A) Yudhishthira
+    B) Bhima
+    C) Arjuna
+    D) Duryodhana
+  </question>
+  <answer>A) Yudhishthira</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines Duryodhana's emotional state post-Karna's death. The text explicitly describes his grief, while other warriors focused on battle strategies. Bhishma and Krishna had different roles.
+  </reasoning>
+  <question>
+    In Mahabharata's Shalya Parva (verse 41), who was overwhelmed by sorrow after Karna's death?
+    A) Duryodhana
+    B) Bhishma
+    C) Krishna
+    D) Arjuna
+  </question>
+  <answer>A) Duryodhana</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses the war's aftermath. The text states "सर्वे निहताः" (all were slain), contrasting with partial victories. Other options misrepresent the text's universal destruction.
+  </reasoning>
+  <question>
+    In Mahabharata's Shalya Parva (verse 35), who were all slain in the Kurukshetra war?
+    A) All warriors
+    B) Only Karna
+    C) Only Duryodhana
+    D) Only Arjuna
+  </question>
+  <answer>A) All warriors</answer>
+</entry>

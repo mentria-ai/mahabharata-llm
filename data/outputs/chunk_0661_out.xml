@@ -1,0 +1,89 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by carefully reading through the text to identify key elements.
+
+First, the text seems to be from the "Samsara Chakra" section, which discusses the cycle of life and death, karma, and the different realms (yoni) one might be reborn into based on their actions. There are references to various beings like humans, animals, and specific creatures like kritika, karkata, etc. Also, there's mention of Bhisma, Yudhishthira, and Brihaspati (Brihaspatis) in dialogues. The verses talk about the consequences of actions (karma), the importance of dharma, and the journey of the soul through different forms.
+
+Now, I need to make sure each question is based on explicit information from the text. Let's break it down.
+
+Question 1: The text mentions that the soul (jiva) is accompanied by dharma (righteousness) and that dharma is the only companion in the afterlife. The verse 13 says "तैस्तच्छरीरमुत्सृष्टं धर्म एकोऽनुगच्छति" which translates to "After shedding the body, only dharma accompanies the soul." So the question could be about who accompanies the soul after death. The options would include dharma, family, etc.
+
+Question 2: The text lists different beings and their lifespans. For example, "खरो जीवति वर्षाणि दश पञ्च च भारत" (A khara lives for ten and five years). So a question about which being lives for ten and five years. The answer would be khara (donkey), and other options could be other animals mentioned.
+
+Question 3: There's a mention of the soul's journey through various forms. For instance, "एतानासाद्य संसारान्कृमियोनौ प्रजायते" (After these, the soul is born into the kritika (insect) realm). So a question about which realm the soul enters after certain lifetimes. The answer would be kritika (insect), with other options being different realms.
+
+Question 4: The text discusses the consequences of actions leading to different rebirths. For example, "यदि पुत्रसमं शिष्यं गुरुर्हन्यादकारणे" (If a guru kills a student like a son...). So a question about what happens if a guru kills a student. The answer would be being reborn as a swan (hansa), with other options being different animals.
+
+Question 5: The text mentions that those who commit theft (chore) are reborn into specific forms. For example, "चोरयित्वा नरः पट्टं त्वाविकं वापि भारत" (A thief who steals a cloth becomes a hare). So a question about what a thief becomes. The answer would be hare (shash), with other options being different animals.
+
+I need to ensure each question has the correct reference, like the specific verses or sections. Also, check that the options are plausible but only one is correct based on the text. Avoid adding any external knowledge. Make sure the questions are diverse, covering different parts of the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests understanding of the Mahabharata's teachings on the soul's journey. The text explicitly states that dharma (righteousness) is the sole companion after death, contrasting with family or wealth. Other options reflect common misconceptions about afterlife companionship.
+  </reasoning>
+  <question>
+    In Mahabharata's Samsara Chakra (verse 13), who accompanies the soul after death according to the text?
+    A) Family members
+    B) Wealth
+    C) Dharma
+    D) Friends
+  </question>
+  <answer>C) Dharma</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses knowledge of specific karmic rebirths. The text directly states that "khara" (donkey) lives for ten and five years. Other options represent different creatures with distinct lifespans mentioned in the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Samsara Chakra (verse 41), which being is said to live for ten and five years according to the text?
+    A) Swan
+    B) Donkey
+    C) Fish
+    D) Elephant
+  </question>
+  <answer>B) Donkey</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question evaluates understanding of karmic realms. The text explicitly states that after certain lifetimes, the soul enters the "kritika" (insect) realm. Other options represent different realms mentioned in the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Samsara Chakra (verse 69), which realm does the soul enter after completing certain lifetimes according to the text?
+    A) Human
+    B) Insect
+    C) Bird
+    D) Fish
+  </question>
+  <answer>B) Insect</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of karmic consequences. The text directly states that killing a student like a son leads to rebirth as a swan. Other options represent different karmic outcomes described in the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Samsara Chakra (verse 50), what form does a person who kills a student like a son rebirth into according to the text?
+    A) Elephant
+    B) Swan
+    C) Cow
+    D) Horse
+  </question>
+  <answer>B) Swan</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses understanding of theft's karmic consequences. The text explicitly states that stealing leads to rebirth as a hare. Other options represent different karmic outcomes described in the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Samsara Chakra (verse 101), what form does a thief who steals cloth rebirth into according to the text?
+    A) Bull
+    B) Hare
+    C) Monkey
+    D) Crow
+  </question>
+  <answer>B) Hare</answer>
+</entry>

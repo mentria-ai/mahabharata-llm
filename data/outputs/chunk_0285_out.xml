@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I notice that the text includes verses from the Bhagavad Gita, specifically the dialogue between Krishna and Arjuna. The verses mention Arjuna's request to see Krishna's divine form, which Krishna then reveals. There's also a part where Krishna talks about the nature of the soul and the importance of devotion.
+
+For the first question, I can focus on Arjuna's request. The text says Arjuna asks Krishna to show his divine form. The correct answer would be "divine form" (ईश्वररूप). The other options could be different aspects like his chariot or weapons, but those aren't mentioned here.
+
+Next, looking at the verses where Krishna describes his form as infinite and all-encompassing. The term used is "विश्वमूर्ते" (world-form). So the question could be about the term Krishna uses to describe his form. The options would include "divine form," "world-form," "eternal form," and "universal form." The correct answer is "world-form" (विश्वमूर्ते).
+
+Another part is where Krishna says he is the beginning, middle, and end of all beings. The term here is "अक्षर" (imperishable). So the question could be about what Krishna refers to as the beginning and end. The options would be "eternal" (अक्षर), "divine" (ईश्वर), "soul" (आत्मा), and "universe" (ब्रह्म). The correct answer is "eternal" (अक्षर).
+
+Then, there's a part where Krishna mentions that those who take refuge in him are protected. The term used is "मय्यावेशितचेतसाम" (those whose minds are established in me). The question could be about the term for those who take refuge. Options would be "devotees" (भक्त), "warriors" (योध), "sages" (ऋषि), and "kings" (राजा). The correct answer is "devotees" (भक्त).
+
+Lastly, the text includes a verse where Krishna says he is the source of all beings. The term here is "ब्रह्म" (Brahman). The question could be about what Krishna refers to as the source. Options would be "Brahman" (ब्रह्म), "soul" (आत्मा), "universe" (विश्व), and "eternal" (अक्षर). The correct answer is "Brahman" (ब्रह्म).
+
+I need to make sure each question has the specific reference, like the adhyaya and shloka numbers. For example, the first question refers to verses 1-4, the second to 5-7, etc. Also, the options should be plausible but only one correct. I'll check each verse again to confirm the exact terms used.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Arjuna's request to see Krishna's divine form. The text explicitly states Arjuna's desire to witness Krishna's "ईश्वररूप" (divine form). Other options like chariot or weapons are not mentioned in this context.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhagavad Gita (Chapter 11, Shlokas 1-4), what did Arjuna ask Krishna to reveal?
+    A) His chariot
+    B) His divine form
+    C) His weapons
+    D) His kingdom
+  </question>
+  <answer>B) His divine form</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Krishna's description of his universal form. The term "विश्वमूर्ते" (world-form) directly appears in the text. Other options like "eternal form" or "divine form" are less specific to the context of cosmic universality.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhagavad Gita (Chapter 11, Shloka 11), what term did Krishna use to describe his form that encompasses the universe?
+    A) Eternal form
+    B) World-form
+    C) Divine form
+    D) Cosmic form
+  </question>
+  <answer>B) World-form</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Krishna's declaration of being the source of all existence. The term "अक्षर" (imperishable) explicitly appears in the text as the beginning and end of beings. Other options like "soul" or "universe" lack the specific reference to imperishability.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhagavad Gita (Chapter 11, Shloka 32), what did Krishna identify as the beginning and end of all beings?
+    A) Soul
+    B) Universe
+    C) Imperishable (अक्षर)
+    D) Divine
+  </question>
+  <answer>C) Imperishable (अक्षर)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Krishna's promise to protect devotees. The term "मय्यावेशितचेतसाम" (those whose minds are established in me) directly refers to devotees. Other options like "warriors" or "sages" are not explicitly tied to this promise.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhagavad Gita (Chapter 11, Shloka 7), who did Krishna promise to protect from the cycle of death?
+    A) Warriors
+    B) Sages
+    C) Devotees (भक्त)
+    D) Kings
+  </question>
+  <answer>C) Devotees (भक्त)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Krishna's role as the source of all creation. The term "ब्रह्म" (Brahman) explicitly appears in the text as the origin of beings. Other options like "soul" or "eternal" lack the direct reference to Brahman.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhagavad Gita (Chapter 11, Shloka 12), what did Krishna identify as the source of all beings?
+    A) Soul
+    B) Eternal
+    C) Brahman (ब्रह्म)
+    D) Universe
+  </question>
+  <answer>C) Brahman (ब्रह्म)</answer>
+</entry>

@@ -1,0 +1,91 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look through the verses to identify key elements: characters, events, and specific references. The text seems to include dialogues between Yudhishthira, Virata, and others. There's mention of Bhima, Dhrishtadyumna, and characters like Sairandhri (Draupadi in disguise). Also, there are references to specific parvas or sections, like the Virata Parva.
+
+For each question, I need to ensure the answer is explicitly stated in the text. Let's check each verse.
+
+1. The first part mentions Yudhishthira meeting Virata. The verse 1.1-2 talks about Yudhishthira approaching Virata. So a question about who approached Virata could be formed. The answer would be Yudhishthira, but I need to check the exact reference.
+
+2. There's a mention of Bhima's strength and his role in the battle. Verse 1.17-18 refers to Bhima defeating the Panchalas. So a question about Bhima's victory in a specific battle.
+
+3. Sairandhri (Draupadi) is disguised as a servant. The verses 6-10 describe her disguise. So a question about who was disguised as a servant.
+
+4. The text includes a dialogue where a character is asked about their identity. For example, in verse 1.10, Yudhishthira says he's a Brahmin named Kanka. So a question about the name given by Yudhishthira.
+
+5. There's a part where Sairandhri (Draupadi) states she's not a devi or gandharva. Verse 1.15-17 has her denying being a goddess. So a question about her identity.
+
+I need to make sure each question has the exact reference, like the adhyaya or parva. Since the text is from the Virata Parva, I can reference that. Also, check that the options are plausible but only one is correct based on the text.
+
+Now, structuring each entry with the required XML format, ensuring the reasoning explains why the answer is correct and others are incorrect. Avoid adding any external info. Each question must be unique and cover different parts of the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Yudhishthira's diplomatic approach in the Virata Parva. The text explicitly states he approached Virata to seek refuge, contrasting with other warriors who led battles. Options B-D represent other key figures but not the one who initiated the meeting.
+  </reasoning>
+  <question>
+    In Mahabharata's Virata Parva, who approached King Virata to seek refuge and protection after the 13-year exile?
+    A) Yudhishthira
+    B) Bhima
+    C) Arjuna
+    D) Draupadi
+  </question>
+  <answer>A) Yudhishthira</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Bhima's role in the Panchala battle. The text states he defeated the Panchalas and their allies, unlike Drona or Karna who led other campaigns. Option C refers to a later battle, while D is a different warrior.
+  </reasoning>
+  <question>
+    In Mahabharata's Virata Parva, which warrior defeated the Panchalas and their allies in a single combat?
+    A) Drona
+    B) Karna
+    C) Bhima
+    D) Duryodhana
+  </question>
+  <answer>C) Bhima</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Draupadi's disguise. The text explicitly states she disguised herself as a servant (Sairandhri) to avoid detection. Options B-D refer to other disguises or characters not mentioned in this context.
+  </reasoning>
+  <question>
+    In Mahabharata's Virata Parva, which Pandava princess disguised herself as a servant to avoid recognition?
+    A) Subhadra
+    B) Draupadi
+    C) Gandhari
+    D) Kunti
+  </question>
+  <answer>B) Draupadi</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Yudhishthira's alias. The text states he claimed to be a Brahmin named Kanka. Options B-D refer to other names or roles not mentioned in this specific context.
+  </reasoning>
+  <question>
+    In Mahabharata's Virata Parva, what name did Yudhishthira use when approaching King Virata?
+    A) Kanka
+    B) Arjuna
+    C) Bhima
+    D) Dhrishtadyumna
+  </question>
+  <answer>A) Kanka</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines Draupadi's self-identification. The text explicitly has her deny being a devi or gandharva. Options B-D represent other divine beings not mentioned in this specific dialogue.
+  </reasoning>
+  <question>
+    In Mahabharata's Virata Parva, which divine being did Draupadi explicitly deny being?
+    A) Devi
+    B) Gandharva
+    C) Apsara
+    D) Yaks
+  </question>
+  <answer>A) Devi</answer>
+</entry>

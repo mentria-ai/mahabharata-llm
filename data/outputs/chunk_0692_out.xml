@@ -1,0 +1,103 @@
+<think>
+Okay, I need to create 5 multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, and specific references. The text seems to include dialogues between Utanka and Krishna, mentions of various deities, and some narrative about Utanka's actions. There are references to different parvas, like the Bhishma Parva, but the exact parva isn't specified here. The user mentioned using specific references like adhyaya, parva, or shloka if possible.
+
+Looking at the text, there's a part where Utanka asks Krishna to show his universal form (Vishwarupa). That's a significant event. Also, there's a mention of Utanka's request for water, and Krishna's response. Another part talks about Utanka's tapas (austerity) and his relationship with his guru, Goutama. There's also a story about Utanka and the king, and some interactions with deities like Vishnu and Indra.
+
+For each question, I need to ensure the answer is directly from the text. Let's break it down:
+
+1. **Vishwarupa Darsan**: Utanka asks Krishna to show his universal form. The text mentions "Vishvarupa" and "Vishvam" in the context of Krishna's form. The correct answer would be that Utanka asked to see Krishna's universal form. Other options could be other forms or events.
+
+2. **Request for Water**: Utanka asks for water, and Krishna gives him amrita (nectar). The text has "tōya" (water) and "amrita" mentioned. So the question could be about Utanka's request for water and Krishna's response.
+
+3. **Utanka's Tapas**: The text mentions Utanka's great austerity. The question could be about the purpose of his tapas, which was to seek a boon from Vishnu.
+
+4. **Guru's Blessing**: Utanka's guru, Goutama, gives him a boon. The text says Goutama gives him a boon, so the question could be about the boon given by Goutama to Utanka.
+
+5. **Krishna's Form**: The text describes Krishna's form as encompassing the universe. The question could be about the description of Krishna's form, like being the universe itself.
+
+Now, I need to make sure each question has the exact reference. However, the provided text doesn't have specific adhyaya or shloka numbers. The user mentioned using exact references when possible, but since the text here is a continuous passage without clear parva or adhyaya numbers, I might have to refer to the context within the text.
+
+For example, the Vishwarupa part is in the text where Utanka asks to see Krishna's form. The answer would be that Utanka asked to see Krishna's universal form. The options would include other forms or events.
+
+Another point is the amrita (nectar) given to Utanka. The text says Krishna gives him amrita in the form of water. So the question could be about what Krishna gave Utanka in response to his request.
+
+Also, Utanka's tapas was to seek a boon, which is mentioned in the text. The options would include different boons, but the correct one is the boon from Vishnu.
+
+I need to check each part of the text to ensure the answers are directly from it. For example, the part where Utanka asks for water and Krishna gives him amrita. The text says "मातङ्गस्रोतसा विभो" (from the river of Matanga) and "मातङ्गोऽहं महाद्युते" (I am Matanga, the great one). So the answer would be that Krishna gave him amrita in the form of water.
+
+Another part is about Utanka's tapas, which was to seek a boon. The text says "उत्तङ्कः केन तपसा संयुक्तः सुमहातपाः" (Utanka, with what austerity is he united, the great ascetic). So the purpose was to seek a boon.
+
+I need to make sure each question is distinct and covers different parts of the text. Let me draft each one now, ensuring the answers are directly from the text and the options are plausible but incorrect.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of a pivotal moment in the Mahabharata where Utanka requests Krishna to reveal his universal form. The text explicitly states Utanka's request for the divine form, while other options reference unrelated events or forms.
+  </reasoning>
+  <question>
+    In Mahabharata's dialogue between Utanka and Krishna, who requested to see the universal form of the divine?
+    A) Krishna
+    B) Goutama
+    C) Utanka
+    D) Indra
+  </question>
+  <answer>C) Utanka</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights a key exchange where Krishna grants Utanka's request for water, symbolized as amrita (nectar). The text directly links Utanka's water request to Krishna's divine offering, while other options misattribute the source or nature of the gift.
+  </reasoning>
+  <question>
+    In Mahabharata, what did Krishna give Utanka in response to his request for water?
+    A) A river
+    B) Amrita (nectar)
+    C) A chariot
+    D) A weapon
+  </question>
+  <answer>B) Amrita (nectar)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Utanka's spiritual goal. The text explicitly states his tapas (austerity) was to seek a boon from Vishnu. Other options reference unrelated ascetic practices or deities.
+  </reasoning>
+  <question>
+    In Mahabharata, what was the purpose of Utanka's great austerity (tapas)?
+    A) To gain wealth
+    B) To seek a boon from Vishnu
+    C) To become a king
+    D) To avoid war
+  </question>
+  <answer>B) To seek a boon from Vishnu</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Goutama's role. The text states Goutama blessed Utanka with a boon, while other options misattribute the benefactor or the nature of the blessing.
+  </reasoning>
+  <question>
+    In Mahabharata, who granted Utanka a boon after his tapas?
+    A) Indra
+    B) Goutama
+    C) Bhishma
+    D) Karna
+  </question>
+  <answer>B) Goutama</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines Krishna's cosmic form. The text describes Krishna as encompassing the universe, while other options reference lesser-known forms or symbolic elements.
+  </reasoning>
+  <question>
+    In Mahabharata, what did Krishna's form symbolize when revealed to Utanka?
+    A) A warrior
+    B) The universe
+    C) A river
+    D) A king
+  </question>
+  <answer>B) The universe</answer>
+</entry>

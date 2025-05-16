@@ -1,0 +1,91 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll read through the Sanskrit passage to identify key elements. The text seems to involve characters like Dhamayanti, Sudama, Vidarbha, and others. There's mention of a king named Nala, his wife Damayanti, and some events related to their marriage and separation. There's also a reference to a character named Bhrigu, and some interactions between different kings and their queens.
+
+Now, I need to make sure each question is based on explicit information from the text. Let me check each part.
+
+The first part mentions Dhamayanti being asked by Sudama about her husband. Then there's a reference to Nala, who is the king of Ayodhya. The text also talks about a character named Bhrigu, who is a sage. There's a mention of a king named Nishada, and a reference to a place called Vidarbha. Also, there's a part where a character named Bahuksa is involved in arranging a meeting between Nala and Damayanti.
+
+For the first question, I can focus on the king who is the husband of Damayanti. The text says "Nalasya" (of Nala) and "Nalasya" is mentioned. So the answer would be Nala. The options would include other kings like Bhrigu, Vidarbha, and maybe another name.
+
+Second question: The text mentions that Bhrigu is a sage. So a question about who is a sage. The options would include Bhrigu, Nala, Vidarbha, and another name.
+
+Third question: The text mentions that Bahuksa is the one who arranged the meeting. So a question about who arranged the meeting between Nala and Damayanti. Options would include Bahuksa, Bhrigu, Nala, and another.
+
+Fourth question: The text mentions that Damayanti was taken to Vidarbha. So a question about where Damayanti was taken. Options would include Vidarbha, Ayodhya, Nishada, and another.
+
+Fifth question: The text mentions that Bhrigu is a sage, and there's a reference to a king named Nishada. So a question about who is a king. Options would include Nishada, Bhrigu, Nala, and another.
+
+I need to make sure each question is specific, includes the exact references, and the options are plausible but only one correct. Also, check that the answers are under 100 characters. Let me structure each entry accordingly.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of key characters in the Damayanti-Nala narrative. Nala is explicitly identified as Damayanti's husband in the text. Other options represent unrelated figures or roles.
+  </reasoning>
+  <question>
+    In Mahabharata's Sabha Parva, which king is identified as the husband of Damayanti in this passage?
+    A) Nala
+    B) Bhrigu
+    C) Vidarbha
+    D) Nishada
+  </question>
+  <answer>A) Nala</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the role of Bhrigu as a sage. The text explicitly refers to him as "Bhrigu" and "dvijasattama" (best of sages). Other options represent kings or warriors, not sages.
+  </reasoning>
+  <question>
+    In Mahabharata's Sabha Parva, which character is described as a sage (dvijasattama) in this passage?
+    A) Bhrigu
+    B) Nala
+    C) Vidarbha
+    D) Bahuksa
+  </question>
+  <answer>A) Bhrigu</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the intermediary who arranged Nala's meeting with Damayanti. The text explicitly names Bahuksa as the messenger. Other options represent unrelated figures.
+  </reasoning>
+  <question>
+    In Mahabharata's Sabha Parva, who was sent to arrange a meeting between Nala and Damayanti?
+    A) Bahuksa
+    B) Bhrigu
+    C) Vidarbha
+    D) Nishada
+  </question>
+  <answer>A) Bahuksa</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of geographical references. The text explicitly states Damayanti was taken to Vidarbha. Other options represent kings or sages, not locations.
+  </reasoning>
+  <question>
+    In Mahabharata's Sabha Parva, where was Damayanti taken after her separation from Nala?
+    A) Vidarbha
+    B) Ayodhya
+    C) Nishada
+    D) Kalinga
+  </question>
+  <answer>A) Vidarbha</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question identifies the king of Nishada, a key figure in the narrative. The text explicitly names him as "Nishada" and describes him as a "nara" (king). Other options represent sages or warriors.
+  </reasoning>
+  <question>
+    In Mahabharata's Sabha Parva, which character is explicitly referred to as the king of Nishada?
+    A) Nishada
+    B) Bhrigu
+    C) Bahuksa
+    D) Nala
+  </question>
+  <answer>A) Nishada</answer>
+</entry>

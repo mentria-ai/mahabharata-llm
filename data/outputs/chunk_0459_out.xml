@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by carefully reading through the text to identify key elements like characters, events, and specific references.
+
+First, the text mentions "Prabhasa" multiple times, which seems to be a significant location. There's a reference to "Soma" (Chandra) and his conflict with Daksha. The story involves Soma being cursed, leading to the depletion of resources, and later being forgiven. Also, there's a part about Trishanku and his yajna, where he gets trapped in a well and is rescued by a river. 
+
+For the first question, I can focus on the location of Prabhasa. The text says "Prabhasam samupajagama" and "Prabhasam prapya pushkalam." So the question could be about where Soma went after being cursed. The answer would be Prabhasa, and the options would include other places like Sarayu or Ganga.
+
+Next, the story of Trishanku and the well. The text mentions he was trapped in a well (kupa) and was rescued by the river Sarayu. The question could be about the river that rescued him. The options would include Sarayu, Ganges, Yamuna, and Godavari.
+
+Another part is about Soma's curse leading to the depletion of resources. The text states that when Soma was cursed, the plants and animals died. So a question about the consequence of the curse would be good. The answer is the depletion of resources, and other options could be Soma's death, the river drying up, etc.
+
+Then, there's the part where Soma was forgiven by Daksha. The text says "prasham karyam arhasi" and mentions that Soma would regain his shine. The question could be about who forgave Soma, with options like Daksha, Vishnu, Shiva, or Brahma.
+
+Lastly, the story of Trishanku's yajna and the river Sarayu. The text mentions that Trishanku was rescued by Sarayu. So another question about the river that rescued him.
+
+I need to ensure each question has the exact reference, like the adhyaya or parva. However, the text provided doesn't have specific parva names, so I'll use the numbers given, like "adhyaya 35" or "adhyaya 36". Also, check that all answers are directly from the text without adding external info. Make sure the options are plausible but incorrect, and the correct answer is clearly supported.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Soma's exile and redemption. The text explicitly states Soma went to Prabhasa after being cursed, which became a sacred pilgrimage site. Other options are rivers or locations mentioned elsewhere but not linked to Soma's exile.
+  </reasoning>
+  <question>
+    In Mahabharata's Adhyaya 35, where did Soma go after being cursed by Daksha to lose his radiance?
+    A) Sarayu River
+    B) Ganges
+    C) Prabhasa
+    D) Yamuna
+  </question>
+  <answer>C) Prabhasa</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Trishanku's yajna and the river that rescued him. The text specifically mentions Sarayu (Saraswati) as the river that saved him from the well. Other options are major rivers but not tied to this event in the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Adhyaya 36, which river rescued Trishanku from a well during his yajna?
+    A) Ganges
+    B) Yamuna
+    C) Sarayu (Saraswati)
+    D) Godavari
+  </question>
+  <answer>C) Sarayu (Saraswati)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the consequence of Soma's curse. The text states that plants and animals died when Soma lost his radiance. Other options are plausible but not directly mentioned as the immediate result of the curse.
+  </reasoning>
+  <question>
+    In Mahabharata's Adhyaya 35, what happened to the world when Soma was cursed by Daksha?
+    A) Soma died
+    B) The Ganges dried up
+    C) Plants and animals perished
+    D) The sun vanished
+  </question>
+  <answer>C) Plants and animals perished</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Soma's redemption. The text explicitly states Daksha forgave Soma, allowing him to regain his shine. Other options are major deities but not the one who directly forgave Soma in this narrative.
+  </reasoning>
+  <question>
+    In Mahabharata's Adhyaya 35, who forgave Soma after he was cursed by Daksha?
+    A) Vishnu
+    B) Shiva
+    C) Daksha
+    D) Brahma
+  </question>
+  <answer>C) Daksha</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Trishanku's yajna and the river's role. The text states Sarayu (Saraswati) rescued him from the well, making it the key location. Other options are rivers but not linked to this specific event in the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Adhyaya 36, which river's waters saved Trishanku from a well during his yajna?
+    A) Ganges
+    B) Yamuna
+    C) Sarayu (Saraswati)
+    D) Kaveri
+  </question>
+  <answer>C) Sarayu (Saraswati)</answer>
+</entry>

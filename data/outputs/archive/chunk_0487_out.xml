@@ -1,0 +1,142 @@
+<think>
+Okay, I need to create 10 high-quality question-answer pairs based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for specific events, characters, and concepts mentioned. The text includes parts from the Shanti Parva and other sections. There are references to the Pandavas, Kauravas, Krishna, Gandhari, Yudhishthira, and others. The verses talk about the aftermath of the war, the funeral rites, and the grief of the characters.
+
+For each question, I need to make sure it's standalone, so I'll avoid phrases like "the passage" and include necessary context. Let me check for specific details. For example, there's mention of the Pandavas and Kauravas fighting, the death of key warriors, and the rituals performed after the war.
+
+I should vary the question types: factual, "did you know," detective, and philosophical. Let's start with a factual question about the aftermath of the war. Then, maybe a "did you know" about a specific character's role. A detective-style question could explore why certain characters were mourned. Philosophical questions might involve the concept of dharma or the consequences of war.
+
+I need to ensure that each answer includes context from the text. For example, when mentioning Karna, I should note he was the son of Kunti and a warrior. Also, check for lesser-known elements like the specific rituals or the role of Vidura.
+
+Let me draft the first question: "What event led to the Pandavas and Kauravas engaging in the great war, according to the text?" But the text provided starts after the war, so maybe focus on the aftermath. Let me adjust that.
+
+Another idea: "Which warrior, despite being a cousin to the Pandavas, was killed by Arjuna in the war, and how is he described in the text?" That would highlight Karna's role.
+
+I need to make sure each answer is fully supported by the text. For example, the text mentions Karna's death and his valor. Also, the funeral rites and the mourning of the warriors.
+
+I should also check for specific numbers or names. The text lists many warriors who died, so a question about the number of warriors killed could be factual. But the text uses terms like "sahasraani chaturdasha" (14,000), so that's a specific detail.
+
+Another angle: the role of Krishna in the war. The text mentions Krishna as a guide and his role in the Pandavas' victory.
+
+I need to avoid adding information not in the text. For example, the text doesn't mention the exact reasons for the war beyond the conflict between the Pandavas and Kauravas, so I shouldn't infer more.
+
+Let me structure each entry with reasoning, question, and answer. Ensure that each question is self-contained and the answers have necessary context. Check for clarity and that they help someone learn about the Mahabharata.
+</think>
+
+<entry>
+  <reasoning>
+    The text describes the aftermath of the Mahabharata war, focusing on funeral rites and mourning. The question highlights a key event (funeral rites) and references specific characters (Gandhari, Yudhishthira) mentioned in the passage.
+  </reasoning>
+  <question>
+    After the great war, which ritual did the Pandavas perform for the deceased warriors, and who was particularly affected by the mourning?
+  </question>
+  <answer>
+    The Pandavas performed funeral rites (shraaddha) for the fallen warriors, including burning bodies on pyres with ghee, oil, and sandalwood. Gandhari, the mother of the Kauravas, was deeply affected by the mourning, as her sons and relatives were among the dead. Yudhishthira also expressed grief over the loss of his cousins and allies.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text explicitly mentions Karna's death and his role as a warrior. The question focuses on his identity and the irony of his fate, which is central to the Mahabharata's narrative.
+  </reasoning>
+  <question>
+    Who was the warrior killed by Arjuna in the war, and what was notable about his relationship to the Pandavas?
+  </question>
+  <answer>
+    Karna, a valiant warrior and cousin to the Pandavas, was killed by Arjuna. Though he fought for the Kauravas, he was secretly the eldest son of Kunti (mother of the Pandavas) and Dharma (the god of righteousness). His death was a tragic irony, as he was both a brother and an enemy to the Pandavas.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text references specific warriors and their deaths. The question explores the scale of loss and the role of divine intervention, which are key themes in the Mahabharata.
+  </reasoning>
+  <question>
+    How many warriors were killed in the war according to the text, and what divine or moral principle is suggested to explain their deaths?
+  </reasoning>
+  <answer>
+    The text mentions 14,000 warriors (sahasraani chaturdasha) and 60,000 (shatashati) killed, emphasizing the massive scale of destruction. It suggests that their deaths were a result of "karma" (divine justice) and the inevitability of fate, as the warriors had "killed each other through enmity" (parasparanghanto jnatayah).
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text includes Gandhari's lament and Yudhishthira's dialogue. The question highlights the emotional and philosophical aspects of the narrative.
+  </reasoning>
+  <question>
+    What did Gandhari say to Yudhishthira about the Kauravas' fate, and how did Yudhishthira respond to her grief?
+  </question>
+  <answer>
+    Gandhari blamed Yudhishthira for the Kauravas' deaths, saying, "You alone are responsible for their destruction." Yudhishthira replied that the Kauravas had chosen their path of violence and that their deaths were a result of their own actions, not his.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes the ritual of "udakakriya" (water ceremony) for the dead. The question focuses on this practice and its significance.
+  </reasoning>
+  <question>
+    What was the "udakakriya" ceremony, and who performed it for the warriors after the war?
+  </answer>
+  <answer>
+    The "udakakriya" was a ritual where water was offered to the deceased to symbolize their journey to the afterlife. Yudhishthira, guided by Vidura and other sages, performed this ceremony for the warriors, including Karna and Duryodhana, to honor their souls.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text mentions Karna's divine armor (kavaca) and disc (sudarshana). The question explores his invincibility and its eventual defeat.
+  </reasoning>
+  <question>
+    What divine weapons or armor did Karna possess, and how was he ultimately defeated in the war?
+  </answer>
+  <answer>
+    Karna wore a divine armor (kavaca) and a disc (sudarshana) given by Indra. He was killed by Arjuna's arrow, which pierced his armor and struck his heart. His invincibility was broken when he removed his armor during the final battle, as per a vow he made to his mother.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text includes a philosophical dialogue about dharma and the inevitability of fate. The question highlights this moral dilemma.
+  </reasoning>
+  <question>
+    What philosophical dilemma did Yudhishthira face after the war, and how did he reconcile the loss of life with dharma?
+  </answer>
+  <answer>
+    Yudhishthira struggled with the moral cost of the war, questioning whether the destruction of relatives and allies was justified. He concluded that the war was a necessary outcome of dharma (duty) and karma, as the Kauravas had violated righteousness by seizing the Pandavas' kingdom.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text references the role of sages like Narada and Vidura in advising Yudhishthira. The question explores their influence on post-war decisions.
+  </reasoning>
+  <question>
+    Which sages advised Yudhishthira after the war, and what was their role in guiding him through the mourning process?
+  </answer>
+  <answer>
+    Sages like Narada, Vidura, and others advised Yudhishthira to perform rituals for the dead and to accept the consequences of war. They emphasized the importance of dharma and helping the souls of the deceased find peace through proper ceremonies.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes the emotional impact of the war on women, particularly Draupadi and Kunti. The question highlights their roles and suffering.
+  </answer>
+  <answer>
+    Draupadi mourned the deaths of her sons and allies, while Kunti grieved for her sons and Karna. The text portrays their anguish as a reflection of the war's human cost, with Kunti specifically lamenting Karna's death as a "soul of the world" (loka-purusha).
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text includes references to the "shanti parva" (peace chapter), which focuses on post-war reconciliation. The question explores this theme.
+  </reasoning>
+  <question>
+    What was the purpose of the "shanti parva" in the Mahabharata, and how did it address the aftermath of the war?
+  </answer>
+  <answer>
+    The "shanti parva" (Peace Chapter) outlines the moral and spiritual lessons of the war, emphasizing the need for peace, dharma, and reconciliation. It includes dialogues between Yudhishthira and sages about the consequences of violence and the importance of upholding righteousness to restore order.
+  </answer>
+</entry>

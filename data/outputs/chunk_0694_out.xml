@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key events, characters, and specific references. The text seems to be from the Bhishma Parva, as there are mentions of Bhishma and the Kurukshetra war. There's a lot of dialogue between characters like Vasudeva, Bhima, and others. The text includes references to battles, deaths of warriors, and some rituals like Shraaddha (funeral rites). 
+
+For the first question, I notice that there's a mention of Vasudeva (Krishna's father) performing Shraaddha for Abhimanyu. The text says "वैशम्पायन उवाच||" and later mentions "वसुदेवेन अभिमन्योः श्राद्धदानम्" which translates to Vasudeva performing the Shraaddha for Abhimanyu. So a question about who performed the Shraaddha for Abhimanyu would be good. The options would include Vasudeva, Krishna, Bhima, and others. The correct answer is Vasudeva.
+
+Next, looking for another event. There's a part where after Abhimanyu's death, his mother Subhadra is mentioned. The text says "सुभद्रे वासुदेवेन तथा सात्यकिना रणे | पित्रा च पालितो बालः स हतः कालधर्मणा" which refers to Subhadra's son Abhimanyu. So a question about who was the mother of Abhimanyu would be another question. The answer is Subhadra.
+
+Third, there's a mention of the Shraaddha being performed with a large number of Brahmins. The text says "षष्टिं शतसहस्राणि ब्राह्मणानां महाभुजः" which is 60,000 Brahmins. So a question about the number of Brahmins involved in the Shraaddha. The options would include 60,000, 10,000, etc. The correct answer is 60,000.
+
+Fourth, there's a part where after Abhimanyu's death, there's a mention of a son being born. The text says "गर्भिणीं मा शुचः शुभे | पुत्रमेषा हि तस्याशु जनयिष्यति भामिनी" which refers to Subhadra being pregnant. But the question could be about who was pregnant after Abhimanyu's death. The answer is Subhadra.
+
+Fifth, looking for another event. There's a mention of the Pandavas going to the place where the treasure (marut) was hidden. The text says "मरुत्तेन निहितं पृथिवीतले" and "मरुत्तस्य धनं नृपाः" which refers to the treasure of Marut. So a question about the treasure hidden in the earth. The answer is Marut's treasure.
+
+I need to make sure each question is specific, includes the correct references, and the options are plausible. Also, check that the answers are directly from the text. Avoid adding any external information. Each question should be unique and cover different parts of the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of post-Abhimanyu funeral rites. Vasudeva performed the Shraaddha for his son, as explicitly stated in the text. Other options represent other Pandava figures but are not linked to this specific ritual in the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Shraaddha Parva, who performed the funeral rites for Abhimanyu after his death in battle?
+    A) Vasudeva
+    B) Krishna
+    C) Bhima
+    D) Yudhishthira
+  </question>
+  <answer>A) Vasudeva</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question verifies the parentage of Abhimanyu. The text explicitly states Subhadra as his mother. Other options represent other Pandava relatives but are not biologically connected to Abhimanyu in the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Shraaddha Parva, who was the mother of Abhimanyu, the son of Arjuna and Subhadra?
+    A) Subhadra
+    B) Draupadi
+    C) Kunti
+    D) Gandhari
+  </question>
+  <answer>A) Subhadra</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses numerical details about the Shraaddha ritual. The text specifies 60,000 Brahmins were fed, making this the only exact figure. Other options represent plausible but incorrect quantities.
+  </reasoning>
+  <question>
+    In Mahabharata's Shraaddha Parva, how many Brahmins were fed during Vasudeva's funeral feast for Abhimanyu?
+    A) 60,000
+    B) 10,000
+    C) 1,000
+    D) 100,000
+  </question>
+  <answer>A) 60,000</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of post-Abhimanyu pregnancy. The text explicitly states Subhadra was pregnant after his death. Other options represent unrelated characters or relationships.
+  </reasoning>
+  <question>
+    In Mahabharata's Shraaddha Parva, who was pregnant after Abhimanyu's death, as mentioned in the text?
+    A) Subhadra
+    B) Draupadi
+    C) Kunti
+    D) Gandhari
+  </question>
+  <answer>A) Subhadra</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question verifies the location of a hidden treasure. The text explicitly mentions "marut" (a celestial being) as the owner of the earth-hidden treasure. Other options represent unrelated figures or concepts.
+  </reasoning>
+  <question>
+    In Mahabharata's Ashvamedha Parva, where was the treasure of Marut hidden according to the text?
+    A) In the earth
+    B) In the sky
+    C) In the ocean
+    D) In the mountains
+  </question>
+  <answer>A) In the earth</answer>
+</entry>

@@ -1,0 +1,95 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, places, and specific references. The text seems to be from the Bhishma Parva, as there are mentions of Bhishma and Arjuna. There's a lot of dialogue between Arjuna and Krishna, and references to various deities like Shiva, Indra, and others. Also, there are mentions of specific weapons like the Pashupatastra and the Gandiva.
+
+For each question, I need to make sure the answer is explicitly stated in the text. Let's go through the text step by step.
+
+1. The first part mentions Arjuna asking for a divine weapon (Pashupatastra) from Krishna. The text says, "कामये दिव्यमस्त्रं तद्घोरं पाशुपतं प्रभो" (I desire a divine weapon, the terrible Pashupatastra, O Lord). So a question about Arjuna requesting the Pashupatastra would be valid.
+
+2. There's a mention of Arjuna being given the Gandiva by Shiva. The text says, "ददौ भवः पुरुषवराय गाण्डिवम्" (He gave the Gandiva to the best of men). So a question about who gave the Gandiva to Arjuna.
+
+3. The text includes Arjuna's request for a boon, and Krishna grants it. The verse "गृहाण वरमस्मत्तः काङ्क्षितं यन्नरर्षभ" (Take the boon from me, O hero among men) indicates that Arjuna received a boon. So a question about the boon given to Arjuna.
+
+4. There's a part where Arjuna is described as being given a divine chariot by Indra. The text says, "रथो मातलिसंयुक्त आजगाम महाप्रभः" (The chariot, yoked with Matla, came with great power). So a question about the chariot given by Indra.
+
+5. The text mentions Arjuna's journey to the heavens. The verse "गतेषु लोकपालेषु पार्थः शत्रुनिबर्हणः" (After the gods, Arjuna, the destroyer of enemies) suggests he was granted a place in the heavens. So a question about his ascension to Indra's realm.
+
+Now, I need to structure each question with the trigger phrase, specific references, and four options. Ensure that the answers are directly from the text. Also, check that each question is distinct and covers different parts of the text.
+
+Let me verify each point against the text to make sure the answers are accurate. For example, the Pashupatastra is mentioned in the text, and the Gandiva is given by Shiva. The boon is granted, the chariot from Indra, and the ascension to the heavens. Each of these is explicitly stated.
+
+Now, format them into XML entries with reasoning, question, and answer. Make sure the options are plausible but only one is correct. For example, in the Pashupatastra question, options could include other weapons or deities, but the correct answer is the Pashupatastra.
+
+I need to ensure that each question is unique and covers different aspects: weapons, chariots, boons, deities, and ascension. That should give five distinct questions.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Arjuna's request for a divine weapon. The text explicitly states Arjuna asked for the Pashupatastra, a weapon of Shiva. Other options represent different weapons or deities but are not the focus of this specific request.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 7), which divine weapon did Arjuna request from Krishna?
+    A) Gandiva
+    B) Pashupatastra
+    C) Brahmastra
+    D) Agneyastra
+  </question>
+  <answer>B) Pashupatastra</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Shiva's role in gifting Arjuna the Gandiva. The text directly states Shiva gave the Gandiva to Arjuna. Other options involve different deities or weapons not mentioned in this context.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 25), who gifted Arjuna the divine bow Gandiva?
+    A) Indra
+    B) Shiva
+    C) Vishnu
+    D) Brahma
+  </question>
+  <answer>B) Shiva</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Arjuna's boon from Krishna. The text explicitly states Krishna granted Arjuna a boon. Other options represent different divine gifts but are not the specific boon mentioned here.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 5), what did Krishna grant Arjuna after his request?
+    A) Immortality
+    B) A boon
+    C) A chariot
+    D) A divine weapon
+  </question>
+  <answer>B) A boon</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Indra's role in providing Arjuna's chariot. The text describes a chariot yoked with Matla sent by Indra. Other options involve different deities or vehicles not linked to this specific event.
+  </reasoning>
+  <question>
+    In Mahabharata's Indralokaabhigamana Parva (verse 2), which deity provided Arjuna with a divine chariot?
+    A) Vishnu
+    B) Shiva
+    C) Indra
+    D) Brahma
+  </question>
+  <answer>C) Indra</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses Arjuna's ascension to the heavens. The text mentions Arjuna's journey to Indra's realm after receiving divine gifts. Other options involve different realms or deities not tied to this specific event.
+  </reasoning>
+  <question>
+    In Mahabharata's Indralokaabhigamana Parva (verse 1), where did Arjuna ascend after receiving divine boons?
+    A) Yamaloka
+    B) Indraloka
+    C) Brahmaloka
+    D) Patalaloka
+  </question>
+  <answer>B) Indraloka</answer>
+</entry>

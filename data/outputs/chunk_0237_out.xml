@@ -1,0 +1,91 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, teachings, and specific references. The text seems to be from the Bhishma Parva, as there are mentions of Bhishma and other warriors. There are references to Arjuna, Krishna, and various warriors like Bhima, Drona, Karna, etc. Also, there are verses about the nature of Krishna, his divine aspects, and some philosophical teachings.
+
+For each question, I need to ensure that the answer is explicitly stated in the text. Let me go through the text again.
+
+The first part mentions "परां गतिमसम्प्रेक्ष्य न त्वं वेत्तुमिहार्हसि" which translates to "Having crossed the river, you are not fit to know it." But I need to check if this is part of a specific parva. The text also includes verses about Krishna's divine nature, like "वासुदेवस्ततो वेद्यो वृषत्वाद्वृष्णिरुच्यते" which means "Vasudeva is known as Vrishni because of his strength."
+
+Another part mentions "कृष्णस्तद्भावात्पुण्डरीकाक्षो दस्युत्रासाज्जनार्दनः" which refers to Krishna as Janardana. Also, there's a mention of "पुण्डरीकं परं धाम" (the lotus-eyed one's supreme abode).
+
+I need to make sure each question is specific. For example, one question could be about who is referred to as "Janardana" in the text. Another could be about the divine name "Vasudeva" and his association with the Vrishni clan.
+
+I should also check for specific references like adhyayas or parvas. The text starts with "वैशम्पायन उवाच" which is the beginning of the Mahabharata, so maybe the Bhishma Parva. But the exact adhyaya isn't clear here. However, the user mentioned to include specific references if possible.
+
+Another part talks about "सर्वशस्त्रभृतां श्रेष्ठं मेरुं शिखरिणामिव" which is about the best among all warriors, comparing to Meru's peak. This might refer to Arjuna or someone else.
+
+I need to ensure that each question is based on explicit information. For example, if the text says "वासुदेवस्ततो वेद्यो वृषत्वाद्वृष्णिरुच्यते" then the answer would be that Vasudeva is known as Vrishni because of his strength.
+
+I'll draft five questions, each focusing on different aspects: divine names, warriors, philosophical teachings, and specific references. Each question must have four options, with one correct answer based on the text. I'll also make sure the reasoning explains why the answer is correct and why others are not.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Krishna's epithets. The text explicitly states "कृष्णस्तद्भावात्पुण्डरीकाक्षो दस्युत्रासाज्जनार्दनः" (Krishna, the lotus-eyed, is called Janardana). Other options are alternate names but not directly tied to the text's phrasing.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, which epithet is directly attributed to Krishna in the text: "कृष्णस्तद्भावात्पुण्डरीकाक्षो दस्युत्रासाज्जनार्दनः"?
+    A) Vasudeva
+    B) Janardana
+    C) Dhananjaya
+    D) Keshava
+  </question>
+  <answer>B) Janardana</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests recognition of Krishna's divine nature. The text states "वासुदेवस्ततो वेद्यो वृषत्वाद्वृष्णिरुच्यते" (Vasudeva is known as Vrishni due to his strength). Other options are related but not explicitly tied to the Vrishni clan in this context.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, which name is explicitly linked to Krishna's association with the Vrishni clan: "वासुदेवस्ततो वेद्यो वृषत्वाद्वृष्णिरुच्यते"?
+    A) Dhananjaya
+    B) Vasudeva
+    C) Keshava
+    D) Janardana
+  </question>
+  <answer>B) Vasudeva</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Arjuna's role. The text states "सर्वशस्त्रभृतां श्रेष्ठं मेरुं शिखरिणामिव" (the best among all warriors, like Meru's peak). This directly refers to Arjuna's martial prowess.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, which warrior is described as "सर्वशस्त्रभृतां श्रेष्ठं मेरुं शिखरिणामिव" (the best among all warriors, like Meru's peak)?
+    A) Bhishma
+    B) Arjuna
+    C) Karna
+    D) Drona
+  </question>
+  <answer>B) Arjuna</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests understanding of Krishna's cosmic role. The text states "कालचक्रं जगच्चक्रं युगचक्रं च केशवः" (Keshava is the wheel of time, the world's wheel, and the age's wheel). This reflects his role as the cosmic order.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, which cosmic role is explicitly assigned to Krishna: "कालचक्रं जगच्चक्रं युगचक्रं च केशवः"?
+    A) Supreme ruler
+    B) Cosmic wheel
+    C) Warrior
+    D) Philosopher
+  </question>
+  <answer>B) Cosmic wheel</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests recognition of Krishna's divine name. The text states "पुण्डरीकं परं धाम नित्यमक्षयमक्षरम्" (The lotus-eyed one's supreme, eternal, imperishable abode). This directly refers to his divine nature as "Pundarikaksha."
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, which divine name is explicitly used for Krishna: "पुण्डरीकं परं धाम नित्यमक्षयमक्षरम्"?
+    A) Dhananjaya
+    B) Pundarikaksha
+    C) Janardana
+    D) Keshava
+  </question>
+  <answer>B) Pundarikaksha</answer>
+</entry>

@@ -1,0 +1,91 @@
+<think>
+Okay, I need to create 5 multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, and specific references. The text seems to be from the Bhishma Parva, as it mentions Bhishma and Arjuna. There are references to battles, warriors like Bhishma, Drona, Karna, and others. The verses mention specific actions like arrows, chariots, and battles. 
+
+For the first question, I notice that the text mentions Bhishma and Arjuna fighting. The verse 41 says "Arjuna attacked Bhishma with arrows." So a question about who attacked Bhishma could be formed. The options would include Arjuna, Drona, Karna, and Duryodhana. The correct answer is Arjuna.
+
+Next, looking for another event. Verse 49 mentions Bhishma attacking Vasudeva (Krishna) with three arrows. So a question about who Bhishma attacked. The options would be Vasudeva, Drona, Karna, and Duryodhana. Correct answer is Vasudeva.
+
+Third question: The text mentions that Bhishma and Arjuna were equal in battle. Verse 57 says they were equal. So a question about their equality. Options could be Bhishma and Arjuna, Bhishma and Drona, etc. Correct answer is Bhishma and Arjuna.
+
+Fourth question: The text mentions that Bhishma and Arjuna's battle was so fierce that even gods were amazed. Verse 63 says that. So a question about who was amazed. Options: gods, demons, sages, warriors. Correct answer is gods.
+
+Fifth question: The text mentions that Bhishma and Arjuna's battle was described as the greatest. Verse 64. So a question about the description of their battle. Options: greatest, most brutal, most strategic, most famous. Correct answer is greatest.
+
+I need to make sure each question has the trigger phrase, specific references, and the answers are directly from the text. Also, check that the options are plausible but incorrect. For example, in the first question, Drona and Karna are other warriors but not the ones attacking Bhishma. 
+
+I should verify each verse reference to ensure accuracy. Also, check that the answers are under 100 characters. For example, "Arjuna attacked Bhishma with arrows" is under 100. 
+
+Now, structure each entry with reasoning, question, and answer. Make sure the XML is valid. Avoid any markdown. Use the exact Sanskrit verses where possible. Each question should be unique and cover different parts of the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of key warriors in the Bhishma Parva. The text explicitly states that Arjuna attacked Bhishma with arrows. Drona and Karna are other major warriors but are not mentioned as attacking Bhishma here. Duryodhana was a king, not a direct combatant in this passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 41), who attacked Bhishma with arrows in the Kurukshetra war?
+    A) Arjuna
+    B) Drona
+    C) Karna
+    D) Duryodhana
+  </question>
+  <answer>A) Arjuna</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Bhishma's role as a commander. The text states Bhishma attacked Vasudeva (Krishna) with three arrows. Drona and Karna are other warriors but not mentioned here. Duryodhana was a king, not a direct combatant in this passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 49), which warrior attacked Vasudeva with three arrows?
+    A) Bhishma
+    B) Drona
+    C) Karna
+    D) Duryodhana
+  </question>
+  <answer>A) Bhishma</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question emphasizes the equality of Bhishma and Arjuna. The text explicitly states they were equal in battle. Drona and Karna are other warriors but not compared to Arjuna here. Duryodhana was a king, not a direct combatant in this passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 57), which two warriors were described as equal in battle?
+    A) Bhishma and Arjuna
+    B) Bhishma and Drona
+    C) Karna and Duryodhana
+    D) Drona and Karna
+  </question>
+  <answer>A) Bhishma and Arjuna</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of divine reactions to the battle. The text states gods were amazed by Bhishma and Arjuna's combat. Demons and sages are not mentioned here. Warriors like Drona and Karna are not the focus of this divine reaction.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 63), which group was amazed by Bhishma and Arjuna's battle?
+    A) Gods
+    B) Demons
+    C) Sages
+    D) Warriors
+  </question>
+  <answer>A) Gods</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the epic nature of the battle. The text explicitly describes Bhishma and Arjuna's fight as the greatest. Other descriptors like "brutal" or "strategic" are not used in the passage. "Most famous" is a subjective term not directly stated.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 64), how was Bhishma and Arjuna's battle described?
+    A) The greatest
+    B) The most brutal
+    C) The most strategic
+    D) The most famous
+  </question>
+  <answer>A) The greatest</answer>
+</entry>

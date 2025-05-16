@@ -1,0 +1,147 @@
+<think>
+Okay, I need to create 10 high-quality question-answer pairs based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll read through the verses to identify key elements. The text seems to be part of the Mahabharata's narrative, possibly from the section where Yudhishthira and other Pandavas are dealing with their exile and the distribution of resources. There are mentions of various characters like Bhima, Arjuna, Dhritharashtra, Vidura, and others. The verses talk about dharma, kingship, and the duties of warriors. 
+
+I need to make sure each question is standalone, so I can't refer to "the passage." Each question must have enough context. For example, if I mention "Yudhishthira," I should explain he's the eldest Pandava king. Also, for lesser-known terms like "Shraddha Yajna" (a ritual for ancestors), I need to clarify that.
+
+Let me think of possible questions. The first verse mentions Yuyudhana and Dhristadyumna, who are warriors. So a factual question could be about their role. Another part talks about the Pandavas' exile and their duties. There's a mention of Vidura, a wise minister, so a question about his role. Also, the text discusses the distribution of wealth and resources, so a question on that. 
+
+I need to vary the question types: factual, "did you know," detective, philosophical. For example, a detective-style question could explore why Bhima was angry. A philosophical question might be about the concept of dharma in the text. 
+
+I should check each verse for specific details. For instance, verse 4 mentions four Pandava brothers: Bhima, Arjuna, Yudhishthira, and Nakula. So a question about the four Pandavas. Also, there's a reference to "Shraddha Yajna" which is a ritual for ancestors, so a question on that. 
+
+I need to ensure answers are accurate based on the text. For example, when the text says "Yudhishthira was given the task of distributing wealth," the answer should reflect that. Also, the text mentions that the Pandavas were to be given resources for their exile, so a question about that. 
+
+I should avoid adding any information not in the text. For example, if the text doesn't mention a specific event, I can't assume it. Also, clarify terms like "Kshatriya Dharma" (duty of warriors) when necessary. 
+
+Now, structuring each entry with reasoning, question, and answer. Let me draft a few examples. 
+
+First question: Who were the four Pandava brothers mentioned in the text, and what was their role during the exile? The answer would list Bhima, Arjuna, Yudhishthira, and Nakula, and their roles in distributing resources. 
+
+Second question: What was the purpose of the "Shraddha Yajna" mentioned in the text, and who was responsible for organizing it? Answer would explain it's a ritual for ancestors, organized by Dhritharashtra. 
+
+Third question: Why was Bhima angry at Vidura's message, and what did it reveal about the Pandavas' situation? Answer would mention Bhima's anger due to the harsh treatment, revealing the Pandavas' difficult circumstances. 
+
+I need to make sure each answer has context and is supported by the text. Also, check for clarity and that each question is self-contained. Let me verify each point against the provided verses to ensure accuracy.
+</think>
+
+<entry>
+  <reasoning>
+    The text references the four Pandava brothers (Bhima, Arjuna, Yudhishthira, Nakula) and their roles in distributing resources during exile. The question requires contextualizing their roles and the purpose of the distribution.
+  </reasoning>
+  <question>
+    Who were the four Pandava brothers mentioned in the text, and what was their role in distributing resources during their exile?
+  </question>
+  <answer>
+    The four Pandava brothers mentioned are Bhima, Arjuna, Yudhishthira, and Nakula. During their exile, they were tasked with distributing wealth and resources to ensure the well-being of their allies and dependents, as highlighted in verses discussing their duties and the support they received from Dhritharashtra.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text explicitly mentions "Shraddha Yajna" (ritual for ancestors) and Dhritharashtra's role in organizing it. The question requires clarifying the ritual's purpose and the king's responsibility.
+  </reasoning>
+  <question>
+    What was the purpose of the "Shraddha Yajna" described in the text, and who was responsible for organizing it?
+  </question>
+  <answer>
+    The "Shraddha Yajna" was a ritual to honor ancestors and ensure their spiritual well-being. Dhritharashtra, the Kuru king, organized this ceremony, as noted in verses detailing his distribution of wealth and resources to fulfill ancestral and familial duties.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes Bhima's anger at Vidura's message, reflecting the Pandavas' hardships. The question explores motivations and the context of their suffering.
+  </reasoning>
+  <question>
+    Why was Bhima angry at Vidura's message, and what did it reveal about the Pandavas' situation during their exile?
+  </question>
+  <answer>
+    Bhima was angered by Vidura's message, which reminded him of the Pandavas' harsh treatment and their struggle to survive in the forest. This revealed their vulnerability and the emotional toll of their exile, as described in verses where Bhima laments their plight.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text emphasizes Dhritharashtra's role in distributing resources. The question highlights his actions and their significance in the narrative.
+  </reasoning>
+  <question>
+    What actions did Dhritharashtra take to support the Pandavas during their exile, and how did this reflect his character?
+  </question>
+  <answer>
+    Dhritharashtra distributed wealth, land, and resources to the Pandavas, as mentioned in verses about his "Shraddha Yajna." This act demonstrated his adherence to dharma (duty) and his attempt to reconcile with the Pandavas, despite the complexities of their relationship.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text references the concept of "Kshatriya Dharma" (warrior's duty). The question explores its philosophical implications in the narrative.
+  </reasoning>
+  <question>
+    What does the text suggest about the concept of "Kshatriya Dharma" (warrior's duty), and how is it illustrated in the Pandavas' actions?
+  </question>
+  <answer>
+    The text underscores that Kshatriyas must uphold justice and protect their people, even at personal cost. This is seen in the Pandavas' willingness to fight for their rights, as highlighted in verses about their moral obligations and the consequences of inaction.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text mentions the Pandavas' distribution of wealth to allies. The question requires contextualizing this act and its significance.
+  </reasoning>
+  <question>
+    How did the Pandavas use their resources during exile, and what does this reveal about their values?
+  </question>
+  <answer>
+    The Pandavas distributed wealth to allies, dependents, and the poor, as described in verses about their generosity. This reflects their commitment to dharma, emphasizing communal welfare and the ethical use of resources.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text references Vidura's role as a wise advisor. The question explores his influence and the context of his advice.
+  </reasoning>
+  <question>
+    What role did Vidura play in the narrative, and how did his advice impact the Pandavas' decisions?
+  </question>
+  <answer>
+    Vidura served as a moral guide and advisor to the Pandavas. His advice, such as urging Yudhishthira to accept resources, influenced their strategies during exile, reflecting his wisdom and commitment to dharma.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes Dhritharashtra's efforts to atone for past actions. The question requires contextualizing his motivations and the narrative's themes.
+  </reasoning>
+  <question>
+    What motivated Dhritharashtra to distribute resources to the Pandavas, and how does this reflect the text's themes of redemption?
+  </question>
+  <answer>
+    Dhritharashtra's actions were driven by guilt and a desire to atone for past injustices. This reflects the text's theme of redemption through dharma, as he sought to mend relationships and fulfill his duties as a king.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text highlights the Pandavas' resilience. The question explores their strategies and the cultural context of their endurance.
+  </reasoning>
+  <question>
+    How did the Pandavas maintain their resolve during exile, and what cultural values supported their endurance?
+  </question>
+  <answer>
+    The Pandavas relied on their bond as brothers and adherence to dharma, as emphasized in verses about their unity and moral strength. Their endurance was rooted in values like perseverance and communal responsibility.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text mentions the "Shraddha Yajna" as a means to honor ancestors. The question requires clarifying its purpose and the king's role.
+  </reasoning>
+  <question>
+    What was the significance of the "Shraddha Yajna" in the text, and how did Dhritharashtra's participation reflect his role as a king?
+  </question>
+  <answer>
+    The "Shraddha Yajna" symbolized respect for ancestors and the fulfillment of royal duties. Dhritharashtra's participation highlighted his responsibility to maintain social and spiritual order, aligning with the king's role as a guardian of dharma.
+  </answer>
+</entry>

@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create 5 multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+The text seems to be from the Bhishma Parva, specifically discussions between Yudhishthira and Bhishma about dharma, brahmacarya, and the duties of different varnas. There are verses about what constitutes the highest dharma, the importance of brahmacarya, and the qualifications of a person who is fit to receive gifts. Also, there's mention of who is not fit to receive gifts (like those who commit certain sins) and the consequences of actions.
+
+First question: The user mentioned that Bhishma talks about brahmacarya. In the text, verse 25 says "Brahmacarya is the highest, which is the avoidance of meat." So the question could be about what is considered the highest dharma. The options would include other concepts like dharma's sign (shama), but the correct answer is brahmacarya.
+
+Second question: The text mentions that certain people are not fit to receive gifts. For example, verses 13-23 list various people like those who are impure, thieves, etc. So a question about who is not fit to receive gifts. The options would include different groups, and the correct answer is those who are impure or have certain vices.
+
+Third question: The text talks about the qualifications of a person who is fit to receive gifts. Verse 33-35 mentions that those who are non-angry, truthful, and self-controlled are fit. So the question could be about the qualities of such a person.
+
+Fourth question: The text mentions that giving gifts to certain people (like those who are impure) leads to no fruit. So a question about who should not be given gifts. The options would include different groups, and the correct answer is those who are impure or have committed sins.
+
+Fifth question: The text lists people who are not fit to receive gifts, like those who are thieves, liars, etc. So another question about who is excluded from receiving gifts.
+
+I need to make sure each question is specific, includes the exact reference (like adhyaya or shloka), and the options are plausible but only one correct. Also, check that the answers are under 100 characters. Let me structure each entry with the reasoning, question, and answer as per the example.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests understanding of Bhishma's definition of brahmacarya. The text explicitly states that brahmacarya is the highest dharma, achieved by avoiding meat. Other options represent related concepts but are not the primary definition here.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (Shloka 25), what is defined as the highest dharma (dharma-lakshana) according to Bhishma?
+    A) Self-control (shama)
+    B) Avoiding meat (madyamasya varjana)
+    C) Performing rituals
+    D) Serving elders
+  </question>
+  <answer>B) Avoiding meat</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Bhishma's criteria for who is unfit to receive gifts. The text lists specific groups like thieves, liars, and those who commit violence. Other options represent valid but less specific categories.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (Shloka 13-23), which group is explicitly stated as unworthy of gifts due to moral failings?
+    A) Wealthy merchants
+    B) Those who commit violence (pashuhimsa)
+    C) Scholars of the Vedas
+    D) Devotees of Shiva
+  </question>
+  <answer>B) Those who commit violence</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses knowledge of qualifications for receiving gifts. The text emphasizes self-discipline and truthfulness. Other options represent partial truths but miss the core criteria.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (Shloka 33-35), what qualities make a person fit to receive gifts according to Bhishma?
+    A) Wealth and social status
+    B) Non-anger, truthfulness, and self-control
+    C) Knowledge of rituals
+    D) Blood relation to the giver
+  </question>
+  <answer>B) Non-anger, truthfulness, and self-control</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests understanding of consequences for improper gift-giving. The text states that giving to impure individuals yields no spiritual benefit. Other options represent valid but less direct consequences.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (Shloka 33), what happens when gifts are given to those who commit violence or theft?
+    A) They gain worldly wealth
+    B) They receive no spiritual fruit
+    C) They become kings
+    D) They achieve moksha
+  </question>
+  <answer>B) They receive no spiritual fruit</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines Bhishma's list of excluded groups. The text specifically names thieves and those who commit violence. Other options represent related but less specific categories.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (Shloka 18), which group is explicitly excluded from receiving gifts due to moral corruption?
+    A) Scholars
+    B) Thieves (stena)
+    C) Farmers
+    D) Warriors
+  </question>
+  <answer>B) Thieves</answer>
+</entry>

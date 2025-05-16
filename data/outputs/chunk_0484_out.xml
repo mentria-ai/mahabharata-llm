@@ -1,0 +1,107 @@
+<think>
+Okay, I need to create 5 multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, places, and specific references. The text seems to be from the Bhishma Parva, as it mentions characters like Yudhishthira, Drona, Bhishma, and events like the Kurukshetra war. There's a lot of description about the battlefield, the deaths of warriors, and the reactions of characters like Gandhari and Kunti.
+
+For each question, I need to make sure the answer is explicitly stated in the text. Let's go through the text step by step.
+
+1. The first part mentions Gandhari seeing the battlefield. She's described as a devoted wife (pativratā) and her reaction to the deaths. So a question about her role or her statement could work.
+
+2. There's a mention of Kunti (Pṛthā) and her lamentation. She's the mother of the Pandavas. The text says she saw her sons and relatives dead, leading to her sorrow.
+
+3. The text includes references to specific warriors like Bhishma, Drona, Karna, and their deaths. For example, "Bhishma was appointed as the commander of the Kaurava forces for the first 10 days of battle." But I need to check if the text explicitly states this.
+
+Wait, the given text doesn't mention Bhishma's command directly. It's more about the aftermath. So maybe focus on the reactions of the queens and the descriptions of the battlefield.
+
+Another point: The text describes the battlefield as filled with dead warriors, chariots, and animals. There's a mention of "शरीरैर्बहुसाहस्रैर्विनिकीर्णं समन्ततः" (covered with thousands of bodies). So a question about the battlefield's state could be possible.
+
+Also, there's a part where Gandhari says, "मैवं पुत्रीति शोकार्ता पश्य मामपि दुःखिताम्" (I am a mother, sorrowful, see me too). So a question about her statement.
+
+Another element is the mention of specific warriors like Bhishma, Drona, and Karna, but the text might not name them directly. Need to check.
+
+Let me structure each question:
+
+1. Question about Gandhari's role and her reaction to the battlefield. The text says she saw the battlefield and was sorrowful. The answer would be her role as a devoted wife and her lamentation.
+
+2. Question about Kunti's reaction. She saw her sons and relatives dead, leading to her sorrow. The text mentions her weeping and the context of her being a mother.
+
+3. Question about the description of the battlefield. The text describes it as filled with bodies, chariots, and animals. The answer would be the state of the battlefield.
+
+4. Question about the specific warriors mentioned. However, the text might not name them directly. Alternatively, the text mentions "भीष्मकर्णाभिमन्युभिः" (Bhishma, Karna, Abhimanyu), so a question about warriors who died.
+
+5. Another question about the queens' reactions. The text describes them weeping and lamenting, so a question about their actions.
+
+I need to ensure each question is specific, with exact references. Since the text is in Sanskrit, the references would be adhyayas or specific verses. However, the user didn't provide specific adhyayas, so I'll use the context from the text.
+
+Now, formulating the questions with the required structure.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Gandhari's role and her emotional state in the aftermath of the Kurukshetra war. The text explicitly describes her as a devoted wife (pativratā) and her sorrowful reaction to the battlefield's devastation. Other options represent different characters or roles not directly tied to her lamentation in the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, which character is described as a "pativratā" (devoted wife) and laments the devastation of the battlefield?
+    A) Kunti
+    B) Gandhari
+    C) Draupadi
+    D) Subhadra
+  </question>
+  <answer>B) Gandhari</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Kunti's emotional response to the war's aftermath. The text explicitly states she wept for her sons and relatives, emphasizing her role as a mother. Other options represent different relationships or roles not directly mentioned in the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, which character is described as weeping for her sons and relatives after witnessing the battlefield's destruction?
+    A) Draupadi
+    B) Kunti
+    C) Gandhari
+    D) Amba
+  </question>
+  <answer>B) Kunti</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the battlefield's description in the text. The passage explicitly mentions it being "covered with thousands of bodies" and "chariots and animals." Other options refer to unrelated elements or metaphors not directly stated.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, what is the battlefield described as being "covered with" after the war?
+    A) Flowers
+    B) Bodies
+    C) Gold
+    D) Trees
+  </question>
+  <answer>B) Bodies</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of warriors mentioned in the text. The passage explicitly lists "Bhishma, Karna, and Abhimanyu" as fallen heroes. Other options represent warriors not directly named in the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, which warriors are explicitly mentioned as having died in the war?
+    A) Arjuna, Krishna, Duryodhana
+    B) Bhishma, Karna, Abhimanyu
+    C) Yudhishthira, Drona, Kripa
+    D) Satyaki, Virata, Drupada
+  </question>
+  <answer>B) Bhishma, Karna, Abhimanyu</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the queens' actions in the text. The passage describes them weeping and lamenting for their fallen husbands and sons. Other options represent different groups or roles not directly tied to their sorrowful actions.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, which group of women is described as weeping for their husbands and sons after the war?
+    A) Surya's wives
+    B) Kuru queens
+    C) Pandava wives
+    D) Naga women
+  </question>
+  <answer>B) Kuru queens</answer>
+</entry>

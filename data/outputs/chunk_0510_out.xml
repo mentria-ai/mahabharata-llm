@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text. The passage seems to be from the Bhishma Parva, discussing the importance of a king (rāja) in maintaining order, dharma, and the consequences of a king's actions. There are references to different aspects like the role of a king, the consequences of not having a king, the duties of a king, and the relationship between the king and the people.
+
+First, I need to identify specific parts of the text. The user mentioned using exact references like adhyaya, parva, or śloka. However, the provided text doesn't have specific śloka numbers, but there are verses marked with numbers like 1, 2, etc. So maybe I can reference the verses as per their numbering.
+
+For the first question, looking at the text: "राज्ञः परै��ः परिभवः सर्वेषामसुखावहः" (verse 35) which talks about the suffering caused by the king's absence. So a question about the consequences of no king. The options could be about different outcomes, like chaos, prosperity, etc. The correct answer would be chaos or suffering.
+
+Second question: The text mentions that a king should be a protector, like Indra. So a question about the king's role as a protector. The options could include different roles, and the correct one is protector.
+
+Third question: The text says that a king who is not righteous leads to suffering. So a question about the consequences of an unjust king. Options could be about different outcomes, with the correct answer being suffering.
+
+Fourth question: The text mentions that the king should be respected like gods. So a question about the king's status. Options could include being a god, a servant, etc. Correct answer is being respected like gods.
+
+Fifth question: The text states that the king's absence leads to the people's downfall. So a question about the king's necessity. Options could be about different reasons, with the correct answer being the necessity of a king for order.
+
+I need to make sure each question is specific, uses the exact references, and the options are plausible but only one correct. Also, check that the answers are under 100 characters. Let me structure each entry with the reasoning, question, and answer as per the example.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests the role of a king in maintaining societal order. The text explicitly states that a king's absence leads to chaos and suffering, as seen in verses 17-20. Other options represent indirect consequences but miss the direct cause-effect relationship.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verses 17-20), what happens when a king is absent from the realm?
+    A) Prosperity and peace
+    B) People unite under dharma
+    C) Society descends into chaos
+    D) Natural disasters occur
+  </question>
+  <answer>C) Society descends into chaos</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the king's role as a protector. The text compares the king to Indra (verse 4) and emphasizes his duty to safeguard people. Other options reflect secondary roles but not the primary protective function.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 4), what is the king's primary duty according to the text?
+    A) To perform rituals
+    B) To protect the people
+    C) To collect taxes
+    D) To lead in battle
+  </question>
+  <answer>B) To protect the people</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses the consequences of an unjust king. The text explicitly states that an unjust ruler causes suffering (verse 14). Other options represent indirect outcomes but lack the direct causality in the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 14), what does an unjust king lead to?
+    A) Wealth for all
+    B) Spiritual enlightenment
+    C) Suffering and exploitation
+    D) Military victory
+  </question>
+  <answer>C) Suffering and exploitation</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests the king's divine status. The text states that the king is respected like gods (verse 33). Other options reflect cultural values but miss the explicit comparison to deities.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 33), how should the king be treated according to the text?
+    A) As a servant
+    B) As a rival
+    C) As a god
+    D) As a friend
+  </question>
+  <answer>C) As a god</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the king's necessity for societal stability. The text explicitly states that a king's absence leads to people's downfall (verse 37). Other options represent hypothetical scenarios but lack textual support.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 37), what is the consequence of a king's absence?
+    A) People gain independence
+    B) Society thrives
+    C) People face inevitable downfall
+    D) Nature becomes harmonious
+  </question>
+  <answer>C) People face inevitable downfall</answer>
+</entry>

@@ -1,0 +1,91 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, teachings, and specific references. The text seems to include dialogues between Yudhishthira and Bhishma, discussing dharma, karma, and the nature of life and death. There are mentions of specific parvas like "Mokshadharma Parva" and "Senajit Pingala Gita." Also, there's a story about a king (Senajit) and a sage (Gautama), and references to the consequences of actions (karma) and the importance of dharma.
+
+For each question, I need to ensure that the answer is explicitly stated in the text. Let me go through the text again to pick out specific details.
+
+1. The first part mentions "Senajit Pingala Gita" in the Mokshadharma Parva. There's a story about a king (Senajit) and a sage (Gautama) who was killed but then revived. The king's son was born from a Shudra woman, and there's a curse mentioned. So a question about who was killed and revived by Gautama could be a good one.
+
+2. Another part talks about the importance of dharma and the consequences of actions. There's a line about "Kritaghna" (one who does wrong) and the teaching that "Mitradoh" (betrayal of a friend) leads to hell. So a question about the consequences of betrayal.
+
+3. There's a dialogue where Bhishma explains that the world is full of suffering, and that one should not be attached to worldly things. The teaching about the impermanence of life and the need for detachment. So a question about the teaching on suffering and detachment.
+
+4. The text includes a story about a king (Senajit) who was advised by a sage (Gautama) to perform certain actions. The king's son was born from a Shudra woman, and there's a mention of a curse. So a question about the king's son's mother.
+
+5. There's a part where Bhishma says that one should not be attached to worldly things, and that the wise person remains calm. So a question about the teaching on remaining calm amidst suffering.
+
+Now, I need to structure each question with the trigger phrase, specific reference, and four options. Ensure that the answer is directly from the text. Also, check that the options are plausible but incorrect except for one.
+
+Let me draft each question step by step, making sure to include the exact references where possible and that the answers are unambiguous.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of a key narrative in the Mokshadharma Parva. The text explicitly states that Gautama revived Baka after he was killed, highlighting the power of dharma. Other options reference unrelated figures or events in the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Mokshadharma Parva, who was killed by Baka but later revived by Gautama?
+    A) Bhishma
+    B) Drona
+    C) Baka
+    D) Yudhishthira
+  </question>
+  <answer>C) Baka</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses a core teaching about betrayal. The text explicitly states that "Mitradoh" (betrayal of a friend) leads to hell. Other options represent related but distinct concepts like karma or dharma.
+  </reasoning>
+  <question>
+    In Mahabharata's Mokshadharma Parva, which act is described as leading to eternal hell according to Bhishma's teachings?
+    A) Kritaghna (wrongdoing)
+    B) Mitradoh (friendship betrayal)
+    C) Dharma violation
+    D) Kama (desire)
+  </question>
+  <answer>B) Mitradoh (friendship betrayal)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests understanding of the text's philosophical stance on suffering. The passage explicitly states that "sukham dushkhatm" (suffering is the end of happiness) and emphasizes impermanence. Other options represent related but distinct teachings.
+  </reasoning>
+  <question>
+    In Mahabharata's Mokshadharma Parva, what teaching emphasizes the impermanence of worldly happiness?
+    A) "Sukham dushkhatm" (suffering is the end of happiness)
+    B) "Dharma is eternal"
+    C) "Karma determines fate"
+    D) "Friendship is divine"
+  </question>
+  <answer>A) "Sukham dushkhatm" (suffering is the end of happiness)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on a specific narrative detail. The text explicitly states that Senajit's son was born to a Shudra woman after a curse. Other options reference unrelated characters or events in the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Mokshadharma Parva, what was the mother's caste of Senajit's son who was born after a curse?
+    A) Brahmin
+    B) Kshatriya
+    C) Shudra
+    D) Vaishya
+  </question>
+  <answer>C) Shudra</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the text's advice on enduring suffering. The passage explicitly states that the wise person remains calm ("udayastamayajnya") despite suffering. Other options represent related but distinct teachings.
+  </reasoning>
+  <question>
+    In Mahabharata's Mokshadharma Parva, what quality allows one to endure suffering without being affected?
+    A) Kama (desire)
+    B) Dharma
+    C) Buddhi (wisdom)
+    D) Kshama (patience)
+  </question>
+  <answer>C) Buddhi (wisdom)</answer>
+</entry>

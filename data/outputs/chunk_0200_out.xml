@@ -1,0 +1,91 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by carefully reading through the text to identify key elements like characters, events, and specific references.
+
+First, I notice that the text includes verses from the Mahabharata, possibly from the Virata Parva, given the mention of Virata and the context of Draupadi and Bhima. There's a lot of dialogue between Draupadi and Bhima, discussing their hardships and the situation with Kichaka. Also, there are references to the Pandavas' exile and their disguises. 
+
+For the first question, I should focus on a specific event. The text mentions Draupadi's disguise as a servant (Sairandhri) and her interactions with Kichaka. The verse numbers are given, so I can reference those. The question could be about who Draupadi is disguised as. The options would include Sairandhri, another name, and two plausible but incorrect options.
+
+Next, looking for another event. There's a part where Bhima is described as having a strong body and the Gāndīva bow. The verse mentions Bhima's strength and the bow. So a question about Bhima's attributes or weapons. The correct answer would be his strength and the Gāndīva bow. Other options could be other weapons or attributes.
+
+Third question: The text talks about Draupadi's suffering and her role as a servant. There's a mention of her being a servant (dāsī) and her hardships. The question could be about her role during the exile. The answer would be that she was a servant, and other options might be different roles.
+
+Fourth question: The text includes references to the Pandavas' disguises. For example, Bhima is disguised as a servant. The question could be about who was disguised as a servant. The answer would be Bhima, with other options being other Pandavas.
+
+Fifth question: There's a part where Draupadi laments her situation, mentioning her suffering and the reasons. The question could be about the reason for her suffering. The answer would be the curse of the king (Virata), and other options could be different reasons like Kichaka's actions.
+
+I need to ensure each question has the trigger phrase, specific references, and that the answers are directly from the text. Also, check that the options are plausible but incorrect. For example, in the first question, Sairandhri is correct, others might be names of other characters or roles.
+
+I should verify each answer against the text. For instance, in the first verse, Draupadi is mentioned as Sairandhri. The second verse talks about Bhima's strength and the Gāndīva. The third verse mentions her role as a servant. The fourth verse refers to Bhima's disguise. The fifth verse's reason for suffering is the curse.
+
+Now, structure each entry with reasoning, question, and answer. Make sure the answers are under 100 characters. Avoid adding any external information. Check for uniqueness in each question, covering different aspects of the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Draupadi's disguise during the exile. The text explicitly states she adopted the identity of Sairandhri, a servant, to avoid detection. Other options represent plausible but incorrect roles or names from the epic.
+  </reasoning>
+  <question>
+    In Mahabharata's Virata Parva (verses 1-10), what name did Draupadi adopt during her exile to avoid recognition?
+    A) Sairandhri
+    B) Kunti
+    C) Subhadra
+    D) Gandhari
+  </question>
+  <answer>A) Sairandhri</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Bhima's physical and symbolic strength. The text describes him as "mahābāhu" (great-armed) and references his bow Gāndīva. Other options represent other warriors or weapons but are not directly tied to Bhima's attributes here.
+  </reasoning>
+  <question>
+    In Mahabharata's Virata Parva (verse 1), what two attributes define Bhima's strength according to the text?
+    A) Mahābāhu (great-armed) and Gāndīva bow
+    B) Kṛṣṇa's chariot and Kṛtavarma's sword
+    C) Dhanurvidya (archery) and Kṛtavarma's chariot
+    D) Kṛṣṇa's mace and Dhanurvidya
+  </question>
+  <answer>A) Mahābāhu (great-armed) and Gāndīva bow</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Draupadi's role as a servant during the exile. The text explicitly states she served as a "dāsī" (servant) to avoid suspicion. Other options represent roles she did not hold in this context.
+  </reasoning>
+  <question>
+    In Mahabharata's Virata Parva (verse 10), what role did Draupadi fulfill during her exile to maintain secrecy?
+    A) Dāsī (servant)
+    B) Queen
+    C) Warrior
+    D) Advisor
+  </question>
+  <answer>A) Dāsī (servant)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Bhima's disguise. The text states he disguised himself as a "dāsaka" (servant) to avoid recognition. Other options represent different disguises or roles from the epic.
+  </reasoning>
+  <question>
+    In Mahabharata's Virata Parva (verse 16), what disguise did Bhima adopt to avoid detection during the exile?
+    A) Dāsaka (servant)
+    B) Kṛṣṇa's charioteer
+    C) Kṛtavarma's companion
+    D) Duryodhana's envoy
+  </question>
+  <answer>A) Dāsaka (servant)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses the cause of Draupadi's suffering. The text explicitly states her hardships arose from "kṛtavīrya" (the king's curse) during the exile. Other options represent unrelated causes or figures.
+  </reasoning>
+  <question>
+    In Mahabharata's Virata Parva (verse 13), what divine curse caused Draupadi's suffering during the exile?
+    A) Kṛtavīrya (the king's curse)
+    B) Kṛṣṇa's betrayal
+    C) Duryodhana's wrath
+    D) Kāli's punishment
+  </question>
+  <answer>A) Kṛtavīrya (the king's curse)</answer>
+</entry>

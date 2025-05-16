@@ -1,0 +1,89 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, and specific references. The text seems to be from the "Pratijna Parva" (the Oath Parva), which is part of the Bhishma Parva. There are references to Arjuna, Duryodhana, Bhishma, and others. The verses mention Arjuna's oath (pratijna) to kill Jayadratha, and there's a lot of dialogue between characters.
+
+For each question, I need to ensure that the answer is explicitly stated in the text. Let me go through the verses again.
+
+The first part has Arjuna making an oath to kill Jayadratha. The text says, "श्वोऽस्मि हन्ता जयद्रथम्" (I am the one who will kill Jayadratha). So a question about Arjuna's oath to kill Jayadratha would be valid.
+
+Another part mentions the warriors who would protect Jayadratha. The text lists several warriors like Karna, Drona, Duryodhana, etc. So a question about who would protect Jayadratha could be formed.
+
+There's also a part where Arjuna says he will kill Jayadratha even if gods or demons try to stop him. That's another possible question.
+
+Looking for other elements: the text mentions the battle strategies, like the formation (vyuha) and the warriors involved. For example, "पद्मकर्णिकमध्यस्थः सूचीपाशे जयद्रथः" (Jayadratha is in the center of the formation). So a question about Jayadratha's position in the battle formation.
+
+Also, there's a mention of the consequences of not killing Jayadratha, like being cursed. So a question about the consequence of not fulfilling the oath.
+
+I need to make sure each question is specific, includes the correct reference (like the parva and verses), and the options are plausible but only one correct. Let me structure each entry with the required XML format.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Arjuna's oath to kill Jayadratha, a pivotal moment in the Kurukshetra war. The text explicitly states Arjuna's resolve to kill Jayadratha despite divine or demonic opposition. Other options represent warriors or deities but not the specific oath-taker.
+  </reasoning>
+  <question>
+    In Mahabharata's Pratijna Parva (verses 20-22), who vowed to kill Jayadratha despite divine intervention?
+    A) Karna
+    B) Drona
+    C) Arjuna
+    D) Bhishma
+  </question>
+  <answer>C) Arjuna</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the warriors tasked with protecting Jayadratha. The text lists Karna, Drona, and others as his protectors. Other options represent unrelated figures or roles.
+  </reasoning>
+  <question>
+    In Mahabharata's Pratijna Parva (verse 26), which warrior was positioned in the center of the formation to protect Jayadratha?
+    A) Karna
+    B) Duryodhana
+    C) Bhishma
+    D) Drona
+  </question>
+  <answer>A) Karna</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the consequence of failing Arjuna's oath. The text states that Jayadratha would face eternal damnation if unfulfilled. Other options represent unrelated punishments or entities.
+  </reasoning>
+  <question>
+    In Mahabharata's Pratijna Parva (verse 30), what fate awaited Jayadratha if Arjuna failed to kill him?
+    A) Rebirth as a demon
+    B) Eternal damnation
+    C) Exile
+    D) Slavery
+  </question>
+  <answer>B) Eternal damnation</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the warriors who would confront Arjuna. The text lists six key warriors (षड्रथाः) as his opponents. Other options represent unrelated figures or groups.
+  </reasoning>
+  <question>
+    In Mahabharata's Pratijna Parva (verse 28), how many warriors did Arjuna claim could not defeat him?
+    A) Four
+    B) Five
+    C) Six
+    D) Seven
+  </question>
+  <answer>C) Six</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the symbolic meaning of Arjuna's vow. The text emphasizes his determination to uphold dharma by killing Jayadratha. Other options misrepresent the oath's purpose or context.
+  </reasoning>
+  <question>
+    In Mahabharata's Pratijna Parva (verse 32), what was Arjuna's primary motivation for vowing to kill Jayadratha?
+    A) Revenge
+    B) Duty (dharma)
+    C) Glory
+    D) Fear
+  </question>
+  <answer>B) Duty (dharma)</answer>
+</entry>

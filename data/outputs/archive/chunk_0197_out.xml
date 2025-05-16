@@ -1,0 +1,155 @@
+<think>
+Okay, I need to create 10 high-quality question-answer pairs based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look through the verses to identify key elements. The text seems to be from the Sabha Parva, where the Pandavas are in Virata's kingdom. There are mentions of Arjuna, Bhima, Yudhishthira, and Draupadi. Also, there's a part where Draupadi is disguised as a maid, Sairandhri. The text includes references to weapons like the Gandiva, and there's a mention of the Pandavas' exile. 
+
+For each question, I need to make sure it's standalone, so I'll avoid phrases like "the passage" and include necessary context. Let me think of different types of questions: factual, "did you know," detective, philosophical.
+
+First question: Maybe about Arjuna's weapon. The text mentions "गाण्डीवमभयङ्करम्" which is the Gandiva, a famous bow. So the question could be about Arjuna's weapon and its significance.
+
+Second question: The Pandavas' exile. The text says they had to live in Virata's kingdom for 13 years. So a question about their exile and the conditions.
+
+Third: Draupadi's disguise. She's called Sairandhri here. A question about her role and the context of her disguise.
+
+Fourth: The meeting between Yudhishthira and Virata. The text has them discussing and Yudhishthira's identity being hidden. A question about their interaction and the purpose of the meeting.
+
+Fifth: Bhima's strength. The text mentions Bhima defeating many warriors. A question about his feats and the context.
+
+Sixth: The role of the Pandavas in Virata's court. They had to live as servants. A question about their roles and the challenges.
+
+Seventh: The significance of the 13-year exile. A philosophical question about the moral lessons.
+
+Eighth: The use of disguises. How the Pandavas used disguises to survive. A detective-style question about their strategies.
+
+Ninth: The mention of specific weapons like the Gandiva and their symbolism. A question about the Gandiva's role in the Mahabharata.
+
+Tenth: The concept of dharma in the context of the Pandavas' actions. A philosophical question about their adherence to dharma during the exile.
+
+I need to ensure each question is self-contained, includes context, and is based on the text. Also, check that all answers are supported by the text without adding external info. For example, the Gandiva is mentioned, so that's valid. Draupadi's disguise as Sairandhri is in the text. The 13-year exile is a key part of the Mahabharata story, so that's a good factual question.
+
+Now, structure each entry with reasoning, question, and answer. Make sure answers have necessary context. For example, when mentioning Sairandhri, explain she's Draupadi in disguise.
+
+Check for clarity and that each question is unique and covers different aspects. Avoid repetition. Ensure that even if someone hasn't read the text, the question and answer make sense. For example, explaining that the 13-year exile was part of their agreement after the game of dice.
+
+I think that's a solid plan. Now, draft each entry accordingly.
+</think>
+
+<entry>
+  <reasoning>
+    The text mentions Arjuna's weapon "Gandiva" and its role in battle. This question tests factual knowledge of key Mahabharata elements.
+  </reasoning>
+  <question>
+    In the Mahabharata, which legendary weapon did Arjuna wield during the Kurukshetra war, and what was its significance?
+  </question>
+  <answer>
+    Arjuna wielded the Gandiva, a divine bow described as "abhayankaram" (fearless). This weapon was central to his role as a master archer and symbolized his divine mandate to fight. The text references it as a key instrument in his victories, reflecting its legendary status in the epic.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text alludes to the Pandavas' 13-year exile, a pivotal plot point. This question highlights a core narrative element.
+  </reasoning>
+  <question>
+    What was the 13-year exile period in the Mahabharata, and what conditions did the Pandavas face during this time?
+  </question>
+  <answer>
+    After losing a game of dice, the Pandavas were exiled for 13 years. The final year required them to live incognito. The text describes their struggle to survive while maintaining secrecy, emphasizing themes of endurance and dharma (duty).
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text includes Draupadi's disguise as Sairandhri. This question explores a key character's role in the narrative.
+  </reasoning>
+  <question>
+    How did Draupadi disguise herself in Virata's kingdom, and what role did this play in the Pandavas' survival?
+  </question>
+  <answer>
+    Draupadi adopted the identity of Sairandhri, a maid, to remain hidden. This disguise allowed the Pandavas to live under Virata's protection, avoiding detection by the Kauravas. The text highlights her resourcefulness in maintaining their secrecy.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes Yudhishthira's meeting with Virata. This question explores their interaction and its implications.
+  </reasoning>
+  <question>
+    What was the purpose of Yudhishthira's meeting with King Virata, and how did it reflect the Pandavas' strategy during their exile?
+  </question>
+  <answer>
+    Yudhishthira sought Virata's alliance to secure shelter and resources. The text shows their diplomatic efforts to gain protection, illustrating the Pandavas' reliance on strategic partnerships to survive their exile.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text mentions Bhima's feats. This question highlights his role as a warrior.
+  </reasoning>
+  <question>
+    What legendary feats did Bhima accomplish during the Mahabharata, and how did they reflect his character?
+  </question>
+  <answer>
+    Bhima defeated multiple warriors, including Duryodhana's allies, and is noted for his unmatched strength. The text portrays him as a symbol of raw power and loyalty, embodying the Pandavas' resolve to reclaim their kingdom.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes the Pandavas' roles in Virata's court. This question explores their challenges.
+  </reasoning>
+  <question>
+    How did the Pandavas navigate their roles as servants in Virata's court, and what challenges did they face?
+  </question>
+  <answer>
+    The Pandavas took on menial roles to stay hidden. The text emphasizes their humility and adaptability, as well as the risk of exposure, highlighting their sacrifice and patience during the exile.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The 13-year exile is a moral and philosophical cornerstone. This question explores its significance.
+  </reasoning>
+  <question>
+    What moral and philosophical lessons does the Pandavas' 13-year exile convey in the Mahabharata?
+  </question>
+  <answer>
+    The exile underscores themes of patience, perseverance, and dharma. It illustrates the struggle to uphold righteousness despite injustice, reflecting the epic's exploration of ethical dilemmas and the consequences of pride (karma).
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text's focus on disguises reveals strategic elements. This question investigates their purpose.
+  </reasoning>
+  <question>
+    Why did the Pandavas use disguises during their exile, and what does this reveal about their character?
+  </question>
+  <answer>
+    Disguises allowed them to avoid detection by the Kauravas. The text shows their ingenuity and willingness to endure humiliation for survival, reflecting their commitment to their long-term goal of justice.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The Gandiva's symbolism is central to Arjuna's role. This question delves into its significance.
+  </reasoning>
+  <question>
+    What symbolic meaning does the Gandiva bow hold in the Mahabharata, and how does it relate to Arjuna's role?
+  </question>
+  <answer>
+    The Gandiva represents divine authority and Arjuna's duty as a warrior. Its mention in the text underscores his moral and spiritual readiness to fight, aligning with Krishna's guidance to uphold dharma.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text's focus on dharma invites philosophical reflection. This question explores its role in the Pandavas' actions.
+  </reasoning>
+  <question>
+    How did the Pandavas balance personal sacrifice with dharma during their exile, and what does this reveal about their values?
+  </question>
+  <answer>
+    The Pandavas prioritized dharma by enduring hardship to restore justice. The text portrays their sacrifices as a testament to their commitment to righteousness, even at great personal cost, reflecting the Mahabharata's emphasis on ethical living.
+  </answer>
+</entry>

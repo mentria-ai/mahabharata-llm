@@ -1,0 +1,89 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text. The passage seems to be from the Bhishma Parva, describing the battle between the Pandavas and Kauravas. There are references to Bhishma, Arjuna, Krishna, Duryodhana, and other warriors. The verses mention battles, chariots, arrows, and the aftermath of the war.
+
+First, I need to identify specific events or characters mentioned. For example, there's a mention of Bhishma being the commander, the use of arrows, and the destruction of armies. Also, there's a part where Bhishma is described as a lion in battle, and the Pandavas are overwhelmed. 
+
+I should make sure each question is based on explicit information from the text. Let me check each verse. For example, verse 36 mentions "न योत्स्ये पाण्डवान्सङ्ख्ये नापि पार्षतसात्यकी" which translates to "I will not fight the Pandavas in numbers, nor will I fight Parshu and Satyaki." So a question could be about who Bhishma refuses to fight in numbers. The options would be the Pandavas, Parshu, Satyaki, and maybe Drona. The correct answer is the Pandavas.
+
+Another part is verse 40: "अजेयाः पाण्डवा युद्धे देवैरपि सवासवैः" meaning "The Pandavas are invincible in battle, even by the gods." So a question about the Pandavas' invincibility. Options could be gods, demons, Bhishma, and Drona. Correct answer is gods.
+
+Verse 55: "साधु पार्थ महाबाहो साधु भो पाण्डुनन्दन" where Krishna praises Arjuna. So a question about who Krishna praises. Options: Arjuna, Bhishma, Drona, Duryodhana. Correct is Arjuna.
+
+Verse 72: "तेषां बहुत्वाद्धि भृशं शराणां; दिशोऽथ सर्वाः पिहिता बभूवुः" which talks about the arrows covering all directions. So a question about the effect of Bhishma's arrows. Options: arrows covering all directions, arrows hitting the sky, arrows hitting the earth, arrows hitting the chariots. Correct is all directions.
+
+Another part is verse 80: "अमृष्यमाणः स ततो महात्मा; यशस्विनं सर्वदशार्हभर्ता" where Bhishma is described as a great soul. So a question about Bhishma's title. Options: Mahatma, Bhishma, Drona, Krishna. Correct is Mahatma.
+
+Wait, but the text says "महात्मा" which is "great soul" or "Mahatma." So the answer would be Mahatma. But I need to check if that's the exact term used. The verse says "महात्मा" so the answer is Mahatma.
+
+I need to make sure each question is specific, includes the reference, and the options are plausible. Also, avoid adding any external info. Let me structure each entry with the reasoning, question, and answer as per the example.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Bhishma's refusal to fight the Pandavas in numbers, a key tactical decision in the Kurukshetra war. The text explicitly states he avoids fighting them in large numbers, while Parshu and Satyaki are individual warriors. Drona and Karna are other commanders but not mentioned here.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (Shloka 36), who does Bhishma refuse to fight in numbers?
+    A) Pandavas
+    B) Parshu
+    C) Satyaki
+    D) Drona
+  </question>
+  <answer>A) Pandavas</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the Pandavas' divine invincibility as stated in the text. The verse explicitly claims they are unbeatable even by gods, contrasting with other warriors like Bhishma or Drona. Demons and Bhishma are plausible but incorrect.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (Shloka 40), who are described as invincible in battle even by the gods?
+    A) Pandavas
+    B) Demons
+    C) Bhishma
+    D) Drona
+  </question>
+  <answer>A) Pandavas</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Krishna's praise of Arjuna, a pivotal moment in the Mahabharata. The text directly states Krishna calls Arjuna "Mahabaho" (great warrior), while other warriors like Bhishma or Drona are not praised here. Duryodhana is an antagonist.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (Shloka 55), who does Krishna praise as a great warrior?
+    A) Arjuna
+    B) Bhishma
+    C) Drona
+    D) Duryodhana
+  </question>
+  <answer>A) Arjuna</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the overwhelming effect of Bhishma's arrows, as described in the text. The verse states arrows covered all directions, contrasting with options about hitting specific targets. The text does not mention chariots or earth as primary targets.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (Shloka 72), what does the text describe as covering all directions during Bhishma's attack?
+    A) Arrows
+    B) Chariots
+    C) Earth
+    D) Sky
+  </question>
+  <answer>A) Arrows</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question identifies Bhishma's title as "Mahatma" (great soul) from the text. The verse explicitly refers to him as such, while other warriors like Drona or Krishna are not given this title here. Duryodhana is an antagonist.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (Shloka 80), what title is given to Bhishma as a "great soul"?
+    A) Mahatma
+    B) Drona
+    C) Krishna
+    D) Duryodhana
+  </question>
+  <answer>A) Mahatma</answer>
+</entry>

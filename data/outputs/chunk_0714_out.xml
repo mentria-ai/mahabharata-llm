@@ -1,0 +1,89 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, places, and specific references. The text seems to be from the "Mausala Parva" and parts of the "Santiparva" and "Karna Parva". There are mentions of Yudhishthira, Krishna, the Yadavas, and events like the destruction of the Yadava clan. 
+
+For the first question, I notice that the text mentions Yudhishthira giving gifts to Gandhari and Pritha. The verse 17 says he gave gold, silver, cows, and beds. So a question about who gave these gifts would work. The answer is Yudhishthira, and the options would include other kings or figures.
+
+Next, looking at the part where the text talks about the Yadavas being destroyed. The text mentions that the Yadavas were destroyed by a curse (shapa) from the sages. So a question about the cause of their destruction. The answer would be the curse, and other options could be war, natural disaster, etc.
+
+Another part is about the kings who went on a pilgrimage to the sea. The text says that after the destruction, the kings went to the sea. So a question about who went on the pilgrimage. The answer is the Yadavas, and options would include other groups.
+
+Then, there's a mention of the Yadavas being destroyed by a mace (musal) due to a curse. So a question about the instrument of destruction. The answer is the mace, and other options could be weapons like a sword or bow.
+
+Lastly, the text refers to the 33rd year, which is mentioned in the context of the Yadavas' destruction. A question about the year when the destruction happened. The answer is the 33rd year, and other options would be different years.
+
+I need to make sure each question is specific, includes the correct references, and the answers are directly from the text. Also, check that the options are plausible but incorrect. For example, in the first question, options could include other kings like Duryodhana, but the correct answer is Yudhishthira.
+
+Now, I'll structure each entry with the reasoning, question, and answer as per the example. Ensure that each question is unique and covers different parts of the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Yudhishthira's post-war generosity. The text explicitly states he gave gifts to Gandhari and Pritha, contrasting with other kings who might be mistaken for donors. The answer is directly supported by verse 17.
+  </reasoning>
+  <question>
+    In Mahabharata's Mausala Parva (verse 17), who gifted gold, silver, cows, and beds to Gandhari and Pritha after the war?
+    A) Duryodhana
+    B) Bhishma
+    C) Yudhishthira
+    D) Karna
+  </question>
+  <answer>C) Yudhishthira</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses the Yadavas' destruction via a curse, a central theme in Mausala Parva. The text explicitly links their annihilation to a sage's curse (shapa), while other options like war or divine intervention are common but incorrect interpretations.
+  </reasoning>
+  <question>
+    In Mahabharata's Mausala Parva, what caused the destruction of the Yadava clan according to the text?
+    A) War with Kauravas
+    B) Natural disaster
+    C) Sage's curse
+    D) Divine punishment
+  </question>
+  <answer>C) Sage's curse</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the Yadavas' pilgrimage to the sea, a key event in Mausala Parva. The text specifies they went to the sea after the curse, making "Yadavas" the correct answer. Other options like "Kauravas" or "Pandavas" are plausible but incorrect.
+  </reasoning>
+  <question>
+    In Mahabharata's Mausala Parva, which group went on a pilgrimage to the sea after the Yadavas' destruction?
+    A) Kauravas
+    B) Pandavas
+    C) Yadavas
+    D) Sages
+  </question>
+  <answer>C) Yadavas</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the instrument of destruction in Mausala Parva. The text explicitly states the Yadavas were killed by a mace (musal) due to a curse, making it the correct answer. Other options like "sword" or "bow" are common but unsupported.
+  </reasoning>
+  <question>
+    In Mahabharata's Mausala Parva, what weapon was used to destroy the Yadava clan?
+    A) Sword
+    B) Bow
+    C) Mace
+    D) Spear
+  </question>
+  <answer>C) Mace</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the 33rd year reference in Mausala Parva. The text explicitly states the Yadavas' destruction occurred in the 33rd year, making it the correct answer. Other options like "32nd" or "34th" are plausible but incorrect.
+  </reasoning>
+  <question>
+    In Mahabharata's Mausala Parva, in which year did the Yadava clan's destruction occur?
+    A) 32nd year
+    B) 33rd year
+    C) 34th year
+    D) 35th year
+  </question>
+  <answer>B) 33rd year</answer>
+</entry>

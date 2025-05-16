@@ -1,0 +1,93 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look through the verses to identify key elements: characters, events, teachings, and specific references. The text seems to include dialogues between Maudgalya and a deva (divine being), discussing virtues, karma, and the nature of heaven. There's also a part about the Pandavas in the forest, and a story involving King Kottikasya and Draupadi.
+
+For each question, I need to ensure that the information is explicitly present in the text. Let's break it down.
+
+1. The first part talks about Maudgalya's hospitality and the deva's response. The deva mentions that those who are free from envy and anger go to heaven. So a question about the qualities of those who reach heaven could work here.
+
+2. Another part describes the deva's chariot with swans and peacocks, and the deva's appearance. This could be a question about the deva's chariot's features.
+
+3. There's a mention of the deva's chariot being made of gold and having divine scents. This could be another question about the chariot's attributes.
+
+4. The text also includes a dialogue where the deva asks Maudgalya about the qualities of those in heaven. The answer would be the seven virtues mentioned.
+
+5. The second part of the text involves King Kottikasya and Draupadi. He mistakes her for a celestial being and wants to take her. This could be a question about who he mistakes Draupadi for.
+
+I need to make sure each question has the correct reference, like the specific parva or chapter. However, the text provided doesn't have clear parva names, so I'll use the context given, like "Maudgalya's dialogue" or "Draupadi's capture."
+
+Each question must have four options, with only one correct. The reasoning should explain why the correct answer is right and why others are wrong. Also, keep answers under 100 characters.
+
+Let me draft each entry step by step, ensuring they are distinct and cover different parts of the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Maudgalya's virtues and the deva's teachings. The text explicitly states that those free from envy and anger attain heaven. Other options represent common virtues but are not the specific criteria mentioned.
+  </reasoning>
+  <question>
+    In Mahabharata's dialogue between Maudgalya and the deva, which quality is highlighted as essential for attaining heaven?
+    A) Wealth
+    B) Knowledge
+    C) Freedom from envy
+    D) Military prowess
+  </question>
+  <answer>C) Freedom from envy</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the deva's chariot description. The text explicitly mentions swans and peacocks as part of the vehicle's adornment. Other options reference unrelated elements like gold or divine scents.
+  </reasoning>
+  <question>
+    In Mahabharata's deva's chariot description, which birds are mentioned as part of its adornment?
+    A) Crows
+    B) Swans
+    C) Eagles
+    D) Owls
+  </question>
+  <answer>B) Swans</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the deva's chariot's material. The text explicitly states it was made of gold. Other options reference divine scents or celestial elements not directly described.
+  </reasoning>
+  <question>
+    In Mahabharata's deva's chariot description, what material is explicitly mentioned for its construction?
+    A) Silver
+    B) Gold
+    C) Crystal
+    D) Wood
+  </question>
+  <answer>B) Gold</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the seven virtues listed by the deva. The text explicitly names "friendship" as one of the seven. Other options represent common virtues but are not the specific answer.
+  </reasoning>
+  <question>
+    In Mahabharata's deva's dialogue, which of these is listed as one of the seven virtues of heavenly beings?
+    A) Greed
+    B) Friendship
+    C) Arrogance
+    D) Deceit
+  </question>
+  <answer>B) Friendship</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests recognition of King Kottikasya's mistaken identity. The text explicitly states he mistook Draupadi for a celestial being. Other options represent unrelated characters or events.
+  </reasoning>
+  <question>
+    In Mahabharata's Draupadi's capture narrative, who mistakenly identifies her as a divine being?
+    A) Duryodhana
+    B) Kottikasya
+    C) Bhishma
+    D) Krishna
+  </question>
+  <answer>B) Kottikasya</answer>
+</entry>

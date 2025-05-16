@@ -1,0 +1,62 @@
+---
+description: Running Qwen3 Models locally with MLX
+globs: 
+alwaysApply: false
+---
+# Running Qwen3 Models with MLX
+
+## Prerequisites
+- MLX framework installed
+- mlx-lm Python package installed: `pip install mlx-lm`
+- macOS environment (MLX is optimized for Apple Silicon)
+
+## Supported Models
+- mlx-community/Qwen3-30B-A3B-4bit (recommended)
+- Other Qwen3 models in MLX format
+
+## Environment Variables
+For optimal performance, set these environment variables:
+```bash
+export MLX_LAZY_INITIALIZATION=1
+export MLX_ALLOCATOR_FENCE=1
+export MLX_GC_PERSISTENT=1
+```
+
+## Running the Model
+### Basic usage with ai_driven_processing.py
+```bash
+python scripts/ai_driven_processing.py --model "mlx-community/Qwen3-30B-A3B-4bit" --chunk-size 10000
+```
+
+### Additional parameters
+- `--max-tokens`: Maximum tokens for model generation (default: 2000)
+- `--no-checkpoint`: Do not load from previous checkpoint
+- `--max-chunks`: Maximum number of chunks to process
+- `--generate-only`: Only generate dataset from existing processed chunks
+
+## Memory Optimization
+- Use 4-bit quantized models for significant memory savings
+- Process text in manageable chunks (10000-15000 characters recommended)
+- Run garbage collection after large generations: `import gc; gc.collect()`
+
+## Troubleshooting
+- If you encounter "Out of memory" errors, reduce the chunk size or use a smaller model
+- Check MLX version compatibility with your macOS version
+- Ensure you're using the Apple Silicon optimized version of MLX
+
+## Loading Models Directly
+```python
+from mlx_lm.utils import load
+from mlx_lm.generate import generate
+
+# Load model
+model, tokenizer = load("mlx-community/Qwen3-30B-A3B-4bit")
+
+# Generate text
+response = generate(
+    model,
+    tokenizer,
+    prompt="Your prompt here",
+    max_tokens=2000,
+    temperature=0.3  # May not be supported in all versions
+) 

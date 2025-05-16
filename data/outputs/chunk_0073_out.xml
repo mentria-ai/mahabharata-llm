@@ -1,0 +1,207 @@
+<think>
+Okay, I need to create 10 quiz entries based on the provided Sanskrit verses. Let me start by understanding the content of the verses. The text seems to be from the Mahābhārata, specifically the Matsya Purāṇa part. There are verses about Yudhiṣṭhira killing Śalya, but the user provided a different chunk. Wait, the user's chunk includes verses about the Matsya Purāṇa, which is a different part of the Mahābhārata. 
+
+First, I need to make sure each entry is based solely on the given verses. The user emphasized not using external knowledge. So I have to look for specific facts within the provided text. Let me scan through the verses again.
+
+Looking at the verses, there's a story about Manu and the Matsya (fish) that saves him during a great flood. There are references to different yugas (ages) like Satya, Treta, Dvapara, and Kali. Also, there's mention of the end of the Kali Yuga, the decline of dharma, and the characteristics of each yuga. 
+
+For example, verse 18-21 talks about the yugas and their durations. Verse 18 says "चत्वार्याहुः सहस्राणि वर्षाणां तत्कृतं युगम्" which translates to "Four thousand years are the years of the yuga." Then there's a mention of the yugas' durations and their characteristics. 
+
+Another part is about the end of the Kali Yuga, where people become short-lived, and there's a description of the world's end. Also, there's a part where the fish (Matsya) is described as the protector of Manu, and the story of the flood. 
+
+I need to create questions that test specific facts from these verses. Each entry must have a unique fact, and the options must be based on the same chunk. Let me think of possible facts:
+
+1. The duration of the yugas (Satya, Treta, Dvapara, Kali).
+2. The characteristics of the Kali Yuga as described in the verses.
+3. The role of Matsya in saving Manu.
+4. The description of the end of the world in the Kali Yuga.
+5. The mention of different yugas and their names.
+6. The number of years in each yuga.
+7. The reason for the decline of dharma in Kali Yuga.
+8. The description of the world's end (flood, fire, etc.).
+9. The mention of different deities and their roles.
+10. The names of the yugas and their corresponding years.
+
+Now, I need to ensure each question is self-contained, with the correct answer based on the verses. For example, a question about the duration of the yugas would reference the specific verses. The options should include plausible distractors from the same text.
+
+Let me draft the first entry. For example, the duration of the yugas. The verse 18-21 mentions four thousand years for each yuga. But wait, the exact verse might be different. Let me check the verses again.
+
+Looking at the verses, verse 18 says "चत्वार्याहुः सहस्राणि वर्षाणां तत्कृतं युगम्" which translates to "Four thousand years are the years of the yuga." But then later verses mention specific yugas. So the answer would be that each yuga has 4,000 years. The options would include other numbers from the text, like 3,000 or 2,000.
+
+Another fact: the end of the Kali Yuga. Verse 56-59 describes the end with no rain, crops failing, etc. So a question about what happens at the end of Kali Yuga.
+
+Also, the story of Matsya saving Manu. Verse 6-10 describes Matsya's request for protection, and Manu's action. So a question about who saved Manu, with options like Matsya, Vishnu, etc.
+
+I need to make sure each entry is unique and based on different parts of the text. Let me check for each entry to avoid repetition. Also, the options must be entities or numbers present in the text.
+
+For example, one entry could be about the number of years in each yuga, another about the characteristics of Kali Yuga, another about the role of Matsya, another about the end of the world, etc.
+
+I need to create 10 such entries. Let me proceed step by step, ensuring each one is correct and follows the structure.
+</think>
+
+<entry>
+  <reasoning>
+    • **Matsya-upākhyāna 185.12**  
+    • Proof: *मनुर्वैवस्वतोऽगृह्णात्तं मत्स्यं पाणिना स्वयम्*  
+    • Manu personally took the fish (Matsya) into his hands.  
+    • Other options like Bhīma or Kṛṣṇa are unrelated to this event.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, during the Matsya Purāṇa story, when the fish (Matsya) pleaded for protection, who personally took it into his hands on the riverbank? (see Matsya-upākhyāna 185.12)  
+    A) Bhīma   B) Kṛṣṇa   C) Manu   D) Śiva
+  </question>
+  <answer>
+    C) Manu
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Matsya-upākhyāna 185.25**  
+    • Proof: *अचिराद्भगवन्भौममिदं स्थावरजङ्गमम्*  
+    • The fish (Matsya) warns Manu about the impending universal destruction.  
+    • Other options like "the gods" or "the ocean" are incorrect.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, after the fish (Matsya) saved Manu from the flood, what did it warn him about? (see Matsya-upākhyāna 185.25)  
+    A) A war between gods and demons   B) A drought in the Kali Yuga   C) The end of the world  
+    D) A famine caused by the gods
+  </question>
+  <answer>
+    C) The end of the world
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Matsya-upākhyāna 185.50**  
+    • Proof: *धनं विश्वासतो न्यस्तं मिथो भूयिष्ठशो नराः*  
+    • In the Kali Yuga, people hoard wealth and deceive others.  
+    • Other options like "honesty" or "charity" contradict the text.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, what behavior is described as common in the Kali Yuga? (see Matsya-upākhyāna 185.50)  
+    A) Honesty in trade   B) Charitable acts   C) Hoarding wealth and deceit  
+    D) Spiritual devotion
+  </question>
+  <answer>
+    C) Hoarding wealth and deceit
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Matsya-upākhyāna 185.18**  
+    • Proof: *चत्वार्याहुः सहस्राणि वर्षाणां तत्कृतं युगम्*  
+    • The Satya Yuga is described as lasting 4,000 years.  
+    • Other options like "3,000 years" or "2,000 years" are incorrect.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, how many years does the Satya Yuga last according to the Matsya Purāṇa? (see Matsya-upākhyāna 185.18)  
+    A) 3,000 years   B) 4,000 years   C) 2,000 years   D) 5,000 years
+  </question>
+  <answer>
+    B) 4,000 years
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Matsya-upākhyāna 185.24**  
+    • Proof: *एवमेतत्त्वया कार्यमापृष्टोऽसि व्रजाम्यहम्*  
+    • The fish (Matsya) tells Manu to leave the world before the flood.  
+    • Other options like "wait for the rain" or "build a boat" are incorrect.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, what did the fish (Matsya) instruct Manu to do before the flood? (see Matsya-upākhyāna 185.24)  
+    A) Wait for the rain   B) Build a boat   C) Leave the world  
+    D) Offer sacrifices
+  </question>
+  <answer>
+    C) Leave the world
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Matsya-upākhyāna 185.43**  
+    • Proof: *एवं बहून्वर्षगणांस्तां नावं सोऽथ मत्स्यकः*  
+    • The fish (Matsya) guided the boat for many years.  
+    • Other options like "a few years" or "a month" are incorrect.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, how long did the fish (Matsya) guide Manu’s boat through the flood? (see Matsya-upākhyāna 185.43)  
+    A) A few years   B) Many years   C) A month  
+    D) A decade
+  </question>
+  <answer>
+    B) Many years
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Matsya-upākhyāna 185.56**  
+    • Proof: *अनावृष्टिर्महाराज जायते बहुवार्षिकी*  
+    • The text describes a lack of rain leading to crop failure in the Kali Yuga.  
+    • Other options like "abundant rain" or "floods" are incorrect.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, what natural disaster is described as occurring in the Kali Yuga? (see Matsya-upākhyāna 185.56)  
+    A) Abundant rain   B) Famine due to drought   C) Floods  
+    D) Earthquakes
+  </question>
+  <answer>
+    B) Famine due to drought
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Matsya-upākhyāna 185.10**  
+    • Proof: *उदकान्तमुपानीय मत्स्यं वैवस्वतो मनुः*  
+    • Manu placed the fish (Matsya) in a vessel (alijara) to protect it.  
+    • Other options like "a river" or "a forest" are incorrect.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, where did Manu place the fish (Matsya) to protect it? (see Matsya-upākhyāna 185.10)  
+    A) A river   B) A forest   C) A vessel (alijara)  
+    D) A cave
+  </question>
+  <answer>
+    C) A vessel (alijara)
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Matsya-upākhyāna 185.12**  
+    • Proof: *मत्स्यः परमसत्कृतः*  
+    • The fish (Matsya) was honored and revered by Manu.  
+    • Other options like "abandoned" or "killed" are incorrect.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, how was the fish (Matsya) treated by Manu after being saved? (see Matsya-upākhyāna 185.12)  
+    A) Abandoned   B) Killed   C) Honored and revered  
+    D) Released into the ocean
+  </question>
+  <answer>
+    C) Honored and revered
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Matsya-upākhyāna 185.18**  
+    • Proof: *चत्वार्याहुः सहस्राणि वर्षाणां तत्कृतं युगम्*  
+    • The text explicitly states the Satya Yuga lasts 4,000 years.  
+    • Other options like "3,000 years" or "2,000 years" are incorrect.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, what is the duration of the Satya Yuga according to the Matsya Purāṇa? (see Matsya-upākhyāna 185.18)  
+    A) 3,000 years   B) 4,000 years   C) 2,000 years   D) 5,000 years
+  </question>
+  <answer>
+    B) 4,000 years
+  </answer>
+</entry>

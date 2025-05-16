@@ -1,0 +1,97 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I notice that the text includes several verses where Yudhishthira interacts with a Yaksha (a supernatural being). The Yaksha poses questions, and Yudhishthira answers them. The context here is a dialogue between Yudhishthira and the Yaksha, which is part of the Mahabharata's "Yaksha Prashna" section. 
+
+Looking at the verses, there are references to specific parvas. For example, the mention of "Yakshapraśna" (Yaksha's Questions) suggests this is part of the "Vana Parva" (Forest Parva) or "Shanti Parva" (Peace Parva). However, the exact reference might be "Yaksha Prashna" within the Vana Parva. 
+
+The first question could be about who the Yaksha is. The text says, "यक्ष उवाच" (Yaksha said), and later, "यक्षोऽहमस्मि" (I am the Yaksha). So the answer is the Yaksha. The options would include other characters like Bhima, Arjuna, or Yudhishthira himself. 
+
+Another part mentions that the Yaksha says, "मयैते निहताः सर्वे भ्रातरस्ते महौजसः" (I have killed all your brothers). So the question could be about who killed the brothers. The answer is the Yaksha. 
+
+There's a question about the reason for the brothers' death. The Yaksha says it's due to their thirst (तृष्णयाभिप्रपीडितः). So the answer is thirst. 
+
+Another part has the Yaksha asking questions, and Yudhishthira answers. For example, the question about the best dharma (धर्म) is answered as "आनृशंस्यं" (non-violence). 
+
+Also, there's a question about the best gift (दानम्), which is answered as "श्रुतम्" (knowledge). 
+
+I need to make sure each question is specific, with exact references. For example, "In Mahabharata's Yaksha Prashna (Vana Parva, Adhyaya 297), who is the speaker of the dialogue where the Yaksha claims to have killed the Pandavas' brothers?" 
+
+Each question must have four options, with only one correct. The reasoning should explain why the correct answer is right and why others are wrong. 
+
+I need to check that all information is explicitly present. For example, the Yaksha's identity is directly stated. The reason for the brothers' death is their thirst. The answers to the dharma and gift questions are in the text. 
+
+I should avoid any assumptions not in the text. For example, the Yaksha's name isn't given, so options shouldn't include that. 
+
+Now, structuring each entry with the required XML format, ensuring the questions are diverse and cover different parts of the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the Yaksha's role in the dialogue. The text explicitly states "यक्षोऽहमस्मि" (I am the Yaksha), confirming his identity. Other options represent key Pandava figures but are not the speaker here.
+  </reasoning>
+  <question>
+    In Mahabharata's Yaksha Prashna (Vana Parva, Adhyaya 297), who claims to have killed the Pandavas' brothers in the forest?
+    A) Bhima
+    B) Arjuna
+    C) Yaksha
+    D) Yudhishthira
+  </question>
+  <answer>C) Yaksha</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text states the brothers died due to "तृष्णयाभिप्रपीडितः" (thirst). Other options like "war" or "treachery" are not mentioned as causes. "Famine" is plausible but not explicitly stated.
+  </reasoning>
+  <question>
+    In Mahabharata's Yaksha Prashna (Vana Parva, Adhyaya 297), what caused the death of Yudhishthira's brothers in the forest?
+    A) War
+    B) Famine
+    C) Thirst
+    D) Treachery
+  </question>
+  <answer>C) Thirst</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The Yaksha's dialogue explicitly states "मयैते निहताः सर्वे" (I have killed all). Other options misattribute the action to Yudhishthira or external forces not mentioned.
+  </reasoning>
+  <question>
+    In Mahabharata's Yaksha Prashna (Vana Parva, Adhyaya 297), who is directly stated to have killed the Pandavas' brothers?
+    A) Yudhishthira
+    B) Indra
+    C) Yaksha
+    D) Karna
+  </question>
+  <answer>C) Yaksha</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The answer "आनृशंस्यं" (non-violence) is directly given by Yudhishthira when asked about the highest dharma. Other options like "dharma" or "truth" are broader terms not specific to this dialogue.
+  </reasoning>
+  <question>
+    In Mahabharata's Yaksha Prashna (Vana Parva, Adhyaya 297), what does Yudhishthira identify as the highest dharma (duty)?
+    A) Dharma
+    B) Non-violence
+    C) Truth
+    D) Wealth
+  </question>
+  <answer>B) Non-violence</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The answer "श्रुतम्" (knowledge) is explicitly stated as the best gift. Other options like "charity" or "wealth" are common but not the specific answer here.
+  </reasoning>
+  <question>
+    In Mahabharata's Yaksha Prashna (Vana Parva, Adhyaya 297), what does Yudhishthira identify as the greatest gift?
+    A) Charity
+    B) Wealth
+    C) Knowledge
+    D) Power
+  </question>
+  <answer>C) Knowledge</answer>
+</entry>

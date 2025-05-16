@@ -1,0 +1,137 @@
+<think>
+Okay, I need to create 10 high-quality question-answer pairs based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I notice that the text includes verses from the Bhagavad Gita, part of the Mahabharata. The verses discuss karma, dharma, and the consequences of actions. There are references to characters like Yudhishthira, Krishna, and others. The text emphasizes the importance of performing one's duty (dharma) without attachment to results, the concept of karma, and the role of deities like Brahma and Vishnu.
+
+Now, I need to form questions that are standalone, so they shouldn't refer to "the passage." Each question must have enough context. Let me think of different types: factual, "did you know," detective, philosophical.
+
+For example, a factual question could be about the role of dharma in the text. A "did you know" might highlight that the text mentions the consequences of not performing one's duty. A detective-style question could explore why certain actions lead to specific outcomes. Philosophical questions might delve into the concept of karma versus destiny.
+
+I need to ensure that each answer includes necessary context. For instance, if mentioning "Yudhishthira," I should note he's the eldest Pandava. Also, terms like "karma" and "dharma" need brief explanations for those unfamiliar.
+
+Let me check the verses again. There's a mention of "धातारं गर्हये पार्थ" which translates to "Blame the creator, O Partha." Partha is another name for Arjuna. So a question about why Arjuna is told to blame the creator could be a detective-style question.
+
+Another part talks about the consequences of not performing one's duty, leading to suffering. That's a philosophical angle. Also, the text discusses the role of deities and how they are involved in the outcomes of actions.
+
+I need to make sure each question is unique and covers different aspects. Let me draft them one by one, ensuring they are self-contained and based on the text provided.
+</think>
+
+<entry>
+  <reasoning>
+    The text emphasizes the concept of karma and dharma, with Krishna advising Yudhishthira to perform actions without attachment to results. This question tests understanding of core Mahabharata teachings.
+  </reasoning>
+  <question>
+    In the Mahabharata, what central teaching does Krishna emphasize through the idea that one should perform their prescribed duties (dharma) without attachment to outcomes, even when facing moral dilemmas?
+  </question>
+  <answer>
+    Krishna teaches that individuals should fulfill their dharma (sacred duties) without being attached to the results of their actions. This concept, known as Karma Yoga, is central to the Bhagavad Gita. It emphasizes selfless action as a path to spiritual liberation, even in difficult situations like the Kurukshetra war.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text explicitly states that those who doubt dharma risk spiritual downfall. This question highlights a key philosophical warning from the Mahabharata.
+  </reasoning>
+  <question>
+    What warning does the Mahabharata give about individuals who question the principles of dharma (moral order) and the authority of sacred texts?
+  </question>
+  <answer>
+    The text warns that those who doubt dharma or sacred teachings (shastras) risk spiritual ruin. It describes such people as "astikya" (non-believers) who are trapped in ignorance, comparing them to "shudras" (lowest social class) in their moral weakness. This reflects the epic's emphasis on dharma as essential for cosmic and personal order.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text contrasts "hathabuddhi" (blind effort) and "daitvabuddhi" (destiny-based thinking). This question explores the Mahabharata's view on human agency versus fate.
+  </reasoning>
+  <question>
+    How does the Mahabharata differentiate between individuals who rely solely on their own efforts ("hathabuddhi") and those who believe outcomes are determined by destiny ("daitvabuddhi")?
+  </question>
+  <answer>
+    The text suggests that those who trust only in their efforts (hathabuddhi) often face failure, while those who acknowledge destiny (daitvabuddhi) may achieve success. However, it emphasizes that true wisdom lies in balancing both: performing one's duty (karma) while recognizing divine will. This reflects the epic's nuanced view of free will and cosmic order.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text explicitly states that even deities like Brahma and Vishnu follow dharma. This question challenges common assumptions about divine power in the Mahabharata.
+  </reasoning>
+  <question>
+    What surprising assertion does the Mahabharata make about the relationship between deities like Brahma and the concept of dharma (cosmic order)?
+  </question>
+  <answer>
+    The text states that even gods like Brahma and Vishnu are bound by dharma. It declares, "All beings, including deities, follow dharma," emphasizing that cosmic order transcends divine power. This underscores the Mahabharata's view of dharma as the ultimate universal law, even for gods.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes the consequences of abandoning dharma. This question explores the moral framework of the Mahabharata.
+  </reasoning>
+  <question>
+    What does the Mahabharata say happens to individuals who abandon their prescribed duties (dharma) and instead act out of selfish desire or ignorance?
+  </question>
+  <answer>
+    The text warns that abandoning dharma leads to spiritual and moral decay. It states that such individuals become "mudha" (fools) trapped in ignorance, their actions leading to suffering. This reflects the epic's core belief that dharma is essential for both personal and cosmic harmony.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text explicitly mentions "karma phala" (fruits of action) as a fundamental truth. This question tests understanding of the Mahabharata's ethical framework.
+  </reasoning>
+  <question>
+    What does the Mahabharata assert about the relationship between actions (karma) and their consequences (phala), and how does this shape its ethical teachings?
+  </question>
+  <answer>
+    The Mahabharata teaches that every action (karma) produces corresponding consequences (phala), forming the basis of its ethical system. It emphasizes that individuals are responsible for their actions, and that true wisdom lies in performing duties without attachment to results, as seen in Krishna's counsel to Arjuna.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes the role of "sankhya" (knowledge) and "karma" (action) in achieving success. This question explores the interplay between wisdom and action in the Mahabharata.
+  </reasoning>
+  <question>
+    How does the Mahabharata describe the relationship between knowledge ("sankhya") and action ("karma") in achieving success and spiritual growth?
+  </question>
+  <answer>
+    The text states that knowledge and action must be balanced. It declares, "Action without knowledge leads to confusion, while knowledge without action remains incomplete." This reflects the Mahabharata's philosophy that wisdom and practical effort together lead to fulfillment, as seen in the dialogue between Krishna and Arjuna.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text explicitly states that even deities are subject to dharma. This question highlights the epic's view of universal moral laws.
+  </reasoning>
+  <question>
+    What does the Mahabharata say about the authority of dharma (moral order) in relation to divine beings like Brahma and Vishnu?
+  </question>
+  <answer>
+    The text asserts that even gods like Brahma and Vishnu are bound by dharma. It states, "All beings, including deities, follow dharma," emphasizing that cosmic order transcends divine power. This reflects the Mahabharata's view of dharma as the ultimate universal law.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes the consequences of doubt in dharma. This question explores the moral and spiritual risks of questioning sacred principles.
+  </reasoning>
+  <question>
+    What does the Mahabharata warn about individuals who doubt the principles of dharma and the authority of sacred texts?
+  </question>
+  <answer>
+    The text warns that such individuals become "astikya" (non-believers) trapped in ignorance, compared to "shudras" (lowest social class) in moral weakness. It states they risk spiritual ruin, highlighting the epic's emphasis on dharma as essential for order and salvation.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text explicitly states that even deities are subject to dharma. This question highlights the epic's view of universal moral laws.
+  </reasoning>
+  <question>
+    How does the Mahabharata describe the relationship between human actions and the concept of "karma phala" (fruits of action)?
+  </question>
+  <answer>
+    The Mahabharata teaches that every action (karma) produces corresponding consequences (phala). It emphasizes that individuals are responsible for their actions, and that true wisdom lies in performing duties without attachment to results, as seen in Krishna's counsel to Arjuna.
+  </answer>
+</entry>

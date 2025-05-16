@@ -1,0 +1,198 @@
+<think>
+Okay, I need to create 10 quiz entries based on the provided Sanskrit verses. Let me start by understanding the structure and requirements.
+
+First, each entry must have a reasoning section with a citation, proof, and bullets. The question should be self-contained, and the answer must be correct based on the verses. The distractors must be entities or details from the same chunk but incorrect.
+
+Looking at the verses, there's a dialogue between a Brahmin and a hunter (vyādha) discussing dharma, karma, and virtues. Key themes include ahimsa (non-violence), truth, dharma, and the consequences of actions.
+
+For the first entry, I'll focus on the verse where the hunter says that killing animals for food is part of dharma. The citation is 198.4. The proof is about killing animals for food being part of dharma. The correct answer is that it's part of dharma, while distractors could be other verses about ahimsa or specific actions.
+
+Another entry could be about the importance of truth (satiyam) as a virtue. The verse 198.14 mentions truth. The correct answer would be that truth is a virtue, and distractors could be other virtues like dama or kshama.
+
+I need to ensure each entry tests a unique fact. For example, one about ahimsa, another about the consequences of actions, another about the role of dharma in society, etc.
+
+I should check each verse to find specific statements. For instance, verse 198.69 states "Ahimsa is the supreme dharma." That's a good point for an entry. The question would ask about the supreme dharma, with options including ahimsa, truth, etc.
+
+Another verse, 198.70, talks about truth being the essence of dharma. So an entry could ask about the essence of dharma, with truth as the correct answer.
+
+I need to make sure that each answer's key term is present in the proof. For example, if the answer is "ahimsa," the proof must include that word.
+
+Also, the distractors must be from the same chunk. For example, if the correct answer is about ahimsa, the distractors could be other virtues mentioned in the verses, like truth, dama, or kshama.
+
+I'll go through each verse, pick out unique facts, and structure the entries accordingly. Each entry must have four options, with only one correct. The questions should be concise, mentioning the characters and context from the verses.
+
+I need to avoid repeating the same verse or fact. For example, if one entry is about ahimsa, another could be about the role of dharma in different varnas (198.24), or the importance of following one's own dharma (198.15).
+
+Also, check that the proof lines are correctly cited and that the bullets for distractors reference other verses or details from the same chunk.
+
+Once I have 10 distinct entries, I'll format them as per the XML structure, ensuring all rules are followed.
+</think>
+
+<entry>
+  <reasoning>
+    • **Brahma-vyādha-saṃvāda 198.4**  
+    • Proof: *देवतातिथिभृत्यानां पितॄणां प्रतिपूजनात्*  
+    • The verse explicitly states that feeding guests and ancestors is part of dharma.  
+    • Other verses mention ahimsa (198.69) and truth (198.70) as virtues, but not this specific act.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, during a dialogue between a Brahmin and a hunter on dharma, which act is described as part of righteous duty (dharma) in the verse (see Brahma-vyādha-saṃvāda 198.4)?  
+    A) Non-violence (ahimsa)   B) Feeding guests and ancestors   C) Fasting   D) Sacrificing animals  
+  </question>
+  <answer>
+    B) Feeding guests and ancestors
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Brahma-vyādha-saṃvāda 198.69**  
+    • Proof: *अहिंसा परमो धर्मः स च सत्ये प्रतिष्ठितः*  
+    • The verse directly states that non-violence (ahimsa) is the supreme dharma.  
+    • Other verses mention truth (198.70) and dharma's role in varnas (198.24), but not this specific claim.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, during a discourse on dharma, which virtue is declared the "supreme dharma" in the verse (see Brahma-vyādha-saṃvāda 198.69)?  
+    A) Fasting   B) Non-violence (ahimsa)   C) Wealth   D) Sacrifice  
+  </question>
+  <answer>
+    B) Non-violence (ahimsa)
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Brahma-vyādha-saṃvāda 198.70**  
+    • Proof: *सत्यमेव गरीयस्तु शिष्टाचारनिषेवितम्*  
+    • The verse emphasizes that truth (satiyam) is the greatest virtue.  
+    • Other verses mention ahimsa (198.69) and dharma's societal role (198.24), but not this specific claim.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, during a discussion on virtuous conduct, which quality is described as "the greatest" in the verse (see Brahma-vyādha-saṃvāda 198.70)?  
+    A) Wealth   B) Truth (satiyam)   C) Charity   D) Knowledge  
+  </question>
+  <answer>
+    B) Truth (satiyam)
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Brahma-vyādha-saṃvāda 198.24**  
+    • Proof: *कर्म शूद्रे कृषिर्वैश्ये सङ्ग्रामः क्षत्रिये स्मृतः*  
+    • The verse explicitly states that agriculture is the dharma of Shudras, trade for Vaishyas, and warfare for Kshatriyas.  
+    • Other verses mention ahimsa (198.69) and truth (198.70), but not this specific varna-based dharma.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, during a debate on dharma, which activity is described as the righteous duty (dharma) of Shudras in the verse (see Brahma-vyādha-saṃvāda 198.24)?  
+    A) Warfare   B) Trade   C) Agriculture   D) Study of scriptures  
+  </question>
+  <answer>
+    C) Agriculture
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Brahma-vyādha-saṃvāda 198.15**  
+    • Proof: *स्वकर्म त्यजतो ब्रह्मन्नधर्म इह दृश्यते*  
+    • The verse states that abandoning one's own dharma leads to adharma.  
+    • Other verses mention ahimsa (198.69) and truth (198.70), but not this specific warning.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, during a dialogue on dharma, what consequence is warned against in the verse (see Brahma-vyādha-saṃvāda 198.15)?  
+    A) Practicing ahimsa   B) Abandoning one's dharma   C) Honoring ancestors   D) Speaking truth  
+  </question>
+  <answer>
+    B) Abandoning one's dharma
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Brahma-vyādha-saṃvāda 198.20**  
+    • Proof: *कृषिगोरक्ष्यवाणिज्यमिह लोकस्य जीवनम्*  
+    • The verse declares agriculture, animal husbandry, and trade as the lifeblood of society.  
+    • Other verses mention ahimsa (198.69) and truth (198.70), but not this specific societal role.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, during a discussion on societal duties, which three activities are described as the "life" of the world in the verse (see Brahma-vyādha-saṃvāda 198.20)?  
+    A) Warfare, charity, and study   B) Agriculture, animal husbandry, and trade   C) Fasting, pilgrimage, and sacrifice   D) Teaching, ruling, and meditation  
+  </question>
+  <answer>
+    B) Agriculture, animal husbandry, and trade
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Brahma-vyādha-saṃvāda 198.30**  
+    • Proof: *क्रोधः शत्रुः शरीरस्थो मनुष्याणां द्विजोत्तम*  
+    • The verse identifies anger (krodha) as an internal enemy of humans.  
+    • Other verses mention ahimsa (198.69) and truth (198.70), but not this specific metaphor.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, during a discourse on inner virtues, which quality is described as an "enemy within" in the verse (see Brahma-vyādha-saṃvāda 198.30)?  
+    A) Greed   B) Anger (krodha)   C) Pride   D) Envy  
+  </question>
+  <answer>
+    B) Anger (krodha)
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Brahma-vyādha-saṃvāda 198.43**  
+    • Proof: *कर्म चैतदसाधूनां वृजिनानामसाधुवत्*  
+    • The verse states that actions of the wicked are like those of the unrighteous.  
+    • Other verses mention ahimsa (198.69) and truth (198.70), but not this specific comparison.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, during a debate on karma, what comparison is made about the actions of the wicked in the verse (see Brahma-vyādha-saṃvāda 198.43)?  
+    A) They are like the righteous  
+    B) They are like the unrighteous  
+    C) They are like animals  
+    D) They are like gods  
+  </question>
+  <answer>
+    B) They are like the unrighteous
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Brahma-vyādha-saṃvāda 198.54**  
+    • Proof: *लुब्धाः पापं व्यवस्यन्ति नरा नातिबहुश्रुताः*  
+    • The verse states that the greedy (lubdha) commit sin without being learned.  
+    • Other verses mention ahimsa (198.69) and truth (198.70), but not this specific critique.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, during a discussion on moral failings, which group is criticized for committing sin without wisdom in the verse (see Brahma-vyādha-saṃvāda 198.54)?  
+    A) The wise  
+    B) The greedy (lubdha)  
+    C) The ascetics  
+    D) The rulers  
+  </question>
+  <answer>
+    B) The greedy (lubdha)
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Brahma-vyādha-saṃvāda 198.73**  
+    • Proof: *क्रुध्यन्तोऽनसूयन्तो निरहङ्कारमत्सराः*  
+    • The verse lists qualities of the virtuous: not angry, not envious, and free from ego.  
+    • Other verses mention ahimsa (198.69) and truth (198.70), but not this specific list.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, during a discourse on virtuous conduct, which trait is NOT listed as a quality of the righteous in the verse (see Brahma-vyādha-saṃvāda 198.73)?  
+    A) Non-anger  
+    B) Non-envy  
+    C) Ego  
+    D) Free from arrogance  
+  </question>
+  <answer>
+    C) Ego
+  </answer>
+</entry>

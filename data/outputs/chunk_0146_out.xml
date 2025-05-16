@@ -1,0 +1,93 @@
+<think>
+Okay, I need to create 5 multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look through the verses to identify key elements. The text seems to describe the Himalayas (Gandhamādana) and the Pandavas' stay there. There are mentions of various deities, sages, and events. For example, verses 70-90 talk about the Pandavas' journey to the Himalayas, their stay with Rishi Aśvapati, and the divine presence there. Then there's a part about Bhīma's strength and battles with rakshasas. Also, references to the Kuru dynasty, kings, and specific events like the battle with the rakshasas.
+
+Now, I need to make sure each question is based on explicit information. Let's pick different parts of the text for each question.
+
+First question: The Pandavas' stay in the Himalayas. The text mentions they stayed there after the war, and it's described as a divine place. So a question about where they stayed after the war.
+
+Second question: The rishi they met. The text says they met Rishi Aśvapati. So a question about the rishi's name.
+
+Third question: The divine presence in the Himalayas. The text mentions various deities and celestial beings. So a question about the divine beings present.
+
+Fourth question: Bhīma's strength. The text describes his power and how he defeated rakshasas. So a question about his role in the battle.
+
+Fifth question: The reason for their stay. The text says they stayed there to avoid the curse of the Kuru kings. So a question about the reason for their stay.
+
+I need to check each verse to ensure the answers are directly from the text. For example, in verse 85, it mentions "Gandhamādana" as the place. Also, the rishi's name is Aśvapati. The divine beings include gandharvas, apsaras, and others. Bhīma's strength is highlighted in verses 24-50. The reason for their stay is to avoid the curse.
+
+Now, structure each question with the trigger phrase, specific reference, and four options. Make sure the answers are under 100 characters. Also, the reasoning should explain why the answer is correct and why others are not.
+
+Let me draft each entry step by step, ensuring they are distinct and cover different parts of the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the Pandavas' post-war retreat. The text explicitly states they sought refuge in the Himalayas to avoid the curse of the Kuru kings. Other options refer to different locations or events mentioned in the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verses 70-90), where did the Pandavas seek refuge after the Kurukshetra war to avoid the Kuru kings' curse?
+    A) Indra's heaven
+    B) Gandhamādana (Himalayas)
+    C) Lanka
+    D) Dwaraka
+  </question>
+  <answer>B) Gandhamādana (Himalayas)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights a key rishi associated with the Himalayas. The text specifically names Aśvapati as the rishi who welcomed the Pandavas. Other options are unrelated to the text's direct references.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verses 85-90), which rishi's ashram did the Pandavas visit in the Himalayas?
+    A) Vashishtha
+    B) Aśvapati
+    C) Vishwamitra
+    D) Gautama
+  </question>
+  <answer>B) Aśvapati</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of divine beings in the Himalayas. The text explicitly mentions gandharvas, apsaras, and celestial beings. Other options are unrelated to the text's descriptions.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verses 70-90), which divine beings were described as residing in the Himalayas alongside the Pandavas?
+    A) Yakshas
+    B) Gandharvas
+    C) Asuras
+    D) Devas
+  </question>
+  <answer>B) Gandharvas</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Bhīma's legendary strength. The text describes him as a "mahābāhu" (great-armed) and a warrior who defeated rakshasas. Other options refer to different warriors or attributes.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verses 24-50), which Pandava is described as "mahābāhu" (great-armed) and a conqueror of rakshasas?
+    A) Arjuna
+    B) Bhīma
+    C) Yudhishthira
+    D) Nakula
+  </question>
+  <answer>B) Bhīma</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests the purpose of the Pandavas' Himalayan retreat. The text states they sought refuge to avoid the Kuru kings' curse. Other options misinterpret the text's context.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verses 70-90), why did the Pandavas stay in the Himalayas after the war?
+    A) To train in warfare
+    B) To avoid the Kuru kings' curse
+    C) To find a kingdom
+    D) To escape a flood
+  </question>
+  <answer>B) To avoid the Kuru kings' curse</answer>
+</entry>

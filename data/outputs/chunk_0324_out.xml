@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, places, and specific references. The text seems to be from the Bhishma Parva, as it mentions Bhishma's death and the aftermath. There are references to specific verses (like 1-50), so I should include those.
+
+Question 1: The text mentions Bhishma lying on a bed of arrows (शरतल्प). So, a question about who was lying on a bed of arrows. The answer is Bhishma. Other options could be Drona, Karna, or Duryodhana.
+
+Question 2: The text says that after Bhishma's death, the Pandavas and Kauravas approached him. So, who approached Bhishma after his death? The answer is both Pandavas and Kauravas. Options could include only Pandavas, only Kauravas, both, or another group.
+
+Question 3: There's a mention of Arjuna bringing water for Bhishma. So, who brought water to Bhishma? The answer is Arjuna. Options might include Yudhishthira, Krishna, or Bhima.
+
+Question 4: The text refers to Bhishma as the "Pitamaha" (grandfather). So, what title was given to Bhishma? Options could be Pitamaha, Kuru's king, etc.
+
+Question 5: The text mentions that after Bhishma's death, the earth became dark. So, what happened to the earth after Bhishma's death? The answer is it became dark. Options might include the sun disappearing, the sky falling, etc.
+
+I need to ensure each question has the exact reference, like "Bhishma Parva, verse 1-50". Also, check that the options are plausible but only one correct. Make sure the answers are under 100 characters. Let me structure each entry with reasoning, question, and answer as per the example.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Bhishma's death and the symbolic imagery in the text. The "sharatlpa" (bed of arrows) is a key motif in Bhishma's demise. Other options represent other warriors but not the specific imagery of his deathbed.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verses 1-50), who lay on a bed of arrows after being wounded in battle?
+    A) Drona
+    B) Bhishma
+    C) Karna
+    D) Duryodhana
+  </question>
+  <answer>B) Bhishma</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the post-battle dynamics after Bhishma's death. The text explicitly states both Pandavas and Kauravas approached him, showing mutual respect despite enmity. Other options misrepresent the text's clear dual reference.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verses 1-50), which groups approached Bhishma after his death to pay respects?
+    A) Only Pandavas
+    B) Only Kauravas
+    C) Both Pandavas and Kauravas
+    D) Only Brahmins
+  </question>
+  <answer>C) Both Pandavas and Kauravas</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Arjuna's role in Bhishma's final moments. The text explicitly states Arjuna brought water, while other options represent different warriors who didn't perform this specific act.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verses 1-50), who brought water to Bhishma during his final hours?
+    A) Yudhishthira
+    B) Arjuna
+    C) Krishna
+    D) Bhima
+  </question>
+  <answer>B) Arjuna</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests recognition of Bhishma's title. The text repeatedly refers to him as "Pitamaha" (grandfather), a unique honorific. Other options represent roles but not the specific title given in the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verses 1-50), what title was repeatedly given to Bhishma in reference to his lineage?
+    A) Kuru's king
+    B) Pitamaha (grandfather)
+    C) Supreme commander
+    D) Divine warrior
+  </question>
+  <answer>B) Pitamaha (grandfather)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses the symbolic aftermath of Bhishma's death. The text explicitly states the earth became dark, reflecting the cosmic significance of his demise. Other options misinterpret the text's metaphorical description.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verses 1-50), what cosmic event occurred after Bhishma's death?
+    A) The sun vanished
+    B) The earth became dark
+    C) The sky fell
+    D) Rivers dried up
+  </question>
+  <answer>B) The earth became dark</answer>
+</entry>

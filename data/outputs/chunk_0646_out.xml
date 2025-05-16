@@ -1,0 +1,99 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I notice that the text includes several verses (shlokas) discussing the significance of cows (gau) and giving them as gifts (dāna). There are references to different types of cows, their colors, and the benefits of giving them. Also, there's a dialogue between Yudhishthira and Bhishma, and later a conversation between Shri (the goddess) and the cows. The text emphasizes the spiritual and moral importance of cows, their role in rituals, and the rewards of giving them.
+
+Now, I need to make sure each question is based on explicit information from the text. Let's go through the text again to pick out specific details.
+
+1. The first verse mentions a white cow (श्वेतां धेनुं) given to a person, leading to their elevation in Indra's realm. So a question about which cow leads to Indra's realm.
+
+2. Another verse talks about a black cow (कृष्णां धेनुं) leading to Agni's realm. So another question on that.
+
+3. There's a mention of a cow given to the gods (देवानामुपरिष्टाच्च गावः प्रतिवसन्ति वै) and that giving cows leads to heaven. So a question about where cows reside and the reward.
+
+4. The text also mentions that giving cows (गावः प्रतिष्ठा भूतानां) is the foundation of all beings. So a question on the significance of cows.
+
+5. There's a part where Shri (the goddess) interacts with the cows, and the cows refuse to accept her because she's fickle. So a question about why the cows refused her.
+
+I need to make sure each question has the correct reference, like the specific shloka numbers. For example, the first question could reference shloka 11, the second 12, etc. Also, the options should be plausible but incorrect, like other realms or incorrect reasons.
+
+Let me check each verse again to confirm the details. For example, in shloka 11, it's the white cow leading to Indra's realm. Shloka 12 is the black cow leading to Agni's realm. Shloka 13 mentions Yama's realm. Then, in the dialogue between Shri and the cows, the cows refuse her because she's fickle (चञ्चलां). 
+
+Also, the text says that giving cows leads to the realm of the gods (देवानामुपरिष्टाच्च गावः प्रतिवसन्ति वै). So the answer would be that cows reside in the gods' realm. 
+
+Another point is that the text states that giving cows (गावः प्रतिष्ठा भूतानां) is the foundation of all beings. So the answer would be that cows are the foundation.
+
+For the Shri and cows interaction, the cows refuse her because she's fickle (चञ्चलां), so the answer is that she's fickle.
+
+Now, I need to structure each question with the trigger phrase, specific references, and four options. Let me draft each one.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of specific cow types and their associated realms. The text explicitly states that a white cow (श्वेतां धेनुं) leads to Indra's realm. Other options represent different cows but not the one linked to Indra.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (shloka 11), which cow leads to Indra's realm when given as a gift?
+    A) Black cow (कृष्णां धेनुं)
+    B) White cow (श्वेतां धेनुं)
+    C) Dark brown cow (धूम्रां धेनुं)
+    D) Copper-horned cow (कांस्यदोहनाम्)
+  </question>
+  <answer>B) श्वेतां धेनुं</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the symbolic association of cow colors with deities. The black cow (कृष्णां धेनुं) is explicitly linked to Agni's realm. Other options represent different cows but not the one tied to Agni.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (shloka 12), which cow leads to Agni's realm when given as a gift?
+    A) White cow (श्वेतां धेनुं)
+    B) Black cow (कृष्णां धेनुं)
+    C) Dusty cow (धूम्रां धेनुं)
+    D) Copper-horned cow (कांस्यदोहनाम्)
+  </question>
+  <answer>B) कृष्णां धेनुं</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests understanding of the text's spiritual teachings. The passage states that cows reside in the gods' realm (देवानामुपरिष्टाच्च गावः प्रतिवसन्ति वै). Other options represent incorrect realms or symbolic meanings.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva, where do cows reside according to the text?
+    A) Yama's realm (याम्यलोके)
+    B) Indra's realm (इन्द्रलोके)
+    C) The gods' realm (देवानामुपरिष्टाच्च)
+    D) The underworld (पितृलोके)
+  </question>
+  <answer>C) देवानामुपरिष्टाच्च</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses knowledge of the text's central theme. The passage explicitly states that cows are the foundation of all beings (गावः प्रतिष्ठा भूतानां). Other options represent related but incorrect concepts.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva, what does the text describe cows as being for all beings?
+    A) Symbols of wealth (धनरूपाः)
+    B) Foundation of existence (प्रतिष्ठा भूतानां)
+    C) Sources of milk (पयस्विनीम्)
+    D) Guardians of dharma (धर्म एव च)
+  </question>
+  <answer>B) प्रतिष्ठा भूतानां</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests understanding of the dialogue between Shri and the cows. The text states that the cows refused Shri because she was fickle (चञ्चलां). Other options represent plausible but incorrect reasons for their refusal.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva, why did the cows refuse Shri's presence?
+    A) She was ungrateful (अनुगृह्यते)
+    B) She was fickle (चञ्चलां)
+    C) She was arrogant (उग्रां)
+    D) She was deceitful (मायाविनी)
+  </question>
+  <answer>B) चञ्चलां</answer>
+</entry>

@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, places, and specific references. The text seems to describe Arjuna's battle against the demons in a divine city, possibly Hiranyapura. There are mentions of deities like Indra, and specific events like the use of divine weapons (astras). 
+
+For the first question, I notice that Arjuna is described as using various divine weapons. The text mentions "महास्त्राणां महद्बलम्" which refers to great weapons. So, a question about the purpose of these weapons would work. The answer would be to destroy the demons. The options could include other purposes like protection or defense, but the text says they were used to destroy the demons.
+
+Next, looking for specific places. The city is called Hiranyapura, mentioned in "हिरण्यपुरमित्येतत्ख्यायते नगरं महत्". So a question about the name of the city. The options would include other names, but the correct one is Hiranyapura.
+
+Another part mentions the city being protected by demons and gods. The text says "रक्षितं कालकेयैश्च पौलोमैश्च महासुरैः" which means protected by Kalakeya and Pouloma. So a question about who protected the city. The options would include other groups, but the correct answer is these two demons.
+
+Then, there's a part where Arjuna is praised by Indra. The text says "साधु साध्वित्यथाब्रवीत्" which means "Well done, well done, he said." So a question about Indra's reaction. The options could be different responses, but the correct one is praising Arjuna.
+
+Lastly, the text mentions that the city was destroyed by Arjuna's weapons. The line "महीमभ्यपतद्राजन्प्रभग्नं पुरमासुरम्" indicates the city was destroyed. So a question about the fate of the city. The options would include other outcomes, but the correct answer is destruction.
+
+I need to make sure each question has the trigger phrase, specific references, and that the answers are directly from the text. Also, check that the options are plausible but incorrect. For example, in the city name question, other options could be names of other cities, but the correct one is Hiranyapura. Each question should cover different parts of the text to avoid repetition.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Arjuna's divine weapons and their purpose. The text explicitly states these weapons were used to destroy the demon-protected city. Other options represent plausible but incorrect roles of astras in the Mahabharata.
+  </reasoning>
+  <question>
+    In Mahabharata's Hiranyapura episode (adhyaya 170-172), what was the purpose of the divine weapons (astras) used by Arjuna against the demons?
+    A) To protect the city
+    B) To destroy the demon-protected city
+    C) To create a divine army
+    D) To summon celestial beings
+  </question>
+  <answer>B) To destroy the demon-protected city</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses understanding of specific city names in the Mahabharata. The text directly names "Hiranyapura" as the divine city. Other options represent real Mahabharata cities but are not mentioned in this passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Hiranyapura episode (adhyaya 170-172), what was the name of the divine city destroyed by Arjuna?
+    A) Indraprastha
+    B) Hastinapura
+    C) Hiranyapura
+    D) Dvaraka
+  </question>
+  <answer>C) Hiranyapura</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of specific demon-protectors mentioned in the text. The passage explicitly names Kalakeya and Pouloma as the city's guardians. Other options represent major Mahabharata figures but aren't mentioned here.
+  </reasoning>
+  <question>
+    In Mahabharata's Hiranyapura episode (adhyaya 170-172), which two demons were described as protecting the city?
+    A) Ravana and Kumbhakarna
+    B) Kalakeya and Pouloma
+    C) Hiranyakashipu and Hiranyaksha
+    D) Rahu and Ketu
+  </question>
+  <answer>B) Kalakeya and Pouloma</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines Indra's direct reaction to Arjuna's victory. The text shows Indra praising Arjuna with "Sadhudhvi" (Well done). Other options represent typical Mahabharata interactions but aren't mentioned in this passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Hiranyapura episode (adhyaya 170-172), how did Indra react to Arjuna's destruction of the demon city?
+    A) He punished Arjuna
+    B) He praised Arjuna
+    C) He demanded compensation
+    D) He challenged Arjuna
+  </question>
+  <answer>B) He praised Arjuna</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the city's fate. The text explicitly states the city was destroyed by Arjuna's weapons. Other options represent possible outcomes but aren't supported by the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Hiranyapura episode (adhyaya 170-172), what happened to the divine city after Arjuna's battle?
+    A) It became a celestial kingdom
+    B) It was transformed into a heavenly abode
+    C) It was destroyed by Arjuna's weapons
+    D) It was abandoned by demons
+  </question>
+  <answer>C) It was destroyed by Arjuna's weapons</answer>
+</entry>

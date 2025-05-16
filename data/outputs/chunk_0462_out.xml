@@ -1,0 +1,91 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, places, and specific references. The text mentions several names like Vishwamitra, Vasishta, Sarayu (Saraswati), and events like the conflict between them, the curse, and the river's transformation. There's also mention of the Tirtha (sacred place) and the story of Indra and Namuchi.
+
+For each question, I need to ensure the answer is explicitly stated in the text. Let's break it down.
+
+1. The first part talks about Vishwamitra and Vasishta's conflict. The text says Vishwamitra cursed the river Saraswati to flow with blood (shonita). So a question about who cursed the river and the result.
+
+2. The text mentions that the river Saraswati was cursed to flow with blood, and later the sages and demons (rakshasas) drank it. So another question about the effect of the curse.
+
+3. There's a part where Indra (Shakra) was cursed by Namuchi and had to take a bath in the river to be purified. So a question about Indra's purification.
+
+4. The text refers to the Tirtha (sacred place) where the river's curse was enacted. So a question about the location of the curse.
+
+5. The story of Skanda's (Kartikeya) birth and his role as a warrior. The text mentions that he was born from the river and became a great warrior. So a question about his origin.
+
+Now, I need to make sure each question has the correct context, references, and options. Also, check that the answers are directly from the text without adding external info.
+
+Let me draft each question with the required structure and verify against the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the conflict between Vishwamitra and Vasishta, and the role of Saraswati as a river. The text explicitly states that Vishwamitra cursed Saraswati to flow with blood, while Vasishta's actions led to the river's transformation. The other options represent unrelated figures or events.
+  </reasoning>
+  <question>
+    In Mahabharata's Vishwamitra-Vasishta Parva, which sage cursed the river Saraswati to flow with blood after a rivalry?
+    A) Vasishta
+    B) Vishwamitra
+    C) Indra
+    D) Namuchi
+  </question>
+  <answer>B) Vishwamitra</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the consequences of Vishwamitra's curse. The text states that rakshasas (demons) drank the blood-tinged water and were purified, while sages sought to reverse the curse. Other options represent unrelated entities or outcomes.
+  </reasoning>
+  <question>
+    In Mahabharata's Saraswati Tirtha episode, what happened to rakshasas who drank the river's blood-tinged water?
+    A) They became immortal
+    B) They were purified
+    C) They turned into stones
+    D) They vanished
+  </question>
+  <answer>B) They were purified</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Indra's purification ritual. The text explicitly states that Indra was cursed by Namuchi and had to bathe in the river to atone for brahmanicide. Other options represent unrelated myths or figures.
+  </reasoning>
+  <question>
+    In Mahabharata's Indra-Namuchi story, what ritual did Indra perform to cleanse himself after a curse?
+    A) Sacrificing a cow
+    B) Bathing in Saraswati
+    C) Offering gold
+    D) Reciting mantras
+  </question>
+  <answer>B) Bathing in Saraswati</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the sacred location involved in the curse. The text specifies that the river's transformation occurred at the "Tirtha" (sacred site) associated with Vishwamitra's ashram. Other options represent unrelated places or concepts.
+  </reasoning>
+  <question>
+    In Mahabharata's Vishwamitra-Vasishta conflict, where did the river Saraswati's blood curse take effect?
+    A) At the Ganges
+    B) At a Tirtha (sacred site)
+    C) In the Himalayas
+    D) At the Yamuna
+  </question>
+  <answer>B) At a Tirtha (sacred site)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Skanda's (Kartikeya) origin as a warrior deity. The text states he was born from the river and became a "mahāvīrya" (great warrior). Other options represent unrelated deities or roles.
+  </reasoning>
+  <question>
+    In Mahabharata's Skanda Abhisheka section, what role did Skanda (Kartikeya) take after being born from the river?
+    A) A sage
+    B) A warrior
+    C) A king
+    D) A dancer
+  </question>
+  <answer>B) A warrior</answer>
+</entry>

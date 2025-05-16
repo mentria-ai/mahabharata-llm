@@ -1,0 +1,107 @@
+<think>
+Okay, I need to create 5 multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text. The passage seems to be from the Bhishma Parva, as it mentions Bhishma and other key characters. There are references to Arjuna, Krishna, Yudhishthira, and Karna. The text includes dialogues and descriptions of battles, promises, and moral dilemmas.
+
+First, I should identify specific sections or verses. The user mentioned using exact references like adhyaya, parva, or shloka. However, the provided text doesn't have specific numbers, but the example uses "Bhishma Parva" and "shloka" numbers. Wait, the user's example had "Bhishma Parva" and "shloka" numbers like 60, 61, etc. But the given text here has numbers like ६०, ६१, which are in Devanagari script. So I can use those as references.
+
+Looking at the text, there's a mention of Krishna and Arjuna discussing the necessity of killing Karna. For example, in the lines: "हन्यामहं केशव तं प्रसह्य; भीमो हन्यात्तूबरकेति चोक्तः" which translates to "I will kill him, O Krishna, with patience; Bhima will kill him, it is said." So this is about the decision to kill Karna. That could be a question about who is supposed to kill Karna.
+
+Another part: "गुरूणामवमानो हि वध इत्यभिधीयते" which means "The killing of a guru is considered as the greatest sin." So this could be a question about the sin of killing a guru.
+
+There's also a part where Arjuna is reluctant to fight, and Krishna advises him. For example, "अहं हनिष्ये स्वशरीरमेव; प्रसह्य येनाहितमाचरं वै" which might relate to Arjuna's resolve to fight despite the consequences.
+
+Another line: "एवमाभाष्य राजानमब्रवीन्माधवं वचः | अद्य कर्णं रणे कृष्ण सूदयिष्ये न संशयः" which translates to "Thus speaking to the king, he said to Krishna: 'Today, I will kill Karna, there is no doubt.'" So this is about Arjuna's determination to kill Karna.
+
+Also, there's a mention of the promise made by Arjuna to Krishna: "प्रतिज्ञा सत्यसन्धस्य गाण्डीवं प्रति विश्रुता" which is about a promise to kill Karna.
+
+So possible questions could be about who is to kill Karna, the sin of killing a guru, the promise to kill Karna, Arjuna's resolve, and the role of Bhima in killing Karna.
+
+Now, I need to make sure each question is based on explicit information. For example, the first question could be about who is supposed to kill Karna. The text says "भीमो हन्यात्तूबरकेति चोक्तः" (Bhima is said to kill Karna). But later, Arjuna says he will kill Karna. So the answer might be Arjuna, but the text says Bhima is supposed to. Wait, need to check the exact lines.
+
+Looking at the lines: "हन्यामहं केशव तं प्रसह्य; भीमो हन्यात्तूबरकेति चोक्तः" – "I will kill him, O Krishna, with patience; Bhima is said to kill him." So the text says that Bhima is supposed to kill Karna, but Arjuna is determined to do it. However, the exact reference here is about Bhima. So the question could be: In Mahabharata's Bhishma Parva, which warrior is said to kill Karna according to the text? The answer would be Bhima, but the text also mentions Arjuna's resolve. But the exact line says "भीमो हन्यात्तूबरकेति चोक्तः" (Bhima is said to kill him). So the answer is Bhima.
+
+Another question: What is the sin mentioned in the text regarding killing a guru? The line is "गुरूणामवमानो हि वध इत्यभिधीयते" (The killing of a guru is considered as the greatest sin). So the answer is the sin of killing a guru.
+
+Third question: What promise does Arjuna make to Krishna? The line "प्रतिज्ञा सत्यसन्धस्य गाण्डीवं प्रति विश्रुता" (The promise of the truthful one to Gandiva is well-known). Gandiva is Arjuna's bow, so the promise is to kill Karna.
+
+Fourth question: Who is the one who says "I will kill Karna today without doubt"? The line "एवमाभाष्य राजानमब्रवीन्माधवं वचः | अद्य कर्णं रणे कृष्ण सूदयिष्ये न संशयः" – Arjuna says this to Krishna. So the answer is Arjuna.
+
+Fifth question: What is the consequence of killing a guru according to the text? The line "गुरूणामवमानो हि वध इत्यभिधीयते" – the consequence is considered the greatest sin.
+
+Now, I need to structure each question with the trigger phrase, specific reference, and options. Ensure that the options are plausible but incorrect. For example, for the first question, options could be Bhima, Arjuna, Drona, Karna. The correct answer is Bhima.
+
+Check that each question is based on explicit text. Also, make sure the references are correct. Since the text has numbers like ६०, ६१, etc., but the example used "Bhishma Parva" without specific shloka numbers. However, the user's example used "Bhishma Parva" and "shloka" numbers. But the given text here doesn't have exact shloka numbers, but the lines are numbered. So maybe use "Bhishma Parva, shloka 60" or similar.
+
+But the user's example had "Bhishma Parva" without specific shloka. So maybe just "Bhishma Parva" as the reference. Alternatively, use the line numbers. However, the user's example didn't use line numbers but the parva. So I'll go with "Bhishma Parva" as the reference.
+
+Now, construct the five questions accordingly.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of key warriors and their roles in the Kurukshetra war. The text explicitly states that Bhima is to kill Karna, but Arjuna later resolves to do so. The answer is Bhima, as per the direct reference. Other options represent other warriors but are not the ones explicitly mentioned here.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, which warrior is explicitly said to kill Karna according to the text?
+    A) Arjuna
+    B) Bhima
+    C) Drona
+    D) Karna
+  </question>
+  <answer>B) Bhima</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights a moral teaching from the text. The line explicitly states that killing a guru is the greatest sin. Other options are plausible as other sins but are not the specific teaching here.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, what sin is described as the greatest when killing a guru?
+    A) Lying
+    B) Theft
+    C) Killing a guru
+    D) Arrogance
+  </question>
+  <answer>C) Killing a guru</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Arjuna's promise to Krishna. The text references a "promise of the truthful one to Gandiva" (Arjuna's bow), directly linking it to killing Karna. Other options are unrelated to the promise.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, what promise does Arjuna make to Krishna regarding Karna?
+    A) To protect Karna
+    B) To kill Karna
+    C) To flee the battle
+    D) To seek peace
+  </question>
+  <answer>B) To kill Karna</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests recognition of Arjuna's resolve. The text explicitly states Arjuna's determination to kill Karna without doubt. Other options are warriors but not the one making the declaration.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, who declares "I will kill Karna today without doubt" to Krishna?
+    A) Yudhishthira
+    B) Arjuna
+    C) Bhima
+    D) Duryodhana
+  </question>
+  <answer>B) Arjuna</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses the consequence of killing a guru, as per the text. The line states this sin is "the greatest," making it the correct answer. Other options are unrelated moral concepts.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, what is the consequence of killing a guru according to the text?
+    A) Loss of wealth
+    B) Eternal suffering
+    C) Political downfall
+    D) Social disgrace
+  </question>
+  <answer>B) Eternal suffering</answer>
+</entry>

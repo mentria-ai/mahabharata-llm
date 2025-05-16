@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, teachings, and specific references. The text seems to be a dialogue between King and a Brahmin (Virup), discussing dharma, karma, and the consequences of actions. There's mention of a goat (dhenu) given to a Brahmin, and discussions about giving and receiving, righteousness, and the nature of karma. Also, there's a part where Bhishma and others discuss the path of a japa (recitation) and the results of actions.
+
+For the first question, I notice the dialogue between the King and Virup about giving a goat. The King says he gave the goat, but Virup refuses to accept it. The correct answer would be that the King gave the goat to the Brahmin. The options could include other characters or actions, but the text clearly states the King gave it.
+
+Second question: The text mentions that the King's action of giving the goat was done with the intention of fulfilling dharma. The correct answer would be that the King gave the goat to fulfill dharma. Other options might involve different motivations like charity or punishment.
+
+Third question: There's a part where the King and Virup discuss the consequences of actions. The correct answer is that the King's action was considered righteous (dharma). Other options could be about karma, punishment, or other virtues.
+
+Fourth question: The text talks about the result of the King's action. The correct answer is that the King's action was deemed righteous. Other options might involve different outcomes like punishment or no result.
+
+Fifth question: The text includes a discussion about the nature of karma and the importance of intention. The correct answer is that the King's intention was to fulfill dharma. Other options could involve different intentions like charity or personal gain.
+
+I need to make sure each question is specific, references the text accurately, and the options are plausible but only one correct. Also, check that the answers are under 100 characters. Let me verify each point against the text to ensure accuracy.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests understanding of the dialogue between King and Virup about dharma and giving. The text explicitly states the King gave a goat to a Brahmin, but Virup refused to accept it. The answer is directly supported by the text's reference to "धेनुर्विप्राय" (goat given to a Brahmin).
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shlokas 91-92), why did the King give a goat to a Brahmin?
+    A) To fulfill dharma
+    B) To gain wealth
+    C) To punish a thief
+    D) To avoid punishment
+  </question>
+  <answer>A) To fulfill dharma</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the core teaching about action and intention. The text states "कर्माशुभं पश्यति वर्जनीयम्" (see unrighteous actions to avoid), emphasizing intention over action. The answer is directly supported by the text's focus on moral intent.
+  </reasoning>
+  <question>
+    In Mahabharata's Manu-Bhrigu dialogue (shlokas 13-14), what determines the moral value of an action?
+    A) The action itself
+    B) The intention behind it
+    C) The result of the action
+    D) The witness to the action
+  </question>
+  <answer>B) The intention behind it</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the text's discussion on karma's nature. The passage states "कर्माशुभं पश्यति वर्जनीयम्" (unrighteous actions should be avoided), directly supporting the answer about avoiding unrighteous actions.
+  </reasoning>
+  <question>
+    In Mahabharata's Manu-Bhrigu dialogue (shlokas 13-14), what should one avoid according to the text?
+    A) Unintentional actions
+    B) Unrighteous actions
+    C) Actions with no result
+    D) Actions performed in public
+  </question>
+  <answer>B) Unrighteous actions</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses understanding of the text's teaching about action's consequences. The passage states "कर्मफलं भुनक्ति" (enjoys the fruit of action), directly supporting the answer about experiencing action's results.
+  </reasoning>
+  <question>
+    In Mahabharata's Manu-Bhrigu dialogue (shlokas 20-21), what do individuals experience according to the text?
+    A) The joy of others
+    B) The fruit of their actions
+    C) The approval of gods
+    D) The silence of nature
+  </question>
+  <answer>B) The fruit of their actions</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the text's discussion on the nature of action. The passage states "कर्मगणं फलार्थी" (actions are for the sake of fruit), directly supporting the answer about actions being performed for their results.
+  </reasoning>
+  <question>
+    In Mahabharata's Manu-Bhrigu dialogue (shlokas 19-20), what is the purpose of actions according to the text?
+    A) To please gods
+    B) To gain wealth
+    C) To achieve results
+    D) To avoid suffering
+  </question>
+  <answer>C) To achieve results</answer>
+</entry>

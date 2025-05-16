@@ -1,0 +1,91 @@
+<think>
+Okay, I need to create 5 multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text. The passage seems to describe intense battles, mentioning various warriors like Kritavarma, Satyaki, Duryodhana, and others. There are references to specific events like chariot battles, arrows, and the aftermath of combat.
+
+First, I should identify key elements from the text. For example, there's a mention of Kritavarma (कृतवर्मा) being hit by arrows, and Satyaki (सात्यकि) being attacked. Also, there's a reference to Duryodhana's forces being defeated. I need to make sure each question is based on explicit information from the text.
+
+Let me check the first few verses. Verse 9 mentions "तमायान्तं महाबाहुं प्रवपन्तं शिताञ्शरान्" which translates to "the mighty warrior approaching, drawing sharp arrows." But I need to find specific names or events. 
+
+Looking at verse 15: "तमेकं सत्यकर्माणमासाद्य हृदिकात्मजः" – this refers to Satyakarma (Satyaki) being hit. So a question about who was hit by arrows could be formed here. The answer would be Satyaki, and other options could be other warriors mentioned.
+
+Another part is verse 21: "ततः पूर्णायतोत्सृष्टैः कृतवर्मा शिलाशितैः" – Kritavarma is hit by arrows. So another question about Kritavarma being hit by arrows. But I need to check if the text explicitly states that. The verse says "कृतवर्मा शिलाशितैः" which means Kritavarma was struck by arrows. So that's a valid point.
+
+Then, there's a mention of Duryodhana's forces being defeated. Verse 30: "दुर्योधनबलं सर्वं पुनरासीत्पराङ्मुखम्" – Duryodhana's army was defeated. So a question about which army was defeated.
+
+Another part is verse 32: "ततो दुर्योधनं सङ्ख्ये विव्याध दशभिः शरैः" – Duryodhana was hit by ten arrows. So a question about how many arrows hit Duryodhana.
+
+Also, verse 10: "धनुश्चिच्छेद भल्लेन सहदेवस्य मारिष" – Satyaki cut the bow of Sahadeva. So a question about who cut Sahadeva's bow.
+
+I need to ensure each question is specific, with the correct reference. Let me structure each question with the exact verse numbers and names as per the text. Also, make sure the options are plausible but incorrect. For example, if the answer is Satyaki, other options could be other warriors like Bhishma or Karna.
+
+Now, I'll draft each question one by one, making sure they are distinct and cover different parts of the text. Each question must start with "In Mahabharata's" and include the specific reference. Also, the answers must be under 100 characters. Let me check each for accuracy and that they are based solely on the text provided.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of key warriors and their roles in the battle. The text explicitly states that Satyaki was struck by arrows, while other options represent warriors involved in different battles but not in this specific context.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 15), which warrior was struck by arrows while fighting Duryodhana's forces?
+    A) Bhishma
+    B) Satyaki
+    C) Karna
+    D) Drona
+  </question>
+  <answer>B) Satyaki</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the role of Kritavarma in the battle. The text directly states he was struck by arrows, while other options refer to warriors involved in different combat scenarios.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 21), which warrior was struck by arrows and forced to abandon his chariot?
+    A) Kritavarma
+    B) Arjuna
+    C) Yudhishthira
+    D) Kripa
+  </question>
+  <answer>A) Kritavarma</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the defeat of Duryodhana's forces. The text explicitly states his army was routed, while other options refer to different battles or outcomes.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 30), which army was defeated and forced to retreat after a fierce battle?
+    A) Pandava
+    B) Kaurava
+    C) Chedi
+    D) Gandhara
+  </question>
+  <answer>B) Kaurava</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of specific combat details. The text states Duryodhana was hit by ten arrows, while other options represent plausible but incorrect numbers or warriors.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 32), how many arrows struck Duryodhana during a critical battle?
+    A) Five
+    B) Ten
+    C) Fifteen
+    D) Twenty
+  </question>
+  <answer>B) Ten</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the destruction of a warrior's chariot. The text explicitly states Satyaki cut Sahadeva's bow, while other options refer to different chariot-related events.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 10), which warrior cut Sahadeva's bow during a battle?
+    A) Satyaki
+    B) Karna
+    C) Bhima
+    D) Dhrishtadyumna
+  </question>
+  <answer>A) Satyaki</answer>
+</entry>

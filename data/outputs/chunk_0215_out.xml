@@ -1,0 +1,89 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll read through the Sanskrit passage to identify key elements. The text seems to be from the Bhishma Parva, as it mentions characters like Krishna, Arjuna, Duryodhana, and references to the Kurukshetra war. There are dialogues between Duryodhana and Krishna, discussing alliances and strategies. Also, there's a part about Shalya (Shalva) and his role in the war, and a story about Indra and Trishira. 
+
+Now, I need to make sure each question is based on explicit information from the text. Let's break it down.
+
+Question 1: The text mentions Duryodhana approaching Krishna for help. The correct answer would be that Duryodhana sought Krishna's help. Other options could be other characters like Arjuna or Bhishma, but the text specifically says Duryodhana approached Krishna.
+
+Question 2: There's a part where Krishna says he will not help the Pandavas or Duryodhana. The correct answer here is Krishna's refusal. Other options might be other characters' actions, but the text clearly states Krishna's decision.
+
+Question 3: The text mentions Shalya (Shalva) being appointed as the charioteer for Arjuna. The correct answer is Shalya. Other options could be other charioteers like Krishna or Bhishma.
+
+Question 4: The story of Indra and Trishira is included. The correct answer is that Indra killed Trishira with a thunderbolt. Other options might involve different deities or methods.
+
+Question 5: The text refers to the "Indra Vijaya Upanayana" which is a story about Indra's victory. The correct answer would be the story of Indra's victory over Trishira. Other options could be different stories from the Mahabharata.
+
+I need to check each question's context and ensure they are specific. Also, make sure the answers are under 100 characters and the options are plausible but incorrect. Let me structure each entry with the required XML format.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Duryodhana's diplomatic actions. The text explicitly states Duryodhana approached Krishna for aid, contrasting with his later rivalry. Other options represent key figures but not the one seeking help.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 9), which Kaurava king approached Krishna for military support before the Kurukshetra war?
+    A) Arjuna
+    B) Bhishma
+    C) Duryodhana
+    D) Karna
+  </question>
+  <answer>C) Duryodhana</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Krishna's strategic neutrality. The text directly states he refused to aid either side. Other options represent his roles as charioteer or advisor, not his refusal.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 26), what did Krishna declare about aiding the Pandavas or Kauravas during the war?
+    A) He would fight for the Pandavas
+    B) He would remain neutral
+    C) He would support Duryodhana
+    D) He would fight for the Kauravas
+  </question>
+  <answer>B) He would remain neutral</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of charioteer appointments. The text explicitly names Shalya as Arjuna's charioteer. Other options are key warriors but not charioteers in this context.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 18), who was appointed as Arjuna's charioteer during the Kurukshetra war?
+    A) Bhishma
+    B) Drona
+    C) Shalya
+    D) Kripa
+  </question>
+  <answer>C) Shalya</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines Indra's mythological conflict. The text describes Indra killing Trishira with a thunderbolt. Other options represent different mythological figures or weapons.
+  </reasoning>
+  <question>
+    In Mahabharata's Indra Vijaya Upanayana (shloka 22), how did Indra kill the demon Trishira?
+    A) With a sword
+    B) With a bow
+    C) With a thunderbolt
+    D) With a mace
+  </question>
+  <answer>C) With a thunderbolt</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question identifies the specific narrative about Indra's conflict. The text explicitly refers to "Indra Vijaya Upanayana" as the story of his victory. Other options represent different Mahabharata sections.
+  </reasoning>
+  <question>
+    In Mahabharata's Indra Vijaya Upanayana (shloka 1), which story details Indra's conflict with the demon Trishira?
+    A) Bhishma Parva
+    B) Indra Vijaya Upanayana
+    C) Karna Parva
+    D) Shanti Parva
+  </question>
+  <answer>B) Indra Vijaya Upanayana</answer>
+</entry>

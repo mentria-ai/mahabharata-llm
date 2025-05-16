@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, teachings, and specific references. The text seems to be from the "Aapadharma Parva" (Parva 129-133) and includes dialogues between Yudhishthira and Bhishma. There are discussions about dharma, kingship, and the duties of a ruler. Also, there's a story about Kapiya, a dasyu (robber) who becomes a righteous leader. 
+
+For the first question, I notice that Bhishma talks about the importance of a king's treasury (kosh) and how it relates to dharma and kingship. The text says, "Koshadhi dharma..." which means "From the treasury, dharma arises." So a question about the relationship between the treasury and dharma would work. The options could include different aspects like dharma, kingship, etc.
+
+Second, there's a mention of Kapiya, a dasyu who becomes a leader. The text states he was a dasyu but followed dharma. So a question about who Kapiya was and his role. The options would include his original status and his transformation.
+
+Third, the text discusses the importance of dharma in the context of a king's actions. For example, "Kshatriya's dharma" and how it's tied to the treasury. Another question could be about the role of dharma in a king's decisions.
+
+Fourth, there's a part where Bhishma advises on the treatment of women and children. The text says, "Ma vadhis tvam striyam..." which translates to "Do not kill women." So a question about what Bhishma advises against killing.
+
+Fifth, the text mentions the story of Kapiya's transformation and his adherence to dharma. Another question could be about the outcome of his actions, like how he became a leader.
+
+I need to ensure each question is specific, includes the correct reference (like the parva number and verses), and that the options are plausible but only one is correct. Also, check that all information is explicitly from the text. Avoid adding any external knowledge. Let me verify each point against the text to make sure.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests understanding of the Mahabharata's emphasis on economic stability as a foundation for dharma. The text explicitly states that the treasury (kosh) is the root of dharma and kingship, making this a core teaching. Other options represent related but incorrect concepts.
+  </reasoning>
+  <question>
+    In Mahabharata's Aapadharma Parva (129.1), Bhishma states that dharma and kingship originate from which essential resource?
+    A) Military strength
+    B) Wealth (kosh)
+    C) Divine favor
+    D) Popular support
+  </question>
+  <answer>B) Wealth (kosh)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the Mahabharata's transformative narrative about Kapiya, a dasyu (robber) who becomes a righteous leader. The text explicitly describes his transformation through adherence to dharma, making this a key example of moral redemption in the epic.
+  </reasoning>
+  <question>
+    In Mahabharata's Aapadharma Parva (133.3), who was originally a dasyu (robber) but became a leader through dharma?
+    A) Karna
+    B) Kapiya
+    C) Kripa
+    D) Kekaya
+  </question>
+  <answer>B) Kapiya</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the Mahabharata's teaching about the relationship between dharma and material resources. The text explicitly states that a king's treasury (kosh) is essential for maintaining dharma and protecting subjects, making this a critical principle of governance.
+  </reasoning>
+  <question>
+    In Mahabharata's Aapadharma Parva (129.2), Bhishma advises kings to prioritize what to maintain dharma and protect their people?
+    A) Military alliances
+    B) Wealth (kosh)
+    C) Religious rituals
+    D) Diplomatic relations
+  </question>
+  <answer>B) Wealth (kosh)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the Mahabharata's ethical guidelines for warriors. The text explicitly prohibits killing women, children, and ascetics, making this a fundamental principle of dharma in warfare.
+  </reasoning>
+  <question>
+    In Mahabharata's Aapadharma Parva (133.13), Bhishma prohibits killing which group in battle?
+    A) Elders
+    B) Women
+    C) Merchants
+    D) Farmers
+  </question>
+  <answer>B) Women</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the Mahabharata's narrative about moral transformation. The text explicitly states that Kapiya, despite his initial dasyu (robber) status, achieved greatness through adherence to dharma, making this a key example of redemption in the epic.
+  </reasoning>
+  <question>
+    In Mahabharata's Aapadharma Parva (133.24), what did Kapiya achieve through his dharma-based actions?
+    A) Military conquest
+    B) Wealth accumulation
+    C) Moral redemption
+    D) Political power
+  </question>
+  <answer>C) Moral redemption</answer>
+</entry>

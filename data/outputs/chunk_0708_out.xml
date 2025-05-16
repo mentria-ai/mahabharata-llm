@@ -1,0 +1,95 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, places, and specific references. The text seems to be from the Kunti Vakya section, which is part of the Mahabharata. There are references to Kunti, Dhritarashtra, Yudhishthira, and others. The verses mention the Pandavas leaving for the forest, Kunti's dialogue, and some interactions with other characters like Vidura and Sanjaya.
+
+For each question, I need to ensure that the answer is explicitly stated in the text. Let me go through the text again to pick out specific details.
+
+1. The first part talks about Kunti's dialogue where she advises Yudhishthira to go to the forest. The text mentions that she says, "यदा राज्यमिदं कुन्ति भोक्तव्यं पुत्रनिर्जितम्" (When this kingdom is yours, O Kunti, it is to be enjoyed by your son). So a question about Kunti's advice to Yudhishthira about the kingdom.
+
+2. There's a mention of Kunti's sons (Pandavas) and their departure. The text says, "पाण्डवा अपि दीनास्ते दुःखशोकपरायणाः" (The Pandavas also were distressed and sorrowful). So a question about the Pandavas' emotional state when leaving.
+
+3. The text includes Kunti's request for Yudhishthira to stay in the forest. She says, "प्रसीद मातर्मा गास्त्वं वनमद्य यशस्विनि" (O mother, please stay in the forest, O victorious one). So a question about Kunti's request for Yudhishthira to stay.
+
+4. There's a reference to the river Ganges and Dhritarashtra's stay there. "भागीरथीतीरे" (on the bank of the Ganges). So a question about where Dhritarashtra stayed.
+
+5. The text mentions that Kunti and Gandhari went to the forest. "गान्धारीं च पृथा राजन्गङ्गातीरमुपानयत्" (Gandhari and the queen went to the Ganges bank). So a question about who went to the Ganges bank.
+
+Now, I need to structure each question with the trigger phrase, specific reference, and four options. Ensure that the answers are directly from the text. Also, check that the other options are plausible but incorrect based on the text.
+
+For example, the first question: In Mahabharata's Kunti Vakya (22), what did Kunti advise Yudhishthira about the kingdom? The answer is to enjoy it, but other options could be about leaving, fighting, or staying.
+
+I need to make sure each question is unique and covers different parts of the text. Also, check the references (like adhyaya numbers) if possible. The text has verses numbered, so include those where applicable.
+
+Let me draft each entry now, making sure the reasoning explains why the answer is correct and why others are not. Also, keep the answers concise under 100 characters.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Kunti's role in advising Yudhishthira. The text explicitly states she urged him to enjoy the kingdom, contrasting with other options like abandoning it or fighting. The reference to "पुत्रनिर्जितम्" (enjoyed by your son) confirms the answer.
+  </reasoning>
+  <question>
+    In Mahabharata's Kunti Vakya (22), what did Kunti advise Yudhishthira to do with the kingdom after the Pandavas' exile?
+    A) Abandon it to the Kauravas
+    B) Enjoy it as his son's inheritance
+    C) Fight for it immediately
+    D) Destroy it to avoid conflict
+  </question>
+  <answer>B) Enjoy it as his son's inheritance</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the Pandavas' emotional state during their exile. The text describes them as "दुःखशोकपरायणाः" (sorrowful and distressed), making this the only accurate choice. Other options misrepresent their condition or focus on unrelated details.
+  </reasoning>
+  <question>
+    In Mahabharata's Kunti Vakya (27), how did the Pandavas feel when leaving their kingdom?
+    A) Eager to reclaim power
+    B) Sorrowful and distressed
+    C) Focused on revenge
+    D) Indifferent to their fate
+  </question>
+  <answer>B) Sorrowful and distressed</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Kunti's direct request to Yudhishthira. The text explicitly states her plea for him to stay in the forest ("वनमद्य यशस्विनि"), making this the only correct answer. Other options misattribute her words or focus on unrelated advice.
+  </reasoning>
+  <question>
+    In Mahabharata's Kunti Vakya (28), what did Kunti ask Yudhishthira to do in the forest?
+    A) Seek revenge against the Kauravas
+    B) Stay and enjoy the forest's gifts
+    C) Return to the kingdom immediately
+    D) Conquer neighboring lands
+  </question>
+  <answer>B) Stay and enjoy the forest's gifts</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Dhritarashtra's exile location. The text explicitly states he stayed on the "भागीरथीतीरे" (Ganges bank), making this the only correct answer. Other options reference unrelated places or events.
+  </reasoning>
+  <question>
+    In Mahabharata's Dhritarashtra's Exile (16), where did Dhritarashtra settle after leaving the kingdom?
+    A) A mountain peak
+    B) The Ganges bank
+    C) A desert
+    D) A distant city
+  </question>
+  <answer>B) The Ganges bank</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the characters who accompanied Kunti to the Ganges. The text explicitly states "गान्धारीं च पृथा राजन्गङ्गातीरमुपानयत्" (Gandhari and the queen went to the Ganges bank), confirming Gandhari as the correct answer. Other options misattribute the companions.
+  </reasoning>
+  <question>
+    In Mahabharata's Dhritarashtra's Exile (6), who accompanied Kunti to the Ganges bank?
+    A) Draupadi
+    B) Gandhari
+    C) Subhadra
+    D) Ambika
+  </question>
+  <answer>B) Gandhari</answer>
+</entry>

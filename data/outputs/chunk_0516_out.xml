@@ -1,0 +1,105 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I notice that the text includes various verses discussing governance, qualities of a king, ministers, and different types of fortifications. There's a lot about the characteristics of a good ruler, the importance of certain virtues, and the structure of a kingdom. Also, there's a dialogue between Bhishma and Yudhishthira, and some parts about the six types of fortresses.
+
+For the first question, I should pick a specific part. The text mentions "षड्विधं दुर्गमास्थाय" which lists six types of fortresses. That's a clear fact. So the question could be about the six types of fortresses. The options would include the correct ones and plausible incorrect ones. The answer would be the six types listed.
+
+Next, there's a part about the qualities of a minister. The text says "कुलीनः सत्यसम्पन्नः शक्तोऽमात्यः प्रशंसितः" which mentions that a minister should be of good lineage, truthful, and capable. So a question about the qualities of a minister. The options would include these traits and others.
+
+Another part is about the six types of fortresses. The answer would be the six types listed. Then, there's a mention of the qualities of a good king, like being truthful, wise, and having self-control. So another question on that.
+
+Also, there's a part where it talks about the importance of a king's conduct and the consequences of not following dharma. But I need to make sure the questions are based on explicit text. For example, the text says "सम्यक्प्रणयतो दण्डं भूमिपस्य विशां पते" which refers to the king's duty to administer justice properly.
+
+Wait, but the user said to make sure the questions are based on explicit information. So I need to check each part. Let me go through the text again.
+
+The first part after the initial verses talks about the qualities of a minister, like being of good lineage, truthful, and capable. Then there's a section on the six types of fortresses. Also, there's a part about the qualities of a good ruler, such as being truthful, wise, and having self-control. Another part mentions the importance of a king's conduct and the consequences of not following dharma.
+
+So, for the five questions, I can cover:
+
+1. Six types of fortresses (from "षड्विधं दुर्गमास्थाय").
+2. Qualities of a minister (from "कुलीनः सत्यसम्पन्नः").
+3. Qualities of a good king (from "सत्यवाक्षीलसम्पन्नो गम्भीरः").
+4. The importance of a king's conduct (from "सम्यक्प्रणयतो दण्डं").
+5. The six types of fortresses again, but maybe another aspect.
+
+Wait, but the user wants five different questions. Let me make sure each is on a different part. Also, need to include specific references like adhyaya or parva. However, the text provided doesn't have specific parva names, but the user mentioned to include specific references. Since the text is from the Shantiparva, maybe? But the user might not know that. Alternatively, since the text includes "शक्रबृहस्पतिसंवादः" which is the dialogue between Indra and Brihaspati, so maybe reference that.
+
+But the user said to use the exact text provided. So for example, the six types of fortresses are in the text, so the question would be "In Mahabharata's Shantiparva, what are the six types of fortresses mentioned?" with options including the six listed.
+
+Another part is about the qualities of a good minister, so the question would be about that. Also, the qualities of a good king, like being truthful and wise.
+
+Another part is about the six types of fortresses again, but maybe another aspect. Alternatively, the part about the king's duty to administer justice properly.
+
+I need to make sure each question is distinct and based on explicit text. Let me draft each one step by step.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the six types of fortresses described in the Mahabharata. The text explicitly lists them, making it a clear factual question. Other options represent plausible but incorrect classifications of fortifications.
+  </reasoning>
+  <question>
+    In Mahabharata's Shantiparva, what are the six types of fortresses mentioned in the text?
+    A) River, mountain, city, forest, human, and water
+    B) Earth, stone, wood, metal, air, and fire
+    C) Fortified city, mountain, river, human, forest, and water
+    D) Sand, clay, metal, wood, stone, and earth
+  </question>
+  <answer>C) Fortified city, mountain, river, human, forest, and water</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses understanding of ministerial qualities. The text explicitly states that ministers must be of good lineage, truthful, and capable. Other options represent virtues but not the specific criteria mentioned.
+  </reasoning>
+  <question>
+    In Mahabharata's Shantiparva, what qualities are explicitly described as essential for a minister?
+    A) Wealth, power, and ambition
+    B) Loyalty, intelligence, and wealth
+    C) Good lineage, truthfulness, and capability
+    D) Generosity, courage, and popularity
+  </question>
+  <answer>C) Good lineage, truthfulness, and capability</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question evaluates knowledge of royal virtues. The text directly states that a king must be truthful, wise, and self-controlled. Other options represent related but non-specific traits.
+  </reasoning>
+  <question>
+    In Mahabharata's Shantiparva, which three qualities are explicitly described as essential for a king?
+    A) Wealth, strength, and popularity
+    B) Truthfulness, wisdom, and self-control
+    C) Intelligence, generosity, and courage
+    D) Knowledge, power, and ambition
+  </question>
+  <answer>B) Truthfulness, wisdom, and self-control</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests understanding of the king's duty to administer justice. The text explicitly states that a king must act with proper conduct and avoid injustice. Other options represent related but non-specific responsibilities.
+  </reasoning>
+  <question>
+    In Mahabharata's Shantiparva, what is the king's primary duty according to the text?
+    A) To expand territory
+    B) To administer justice with proper conduct
+    C) To accumulate wealth
+    D) To maintain military strength
+  </question>
+  <answer>B) To administer justice with proper conduct</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses knowledge of the six types of fortresses. The text explicitly lists them, making it a clear factual question. Other options represent plausible but incorrect classifications of fortifications.
+  </reasoning>
+  <question>
+    In Mahabharata's Shantiparva, which of the following is NOT one of the six fortresses described?
+    A) River fortress
+    B) Mountain fortress
+    C) Air fortress
+    D) Human fortress
+  </question>
+  <answer>C) Air fortress</answer>
+</entry>

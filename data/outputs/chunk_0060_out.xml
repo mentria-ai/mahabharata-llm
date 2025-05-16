@@ -1,0 +1,183 @@
+<think>
+Okay, I need to create 10 quiz entries based on the provided Sanskrit verses. Let me start by understanding the structure and requirements.
+
+First, each entry must have a reasoning section with the Parva, Chapter, Verse, proof from the text, and bullets explaining the answer and why others are wrong. The question should be self-contained, using the citation and context. The options must be plausible and based solely on the given verses.
+
+Looking at the verses, there's a lot of narrative about Agastya, the demon Ilvala, the kings, and the events in the Vana Parva and other sections. For example, in verse 23, it mentions "कृतस्वस्त्ययनाः सर्वे मुनिभिर्दिव्यमानुषैः" which talks about sages and divine beings. Another part mentions Yudhishthira and his actions, like in verse 1 of the Shalya-parvan, but the provided verses don't include that. Wait, the user provided a specific chunk, so I must base everything on that.
+
+I need to pick different verses. Let's check the verses provided. For example, verse 23 in the first block: "कृतस्वस्त्ययनाः सर्वे मुनिभिर्दिव्यमानुषैः" – this could be about sages. Another verse is about the kings going to holy places, like "तीर्थानि देवा विविशुर्नाविशन्भारतासुराः" – gods entering holy places. Also, there's a part about the demon Ilvala and his conflict with Agastya, like "इल्वलो नाम दैत्यो आसीत्कौरवनन्दन" – Ilvala is a demon.
+
+So possible questions could be about who the demon was, the reason for the conflict, the role of Agastya, the kings going to holy places, the purpose of the yajnas, etc.
+
+For each entry, I need to make sure the answer is directly from the text. For example, if a verse says "Ilvala was a demon," then the answer would be Ilvala, and the options would include other demons or names from the text.
+
+I need to avoid external knowledge and stick strictly to the verses given. Also, the options should be plausible but incorrect based on the text. For example, if the answer is Ilvala, the other options could be other demons mentioned, like Vritra, but since the text doesn't mention Vritra, maybe use names from the verses.
+
+Let me draft one entry. Take verse 4: "इल्वलो नाम दैत्यो आसीत्कौरवनन्दन" – "Ilvala was a demon, the son of Kaurava." So the question could be "Who was Ilvala according to the verses?" with options like Vritra, Indra, etc.
+
+Another example: "तीर्थानि देवा विविशुर्नाविशन्भारतासुराः" – "The gods entered the holy places, but the Bhaarataasuras did not." So the question could be "Which group did not enter the holy places?" with options like gods, Bhaarataasuras, etc.
+
+I need to ensure each entry is unique and covers different parts of the verses. Also, check that the proof is correctly cited and the bullets are concise. Make sure the options are in the same semantic class, like other demons, kings, or places.
+
+I'll proceed to create 10 such entries, each with a different verse and context.
+</think>
+
+<entry>
+  <reasoning>
+    • **Vana-parvan 23.23**  
+    • Proof: *कृतस्वस्त्ययनाः सर्वे मुनिभिर्दिव्यमानुषैः*  
+    • The verse explicitly states all sages were divine and celestial.  
+    • "Divine" and "celestial" are synonyms here; "mortal" and "human" contradict the text.  
+  </reasoning>
+  <question>
+    In Vana-parvan 23.23, what term describes the sages mentioned in the verse?  
+    A) Mortal sages   B) Human sages   C) Divine sages   D) Celestial sages
+  </question>
+  <answer>
+    D) Celestial sages
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Vana-parvan 23.23**  
+    • Proof: *कृतस्वस्त्ययनाः सर्वे मुनिभिर्दिव्यमानुषैः*  
+    • "Divine and celestial" (दिव्यमानुषैः) directly matches "celestial."  
+    • "Mortal" and "human" are opposites; "divine" is a synonym but less precise.  
+  </reasoning>
+  <question>
+    In Vana-parvan 23.23, what dual term describes the sages' nature?  
+    A) Mortal and divine   B) Human and celestial   C) Divine and celestial   D) Celestial and mortal
+  </question>
+  <answer>
+    C) Divine and celestial
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Vana-parvan 24.24**  
+    • Proof: *लोमशस्योपसङ्गृह्य पादौ द्वैपायनस्य च*  
+    • The verse names Lomasha and Dvipayana as companions.  
+    • "Bhishma" and "Karna" are unrelated; "Dhritarashtra" is a king, not a companion.  
+  </reasoning>
+  <question>
+    In Vana-parvan 24.24, who accompanied Lomasha?  
+    A) Bhishma   B) Karna   C) Dvipayana   D) Dhritarashtra
+  </question>
+  <answer>
+    C) Dvipayana
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Vana-parvan 25.25**  
+    • Proof: *धौम्येन सहिता वीरास्तथान्यैर्वनवासिभिः*  
+    • "Dhoomya" (a sage) is explicitly mentioned as a companion.  
+    • "Kripa" and "Drona" are other sages but not named here; "Karna" is a warrior.  
+  </reasoning>
+  <question>
+    In Vana-parvan 25.25, who was a companion of the warriors?  
+    A) Kripa   B) Drona   C) Dhoomya   D) Karna
+  </question>
+  <answer>
+    C) Dhoomya
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Vana-parvan 26.26**  
+    • Proof: *अभेद्यैः कवचैर्युक्तास्तीर्थान्यन्वचरंस्तदा*  
+    • "Invincible armor" (अभेद्यैः कवचैः) describes their protection.  
+    • "Mortal" and "unarmored" contradict the text; "divine" is unrelated.  
+  </reasoning>
+  <question>
+    In Vana-parvan 26.26, what term describes the warriors' armor?  
+    A) Mortal armor   B) Unarmored   C) Invincible armor   D) Divine armor
+  </question>
+  <answer>
+    C) Invincible armor
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Vana-parvan 27.27**  
+    • Proof: *इन्द्रसेनादिभिर्भृत्यै रथैः परिचतुर्दशैः*  
+    • "Indrasena's servants" (इन्द्रसेनादिभिर्भृत्यै) are the attendants.  
+    • "Krishna's chariots" and "Duryodhana's soldiers" are unrelated; "Bhishma's warriors" are a different group.  
+  </reasoning>
+  <question>
+    In Vana-parvan 27.27, who were the attendants of Indrasena?  
+    A) Krishna's chariots   B) Duryodhana's soldiers   C) Indrasena's servants   D) Bhishma's warriors
+  </question>
+  <answer>
+    C) Indrasena's servants
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Vana-parvan 28.28**  
+    • Proof: *सायुधा बद्धनिष्ट्रिंशास्तूणवन्तः समार्गणाः*  
+    • "Armed and bound" (सायुधा बद्धनिष्ट्रिंशास्तूणवन्तः) describes their state.  
+    • "Unarmed" and "free" contradict the text; "naked" is unrelated.  
+  </reasoning>
+  <question>
+    In Vana-parvan 28.28, what condition were the warriors in?  
+    A) Unarmed   B) Free   C) Armed and bound   D) Naked
+  </question>
+  <answer>
+    C) Armed and bound
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Vana-parvan 28.28**  
+    • Proof: *प्राङ्मुखाः प्रययुर्वीराः पाण्डवा जनमेजय*  
+    • "Pandavas" (पाण्डवा) are explicitly named as the warriors.  
+    • "Kauravas" and "Bharatas" are other groups; "Bhishma" is a single warrior.  
+  </reasoning>
+  <question>
+    In Vana-parvan 28.28, which group of warriors marched forward?  
+    A) Kauravas   B) Bharatas   C) Pandavas   D) Bhishma
+  </question>
+  <answer>
+    C) Pandavas
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Vana-parvan 100.1**  
+    • Proof: *समुद्रं ते समाश्रित्य वारुणं निधिमम्भसाम्*  
+    • "Samudra" (the ocean) is the refuge of the demons.  
+    • "Mount Meru" and "Ganges" are other sacred places; "Indra's realm" is unrelated.  
+  </reasoning>
+  <question>
+    In Vana-parvan 100.1, where did the demons seek refuge?  
+    A) Mount Meru   B) Ganges   C) Samudra   D) Indra's realm
+  </question>
+  <answer>
+    C) Samudra
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Vana-parvan 100.1**  
+    • Proof: *कालेयाः सम्प्रवर्तन्त त्रैलोक्यस्य विनाशने*  
+    • "Kaleya" (demons) are the agents of destruction.  
+    • "Sages" and "gods" are allies; "Pandavas" are victims.  
+  </reasoning>
+  <question>
+    In Vana-parvan 100.1, who caused the destruction of the three worlds?  
+    A) Sages   B) Gods   C) Kaleya   D) Pandavas
+  </question>
+  <answer>
+    C) Kaleya
+  </answer>
+</entry>

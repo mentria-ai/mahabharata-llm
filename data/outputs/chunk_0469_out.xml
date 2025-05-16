@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text. The passage seems to be from the Bhishma Parva, focusing on the battle between Bhima and Duryodhana. There are several verses describing their fight, the use of the gada (mace), and the outcomes.
+
+First, I should identify key elements: characters involved (Bhima, Duryodhana), the weapon (gada), specific events like the fight, and any notable actions or outcomes. The user emphasized using only explicit information from the text, so I need to make sure each question is directly supported.
+
+For the first question, looking at the verses, there's a mention of Bhima using the gada against Duryodhana. The text says "भीमसेनं तव पुत्रेण भारत" which translates to Bhima defeating Duryodhana. So a question about who defeated Duryodhana in their fight would be valid. The options would include Bhima, Drona, Karna, and Arjuna. But since the text specifically mentions Bhima, that's the answer.
+
+Next, the text mentions that Duryodhana was defeated by Bhima's gada. Another question could be about the weapon used. The options would be gada, bow, sword, and spear. The correct answer is gada.
+
+Third, there's a part where Bhima's gada is described as "गदामारुतवेगेन" (with the speed of the wind). So a question about the speed of Bhima's gada. Options could be wind, elephant, horse, and lion. The answer is wind.
+
+Fourth, the text says that after the fight, Duryodhana was defeated and the Pandavas were praised. So a question about the outcome of the fight. Options: Duryodhana was exiled, Bhima was praised, Duryodhana became king, or Bhima was defeated. The correct answer is Bhima was praised.
+
+Lastly, there's a mention of the fight being described as "घोररूपमसंवृतम्" (terrible and unrelenting). A question about the nature of the fight. Options: peaceful, brief, terrible, and strategic. The answer is terrible.
+
+I need to ensure each question has the specific reference, like the adhyaya or parva. Since the text is from the Bhishma Parva, I'll reference that. Also, check that the options are plausible but only one is correct based on the text. Avoid adding any external knowledge. Make sure the answers are under 100 characters. Let me structure each entry with the reasoning, question, and answer as per the example.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the direct outcome of Bhima and Duryodhana's duel. The text explicitly states Bhima's victory, while other options represent other warriors or outcomes not tied to this specific fight.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, who defeated Duryodhana in their direct combat using a gada?
+    A) Bhima
+    B) Drona
+    C) Karna
+    D) Arjuna
+  </question>
+  <answer>A) Bhima</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the weapon central to the duel. The text repeatedly emphasizes the gada's role, while other options are unrelated to this specific combat scenario.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, which weapon did Bhima use to defeat Duryodhana?
+    A) Gada (mace)
+    B) Bow
+    C) Sword
+    D) Spear
+  </question>
+  <answer>A) Gada (mace)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the gada's symbolic speed. The text describes it as "मारुतवेगेन" (wind-speed), while other options lack textual support.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, how is Bhima's gada described in terms of speed?
+    A) Wind-speed
+    B) Elephant-speed
+    C) Horse-speed
+    D) Lion-speed
+  </question>
+  <answer>A) Wind-speed</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests the immediate consequence of the duel. The text states Duryodhana's defeat and Bhima's praise, while other options misrepresent the outcome.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, what happened to Bhima after defeating Duryodhana?
+    A) He was praised by the Pandavas
+    B) He was exiled
+    C) He became king
+    D) He was defeated by Karna
+  </question>
+  <answer>A) He was praised by the Pandavas</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question emphasizes the duel's intensity. The text describes it as "घोररूपमसंवृतम्" (terrible and unrelenting), while other options contradict the text's tone.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, how is the fight between Bhima and Duryodhana characterized?
+    A) Terrible
+    B) Brief
+    C) Peaceful
+    D) Strategic
+  </question>
+  <answer>A) Terrible</answer>
+</entry>

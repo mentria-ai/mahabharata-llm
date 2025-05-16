@@ -1,0 +1,95 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, and specific references. The text seems to be from the Bhishma Parva, as there are references to Bhishma and Shalva. There's a mention of Amba, who is a princess from Kashi. She's rejected by Shalva, leading her to seek refuge with Bhishma. There's also a part where she goes to the forest and meets Rama, but I need to check if that's accurate.
+
+Wait, the text mentions "Amba" and her story. She was supposed to marry Shalva but was rejected. Then she goes to Bhishma, who is the commander of the Kauravas. There's a part where she's in a forest and meets Rama, but I need to confirm if that's from the Mahabharata or another text. Also, there's a reference to "Hōtravāhana" (Hōtravāhana) and "Akṛtavraṇa" (Akṛtavraṇa), which might be names of characters or sages.
+
+I need to make sure each question is based on explicit information. For example, Amba's rejection by Shalva and her subsequent actions. Also, the part where she goes to the forest and meets Rama, but I should check if that's part of the Mahabharata. Wait, in the Mahabharata, Amba is a character who was rejected by Shalva and later becomes a character in the story of Bhishma. However, the mention of Rama here might be a confusion with the Ramayana. But since the text provided includes that, I have to go with what's there.
+
+So, possible questions:
+
+1. Who is the princess from Kashi who was rejected by Shalva and sought refuge with Bhishma? (Amba)
+2. What did Bhishma do when Amba approached him? (He refused to marry her, leading to her seeking another path)
+3. Where did Amba go after being rejected by Shalva? (The forest, where she met Rama)
+4. Who is Hōtravāhana in the text? (A king or a sage)
+5. What was the reason Amba gave for not returning to her father's kingdom? (She felt she was dishonored and couldn't face her family)
+
+But I need to make sure the answers are directly from the text. For example, the text says "काशिराज्ञश्च भारत" (Kashi's king), but the exact names might be tricky. Also, the part where Amba says she can't return because she's dishonored. The text has "अवज्ञाता भविष्यामि बान्धवानां न संशयः" (I will be dishonored, there's no doubt among my relatives).
+
+So, for the first question, the answer is Amba. The options would include other princesses or characters. For the second, Bhishma's refusal. Third, the forest. Fourth, Hōtravāhana's role. Fifth, the reason for not returning.
+
+I need to structure each question with the trigger phrase, specific references, and ensure the answers are concise. Also, check for exact references like adhyāya or parva. The text seems to be from the Bhishma Parva, but without exact numbers, I'll use "Bhishma Parva" as the reference.
+
+Now, formulating the questions with the required XML format, making sure each is unique and based on explicit text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Amba's role in the Mahabharata. The text explicitly states she was a princess of Kashi rejected by Shalva, leading to her conflict with Bhishma. Other options represent other characters but lack direct textual support.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, which princess of Kashi was rejected by Shalva and later sought Bhishma's help?
+    A) Satyavati
+    B) Amba
+    C) Draupadi
+    D) Kunti
+  </question>
+  <answer>B) Amba</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Bhishma's refusal to marry Amba despite her plea. The text shows Bhishma prioritized his vow of celibacy over her request. Other options represent unrelated figures or events.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, what did Bhishma refuse to do for Amba despite her entreaties?
+    A) Grant her a kingdom
+    B) Marry her
+    C) Fight for her
+    D) Protect her
+  </question>
+  <answer>B) Marry her</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Amba's decision to seek refuge in the forest. The text explicitly states she chose ascetic life over returning to her family. Other options misrepresent her actions or motivations.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, where did Amba go after being rejected by Shalva and Bhishma?
+    A) Her father's palace
+    B) A royal court
+    C) A forest
+    D) A battlefield
+  </question>
+  <answer>C) A forest</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question identifies Hōtravāhana as a king mentioned in the text. The text refers to him as "Rājaraṣi" (king-sage), distinguishing him from other figures. Other options represent unrelated roles or characters.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, what title is given to Hōtravāhana in the text?
+    A) Warrior
+    B) Sage
+    C) King-sage
+    D) Merchant
+  </question>
+  <answer>C) King-sage</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses Amba's stated reason for rejecting her family. The text explicitly states she felt dishonored and could not face her relatives. Other options misrepresent her motivations or omit key details.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, why did Amba refuse to return to her father's kingdom?
+    A) She wanted to marry Shalva
+    B) She felt dishonored
+    C) She sought revenge
+    D) She preferred ascetic life
+  </question>
+  <answer>B) She felt dishonored</answer>
+</entry>

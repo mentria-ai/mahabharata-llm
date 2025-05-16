@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, teachings, and specific references. The text seems to be from the Shanti Parva, as it mentions "Shanti Parva" in the user's example. The verses talk about karma, dharma, and the consequences of actions. There are references to kings like Parikshit and Markandeya, and discussions about the nature of the soul and afterlife.
+
+For the first question, I notice verses 10-15 mention that those who are pure and follow dharma go to heaven, while others face suffering. So a question about the destination of the righteous could be good. The answer would be "svarga" (heaven), and the options could include other places like hell, rebirth, or liberation.
+
+Next, looking at verses 22-23, there's a statement about the king being the first dharma. So a question about who is considered the first dharma in the Mahabharata. The answer would be the king, with options like the priest, the sage, or the warrior.
+
+Another part is about the consequences of actions (karma) in verses 24-25. A question about what determines the fate of a soul after death. The answer is their own actions, with options like others' actions, divine will, or fate.
+
+Then, there's a mention of the sage Markandeya in the text. A question about which sage is known for his long life and teachings. The answer would be Markandeya, with options like Vishwamitra, Vashistha, or others.
+
+Lastly, the text discusses the importance of dharma and the role of kings. A question about the primary duty of a king according to the Mahabharata. The answer would be upholding dharma, with options like wealth, power, or conquest.
+
+I need to ensure each question has the exact reference, like "Shanti Parva, verse 10-15" or "Shanti Parva, verse 22-23". Also, check that the options are plausible but only one is correct based on the text. Avoid adding any external knowledge. Make sure the answers are under 100 characters. Let me structure each entry with the required XML tags and reasoning.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests understanding of the Mahabharata's concept of karma and afterlife. The text explicitly states that the righteous (sukritin) go to svarga (heaven), while the wicked (dushkritin) face suffering. The other options represent common misconceptions about karmic outcomes.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (verses 10-15), where do those who perform good deeds (sukritin) go after death?
+    A) Hell (naraka)
+    B) Rebirth (samsara)
+    C) Heaven (svarga)
+    D) Liberation (moksha)
+  </question>
+  <answer>C) Heaven (svarga)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the Mahabharata's view on royal duty. The text states that the king is the first dharma (22-23), emphasizing his role as the guardian of righteousness. Other options represent secondary roles in the dharma system.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (verses 22-23), who is identified as the first dharma (righteous duty) for society?
+    A) Priest (Brahmin)
+    B) Warrior (Kshatriya)
+    C) King (Raja)
+    D) Merchant (Vaishya)
+  </question>
+  <answer>C) King (Raja)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses knowledge of karmic determinism. The text explicitly states that one's own actions (svakarma) determine their fate (24-25). Other options reflect common philosophical debates about fate vs. free will.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (verses 24-25), what determines the fate of a soul after death?
+    A) Others' actions
+    B) Divine will
+    C) One's own actions (svakarma)
+    D) Cosmic cycles
+  </question>
+  <answer>C) One's own actions (svakarma)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests recognition of a key sage associated with the Mahabharata's philosophical discourses. The text repeatedly mentions Markandeya (e.g., "Markandeya Uvaca") as the speaker of these teachings. Other options represent other sages but not the primary speaker here.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva, which sage is the primary speaker of philosophical teachings in this passage?
+    A) Vishwamitra
+    B) Vashistha
+    C) Markandeya
+    D) Kashyapa
+  </question>
+  <answer>C) Markandeya</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question evaluates understanding of royal responsibility. The text states that kings must uphold dharma to protect their people (22-23). Other options represent alternative values but not the primary duty emphasized here.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (verses 22-23), what is the primary duty of a king according to the text?
+    A) Accumulate wealth
+    B) Expand territory
+    C) Uphold dharma
+    D) Conquer enemies
+  </question>
+  <answer>C) Uphold dharma</answer>
+</entry>

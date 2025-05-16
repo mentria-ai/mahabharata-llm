@@ -1,0 +1,199 @@
+<think>
+Okay, I need to create 10 quiz entries based on the provided Sanskrit verses. Let me start by understanding the rules again. Each entry must have a reasoning section with the specific verse, the Sanskrit quote, and then bullets explaining why the answer is correct and why others are wrong. The options should be plausible, with only one correct answer. I need to pick facts from the verses, not external knowledge.
+
+First, I'll scan through the verses to find key facts. Let's look for names, numbers, epithets, events. For example, in verse 13, there's mention of "दमयन्ती ततो रङ्गं प्रविवेश शुभानना" – Damaaynti entered the arena with a beautiful face. Another part mentions "नल उवाच" – Nala speaks. Also, there's a reference to "विस्मिताश्चाभवन्दृष्ट्वा सर्वा मां विबुधेश्वराः" – all the gods were amazed.
+
+Let me pick the first fact: Damaaynti entered the arena. The options would be other names or places. For example, options could be Nala, Indra, etc. The correct answer is Damaaynti.
+
+Another fact: Nala was chosen by Damaaynti. The verse says "नैषधं वरयामास भैमी धर्मेण भारत" – Bhaimi (Damaaynti) chose Nala. So the question could be who chose Nala, with options like Indra, others.
+
+Another point: The gods were amazed at Nala's beauty. The verse "विस्मिताश्चाभवन्दृष्ट्वा सर्वा मां विबुधेश्वराः" – all the gods were amazed. So the question could be who were amazed, with options like demons, others.
+
+I need to make sure each entry is based on the verses. Let me check each verse again to find more facts. For example, "देवानां यानि लिङ्गानि स्थविरेभ्यः श्रुतानि मे" – the signs of the gods heard by her. So the question could be about the signs of the gods, with options like kings, etc.
+
+Another fact: Damaaynti was in a single garment. "एकवासा असंवीतः" – she was in one garment. So the question could be about her attire.
+
+Also, there's mention of "विदर्भराजस्तत्र त्वां पूजयिष्यति मानद" – the Vidarbha king would honor him. So the question could be about who would honor Nala, with options like others.
+
+I need to create 10 entries. Let me list them out with the correct answers and plausible distractors. Each entry must have the exact structure. Let me make sure the Sanskrit quotes are accurate and the reasoning is based on the verses.
+</think>
+
+<entry>
+<reasoning>
+• 54.13-14: दृष्ट्वा चैनं ततोऽपृच्छन्वृत्तान्तं सर्वमेव तत् ||१३|| देवा ऊचुः|| कच्चिद्दृष्टा त्वया राजन्दमयन्ती शुचिस्मिता | किमब्रवीच्च नः सर्वान्वद भूमिपतेऽनघ ||१४||
+• Damaaynti (दमयन्ती) is described as having a "शुचिस्मिता" (pure smile) and entering the arena. 
+• Other options (Nala, Indra, others) are not mentioned as entering the arena in these verses.
+</reasoning>
+<question>
+Who entered the arena with a pure smile according to the verses?
+A) Nala  
+B) Indra  
+C) Damaaynti  
+D) Kali
+</question>
+<answer>
+C) Damaaynti
+</answer>
+</entry>
+
+<entry>
+<reasoning>
+• 54.19-20: अब्रवीच्चैव मां बाला आयान्तु सहिताः सुराः | त्वया सह नरश्रेष्ठ मम यत्र स्वयंवरः ||१९|| एतावदेव विबुधा यथावृत्तमुदाहृतम् | मयाशेषं प्रमाणं तु भवन्तस्त्रिदिवं गताः ||२१||
+• Damaaynti declared that gods would come with her to Nala's svayamvara. 
+• Other options (Kali, others) are not linked to this declaration.
+</reasoning>
+<question>
+Who declared that gods would accompany her to Nala's svayamvara?
+A) Kali  
+B) Indra  
+C) Damaaynti  
+D) Nala
+</question>
+<answer>
+C) Damaaynti
+</answer>
+</entry>
+
+<entry>
+<reasoning>
+• 54.25: सा समीक्ष्य ततो देवान्पुण्यश्लोकं च भारत | नैषधं वरयामास भैमी धर्मेण भारत ||२५||
+• Damaaynti (भैमी) chose Nala (नैषध) through dharma. 
+• Other options (others' names) are not mentioned as being chosen.
+</reasoning>
+<question>
+Who chose Nala through dharma according to the verses?
+A) Indra  
+B) Kali  
+C) Damaaynti  
+D) Surya
+</question>
+<answer>
+C) Damaaynti
+</answer>
+</entry>
+
+<entry>
+<reasoning>
+• 54.17: विस्मिताश्चाभवन्दृष्ट्वा सर्वा मां विबुधेश्वराः ||१७||
+• All gods (विबुधेश्वराः) were amazed at Nala. 
+• Other options (demons, others) are not mentioned as being amazed.
+</reasoning>
+<question>
+Which group was amazed at Nala's appearance?
+A) Demons  
+B) Kings  
+C) Gods  
+D) Animals
+</question>
+<answer>
+C) Gods
+</answer>
+</entry>
+
+<entry>
+<reasoning>
+• 54.15: भवद्भिरहमादिष्टो दमयन्त्या निवेशनम् | प्रविष्टः सुमहाकक्ष्यं दण्डिभिः स्थविरैर्वृतम् ||१५||
+• Nala was admitted to Damaaynti's palace by her order. 
+• Other options (others' palaces) are not mentioned.
+</reasoning>
+<question>
+Whose palace did Nala enter under Damaaynti's order?
+A) Kali's  
+B) Indra's  
+C) Damaaynti's  
+D) Surya's
+</question>
+<answer>
+C) Damaaynti's
+</answer>
+</entry>
+
+<entry>
+<reasoning>
+• 54.22: मनोविशुद्धिं बुद्धिं च भक्तिं रागं च भारत | यथोक्तं चक्रिरे देवाः सामर्थ्यं लिङ्गधारणे ||२२||
+• Gods (देवाः) performed a test of character (लिङ्गधारणे). 
+• Other options (others' tests) are not mentioned.
+</reasoning>
+<question>
+What did the gods perform to test Nala's character?
+A) A battle  
+B) A dance  
+C) A test of character  
+D) A feast
+</question>
+<answer>
+C) A test of character
+</answer>
+</entry>
+
+<entry>
+<reasoning>
+• 54.28: विस्मितैरीरितः शब्दः प्रशंसद्भिर्नलं नृपम् ||२७||
+• The sound of approval (शब्दः) was made by the gods (देवैर्महर्षिभिश्चैव) for Nala. 
+• Other options (others' sounds) are not mentioned.
+</reasoning>
+<question>
+Who made a sound of approval for Nala?
+A) Kings  
+B) Demons  
+C) Gods  
+D) Animals
+</question>
+<answer>
+C) Gods
+</answer>
+</entry>
+
+<entry>
+<reasoning>
+• 54.32: स्रजं चोत्तमगन्धाढ्यां सर्वे च मिथुनं ददुः | वरानेवं प्रदायास्य देवास्ते त्रिदिवं गताः ||३२||
+• Gods (देवाः) gave a sacred thread (स्रजं) to Nala. 
+• Other options (others' gifts) are not mentioned.
+</reasoning>
+<question>
+What did the gods give to Nala?
+A) A sword  
+B) A sacred thread  
+C) A crown  
+D) A chariot
+</question>
+<answer>
+B) A sacred thread
+</answer>
+</entry>
+
+<entry>
+<reasoning>
+• 55.1-2: वृते तु नैषधे भैम्या लोकपाला महौजसः | यान्तो ददृशुरायान्तं द्वापरं कलिना सह ||१||
+• Damaaynti (भैम्या) was honored by the lokapalas (guardians of the world). 
+• Other options (others' honors) are not mentioned.
+</reasoning>
+<question>
+Who was honored by the lokapalas (world guardians)?
+A) Kali  
+B) Indra  
+C) Damaaynti  
+D) Nala
+</question>
+<answer>
+C) Damaaynti
+</answer>
+</entry>
+
+<entry>
+<reasoning>
+• 55.12: अक्षद्यूते नलं जेता भवान्हि सहितो मया | निषधान्प्रतिपद्यस्व जित्वा राजन्नलं नृपम् ||५||
+• Kali (कलिः) challenged Nala to a game of dice. 
+• Other options (others' challenges) are not mentioned.
+</reasoning>
+<question>
+Who challenged Nala to a game of dice?
+A) Indra  
+B) Damaaynti  
+C) Kali  
+D) Surya
+</question>
+<answer>
+C) Kali
+</answer>
+</entry>

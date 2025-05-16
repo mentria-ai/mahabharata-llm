@@ -1,0 +1,89 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by carefully reading through the text to identify key elements like characters, events, and specific references.
+
+First, I notice that the text includes several parvas, like "Puthradarshanaparva" (36), "Karnajanmakathanam" (38), and "Duryodhanadarsanam" (40). Each of these sections has distinct content. For example, in the 36th parva, there's a dialogue between Gandhari and Kunti, discussing the sorrow of their sons. The 38th parva talks about Kunti's story, including her encounter with the sage Durvasa and the birth of Karna. The 40th parva mentions the arrival at the Ganges and the kings' journey.
+
+I need to ensure each question is specific, using the exact parva and possibly the adhyaya (chapter) numbers. Let me check the text again for specific details. For instance, in the 36th parva, Gandhari laments the deaths of her sons, and Kunti also expresses her grief. The 38th parva includes Kunti's story about Karna's birth and the curse from Durvasa. The 40th parva has the kings going to the Ganges.
+
+Now, I'll draft the first question about Gandhari's lamentation in the 36th parva. The question should ask who is lamenting the death of their sons. The options would include Gandhari, Kunti, Draupadi, and others. The answer is Gandhari.
+
+Next, in the 38th parva, Kunti recounts her story to Vyasa. The question could be about who she is speaking to. The answer is Vyasa. The other options might be other characters like Duryodhana or Bhishma.
+
+Another point is the curse from Durvasa. Kunti was cursed by the sage, leading to Karna's birth. So a question about the sage who cursed Kunti would have Durvasa as the answer. The options would include other sages like Vishwamitra or Narada.
+
+In the 40th parva, the kings go to the Ganges. The question could be about the destination of the kings. The answer is the Ganges. Other options might be the Yamuna or a different river.
+
+Lastly, the text mentions that the kings went to the Ganges to see the dead. So a question about the purpose of their journey would have the answer to see the dead. Other options could be to perform rituals or seek forgiveness.
+
+I need to make sure each question is unique, covers different parts of the text, and uses exact references. Also, check that the answers are directly supported by the text without adding external information. Let me verify each question against the text to ensure accuracy.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of key characters and their emotional states in the Mahabharata. Gandhari's lamentation over her sons' deaths is explicitly described in the text. Other options represent other grieving women but are not the focus of this specific passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Puthradarshanaparva (36), who laments the deaths of her sons and says "I have no joy in this world"?
+    A) Gandhari
+    B) Kunti
+    C) Draupadi
+    D) Satyavati
+  </question>
+  <answer>A) Gandhari</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses understanding of Kunti's narrative in the Mahabharata. The text explicitly states she spoke to Vyasa about her past. Other options represent other sages but are not the direct recipient of her confession.
+  </reasoning>
+  <question>
+    In Mahabharata's Karnajanmakathanam (38), to whom does Kunti confess about her past encounter with the sage and the birth of Karna?
+    A) Vyasa
+    B) Drona
+    C) Bhishma
+    D) Krishna
+  </question>
+  <answer>A) Vyasa</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of divine curses in the Mahabharata. The text explicitly names Durvasa as the sage who cursed Kunti. Other options represent other sages but are not associated with this specific curse.
+  </reasoning>
+  <question>
+    In Mahabharata's Karnajanmakathanam (38), which sage cursed Kunti for her arrogance, leading to her son Karna's birth?
+    A) Durvasa
+    B) Vishwamitra
+    C) Narada
+    D) Bhrigu
+  </question>
+  <answer>A) Durvasa</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines knowledge of the Mahabharata's geographical elements. The text explicitly states the kings traveled to the Ganges. Other options represent rivers but are not the destination described here.
+  </reasoning>
+  <question>
+    In Mahabharata's Duryodhanadarsanam (40), where do the kings go to witness the dead after the Kurukshetra war?
+    A) Ganges
+    B) Yamuna
+    C) Godavari
+    D) Saraswati
+  </question>
+  <answer>A) Ganges</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses understanding of the Mahabharata's narrative purpose. The text explicitly states the kings went to the Ganges to see the dead. Other options represent possible but incorrect motivations for their journey.
+  </reasoning>
+  <question>
+    In Mahabharata's Duryodhanadarsanam (40), what was the purpose of the kings' journey to the Ganges after the war?
+    A) To see the dead
+    B) To perform rituals
+    C) To seek forgiveness
+    D) To find Karna
+  </question>
+  <answer>A) To see the dead</answer>
+</entry>

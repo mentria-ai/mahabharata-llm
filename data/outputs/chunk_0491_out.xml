@@ -1,0 +1,91 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look through the verses to identify key elements. The text includes various sections like the Sabha Parva, where there's a dialogue between Yudhishthira and Draupadi. There's mention of kings, duties, and moral teachings. Also, there's a part about the importance of danda (king's authority) and the consequences of not following it. Another part talks about the consequences of not performing yajnas (sacrifices) and the role of kings in maintaining order.
+
+For the first question, I can focus on the part where Yudhishthira is addressing Draupadi. The verse mentions that if a king is not righteous, he's called Kali. So the question could be about who is called Kali. The options would include other kings or titles, but the correct answer is the one who is unrighteous.
+
+Next, looking at the danda (king's authority) verses. There's a verse that says "Danda is the protector of the people." So a question about the role of danda in the Mahabharata. The options would be different roles, but the correct answer is protection.
+
+Another part talks about the consequences of not performing yajnas. The verse says that if one doesn't perform yajnas, they become like a fish in a river. So the question could be about the metaphor used for those who don't perform yajnas. The answer would be the fish metaphor.
+
+Then, there's a part where it's stated that the king's danda is essential for maintaining order. The question could be about what happens if the king doesn't maintain danda. The answer would be chaos or loss of order.
+
+Lastly, there's a verse about the importance of dharma and the role of the king. The question could be about the primary duty of a king according to the text. The answer would be upholding dharma.
+
+I need to make sure each question has the specific reference, like the parva or adhyaya. For example, the first question is from the Sabha Parva, and the verse numbers are given. Each answer must be under 100 characters, and the options should be plausible but incorrect except for the correct one.
+
+I should check that all information is explicitly present in the text. For example, the term "Kali" is mentioned in the verse, so that's correct. The metaphor of the fish is there. The role of danda as protector is clear. The consequences of not upholding dharma are also mentioned.
+
+Now, structuring each entry with the required XML format, ensuring the reasoning explains why the answer is correct and why others are not. Making sure the questions are diverse, covering different parts of the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of moral accountability in the Mahabharata. The verse explicitly states that a king who fails in his duties is called Kali, a term associated with moral decay. Other options represent historical or mythological figures but are not directly linked to this specific definition.
+  </reasoning>
+  <question>
+    In Mahabharata's Sabha Parva (verse 27), who is described as "Kali" due to failing to protect his subjects?
+    A) Duryodhana
+    B) Yudhishthira
+    C) A king who neglects his duties
+    D) Karna
+  </question>
+  <answer>C) A king who neglects his duties</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the Mahabharata's emphasis on danda (royal authority) as a moral and social safeguard. The text explicitly states that danda protects people from chaos, making this the only correct answer. Other options reflect peripheral roles but not the central function described.
+  </reasoning>
+  <question>
+    In Mahabharata's Danda Parva (verse 2), what is identified as the "protector of the people" and "safeguard of dharma"?
+    A) Brahmins
+    B) Yajnas (sacrifices)
+    C) Danda (royal authority)
+    D) Kshatriyas
+  </question>
+  <answer>C) Danda (royal authority)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the Mahabharata's metaphor for those who neglect religious duties. The text uses the "fish in a river" analogy to describe individuals who fail to perform yajnas. Other options represent unrelated metaphors or concepts.
+  </reasoning>
+  <question>
+    In Mahabharata's Danda Parva (verse 14), what metaphor is used to describe those who neglect yajnas (sacrifices)?
+    A) A bird without wings
+    B) A fish in a river
+    C) A tree without roots
+    D) A river without water
+  </question>
+  <answer>B) A fish in a river</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests understanding of the Mahabharata's view on royal responsibility. The text explicitly states that a king's danda prevents chaos, making this the only valid answer. Other options represent secondary roles or unrelated concepts.
+  </reasoning>
+  <question>
+    In Mahabharata's Danda Parva (verse 30), what consequence is described if a king fails to maintain danda (authority)?
+    A) Loss of wealth
+    B) Chaos and moral decay
+    C) Military defeat
+    D) Divine punishment
+  </question>
+  <answer>B) Chaos and moral decay</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses knowledge of the Mahabharata's core duty for rulers. The text explicitly states that upholding dharma is the king's primary responsibility. Other options reflect peripheral duties but not the central teaching.
+  </reasoning>
+  <question>
+    In Mahabharata's Danda Parva (verse 16), what is identified as the "highest duty of a king"?
+    A) Expanding territory
+    B) Accumulating wealth
+    C) Upholding dharma
+    D) Waging war
+  </question>
+  <answer>C) Upholding dharma</answer>
+</entry>

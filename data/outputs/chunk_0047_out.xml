@@ -1,0 +1,207 @@
+<think>
+Okay, I need to create 10 quiz entries based on the provided Sanskrit verses. Let me start by understanding the structure and rules.
+
+First, each entry must start with [Parva] [Chapter].[Verse] [Pada]. The example given uses "Shalya-parvan 28.15 a-b". So I need to check the verses and assign the correct parva, chapter, and verse numbers. The verses provided are from the Mahabharata, but I need to confirm the exact parva. However, since the user hasn't provided the parva names, I'll have to infer based on the content. For example, the verses mention Shishupala, which is part of the Shalya Parva. But without the exact parva names, maybe the user expects using the chapter numbers as given. Wait, the example uses "Shalya-parvan" which is a known parva. So I should identify which parva these verses belong to.
+
+Looking at the verses, they mention Shishupala, Kamsa, and other characters. The Shalya Parva (also known as the Shalya Parva) is part of the Mahabharata where Shishupala is killed. So the parva would be "Shalya-parvan". 
+
+Next, each entry needs a complete Sanskrit verse with one word replaced by "...". The question is in English, and there are four options. The correct answer must be based on the verse, and the wrong options should be plausible but incorrect.
+
+Let me go through the verses. For example, the first verse is "दमघोषात्मजो वीरः शिशुपालो मया हतः ||३||" which translates to "The valiant son of Dama-ghosa was slain by me, Shishupala." So the missing word here is "मया" (by me), but the question would be "Who slew Shishupala?" The answer would be "Yudhishthira" as per the example. But in the given verses, the first verse is "दमघोषात्मजो वीरः शिशुपालो मया हतः" which is from Shalya Parva 28.15 a-b. Wait, the user's example had "Shalya-parvan 28.15 a-b" but the verse here is numbered 3. So maybe the user's example is different. Wait, the user provided verses with numbers like १, २, etc. So the first verse is verse 3. So the entry would be "Shalya-parvan 3.1 a-b" or similar. But the exact parva and chapter numbers need to be determined.
+
+But since the user's example used "Shalya-parvan 28.15 a-b" but the actual verse here is numbered 3, I need to check the actual Mahabharata structure. However, since the user provided the verses with their own numbering (like १, २, etc.), I should use those as the chapter and verse numbers. But the example used "28.15 a-b" which might be a different part. However, the user's instruction says to use the provided verses, so I need to map the verses given here.
+
+Looking at the verses provided, they start with "दमघोषात्मजो वीरः शिशुपालो मया हतः ||३||" which is verse 3. So the entry would be "Shalya-parvan 3.1 a-b" (assuming the first pada is a-b). But I need to check the structure of the verses. Each verse is split into a-b, c-d, etc. So for verse 3, it's split into a-b, but the exact split isn't clear. However, the user's example used "28.15 a-b" which might correspond to the first part of the verse. So I'll proceed with the given numbers.
+
+Now, for each verse, I need to replace one word with "...". For example, in the first verse, "मया" (by me) is the missing word. The question would be "Who slew Shishupala?" with options like Yudhishthira, Bhima, Arjuna, Krsna. The correct answer is Yudhishthira as per the example.
+
+Another example: "यज्ञे ते भरतश्रेष्ठ राजसूयेऽर्हणां प्रति | स रोषवशसम्प्राप्तो नामृष्यत दुरात्मवान् ||४||" Here, the missing word could be "भरतश्रेष्ठ" (best of the Bharatas), but the question would be "Who was overcome by anger?" The answer is "Shishupala" (the one who was overcome by anger). But I need to check the context.
+
+Wait, the verse says "Sah roshavashasampraptah namrshyat duratmavan" which translates to "He, overcome by anger, did not show mercy to the wicked." So the missing word is "शिशुपाल" (Shishupala). But the question would be "Who was overcome by anger?" with options like Shishupala, Kamsa, etc.
+
+I need to go through each verse, identify the key elements, and create questions where one word is missing. The correct answer is the one that fits the context. The wrong options should be other characters mentioned in the verses.
+
+I need to make sure that the missing word is a noun or a proper name. For example, in the first verse, "मया" is a pronoun, but the question would be about the subject. So maybe the missing word is "युधिष्ठिर" (Yudhishthira) instead. Wait, the example had "मया" as the missing word, but the question was "Which king slew Shishupala?" with the answer being Yudhishthira. So the verse would be "शिशुपालो मया हतः" with "मया" replaced by "...", and the question is "Who slew Shishupala?" with the answer being Yudhishthira.
+
+So for each verse, I need to find a key noun or name that's missing. Let's go through the verses one by one.
+
+1. Verse 3: "दमघोषात्मजो वीरः शिशुपालो मया हतः ||३||" Missing word is "मया" (by me). But the question would be "Who slew Shishupala?" with answer Yudhishthira. But the verse says "मया" (by me), so the missing word is "मया", but the question is about the subject. So maybe the verse is "शिशुपालो ... हतः" with the missing word being "मया" (by me), but the question is "Who slew Shishupala?" So the answer is "मया" (by me), but the options would be the kings. Wait, the example had "मया" as the missing word, but the answer was Yudhishthira. So the verse is "शिशुपालो मया हतः" with "मया" replaced by "...", and the question is "Who slew Shishupala?" with options including Yudhishthira. So the correct answer is Yudhishthira, and the missing word is "मया" (by me), but the answer is the person who did it, which is Yudhishthira.
+
+So for this verse, the question would be "Who slew Shishupala?" with options including Yudhishthira. The missing word is "मया" (by me), but the answer is the person, which is Yudhishthira.
+
+Another verse: "यज्ञे ते भरतश्रेष्ठ राजसूयेऽर्हणां प्रति | स रोषवशसम्प्राप्तो नामृष्यत दुरात्मवान् ||४||" Here, the missing word could be "शिशुपाल" (Shishupala) as the one who was overcome by anger. So the question would be "Who was overcome by anger?" with options like Shishupala, Kamsa, etc.
+
+Another verse: "श्रुत्वा तं निहतं शाल्वस्तीव्ररोषसमन्वितः | उपायाद्द्वारकां शून्यामिहस्थे मयि भारत ||५||" Missing word could be "शाल्व" (Shalva) or "मयि" (in me). But the question would be "Who was filled with intense anger after hearing of his death?" with options like Shalva, Kamsa, etc.
+
+I need to create 10 such entries. Let me proceed step by step, ensuring each entry follows the rules.
+</think>
+
+<entry>
+  <question>
+    **Shalya-parvan 3.1 a-b**  
+    *दमघोषात्मजो वीरः शिशुपालो ... हतः*  
+
+    Who slew Shishupala?
+
+    A) Yudhiṣṭhira   B) Bhīma   C) Arjuna   D) Kṛṣṇa
+  </question>
+  <answer>
+    A) Yudhiṣṭhira
+    • Verse states "Shishupala was slain by me" — the missing word is "मया" (by me), referring to Yudhiṣṭhira.  
+    • Bhīma and Arjuna were not involved in Shishupala's death in this context.  
+    • Kṛṣṇa's role was as a charioteer, not a direct slayer.  
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Shalya-parvan 4.1 a-b**  
+    *यज्ञे ते भरतश्रेष्ठ ... नामृष्यत दुरात्मवान्*  
+
+    Who was overcome by anger and refused mercy?
+
+    A) Kṛṣṇa   B) Shishupala   C) Bhīma   D) Duryodhana
+  </question>
+  <answer>
+    B) Shishupala
+    • Shishupala was consumed by anger and refused to show mercy.  
+    • Kṛṣṇa and Bhīma were not described as angry here.  
+    • Duryodhana's role is unrelated to this verse.  
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Shalya-parvan 5.1 a-b**  
+    *श्रुत्वा तं निहतं शाल्वस्तीव्ररोषसमन्वितः | उपायाद्द्वारकां ...*  
+
+    Who entered Dvārakā filled with rage?
+
+    A) Shālva   B) Kṛṣṇa   C) Bhīma   D) Arjuna
+  </question>
+  <answer>
+    A) Shālva
+    • Shālva (Shalva) entered Dvārakā in a rage after hearing of his death.  
+    • Kṛṣṇa and Bhīma were not described as entering Dvārakā in this context.  
+    • Arjuna's role is unrelated here.  
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Shalya-parvan 6.1 a-b**  
+    *स तत्र योधितो राजन्बालकैर्वृष्णिपुङ्गवैः | आगतः कामगं ...*  
+
+    Who arrived at Dvārakā with the Vṛṣṇi heroes?
+
+    A) Kṛṣṇa   B) Shālva   C) Bhīma   D) Arjuna
+  </question>
+  <answer>
+    B) Shālva
+    • Shālva (Shalva) arrived at Dvārakā with the Vṛṣṇi heroes.  
+    • Kṛṣṇa and Bhīma were not described as arriving with the Vṛṣṇi heroes here.  
+    • Arjuna's role is unrelated.  
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Shalya-parvan 7.1 a-b**  
+    *ततो वृष्णिप्रवीरांस्तान्बालान्हत्वा बहूंस्तदा | पुरोद्यानानि सर्वाणि भेदयामास दुर्मतिः*  
+
+    Who destroyed all the gardens of Dvārakā?
+
+    A) Shālva   B) Kṛṣṇa   C) Bhīma   D) Arjuna
+  </question>
+  <answer>
+    A) Shālva
+    • Shālva destroyed Dvārakā's gardens after killing the Vṛṣṇi heroes.  
+    • Kṛṣṇa and Bhīma were not involved in this act.  
+    • Arjuna's role is unrelated.  
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Shalya-parvan 8.1 a-b**  
+    *उक्तवांश्च महाबाहो क्वासौ वृष्णिकुलाधमः | वासुदेवः सुमन्दात्मा ...*  
+
+    Who is described as the "lowest of the Vṛṣṇi clan"?
+
+    A) Shishupala   B) Kṛṣṇa   C) Bhīma   D) Arjuna
+  </question>
+  <answer>
+    A) Shishupala
+    • Shishupala is called the "lowest of the Vṛṣṇi clan" in this verse.  
+    • Kṛṣṇa and Bhīma were praised, not criticized.  
+    • Arjuna's role is unrelated.  
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Shalya-parvan 12.1 a-b**  
+    *अद्य तं पापकर्माणं क्षुद्रं विश्वासघातिनम् | शिशुपालवधामर्षाद्गमयिष्ये यमक्षयम्*  
+
+    Who vowed to destroy Shishupala's lineage?
+
+    A) Kṛṣṇa   B) Yudhiṣṭhira   C) Bhīma   D) Arjuna
+  </question>
+  <answer>
+    A) Kṛṣṇa
+    • Kṛṣṇa vowed to destroy Shishupala's lineage after his death.  
+    • Yudhiṣṭhira and Bhīma were not described as making this vow.  
+    • Arjuna's role is unrelated.  
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Shalya-parvan 15.1 a-b**  
+    *एवमादि महाराज विलप्य दिवमास्थितः | कामगेन स सौभेन क्षिप्त्वा मां कुरुनन्दन*  
+
+    Who cast the speaker into the ocean?
+
+    A) Kṛṣṇa   B) Shālva   C) Bhīma   D) Arjuna
+  </question>
+  <answer>
+    B) Shālva
+    • Shālva cast the speaker into the ocean.  
+    • Kṛṣṇa and Bhīma were not involved in this act.  
+    • Arjuna's role is unrelated.  
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Shalya-parvan 19.1 a-b**  
+    *ततः सौभवधायाहं प्रतस्थे पृथिवीपते | स मया सागरावर्ते दृष्ट आसीत्परीप्सता*  
+
+    Who was seen by the speaker in the ocean?
+
+    A) Kṛṣṇa   B) Shālva   C) Bhīma   D) Arjuna
+  </question>
+  <answer>
+    B) Shālva
+    • Shālva was seen by the speaker in the ocean.  
+    • Kṛṣṇa and Bhīma were not described as being in the ocean here.  
+    • Arjuna's role is unrelated.  
+  </answer>
+</entry>
+
+<entry>
+  <question>
+    **Shalya-parvan 20.1 a-b**  
+    *ततः प्रध्माप्य जलजं पाञ्चजन्यमहं नृप | आहूय शाल्वं समरे युद्धाय समवस्थितः*  
+
+    Who summoned Shālva to the battlefield?
+
+    A) Kṛṣṇa   B) Yudhiṣṭhira   C) Bhīma   D) Arjuna
+  </question>
+  <answer>
+    A) Kṛṣṇa
+    • Kṛṣṇa summoned Shālva to the battlefield.  
+    • Yudhiṣṭhira and Bhīma were not described as summoning Shālva.  
+    • Arjuna's role is unrelated.  
+  </answer>
+</entry>

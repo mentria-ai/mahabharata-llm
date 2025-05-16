@@ -1,0 +1,95 @@
+<think>
+Okay, I need to create 5 multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look through the verses to identify key elements. The text seems to be a dialogue between Markandeya and Yudhishthira, discussing the end of the Kali Yuga. There are references to different yugas (Krita, Treta, Dwapara, Kali), the decline of dharma, and the characteristics of people in the Kali Yuga. Also, there's mention of the four varnas (Brahmins, Kshatriyas, Vaishyas, Shudras) and their roles, as well as the consequences of actions and the importance of dharma.
+
+Now, I need to make sure each question is based on explicit information from the text. Let's break it down.
+
+Question 1: The text mentions the four yugas and their characteristics. For example, "श्वेतः कृतयुगे वर्णः पीतस्त्रेतायुगे मम" (Verse 31) talks about the colors of the yugas. So a question about the color of the Krita Yuga could be formed.
+
+Question 2: The decline of dharma in the Kali Yuga. The text says "त्रैलोक्यं नाशयाम्येकः कृत्स्नं स्थावरजङ्गमम्" (Verse 32) which refers to the destruction of the three worlds. But maybe a better fit is the description of the Kali Yuga's characteristics, like the loss of dharma and the rise of negative traits.
+
+Question 3: The four varnas and their roles. The text mentions "ब्राह्मणाः क्षत्रिया वैश्याः सङ्कीर्यन्तः परस्परम्" (Verse 18) about the mixing of varnas. So a question about the mixing of varnas in the Kali Yuga.
+
+Question 4: The role of the Supreme Being (Vishnu) in the text. The text has verses like "अहं विष्णुरहं ब्रह्मा" (Verse 1) where the speaker claims to be Vishnu, Brahma, etc. So a question about the speaker's identity.
+
+Question 5: The consequences of actions and the importance of dharma. The text mentions "मद्विधानेन विहिता मम देहविहारिणः" (Verse 22) about actions done according to His will. But maybe a better question is about the result of good deeds, like "सत्यं दानं तपश्चोग्रमहिंसा चैव जन्तुषु" (Verse 21) leading to certain outcomes.
+
+Now, I need to structure each question with the trigger phrase, specific references, and four options. Ensure that the answers are under 100 characters and that the reasoning explains why the correct answer is right and why others are incorrect.
+
+Let me check each verse again to confirm the details. For example, in verse 31, the colors of the yugas are mentioned. Verse 18 talks about the mixing of varnas. Verse 32 mentions the destruction of the three worlds. Verse 1 mentions the speaker being Vishnu, Brahma, etc. Verse 21 talks about the results of good deeds.
+
+I need to make sure that each question is unique and covers different parts of the text. Also, avoid any external knowledge, only what's in the text. For example, the Kali Yuga's characteristics are described in verses 10-56, so the questions should reference those.
+
+Now, drafting the entries with XML format, ensuring correct structure and content.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the four yugas' symbolic colors, a key concept in Hindu cosmology. The text explicitly states "श्वेतः कृतयुगे वर्णः" (white for Krita), making "White" the correct answer. Other options reflect colors of later yugas but misattribute them to Krita.
+  </reasoning>
+  <question>
+    In Mahabharata's Markandeya Parva (verse 31), what color symbolizes the Krita Yuga according to the text?
+    A) Red
+    B) White
+    C) Black
+    D) Yellow
+  </question>
+  <answer>B) White</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the text's warning about varna system collapse. Verse 18 states "ब्राह्मणाः क्षत्रिया वैश्याः सङ्कीर्यन्तः परस्परम्" (Brahmins, Kshatriyas, and Vaishyas mix), making "Mixing of varnas" correct. Other options reflect consequences but not the direct cause.
+  </reasoning>
+  <question>
+    In Mahabharata's Markandeya Parva (verse 18), what phenomenon is described as the root cause of societal decay in the Kali Yuga?
+    A) Loss of dharma
+    B) Mixing of varnas
+    C) Decline of knowledge
+    D) Rise of greed
+  </question>
+  <answer>B) Mixing of varnas</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the text's apocalyptic vision. Verse 32 states "त्रैलोक्यं नाशयाम्येकः" (I destroy all three worlds), making "Destruction of all three worlds" correct. Other options describe symptoms, not the ultimate fate.
+  </reasoning>
+  <question>
+    In Mahabharata's Markandeya Parva (verse 32), what cosmic event is described as the final outcome of Kali Yuga's moral decay?
+    A) Rebirth of gods
+    B) Destruction of all three worlds
+    C) Eternal peace
+    D) Universal enlightenment
+  </question>
+  <answer>B) Destruction of all three worlds</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests recognition of the text's divine self-identification. Verse 1 states "अहं विष्णुरहं ब्रह्मा" (I am Vishnu, I am Brahma), making "Vishnu" the correct answer. Other options are also mentioned but not as the primary self-identification.
+  </reasoning>
+  <question>
+    In Mahabharata's Markandeya Parva (verse 1), who does the speaker claim to be among these deities?
+    A) Brahma
+    B) Vishnu
+    C) Shiva
+    D) Indra
+  </question>
+  <answer>B) Vishnu</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses understanding of the text's moral framework. Verse 21 states "सत्यं दानं तपश्चोग्रमहिंसा चैव जन्तुषु" (Truth, charity, austerity, and non-violence), making "Non-violence" the correct answer. Other options are virtues but not the specific focus here.
+  </reasoning>
+  <question>
+    In Mahabharata's Markandeya Parva (verse 21), which ethical principle is explicitly listed as essential for spiritual progress?
+    A) Truth
+    B) Charity
+    C) Non-violence
+    D) Austerity
+  </question>
+  <answer>C) Non-violence</answer>
+</entry>

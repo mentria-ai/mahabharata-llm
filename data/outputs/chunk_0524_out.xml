@@ -1,0 +1,89 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look through the verses to identify key themes, characters, and teachings. The text seems to discuss duties towards parents, the importance of teachers, and moral dilemmas. There's a part about the story of the lion and the goat, which might be a parable. Also, there are references to different parvas like Bhishma Parva and others.
+
+For each question, I need to make sure it's specific, includes the exact reference, and the answer is directly from the text. Let me check each verse.
+
+The first part talks about the importance of parents and teachers. Verse 16 mentions that there's no teacher greater than the mother. So a question about who is considered the greatest teacher. The options would include mother, father, guru, and maybe another. The answer is mother.
+
+Next, there's a part about the story of the lion and the goat (vyaghra-gomayu samvada). The lion (vyaghra) and the goat (gomaya) have a dialogue. So a question about the names of the characters in this story. The answer would be the lion and the goat.
+
+Another part discusses the duties of a king. Verse 1 mentions that a king should protect his subjects. So a question about the king's duty. The answer is to protect the people.
+
+Then, there's a verse about the importance of truth. Verse 5 says that sometimes one must speak falsehood to avoid harm. So a question about when falsehood is acceptable. The answer would be to prevent harm.
+
+Lastly, there's a part about the consequences of not respecting teachers. Verse 20 mentions that those who disrespect their teachers are considered guilty. So a question about the consequence of disrespecting a teacher. The answer is being considered guilty.
+
+I need to make sure each question has the correct reference, like the specific adhyaya or parva. Also, check that the options are plausible but only one is correct. Avoid adding any external info. Let me structure each entry with the required XML format.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests the recognition of parental roles in Mahabharata's ethical teachings. The text explicitly states that no teacher is greater than the mother, emphasizing maternal authority. Other options (father, guru, none) are plausible but incorrect as the verse directly prioritizes mother.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (16.16), which figure is described as "the greatest teacher" (गुरुर्गरीयान्पितृतो मातृतश्चेति मे मतिः)?
+    A) Father
+    B) Mother
+    C) Guru
+    D) None
+  </question>
+  <answer>B) Mother</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights a key parable in Mahabharata's Vyaghra-Gomaya Samvada. The story features a lion (vyaghra) and a goat (gomaya) discussing dharma. The other options represent unrelated characters from different sections of the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Vyaghra-Gomaya Samvada (112.2-29), which two animals engage in a dialogue about dharma and kingship?
+    A) Elephant and deer
+    B) Lion and goat
+    C) Tiger and cow
+    D) Wolf and sheep
+  </question>
+  <answer>B) Lion and goat</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses the king's duty as outlined in the text. The verse explicitly states that a king must protect his subjects. Other options (tax collection, military expansion, religious conversion) are common misconceptions about royal duties.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (16.1), what is the primary duty of a king (नृप) according to the text?
+    A) Collect taxes
+    B) Protect subjects
+    C) Expand territory
+    D) Promote religion
+  </question>
+  <answer>B) Protect subjects</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of when falsehood is justified. The text explicitly states that falsehood is acceptable to prevent harm. Other options (to gain wealth, for personal comfort, to avoid punishment) are common but incorrect interpretations.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (16.18), under what circumstance is falsehood (अनृतं) considered acceptable?
+    A) To gain wealth
+    B) To prevent harm
+    C) For personal comfort
+    D) To avoid punishment
+  </question>
+  <answer>B) To prevent harm</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses the consequences of disrespecting teachers. The text explicitly states that such individuals are considered guilty. Other options (receiving divine punishment, becoming a king, losing wealth) are not mentioned in the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (16.20), what fate awaits those who disrespect their teachers (गुरु)?
+    A) Divine punishment
+    B) Becoming a king
+    C) Losing wealth
+    D) Being considered guilty
+  </question>
+  <answer>D) Being considered guilty</answer>
+</entry>

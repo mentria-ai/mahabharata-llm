@@ -1,0 +1,91 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll read through the Sanskrit passage to identify key elements. The text seems to be part of the story of Savya (Savitri) and Satyavan. There's a dialogue between King Asvapati, his daughter Savitri, and the sage Narada. The main plot revolves around Savitri's marriage to Satyavan, who is destined to die within a year. The text includes their interactions, the king's decision to let her choose a husband, and the prophecy about Satyavan's death.
+
+Now, I need to form questions based on explicit information. Let's break it down.
+
+1. **First Question**: The king (Asvapati) gives his daughter Savitri to Satyavan. The text mentions that the king's daughter is named Savitri. So, a question about who the king's daughter is. The options would include Savitri, and others like Surya, but the text clearly states Savitri.
+
+2. **Second Question**: The sage Narada's role. He is present in the story, and there's a dialogue where he questions the king. The question could be about Narada's role, with options like advisor, king, etc. The text says he's a sage, so the answer is sage.
+
+3. **Third Question**: The prophecy about Satyavan's death. The text mentions that Narada tells the king that Satyavan will die in a year. So, a question about the prophecy's content.
+
+4. **Fourth Question**: The reason Savitri chooses Satyavan. The text says she chooses him because of his virtues, and the king allows it. The options could be about her reasons, like his virtues or wealth.
+
+5. **Fifth Question**: The outcome of the prophecy. The text states that Satyavan dies, and Savitri's actions. The question could be about what happens to Satyavan, with the answer being his death.
+
+I need to ensure each question has the trigger phrase, specific references, and that the answers are directly from the text. Also, check that the options are plausible but incorrect. For example, in the first question, options might include other names, but the correct answer is Savitri.
+
+Now, I'll structure each entry with the required XML format, making sure the reasoning explains why the answer is correct and why others are wrong. Also, verify that each question is unique and covers different parts of the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of key characters in the Savitri-Satyavan story. The text explicitly names Savitri as the king's daughter. Other options like "Surya" (a solar deity) or "Kali" (a goddess) are unrelated to this passage. "Savitri" is directly mentioned as the king's daughter.
+  </reasoning>
+  <question>
+    In Mahabharata's Savitri Parva (1.14-26), who is the daughter of King Asvapati that chooses Satyavan as her husband?
+    A) Surya
+    B) Kali
+    C) Savitri
+    D) Ganga
+  </question>
+  <answer>C) Savitri</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Narada's role as a sage and advisor. The text shows Narada questioning King Asvapati about Savitri's marriage. Other options like "king" or "warrior" misrepresent his role. The text explicitly calls him a "deva" (sage).
+  </reasoning>
+  <question>
+    In Mahabharata's Savitri Parva (1.1-13), what is the role of Narada in the dialogue with King Asvapati about Savitri's marriage?
+    A) King
+    B) Warrior
+    C) Sage
+    D) Merchant
+  </question>
+  <answer>C) Sage</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the prophecy about Satyavan's fate. The text states Narada warns the king that Satyavan will die within a year. Other options like "reign" or "marriage" are unrelated to the specific prophecy mentioned.
+  </reasoning>
+  <question>
+    In Mahabharata's Savitri Parva (1.22-24), what does Narada prophesy about Satyavan's fate after his marriage to Savitri?
+    A) He will rule a kingdom
+    B) He will die within a year
+    C) He will become a warrior
+    D) He will marry another
+  </question>
+  <answer>B) He will die within a year</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests understanding of Savitri's choice. The text states she selects Satyavan for his virtues, not wealth or status. Options like "wealth" or "status" are plausible but incorrect as the text emphasizes his moral character.
+  </reasoning>
+  <question>
+    In Mahabharata's Savitri Parva (1.14-26), what quality does Savitri value most in choosing Satyavan as her husband?
+    A) Wealth
+    B) Status
+    C) Virtues
+    D) Beauty
+  </question>
+  <answer>C) Virtues</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses the outcome of the prophecy. The text explicitly states Satyavan dies, and Savitri's subsequent actions. Other options like "rebirth" or "eternal life" are not supported by the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Savitri Parva (1.22-26), what happens to Satyavan after his marriage to Savitri?
+    A) He becomes a king
+    B) He is reborn
+    C) He dies within a year
+    D) He lives eternally
+  </question>
+  <answer>C) He dies within a year</answer>
+</entry>

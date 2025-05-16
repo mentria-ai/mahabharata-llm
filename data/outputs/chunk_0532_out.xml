@@ -1,0 +1,88 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, the text includes several sections like "भीष्म उवाच" (Bhishma speaks) and "मार्जारमूषकसंवादः" (The Dialogue of the Cat and the Mouse). There are references to specific verses (like १३४, १३५, १३६) and topics such as dharma, kingship, and the story of the cat and mouse. 
+
+I need to ensure each question is based on explicit information from the text. Let me go through each part.
+
+1. The first part (134) talks about Bhishma's discourse on dharma, kingship, and the role of wealth. There's mention of "धर्मो विधीयते" (dharma is established) and "यथैव दंशमशकं" (as a snake's bite). So a question about the metaphor of dharma being established like a snake's bite could work.
+
+2. The story of the cat and mouse (135-136) involves characters like Pali (the mouse) and Marjara (the cat). The dialogue discusses strategies for survival, like forming an alliance. The mouse seeks help from the cat, and there's a discussion about alliances and survival. So a question about the mouse's strategy could be good.
+
+3. There's a mention of "दीर्घसूत्रः" (long thread) and "दीर्घदर्शी" (long-sighted). The story of the fish (दीर्घसूत्रः) that delays action and gets caught could be a question about the moral of the story.
+
+4. The text includes references to "कालः" (time) and "कालातीतम" (transcending time). A question about the concept of time in the Mahabharata's teachings.
+
+5. The dialogue between the mouse and the cat discusses the importance of alliances and strategies. A question about the mouse's request for help from the cat.
+
+Now, I need to structure each question with the trigger phrase, specific references, and four options. Ensure answers are under 100 characters. Also, check that all info is from the text.
+
+For example, the first question could be about the metaphor of dharma being established like a snake's bite. The correct answer is "यथैव दंशमशकं" (as a snake's bite). The other options could be other metaphors from the text.
+
+Another question about the mouse's strategy, where he asks the cat for help. The answer would be "सङ्गत्या पण्डितो भवेत्" (by alliance, one becomes wise).
+
+Check for each part to ensure they are distinct and cover different sections. Avoid repetition. Make sure the reasoning explains why the answer is correct and why others are not.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests understanding of dharma's establishment as per Bhishma's teachings. The metaphor of a snake's bite (दंशमशकं) illustrates dharma's inevitability and severity. Other options represent unrelated metaphors from the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 9), how is dharma described as being established?
+    A) Like a river's flow
+    B) Like a snake's bite
+    C) Like a king's decree
+    D) Like a warrior's sword
+  </question>
+  <answer>B) यथैव दंशमशकं</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the mouse's survival strategy from the "Marjara-Mushaka Samvada." The mouse seeks alliance with the cat, reflecting the text's emphasis on strategic partnerships. Other options represent unrelated survival methods.
+  </reasoning>
+  <question>
+    In Mahabharata's "Marjara-Mushaka Samvada" (verses 41-42), what strategy does the mouse use to survive?
+    A) Fleeing to the forest
+    B) Seeking alliance with the cat
+    C) Hiding in a hole
+    D) Begging for mercy
+  </question>
+  <answer>B) सङ्गत्या पण्डितो भवेत्</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the moral of the "Dīrghasūtra" (long thread) fish story. The fish's delay in action leads to its downfall, illustrating the text's warning against procrastination. Other options represent unrelated lessons.
+  </reasoning>
+  <question>
+    In Mahabharata's "Dīrghasūtra" story (verse 16), what is the key lesson about the fish's fate?
+    A) Patience rewards
+    B) Procrastination leads to downfall
+    C) Strength overcomes weakness
+    D) Wealth ensures safety
+  </question>
+  <answer>B) दीर्घसूत्रः स मूढो मरणं प्राप्तवान्</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of time's role in dharma. The text explicitly states "कालातीतम" (transcending time) as essential for righteous action. Other options represent unrelated temporal concepts.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 21), what quality is emphasized for righteous action beyond time?
+    A) Wealth
+    B) Procrastination
+    C) Transcending time
+    D) Material success
+  </question>
+  <answer>C) कालातीतम</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the mouse's plea for help from the cat. The text explicitly states "अहं त्वां तारयिष्यामि" (I will save you). Other options represent unrelated requests.
+  </question>
+  <answer>A) अहं त्वां तारयिष्यामि</answer>
+</entry>

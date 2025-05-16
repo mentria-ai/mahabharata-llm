@@ -1,0 +1,91 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, places, and specific references. The text seems to be from the "Parikshith Sanjivanam" section, which is part of the Mahabharata. There are mentions of Yudhishthira, Kunti, Draupadi, Krishna, and others. The text includes dialogues and actions related to rituals, offerings, and emotional scenes.
+
+For each question, I need to ensure that the answer is explicitly stated in the text. Let's go through the text step by step.
+
+1. The first part mentions Yudhishthira performing rituals for Trishanku. The text says "क्रियतामुपहारोऽद्य त्र्यम्बकस्य महात्मनः" which translates to "Let an offering be made today to the great soul Trishanku." So, the first question could be about who received an offering. The options would include Trishanku, other deities, etc.
+
+2. Another part talks about Yudhishthira offering various items: "आज्येन तर्पयित्वाग्निं विधिवत्संस्कृतेन ह" (He worshipped the fire with ghee, properly). So, a question about what he offered to the fire. The answer would be ghee (ajya).
+
+3. There's a mention of Kunti addressing Krishna, asking him to revive her son. The text includes her dialogue: "अभिमन्युं च मां चैव हतौ तुल्यं जनार्दन" (Abhimanyu and me are both killed, O Janardana). So, a question about who Kunti addressed and what she asked. The answer would be Krishna, asking to revive Abhimanyu.
+
+4. The text also mentions the number of horses and chariots: "षष्टिरुष्ट्रसहस्राणि शतानि द्विगुणा हयाः" (Sixty thousand horses, twice as many chariots). So, a question about the number of chariots compared to horses. The answer would be twice as many.
+
+5. Another part is about the offerings made by Yudhishthira: "सर्वं स्विष्टकृतं कृत्वा विधिवद्वेदपारगः" (He performed all the offerings properly). So, a question about the type of offerings. The answer would be "swishtakrit" (proper offerings).
+
+Now, I need to make sure each question has the correct context, references, and that the answers are directly from the text. Also, check that the options are plausible but incorrect. For example, in the first question, other options could be other deities or figures mentioned, but the correct answer is Trishanku.
+
+I need to format each entry with the reasoning, question, and answer. Let me structure each one carefully, ensuring they are distinct and cover different parts of the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of ritual offerings in the Mahabharata. The text explicitly states Yudhishthira offered gifts to Trishanku, a revered sage. Other options represent deities or figures but lack direct textual support for this specific act.
+  </reasoning>
+  <question>
+    In Mahabharata's Parikshith Sanjivanam (adhyaya 64), who received an offering of food and wealth from Yudhishthira?
+    A) Trishanku
+    B) Drona
+    C) Karna
+    D) Bhishma
+  </question>
+  <answer>A) Trishanku</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses understanding of ritual practices. The text specifies Yudhishthira used ghee (ajya) to purify the fire, a key Vedic ritual. Other options represent symbolic items but lack direct textual reference for this specific act.
+  </reasoning>
+  <question>
+    In Mahabharata's Parikshith Sanjivanam (adhyaya 64), what did Yudhishthira use to purify the fire during rituals?
+    A) Ghee (ajya)
+    B) Milk
+    C) Honey
+    D) Water
+  </question>
+  <answer>A) Ghee (ajya)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines emotional appeals in the Mahabharata. Kunti directly addresses Krishna, pleading for Abhimanyu's revival. Other options represent plausible relationships but lack textual evidence for this specific request.
+  </reasoning>
+  <question>
+    In Mahabharata's Parikshith Sanjivanam (adhyaya 65), who did Kunti address to beg for her son's revival?
+    A) Krishna
+    B) Arjuna
+    C) Bhima
+    D) Dhrishtadyumna
+  </question>
+  <answer>A) Krishna</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests numerical details from the text. The passage explicitly states chariots were twice the number of horses. Other options represent plausible but incorrect quantities based on the text's exact figures.
+  </reasoning>
+  <question>
+    In Mahabharata's Parikshith Sanjivanam (adhyaya 64), how many chariots did Yudhishthira possess compared to horses?
+    A) Twice as many
+    B) Half as many
+    C) Equal numbers
+    D) Three times as many
+  </question>
+  <answer>A) Twice as many</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question evaluates knowledge of ritual terminology. The text explicitly states Yudhishthira performed "swishtakrit" (proper offerings). Other options represent symbolic items but lack direct textual reference for this specific term.
+  </reasoning>
+  <question>
+    In Mahabharata's Parikshith Sanjivanam (adhyaya 64), what term describes Yudhishthira's ritual offerings?
+    A) Swishtakrit
+    B) Yajna
+    C) Homa
+    D) Puja
+  </question>
+  <answer>A) Swishtakrit</answer>
+</entry>

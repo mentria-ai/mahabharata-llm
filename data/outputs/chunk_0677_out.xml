@@ -1,0 +1,89 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, and specific references. The text seems to be from the Ashvamedhika Parva, which is part of the Mahabharata. There are references to Yudhishthira, Bhima, Krishna, and other characters. The verses mention events like the death of Bhishma, the role of Drona, and some rituals. 
+
+For the first question, I notice that the text includes a dialogue where Krishna comforts Yudhishthira after the death of Bhishma. The specific reference is "Yudhishthira's consolation" in the Ashvamedhika Parva. The question could be about who consoled Yudhishthira. The answer is Krishna, and the options would include other characters like Bhima, Drona, and Duryodhana.
+
+Next, looking for another event. There's a mention of the Ashvamedha yajna (horse sacrifice) in the text. The question could be about who performed it. The answer is Yudhishthira, and the options would include other kings or figures.
+
+Another part talks about the death of Bhishma. The text says that Bhishma was killed by Shikhandin. So a question about who killed Bhishma would have Shikhandin as the answer. The options would include other warriors like Arjuna, Karna, and Drona.
+
+There's a reference to the river Ganges and a ritual where the river is honored. The question could be about the river associated with a ritual, and the answer is Ganga. Options would include other rivers like Yamuna or Godavari.
+
+Lastly, the text mentions the role of Vyasa (Vaisampayana) in narrating the story. A question about the narrator of the Ashvamedhika Parva would have Vyasa as the answer. Options could include other narrators like Narada or Krishna.
+
+I need to ensure each question is specific, includes the correct references, and the answers are directly from the text. Also, check that the options are plausible but incorrect. For example, in the first question, Drona isn't the one who consoled Yudhishthira, but he was a commander. Similarly, for the Ashvamedha yajna, other kings might be considered but the answer is Yudhishthira.
+
+I should verify each answer against the text to make sure they are accurate. Also, format each entry correctly with XML tags and the required reasoning, question, and answer sections.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of key consolatory figures in the Mahabharata. Krishna is explicitly mentioned as the one who consoled Yudhishthira after Bhishma's death. Other options represent important warriors but were not involved in this specific act of consolation.
+  </reasoning>
+  <question>
+    In Mahabharata's Ashvamedhika Parva (verse 27), who consoled Yudhishthira after the death of Bhishma?
+    A) Krishna
+    B) Bhima
+    C) Drona
+    D) Duryodhana
+  </question>
+  <answer>A) Krishna</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses understanding of the Ashvamedha yajna's performer. The text explicitly states Yudhishthira conducted the ritual. Other options represent historical kings but were not the primary performers of this specific rite.
+  </reasoning>
+  <question>
+    In Mahabharata's Ashvamedhika Parva (verse 8), who performed the Ashvamedha yajna to assert sovereignty?
+    A) Yudhishthira
+    B) Dhritharashtra
+    C) Karna
+    D) Arjuna
+  </question>
+  <answer>A) Yudhishthira</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question evaluates knowledge of Bhishma's killer. The text directly states Shikhandin killed Bhishma. Other options represent major warriors but were not the ones who killed him in the Kurukshetra war.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 30), who killed the grandsire Bhishma during the Kurukshetra war?
+    A) Shikhandin
+    B) Arjuna
+    C) Karna
+    D) Drona
+  </question>
+  <answer>A) Shikhandin</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of sacred rivers in Mahabharata rituals. The text explicitly mentions Ganga's role in rituals. Other rivers like Yamuna or Godavari are significant but not directly linked to this specific reference.
+  </reasoning>
+  <question>
+    In Mahabharata's Ashvamedhika Parva (verse 14), which river was honored with ritual offerings by the Kuru kings?
+    A) Ganga
+    B) Yamuna
+    C) Godavari
+    D) Saraswati
+  </question>
+  <answer>A) Ganga</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses knowledge of the Mahabharata's narrator. The text explicitly names Vaisampayana (Vyasa) as the narrator of the Ashvamedhika Parva. Other options represent characters but were not the primary narrators of this section.
+  </reasoning>
+  <question>
+    In Mahabharata's Ashvamedhika Parva (verse 1), who narrated the events of the Ashvamedha yajna to the Kuru kings?
+    A) Vaisampayana (Vyasa)
+    B) Narada
+    C) Krishna
+    D) Bhishma
+  </question>
+  <answer>A) Vaisampayana (Vyasa)</answer>
+</entry>

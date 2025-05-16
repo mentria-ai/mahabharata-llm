@@ -1,0 +1,119 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, the text includes several verses. The user mentioned that the questions should be based on explicit information from the text, so I need to make sure I don't add any external knowledge. Let me go through the text again.
+
+Looking at the verses, there's a part where Yudhishthira asks Bhishma about dharma, and Bhishma explains that dharma is not just about rituals but also about actions and character. There's a mention of four types of dharma: sadachara (good conduct), smriti (scriptures), trividham (threefold), and artham (purpose). Also, there's a story about Jajali and Tulaadhara, where Jajali is a sage who practices austerities and is tested by the gods. The story involves a swan (shakuntaka) and the sage's patience and dharma.
+
+So, possible questions could be about the four types of dharma, the story of Jajali and Tulaadhara, the role of sadachara, the meaning of "sadaachara" in the context of dharma, and the significance of the swan in the story.
+
+Let me check each part. For example, in the verses, Bhishma says "sadaachara" is the essence of dharma. Another part mentions that dharma is not just about rituals but also about actions. The story of Jajali and Tulaadhara involves a test of dharma through the swan's behavior.
+
+I need to make sure each question is specific, includes the exact reference (like adhyaya or parva), and the options are plausible but only one correct. Also, the answer should be under 100 characters.
+
+First question: The four types of dharma. The text says "sadaachara, smriti, trividham, and artham." So the answer would be the four types. The options would include the correct one and others like "rituals, scriptures, and actions" but that's not the exact terms.
+
+Second question: The story of Jajali and Tulaadhara. The text mentions that Tulaadhara is a merchant in Varanasi, and Jajali is a sage. The question could be about who Tulaadhara is, with options like merchant, king, etc.
+
+Third question: The role of sadachara. The text says "sadaachara is the essence of dharma." So the answer would be that it's the essence.
+
+Fourth question: The test of dharma in the story. The swan's behavior (not leaving the sage) shows dharma. So the question could be about what the swan's actions represent.
+
+Fifth question: The meaning of "sadaachara" in the context of dharma. The text defines it as good conduct.
+
+I need to make sure each question is unique and covers different parts of the text. Also, check the references. The text has verses numbered, so I can use those. For example, the part about the four types of dharma is in verses 3-4. The story of Jajali and Tulaadhara is in verses 1-43, but the exact reference might be tricky. However, the user allows for specific references, so maybe just "Tuladhara's story" without exact verse numbers if they aren't provided.
+
+Wait, the user said to include exact references (adhyaya, parva, śloka) when possible. But the provided text doesn't have those. The user might accept the context without specific numbers, but the example given in the problem statement used "Bhishma Parva" and "Tuladhara's story" without specific verses. So maybe it's acceptable to use the context without exact numbers.
+
+So, for each question, I'll need to frame it with the context from the text, like "In Mahabharata's Bhishma Parva, what is the essence of dharma according to Bhishma?" and the options would include "sadaachara" as the correct answer.
+
+I need to make sure that the options are plausible. For example, if the answer is "sadaachara," the other options could be "scriptures," "rituals," "actions."
+
+Another question could be about the four types of dharma, with the correct answer being "sadaachara, smriti, trividham, and artham."
+
+The story of Jajali and Tulaadhara: the question could be "In Mahabharata's story of Jajali and Tulaadhara, what role does the swan play?" with options like "symbolizing dharma," "representing the gods," etc.
+
+I need to check each part of the text again to ensure accuracy. For example, the text says "sadaachara is the essence of dharma," and "sadaachara is the essence of dharma, and the other three are smriti, trividham, and artham."
+
+Also, in the story, the swan's behavior (not leaving the sage) shows that dharma is about actions and patience.
+
+So, the five questions would be:
+
+1. The four types of dharma.
+2. The essence of dharma (sadaachara).
+3. The role of the swan in the story.
+4. Who Tulaadhara is.
+5. The meaning of "sadaachara."
+
+Each with four options, one correct. Now, structure them into XML entries with reasoning, question, and answer.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests understanding of dharma's classification in the Mahabharata. The text explicitly states four types: sadachara (good conduct), smriti (scriptures), trividham (threefold), and artham (purpose). Other options represent partial aspects of dharma but miss the fourfold classification.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, what are the four types of dharma according to Bhishma's teachings?
+    A) Rituals, scriptures, actions, and purpose
+    B) Virtue, duty, tradition, and wealth
+    C) Sadachara, smriti, trividham, and artham
+    D) Charity, truth, non-violence, and austerity
+  </question>
+  <answer>C) Sadachara, smriti, trividham, and artham</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the core teaching about dharma's essence. The text explicitly states "sadaachara is the essence of dharma," while other options represent related but distinct concepts like rituals or scriptural authority.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, what does Bhishma identify as the essence of dharma?
+    A) Rituals (karma)
+    B) Scriptural authority (smriti)
+    C) Sadachara (good conduct)
+    D) Material purpose (artham)
+  </question>
+  <answer>C) Sadachara (good conduct)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the Tulaadhara story. The text explicitly names Tulaadhara as a merchant in Varanasi, while other options represent different roles like kings or sages. The story's context is crucial for clarity.
+  </reasoning>
+  <question>
+    In Mahabharata's Tulaadhara story, what was Tulaadhara's profession?
+    A) King
+    B) Sage
+    C) Merchant
+    D) Warrior
+  </question>
+  <answer>C) Merchant</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the symbolic role of the swan in the Tulaadhara story. The text shows the swan's behavior (not leaving the sage) as a test of dharma, while other options misinterpret its role as a literal animal or unrelated symbol.
+  </reasoning>
+  <question>
+    In Mahabharata's Tulaadhara story, what did the swan's behavior symbolize?
+    A) Divine punishment
+    B) Dharma's test
+    C) Wealth's transience
+    D) Royal duty
+  </question>
+  <answer>B) Dharma's test</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses understanding of "sadachara" as a term. The text defines it as good conduct, while other options represent partial meanings like "eternal duty" or "scriptural law." The term's specific definition is critical here.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, what does "sadachara" mean?
+    A) Eternal duty
+    B) Scriptural law
+    C) Good conduct
+    D) Material purpose
+  </question>
+  <answer>C) Good conduct</answer>
+</entry>

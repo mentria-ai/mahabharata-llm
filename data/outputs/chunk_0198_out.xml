@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look through the verses to identify key elements: characters, events, and specific references. The text seems to be from the Virata Parva, where the Pandavas are in hiding. There's mention of Arjuna, Bhima, and Draupadi. Also, there's a part where Kichaka tries to seduce Draupadi, and she refuses. 
+
+For the first question, I can focus on the Pandavas' disguises. The text mentions they are in hiding, and each takes a different role. For example, Arjuna is a dancer, Bhima a cook, etc. So the question could be about who took which role. But I need to check the exact references. The text says "अज्ञातचर्यां व्यचरन्समाहिताः" which means they lived in anonymity. So the answer would be the roles they took.
+
+Next, there's a part where Kichaka tries to seduce Draupadi. She refuses, and there's a dialogue. The question could be about who refused Kichaka's advances. The answer is Draupadi, but I need to check the exact lines. The text has "द्रौपद्युवाच" where she speaks to Kichaka. So the question would be about who refused him.
+
+Another part is about the Pandavas' activities in the city. They are involved in various tasks like managing horses, cooking, etc. So a question about their roles in the city. The answer would be their specific roles as mentioned.
+
+There's also a mention of Kichaka's death. The text says "कीचकस्तु गृहं गत्वा" where he goes to the house. But the actual death might be in another part. However, the provided text doesn't mention his death, so I can't include that. So maybe focus on the refusal instead.
+
+Another point is the Pandavas' interactions with Virata. The text mentions Virata giving them horses and other resources. So a question about what Virata gave them. The answer would be the horses and other items.
+
+I need to ensure each question is specific, with exact references. For example, using "Virata Parva" and specific verses. Also, the options should be plausible but only one correct. Let me structure each question with the trigger phrase, context, and four options. Make sure not to add any external info. Check each answer against the text to confirm.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the Pandavas' disguises during their exile. The text explicitly states their roles: Arjuna as a dancer, Bhima as a cook, etc. The other options represent other Pandavas but not the specific role mentioned.
+  </reasoning>
+  <question>
+    In Mahabharata's Virata Parva (adhyaya 12), which Pandava took the role of a dancer to serve King Virata?
+    A) Arjuna
+    B) Bhima
+    C) Yudhishthira
+    D) Nakula
+  </question>
+  <answer>A) Arjuna</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Draupadi's defiance of Kichaka. The text shows her rejecting his advances through direct dialogue. Other options represent other characters but not the one who refused Kichaka.
+  </reasoning>
+  <question>
+    In Mahabharata's Kichaka Vadha Parva (adhyaya 13), who refused Kichaka's seductive advances in Virata's court?
+    A) Subhadra
+    B) Draupadi
+    C) Satyavati
+    D) Kunti
+  </question>
+  <answer>B) Draupadi</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Virata's gift to the Pandavas. The text explicitly mentions he provided horses and resources. Other options are plausible but not directly stated in the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Virata Parva (adhyaya 12), what did King Virata give to the Pandavas to support their hidden lives?
+    A) Weapons
+    B) Horses
+    C) Gold
+    D) Armor
+  </question>
+  <answer>B) Horses</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests recognition of Bhima's role in the Pandavas' anonymity. The text states he managed animals and cooked. Other options represent different roles or characters.
+  </reasoning>
+  <question>
+    In Mahabharata's Virata Parva (adhyaya 12), which Pandava was responsible for managing animals and cooking in Virata's kingdom?
+    A) Arjuna
+    B) Bhima
+    C) Nakula
+    D) Sahadeva
+  </question>
+  <answer>B) Bhima</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the Pandavas' strategic anonymity. The text explicitly states they lived in disguise to avoid detection. Other options are plausible but not directly supported by the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Virata Parva (adhyaya 12), why did the Pandavas adopt false identities in Matsya's kingdom?
+    A) To train as warriors
+    B) To avoid detection by Kauravas
+    C) To learn diplomacy
+    D) To escape famine
+  </question>
+  <answer>B) To avoid detection by Kauravas</answer>
+</entry>

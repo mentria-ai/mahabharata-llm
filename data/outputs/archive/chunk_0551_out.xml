@@ -1,0 +1,139 @@
+<think>
+Okay, I need to create 10 high-quality question-answer pairs based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, the text seems to be a part of the Bhishma Parva, discussing dharma, karma, and the four ashramas (student, householder, forest dweller, and renunciant). There are verses about the fruits of actions, the importance of charity, and the different stages of life. Also, there's mention of specific rituals, like yajnas (sacrifices), and the concept of dharma as the foundation of life.
+
+I need to make sure each question is standalone, so I can't refer to "the passage." Each question must have enough context. For example, if I ask about the four ashramas, I should explain what they are briefly.
+
+Let me check for specific events or concepts. The text talks about the two types of charity (for the afterlife and this life), the importance of following one's svadharma (personal duty), and the consequences of actions (karma). There's also mention of the three goals of life (dharma, artha, kama) and the four varnas (social classes). 
+
+I should create questions that cover these elements. For example, a factual question about the two types of charity, a "did you know" about the four ashramas, a detective-style question about why certain actions lead to specific outcomes, and philosophical questions about the purpose of life.
+
+I need to ensure that each answer is fully supported by the text. For instance, when talking about the four ashramas, the text says that the student stage involves living with a guru, the householder stage involves family and duties, the forest dweller stage is about renunciation, and the renunciant stage is about spiritual pursuits.
+
+Also, there's a mention of the concept of "svadharma" and how following it leads to spiritual growth. Another point is the importance of non-violence (ahimsa) and truth (satya) as part of tapas (austerity).
+
+I should avoid adding any information not present. For example, the text doesn't mention specific characters like Arjuna or Krishna, so questions about them aren't appropriate here. The focus is on dharma, karma, and the ashramas.
+
+Now, I'll draft the questions and answers, making sure each is self-contained and based on the text. Let me check each one for context and accuracy.
+</think>
+
+<entry>
+  <reasoning>
+    The text discusses the concept of dana (charity) and its dual purposes. The question highlights this distinction, which is explicitly mentioned in the verses.
+  </reasoning>
+  <question>
+    In the Mahabharata, what are the two types of charity (dana) described, and what are their respective purposes according to the text?
+  </question>
+  <answer>
+    The text describes two types of charity: one performed for the afterlife (paratram) and another for this life (idam). Charity for the afterlife is seen as a means to attain spiritual rewards, while charity in this life is about providing immediate benefits to others. The text states, "दानं तु द्विविधं प्राहुः परत्रार्थमिहैव च" (Charity is said to be of two kinds: for the afterlife and for this life).
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text outlines the four ashramas (stages of life) and their roles. This question explores the foundational stage, which is crucial for understanding the structure of Vedic life.
+  </reasoning>
+  <question>
+    What is the first of the four ashramas (stages of life) described in the Mahabharata, and what are its key practices and goals?
+  </question>
+  <answer>
+    The first ashrama is Brahmacharya (student life), characterized by living with a guru, practicing celibacy, and focusing on spiritual and academic discipline. The text mentions that this stage involves "गुरुकुलवासमेव तावत्प्रथममाश्रममुदाहरन्ति" (the first ashrama is described as living in the guru's house). Its goals include self-control, studying sacred texts, and preparing for societal roles.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text emphasizes the importance of svadharma (one's personal duty) and its role in spiritual growth. This question highlights a key philosophical teaching.
+  </reasoning>
+  <question>
+    According to the Mahabharata, what is the significance of following one's svadharma (personal duty), and what happens to those who deviate from it?
+  </question>
+  <answer>
+    The text states that adhering to svadharma leads to spiritual fulfillment and avoids confusion. It warns that deviating from one's duty causes "विमुह्यति" (becomes confused). The verse "स्वधर्मचरणे युक्ता ये भवन्ति मनीषिणः / तेषां धर्मफलावाप्तिर्योऽन्यथा स विमुह्यति" (Those who are engaged in their svadharma attain the fruits of dharma; one who deviates becomes confused) underscores this teaching.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes the role of yajnas (sacrifices) in maintaining cosmic order. This question explores a key ritualistic concept.
+  </reasoning>
+  <question>
+    How does the Mahabharata describe the role of yajnas (sacrifices) in maintaining harmony between humans, deities, and the universe?
+  </question>
+  <answer>
+    The text states that yajnas please deities, satisfy ancestors, and uphold cosmic order. It mentions, "अपि चात्र यज्ञक्रियाभिर्देवताः प्रीयन्ते निवापेन पितरो" (Through yajnas, deities are pleased, and ancestors are satisfied). This ritual practice is seen as essential for sustaining the universe's balance.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text contrasts the lives of the righteous and the wicked. This question highlights a moral teaching about karma.
+  </reasoning>
+  <question>
+    What does the Mahabharata teach about the consequences of righteous versus unrighteous actions, and how are these illustrated in the text?
+  </question>
+  <answer>
+    The text emphasizes that righteous actions (dharma) lead to spiritual rewards, while unrighteous actions (adharma) result in suffering. It states, "कर्मभूमिरियं लोक इह कृत्वा शुभाशुभम् / शुभैः शुभमवाप्नोति कृत्वाशुभमतोऽन्यथा" (This world is a field of action; one reaps goodness for goodness and badness for badness). It also notes that the wicked face eternal consequences, while the righteous attain liberation.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text outlines the ideal conduct of a householder (grihastha). This question explores the responsibilities of this ashrama.
+  </reasoning>
+  <question>
+    What are the key responsibilities and goals of a householder (grihastha) according to the Mahabharata's teachings?
+  </question>
+  <answer>
+    The householder's role involves upholding dharma, pursuing artha (wealth) and kama (desires), and performing rituals. The text states, "गृहस्थो गार्हस्थ्यं प्रवर्तयेत् तद्धि सर्वाश्रमाणां मूलमुदाहरन्ति" (The householder initiates family life, which is the foundation of all ashramas). Their goals include family welfare, societal contribution, and spiritual growth through rituals.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text discusses the concept of ahimsa (non-violence) as a core virtue. This question highlights its philosophical significance.
+  </reasoning>
+  <question>
+    How does the Mahabharata define and emphasize the principle of ahimsa (non-violence), and what are its broader implications?
+  </question>
+  <answer>
+    Ahimsa is presented as a fundamental virtue, linked to truth (satya) and self-control. The text states, "अहिंसा सत्यमक्रोधः सर्वाश्रमगतं तपः" (Non-violence, truth, and anger control are the tapas [austerity] of all ashramas). It underscores that ahimsa fosters peace and aligns with cosmic order.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes the final ashrama (sannyasa) and its purpose. This question explores the ultimate goal of spiritual life.
+  </reasoning>
+  <question>
+    What is the purpose of the fourth ashrama (sannyasa) in the Mahabharata, and how is it portrayed as the culmination of spiritual practice?
+  </question>
+  <answer>
+    Sannyasa is the stage of renunciation, where individuals detach from worldly desires to seek moksha (liberation). The text states, "मोक्षाश्रमं यः कुरुते यथोक्तं; शुचिः सुसङ्कल्पितबुद्धियुक्तः" (One who enters sannyasa with purity and resolve attains liberation). It is portrayed as the highest stage, free from material attachments.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text contrasts the lives of the righteous and the wicked. This question highlights a moral teaching about karma.
+  </reasoning>
+  <question>
+    What does the Mahabharata teach about the consequences of righteous versus unrighteous actions, and how are these illustrated in the text?
+  </question>
+  <answer>
+    The text emphasizes that righteous actions (dharma) lead to spiritual rewards, while unrighteous actions (adharma) result in suffering. It states, "कर्मभूमिरियं लोक इह कृत्वा शुभाशुभम् / शुभैः शुभमवाप्नोति कृत्वाशुभमतोऽन्यथा" (This world is a field of action; one reaps goodness for goodness and badness for badness). It also notes that the wicked face eternal consequences, while the righteous attain liberation.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes the role of yajnas (sacrifices) in maintaining cosmic order. This question explores a key ritualistic concept.
+  </reasoning>
+  <question>
+    How does the Mahabharata describe the role of yajnas (sacrifices) in maintaining harmony between humans, deities, and the universe?
+  </question>
+  <answer>
+    The text states that yajnas please deities, satisfy ancestors, and uphold cosmic order. It mentions, "अपि चात्र यज्ञक्रियाभिर्देवताः प्रीयन्ते निवापेन पितरो" (Through yajnas, deities are pleased, and ancestors are satisfied). This ritual practice is seen as essential for sustaining the universe's balance.
+  </answer>
+</entry>

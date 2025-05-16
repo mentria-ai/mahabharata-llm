@@ -1,0 +1,91 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look through the verses to identify key elements: characters, events, relationships, and specific references. The text seems to involve Gālava, Yajñāśrava (Hariścandra), and the story of the daughter (Mādhavī) being given in marriage with a condition of horses. There's mention of a king (Hariścandra) and a sage (Gālava) who gives his daughter in exchange for horses. The terms like "śulka" (price) and "dāna" (gift) are present. Also, there's a reference to the king's son being born and the conditions for the marriage.
+
+Now, I need to make sure each question is based on explicit information. Let's break it down.
+
+Question 1: The king (Hariścandra) gives his daughter Mādhavī to Gālava in exchange for horses. The text mentions "śulka" (price) and "dāna" (gift). So, the question could be about the price for the daughter. The options would include the number of horses, maybe other terms like "dāna" or "śulka".
+
+Question 2: The daughter's name is Mādhavī. The text says "माधवीं सुताम्" (daughter Mādhavī). So, a question about the daughter's name.
+
+Question 3: The king's son is born, and the text mentions "एकपुत्रभवाय मे" (for the sake of one son). So, the son's name or the reason for the marriage.
+
+Question 4: The sage Gālava gives his daughter to Hariścandra. The text says "गालवः प्रतिगृह्य च" (Gālava accepted). So, the person who accepted the daughter.
+
+Question 5: The condition for the marriage is the number of horses. The text mentions "एकतःश्यामकर्णानां शतान्यष्टौ ददस्व मे" (eight hundred horses). So, the number of horses required.
+
+I need to check each verse to ensure the answers are directly from the text. For example, in verse 13, "एकतःश्यामकर्णानां शतान्यष्टौ ददस्व मे" refers to 800 horses. Also, the daughter's name is Mādhavī in verse 14. The king is Hariścandra, and the sage is Gālava. The son's name isn't given, but the reason is for one son. The price is 800 horses.
+
+Now, structure each question with the trigger phrase, specific reference, and options. Ensure the answers are under 100 characters. Also, make sure the questions are diverse and cover different parts of the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the specific transaction involving Gālava and Hariścandra. The text explicitly states the number of horses (800) as the price for the daughter. Other options represent plausible but incorrect values or terms.
+  </reasoning>
+  <question>
+    In Mahabharata's Gālava Parva (verse 13), what was the price demanded by Gālava for his daughter Mādhavī?
+    A) 400 horses
+    B) 800 horses
+    C) 1000 horses
+    D) 2000 horses
+  </question>
+  <answer>B) 800 horses</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the daughter's name, a key character in the narrative. The text directly mentions "माधवीं सुताम्" (daughter Mādhavī). Other options are plausible names but not explicitly stated.
+  </reasoning>
+  <question>
+    In Mahabharata's Gālava Parva (verse 14), what was the name of Gālava's daughter given in marriage to Hariścandra?
+    A) Sāvitrī
+    B) Mādhavī
+    C) Satyavatī
+    D) Kuntī
+  </question>
+  <answer>B) Mādhavī</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the purpose of the marriage transaction. The text states the king sought a son, making "one son" the explicit reason. Other options represent plausible but incorrect motivations.
+  </reasoning>
+  <question>
+    In Mahabharata's Gālava Parva (verse 15), why did Hariścandra accept Gālava's daughter as a bride?
+    A) To gain wealth
+    B) To have a son
+    C) To avoid debt
+    D) To gain power
+  </question>
+  <answer>B) To have a son</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests recognition of the key figure who initiated the marriage. The text explicitly states Gālava gave his daughter to Hariścandra. Other options are secondary characters.
+  </reasoning>
+  <question>
+    In Mahabharata's Gālava Parva (verse 14), who gave his daughter to Hariścandra in exchange for horses?
+    A) Viśvāmitra
+    B) Gālava
+    C) Nārada
+    D) Kṛṣṇa
+  </question>
+  <answer>B) Gālava</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the symbolic value of the transaction. The text uses "śulka" (price) and "dāna" (gift) to describe the exchange. Other options represent unrelated terms.
+  </reasoning>
+  <question>
+    In Mahabharata's Gālava Parva (verse 21), what term was used to describe the exchange of Gālava's daughter for horses?
+    A) Dāna (gift)
+    B) Karmaphala (fruits of action)
+    C) Śulka (price)
+    D) Yajña (sacrifice)
+  </question>
+  <answer>C) Śulka (price)</answer>
+</entry>

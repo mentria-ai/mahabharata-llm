@@ -1,0 +1,93 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I notice that the text includes several sections like "उष्ट्रशिरोग्रीवकथनम्" (The Tale of the Camel's Long Neck) and "सरित्सागरसंवादः" (The Dialogue Between the River and the Sea). These seem to be stories or parables. The user wants questions that are specific, with exact references, and based only on what's in the text.
+
+For the first question, looking at the part about the camel (उष्ट्र) and the deer (मृगेन्द्र). There's a story where the camel's neck is stretched to reach the leaves, leading to his death. The question could be about why the camel stretched his neck. The options would include the actual reason from the text, like the leaves, and other plausible options like food or water.
+
+Next, the dialogue between the river and the sea. The river (सरिता) and the sea (सागर) discuss their roles. The question could be about the river's role in the dialogue. The answer would be that the river is the one asking the question, and the options would include other elements like the mountain or the forest.
+
+Another part is about the king (मृगराज) and the deer (गोमायु). There's a story where the king is deceived by his ministers. The question could be about the king's name, with options like मृगराज, गोमायु, etc.
+
+Then, there's a section where the king (युधिष्ठिर) asks Bhishma about governance. The answer here would be about the importance of wisdom and self-control. The options could include different virtues mentioned in the text.
+
+Lastly, the story of the river and the sea's discussion about their roles. The question could be about the river's role in the dialogue, with options like the river's role as a teacher, a student, etc.
+
+I need to make sure each question has the exact reference, like the specific parva or adhyaya. Since the text provided doesn't have exact adhyaya numbers, I'll use the section names like "उष्ट्रशिरोग्रीवकथनम्" and "सरित्सागरसंवादः" as the references.
+
+Each answer must be under 100 characters. Also, the reasoning should explain why the correct answer is right and why others are wrong, but that's for the internal note, not the user-facing part.
+
+I need to check that all information is explicitly from the text. For example, the camel's story is about stretching the neck to reach leaves, leading to his death. The river and sea dialogue discusses their roles and the importance of following one's nature. The king's story involves deception by ministers. The governance advice is about wisdom and self-control. The final story about the river and sea's roles.
+
+Now, structuring each entry with the required XML format, ensuring the trigger phrase "In Mahabharata" is present, and the context is clear. Each question should be unique and cover different parts of the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests understanding of the camel's tragic overreach in the "Ushtrashirorvakaatha" (Tale of the Camel's Long Neck). The text explicitly states the camel stretched his neck to reach leaves, leading to his demise. Other options reflect common misinterpretations of the parable's moral.
+  </reasoning>
+  <question>
+    In Mahabharata's Ushtrashirorvakaatha, why did the camel stretch his neck?
+    A) To reach the moon
+    B) To eat leaves
+    C) To escape predators
+    D) To find water
+  </question>
+  <answer>B) To eat leaves</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the river's role in the "Saritsagarasamvada" (River-Sea Dialogue). The text shows the river (Sarita) questioning the sea (Sagara) about their roles. Other options represent elements mentioned but not central to the dialogue's purpose.
+  </reasoning>
+  <question>
+    In Mahabharata's Saritsagarasamvada, which entity initiated the dialogue about roles?
+    A) Mountain
+    B) River
+    C) Forest
+    D) Wind
+  </question>
+  <answer>B) River</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the king's name in the "Gomayu" (Go-mayu) story. The text explicitly names "Mrigendra" (deer king) as the ruler. Other options represent characters or titles but not the specific king's name.
+  </reasoning>
+  <question>
+    In Mahabharata's Gomayu story, what was the name of the deer king?
+    A) Gomayu
+    B) Mrigendra
+    C) Sharan
+    D) Vritra
+  </question>
+  <answer>B) Mrigendra</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the king's advice to ministers in the "Gomayu" narrative. The text emphasizes wisdom and self-control as essential for leadership. Other options represent virtues but not the specific focus of the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Gomayu story, what quality did the king stress for ministers?
+    A) Loyalty
+    B) Wisdom
+    C) Strength
+    D) Wealth
+  </question>
+  <answer>B) Wisdom</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the moral lesson from the river-sea dialogue. The text states rivers must follow their natural course, while seas dominate. Other options misrepresent the parable's focus on natural roles versus human ambition.
+  </reasoning>
+  <question>
+    In Mahabharata's Saritsagarasamvada, what did the sea teach about rivers?
+    A) They should imitate the sea
+    B) They must follow their nature
+    C) They should seek the ocean
+    D) They should avoid droughts
+  </question>
+  <answer>B) They must follow their nature</answer>
+</entry>

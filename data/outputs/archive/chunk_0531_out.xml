@@ -1,0 +1,144 @@
+<think>
+Okay, I need to create 10 high-quality question-answer pairs based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I notice that the text includes several verses from the "Apadharma Parva" (Part of the Mahabharata dealing with the duties in times of crisis) and "Kapavya Anushasanam" (Teachings of Kapavya). The verses discuss themes like the importance of wealth (kosh) for dharma, the role of kings, the conduct of warriors, and the moral duties of different social groups. There's a mention of a character named Kapavya, who is described as a dasyu (robber) but follows a code of conduct. Also, there are references to the duties of kings, the significance of dharma, and the consequences of actions.
+
+Now, I need to form questions that are standalone, factual, and cover various aspects. Let me think of possible angles:
+
+1. **Factual**: What is the role of wealth (kosh) according to the text?
+2. **Did you know**: The text mentions a dasyu (robber) who follows a code of conduct. Who is this character?
+3. **Detective-style**: Why does the text emphasize the importance of dharma over wealth?
+4. **Philosophical**: How does the text view the relationship between dharma and power?
+5. **Character-based**: What are the key teachings of Kapavya as per the text?
+6. **Event-based**: What happened when Kapavya encountered brahmins in the forest?
+7. **Conceptual**: What does the text say about the duties of a king in times of crisis?
+8. **Comparative**: How does the text contrast the conduct of a dasyu with that of a king?
+9. **Moral dilemma**: What moral principles does the text suggest for dealing with dasyus?
+10. **Teaching**: What is the significance of Kapavya's actions in the context of dharma?
+
+I need to ensure each question is self-contained, provides necessary context, and is based solely on the text. Let me check the text again to confirm details.
+
+For example, the text mentions Kapavya as a dasyu who follows a code, treating brahmins and others with respect. The verses talk about the importance of dharma, the role of kings, and the consequences of actions. Also, there's a mention of the relationship between dharma and wealth, and the duties of different social groups.
+
+Now, I'll structure each entry with reasoning, question, and answer, making sure to include all necessary context and avoid external knowledge.
+</think>
+
+<entry>
+  <reasoning>
+    The text emphasizes the interdependence of wealth (kosh) and dharma. The verse explicitly states that dharma originates from wealth, highlighting its foundational role in societal and moral order.
+  </reasoning>
+  <question>
+    According to the Mahabharata, what is the relationship between wealth (kosh) and dharma, and why is this significant?
+  </question>
+  <answer>
+    The text states that "धर्मः कौन्तेय राज्यमूलः प्रवर्तते" (dharma originates from wealth, the root of kingship). This underscores that wealth is essential for upholding dharma, as it enables rulers to maintain justice, support religious rituals, and sustain societal order. Without wealth, dharma and kingship cannot thrive, reflecting the epic's view of economic stability as a moral cornerstone.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text introduces Kapavya, a dasyu (robber) who adheres to a strict code of conduct. This contrasts with typical portrayals of dasyus as lawless, highlighting the text's nuanced moral framework.
+  </reasoning>
+  <question>
+    Who is Kapavya in the Mahabharata, and what makes his conduct unique compared to other dasyus?
+  </question>
+  <answer>
+    Kapavya is a dasyu (robber) who follows a moral code. Unlike typical dasyus, he respects brahmins, avoids harming women and children, and protects sacred spaces. The text describes him as a "मुहूर्तदेशकालज्ञ" (knowledgeable in time, place, and circumstances), showing his adherence to dharma even in his role as a robber. This illustrates the Mahabharata's theme that moral actions transcend social roles.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text explicitly states that dharma and power are intertwined. It argues that dharma relies on strength, while power without dharma leads to chaos. This reflects the epic's philosophical stance on balance between ethics and authority.
+  </reasoning>
+  <question>
+    How does the Mahabharata describe the relationship between dharma and power, and what does this reveal about its philosophical views?
+  </question>
+  <answer>
+    The text states, "अति धर्माद्बलं मन्ये बलाद्धर्मः प्रवर्तते" (I consider strength superior to dharma, and dharma arises from strength). This suggests that dharma requires power to function, but power without dharma leads to destruction. The Mahabharata thus emphasizes that ethical governance and military might must coexist for societal harmony.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text's focus on Kapavya's interactions with brahmins and his adherence to dharma despite being a dasyu provides a clear example of moral complexity.
+  </reasoning>
+  <question>
+    What did Kapavya do when he encountered brahmins in the forest, and what does this reveal about his values?
+  </question>
+  <answer>
+    Kapavya protected brahmins from harm, provided them with food, and ensured their safe passage. The text states he "आरण्यकान्प्रव्रजितान्ब्राह्मणान्परिपालयन्" (protected wandering brahmins). This shows his respect for spiritual leaders and adherence to dharma, even as a dasyu, reflecting the Mahabharata's message that moral duty transcends social status.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text's verse about dasyus and their impact on society directly addresses the consequences of unchecked lawlessness.
+  </reasoning>
+  <question>
+    According to the Mahabharata, what are the consequences of dasyus (robbers) acting without moral constraints?
+  </question>
+  <answer>
+    The text states that dasyus who act without restraint ("निर्मर्यादानि दस्यूनां") create chaos, as they "वृकादिव जीवति" (live like wolves). This implies that lawless dasyus destabilize society, leading to fear and moral decay. The Mahabharata thus portrays dasyus as threats to dharma, emphasizing the need for ethical conduct even in marginalized roles.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text's emphasis on kingship and dharma provides a clear framework for leadership responsibilities.
+  </reasoning>
+  <question>
+    What responsibilities does the Mahabharata assign to kings in maintaining dharma, and how is this illustrated?
+  </question>
+  <answer>
+    The text states that kings must "कोशं सञ्जनयेत" (accumulate wealth) to sustain dharma, as "कोशाद्धि धर्मः कौन्तेय" (dharma arises from wealth). Kings are also advised to uphold "मर्यादा" (dignity) and protect the vulnerable. This reflects the epic's view of kingship as a moral duty requiring both economic and ethical stewardship.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text's discussion of dharma and power addresses the moral dilemmas of leadership and justice.
+  </reasoning>
+  <question>
+    What moral dilemma does the Mahabharata explore through the relationship between dharma and power?
+  </question>
+  <answer>
+    The text presents a paradox: dharma requires power to enforce justice, but power without dharma leads to tyranny. This is illustrated by the verse "अति धर्माद्बलं मन्ये बलाद्धर्मः प्रवर्तते" (strength surpasses dharma, and dharma arises from strength). The Mahabharata thus challenges leaders to balance ethical principles with the practical need for authority.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text's portrayal of Kapavya's code of conduct offers insights into the moral flexibility of dasyus.
+  </reasoning>
+  <question>
+    How does the Mahabharata portray the moral flexibility of dasyus, and what example illustrates this?
+  </question>
+  <answer>
+    The text shows dasyus like Kapavya can adhere to dharma by avoiding harm to women, children, and brahmins. For instance, Kapavya "मा वधीस्त्वं स्त्रियं भीरुं" (do not kill the timid woman), demonstrating that even dasyus can uphold moral principles. This reflects the Mahabharata's belief in the potential for redemption and ethical behavior across all social roles.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text's focus on the consequences of abandoning dharma highlights its central role in societal stability.
+  </reasoning>
+  <question>
+    What does the Mahabharata suggest happens to individuals or societies that abandon dharma, and how is this illustrated?
+  </question>
+  <answer>
+    The text states that abandoning dharma leads to "निःशेषकरणं तथा" (total destruction). For example, those who neglect dharma "जीवितं यदवक्षिप्तं यथैव मरणं तथा" (live as if dead). This illustrates the epic's view that dharma is essential for both individual and collective well-being, with its absence causing moral and physical ruin.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text's discussion of dharma and wealth addresses the ethical use of resources for societal good.
+  </reasoning>
+  <question>
+    How does the Mahabharata address the ethical use of wealth in relation to dharma?
+  </question>
+  <answer>
+    The text emphasizes that wealth ("कोश") is a tool for dharma, stating "सर्वं धनवतः प्राप्यं सर्वं तरति कोशवान्" (wealth enables all achievements). However, it also warns against greed, as "धर्मं शंसन्ति ते राज्ञामापदर्थमितोऽन्यथा" (rulers praise dharma only when it serves their interests). This reflects the Mahabharata's call for wealth to be used responsibly to uphold justice and spiritual values.
+  </answer>
+</entry>

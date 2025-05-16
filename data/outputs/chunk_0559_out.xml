@@ -1,0 +1,95 @@
+<think>
+Okay, I need to create 5 multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I notice that the text includes verses from the Bhagavad Gita and other philosophical discussions. The user mentioned that the questions should be based on explicit information in the text, so I need to make sure all answers are directly supported.
+
+Looking at the verses, there's a lot about the three gunas (sattva, rajas, tamas), the nature of the soul (atman), and the concept of karma. Also, there's a dialogue between Janaka and Kapila, which might be a key point. The text mentions "Kapila" as a sage, and there's a reference to "Panchashikha" (five-haired) which is a title for Kapila. 
+
+For the first question, I can focus on the three gunas. The text says "sattvam devagunam vidya" (sattva is the divine quality). So a question about which guna is associated with divinity. The options would be sattva, rajas, tamas, and maybe another term. The correct answer is sattva.
+
+Next, the text mentions "Brahma" as the ultimate reality. There's a verse: "Brahma tattam param vedyam amritam jyotiraksharam" (Brahma is the ultimate, imperishable light). So a question about what is described as imperishable light. The answer would be Brahman.
+
+Another part talks about the five elements (earth, water, fire, air, ether). The verse says "Panchasamahara" (five elements). So a question about the five elements. The answer is the five elements.
+
+Then, there's a reference to Kapila as a sage. The text says "Kapila is the sage" and "Panchashikha" is his title. So a question about the title of Kapila. The answer would be Panchashikha.
+
+Lastly, the text discusses the nature of the soul and the body. There's a verse about the body being a vehicle (deha) and the soul (atman) being separate. So a question about what is described as the vehicle of the soul. The answer would be the body.
+
+I need to make sure each question has the correct reference. For example, the gunas are in the verses mentioned, the Brahman part is in the verses, the five elements are in the text, Kapila's title is there, and the body as the vehicle is in the text.
+
+I should check each verse to confirm the exact references. For example, the gunas are in verses 18, and the five elements in verse 8. The Kapila reference is in the dialogue with Janaka. The Brahman verse is in verse 19. The body as vehicle is in verse 27.
+
+Now, structure each question with the trigger phrase, specific reference, and options. Ensure the answers are under 100 characters. Also, the reasoning should explain why the answer is correct and why others are not.
+
+Let me draft each entry now, making sure they are distinct and cover different parts of the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests understanding of the three gunas (sattva, rajas, tamas) and their associations. The text explicitly states "sattvam devagunam vidya" (sattva is the divine quality). Other options represent different gunas or concepts but are not directly linked to divinity in the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhagavad Gita (verse 18), which guna is described as the divine quality (devagunam)?
+    A) Sattva
+    B) Rajas
+    C) Tamas
+    D) Avidya
+  </question>
+  <answer>A) Sattva</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the ultimate reality (Brahman) as described in the text. The verse "Brahma tattam param vedyam amritam jyotiraksharam" directly identifies Brahman as the imperishable light. Other options represent philosophical concepts but lack the explicit "imperishable light" description.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhagavad Gita (verse 19), what is described as the "imperishable light" (amritam jyotiraksharam)?
+    A) Atman
+    B) Brahman
+    C) Maya
+    D) Karma
+  </question>
+  <answer>B) Brahman</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses the five elements (panchabhutas) mentioned in the text. The verse "Panchasamahara" explicitly refers to the five elements (earth, water, fire, air, ether). Other options represent unrelated concepts or elements not directly named in the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhagavad Gita (verse 8), what term refers to the five elements (earth, water, fire, air, ether)?
+    A) Panchasamahara
+    B) Trigunas
+    C) Dvaita
+    D) Advaita
+  </question>
+  <answer>A) Panchasamahara</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Kapila's title from the dialogue with Janaka. The text explicitly calls him "Panchashikha" (five-haired) in the context of his sage status. Other options represent unrelated titles or concepts.
+  </reasoning>
+  <question>
+    In Mahabharata's Janaka-Kapila dialogue (verse 6), what title is given to the sage Kapila?
+    A) Panchashikha
+    B) Bhishma
+    C) Drona
+    D) Krishna
+  </question>
+  <answer>A) Panchashikha</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the body's role as a vehicle for the soul. The verse "Deham tush param vedya" directly states the body as the vehicle (deha) for the soul (atman). Other options represent philosophical concepts but lack the explicit "vehicle" description.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhagavad Gita (verse 27), what is described as the "vehicle" (deha) for the soul (atman)?
+    A) Body
+    B) Mind
+    C) Speech
+    D) Action
+  </question>
+  <answer>A) Body</answer>
+</entry>

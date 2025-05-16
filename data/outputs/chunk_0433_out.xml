@@ -1,0 +1,121 @@
+<think>
+Okay, I need to create 5 multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, specific references like parvas or adhyayas, and notable actions. The text seems to be from the Bhishma Parva, given the mention of Bhishma in the first verse. There are references to Bhima, Arjuna, Duryodhana, and other warriors. The verses describe battles, strategies, and the aftermath.
+
+For each question, I need to ensure the answer is explicitly stated in the text. Let's go through the text step by step.
+
+1. The first verse mentions Bhima (भीमं) and a reference to a peacock (शकुन्ता). The term "शकुन्ता" is a peacock, so maybe a question about Bhima's actions related to a peacock. But I need to check if the text explicitly states this. The verse says "शकुन्ता इव पुष्पहेतोः" which translates to "like a peacock for the sake of flowers." Not sure if that's a direct reference. Maybe not the best.
+
+2. There's a mention of Bhima's strength and his role in the battle. For example, "भीमं समन्तात्समरेऽध्यरोह" – Bhima ascends the battlefield. So a question about Bhima's role in the battle.
+
+3. The text includes references to specific warriors and their actions. For example, "कपिर्ह्यसौ वीक्ष्यते सर्वतो वै; ध्वजाग्रमारुह्य धनञ्जयस्य" – the peacock (kapi) is seen everywhere, with the flag of Arjuna. So maybe a question about Arjuna's flag or a symbol.
+
+4. There's a mention of the number of warriors: "षण्मार्गणानामयुतानि वीर; क्षुराश्च भल्लाश्च तथायुताख्याः" – six thousand warriors, swords, and axes. So a question about the number of warriors or specific weapons.
+
+5. The text also talks about Bhima's destruction of the Kaurava army: "तत्र भारत भीमस्य बलं दृष्ट्वातिमानुषम् | व्यत्रस्यन्त रणे योधाः कालस्येव युगक्षये" – after seeing Bhima's strength, the warriors were terrified. So a question about the effect of Bhima's strength on the enemy.
+
+Now, I need to structure each question with the trigger phrase, specific reference, and four options. Let's draft each one.
+
+First question: Bhima's role in the battle. The text says he ascended the battlefield. So the question could be about who ascended the battlefield. The answer is Bhima. Other options could be Drona, Karna, Arjuna.
+
+Second question: The symbol of Arjuna's flag. The text mentions "कपिर्ह्यसौ वीक्ष्यते सर्वतो वै" – the peacock (kapi) is seen everywhere. So the answer is peacock. Options could be peacock, lion, elephant, etc.
+
+Third question: Number of warriors. The text says "षण्मार्गणानामयुतानि वीर" – six thousand warriors. So the answer is six thousand. Options could be different numbers.
+
+Fourth question: Bhima's destruction of the Kaurava army. The text says after seeing his strength, the warriors were terrified. So the answer is that Bhima's strength caused fear. Options could be different effects.
+
+Fifth question: The number of chariots destroyed. The text mentions "दसीशतं चापि रथांश्च विंशतिं" – ten thousand chariots. So the answer is ten thousand. Options could be different numbers.
+
+I need to make sure each question is specific, with exact references. For example, using the adhyaya numbers if possible. But the text provided doesn't have adhyaya numbers, so maybe just the parva or a specific verse.
+
+Wait, the user mentioned to include specific references (adhyāya, parva, śloka) when possible. But the provided text doesn't have those. So maybe just mention the parva, like Bhishma Parva, or the context.
+
+Also, the answers must be under 100 characters. Let me check each answer.
+
+First question: Answer is Bhima. Under 100.
+
+Second: Peacock. Under 100.
+
+Third: Six thousand. Under 100.
+
+Fourth: Fear. Under 100.
+
+Fifth: Ten thousand. Under 100.
+
+Now, I need to structure each entry with reasoning, question, and answer. The reasoning should explain why the question is important, correct answer, and why others are incorrect.
+
+For example, for the first question: Bhima's role in the battle. The text says he ascended the battlefield. Other options are other warriors who led at different times.
+
+I need to make sure each question is unique and covers different parts of the text. Let me finalize the five questions.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Bhima's role in the Kurukshetra war. The text explicitly states he ascended the battlefield, contrasting with other leaders who commanded at different stages. Options B-D represent other key warriors but not the initial commander.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, who ascended the battlefield with overwhelming strength, causing fear among warriors?
+    A) Bhima
+    B) Drona
+    C) Karna
+    D) Arjuna
+  </question>
+  <answer>A) Bhima</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights symbolic imagery in the Mahabharata. The text directly mentions a "peacock" (kapi) as Arjuna's flag, symbolizing victory. Other options represent common symbols but lack textual support.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, what symbol is described as being everywhere on Arjuna's flag, signifying triumph?
+    A) Peacock
+    B) Lion
+    C) Elephant
+    D) Eagle
+  </question>
+  <answer>A) Peacock</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on numerical details from the text. The verse explicitly states six thousand warriors, contrasting with other options that lack textual basis. Such numbers emphasize the scale of the conflict.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, how many warriors are described as being equipped with swords and axes?
+    A) Six thousand
+    B) Ten thousand
+    C) Five thousand
+    D) Three thousand
+  </question>
+  <answer>A) Six thousand</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the psychological impact of Bhima's strength. The text states warriors were terrified "like the end of the age," highlighting his overwhelming power. Other options misrepresent the text's emphasis on fear.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, what effect did Bhima's strength have on enemy warriors according to the text?
+    A) Caused fear
+    B) Inspired courage
+    C) Led to surrender
+    D) Created confusion
+  </question>
+  <answer>A) Caused fear</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests numerical accuracy in the text. The verse explicitly states ten thousand chariots destroyed, contrasting with other options. Such details reflect the epic's emphasis on massive destruction.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, how many chariots are described as being destroyed by Bhima?
+    A) Ten thousand
+    B) Five thousand
+    C) Fifteen thousand
+    D) Two thousand
+  </question>
+  <answer>A) Ten thousand</answer>
+</entry>

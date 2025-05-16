@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I notice that the text includes several sections like "Shamyak Gita" and "Mangik Gita," which are parts of the Mahabharata. The verses mention various characters like Bhishma, Yudhishthira, and others. There are references to teachings about renunciation (tyaga), non-attachment, and the nature of suffering and happiness. 
+
+For the first question, I should pick a specific part. The text starts with "Shamyak Gita" and has verses about renunciation. The verse 32 mentions "nirveda" (resignation) and "sukha" (happiness). So, a question about the teaching of renunciation in the Shamyak Gita could work. The answer would be "nirveda" as the correct option.
+
+Next, looking for another section. The "Mangik Gita" has verses about the story of Mangika and his renunciation. Verse 40 talks about achieving supreme bliss through renunciation. So, a question about the story of Mangika and his renunciation would be good here. The answer would be "Mangika" as the one who achieved supreme bliss.
+
+Third question: The text mentions "Shamyak Gita" again. Verse 32 says that by renouncing all desires, one attains peace. So, the teaching here is about renouncing desires. The answer would be "renouncing desires."
+
+Fourth question: The text includes a story where a man named Mangika is described. Verse 5 mentions his story. So, a question about the story of Mangika and his renunciation. The answer would be "renunciation."
+
+Fifth question: The text has a part where Bhishma is speaking. The verse 37 mentions Yudhishthira's question about the nature of happiness. So, a question about Bhishma's teaching on happiness. The answer would be "happiness comes from renouncing desires."
+
+I need to make sure each question is specific, includes the correct reference, and the options are plausible but only one correct. Also, check that the answers are under 100 characters. Let me verify each question against the text to ensure accuracy.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests understanding of key teachings in the Shamyak Gita. The verse emphasizes that true happiness comes from renouncing desires and attachments. Other options represent partial truths but miss the core message of complete renunciation.
+  </reasoning>
+  <question>
+    In Mahabharata's Shamyak Gita (verse 32), what teaching allows one to achieve supreme happiness by abandoning all desires?
+    A) Renouncing wealth
+    B) Practicing yoga
+    C) Surrendering to fate
+    D) Renouncing desires
+  </question>
+  <answer>D) Renouncing desires</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights a pivotal story from the Mangik Gita. The text explicitly states that Mangika achieved supreme bliss through renunciation. Other options represent related but incorrect interpretations of the narrative.
+  </reasoning>
+  <question>
+    In Mahabharata's Mangik Gita (verse 53), which figure attained supreme happiness by renouncing all worldly attachments?
+    A) Yudhishthira
+    B) Bhishma
+    C) Mangika
+    D) Janaka
+  </question>
+  <answer>C) Mangika</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines a core teaching from the Shamyak Gita. The text directly states that true peace comes from abandoning desires. Other options reflect related concepts but lack the specificity of the correct answer.
+  </reasoning>
+  <question>
+    In Mahabharata's Shamyak Gita (verse 32), what action leads to eternal peace according to the teachings?
+    A) Accumulating wealth
+    B) Practicing rituals
+    C) Abandoning desires
+    D) Seeking power
+  </question>
+  <answer>C) Abandoning desires</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on a specific narrative from the Mangik Gita. The text explicitly describes Mangika's journey of renunciation. Other options represent tangential elements of the story but miss the central theme.
+  </reasoning>
+  <question>
+    In Mahabharata's Mangik Gita (verse 5), which character's story illustrates the consequences of material attachment?
+    A) Drona
+    B) Karna
+    C) Mangika
+    D) Duryodhana
+  </question>
+  <answer>C) Mangika</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Bhishma's teachings in the Shamyak Gita. The text directly states that happiness comes from renouncing desires. Other options represent partial truths but lack the comprehensive answer provided.
+  </reasoning>
+  <question>
+    In Mahabharata's Shamyak Gita (verse 32), what does Bhishma teach about the source of true happiness?
+    A) Wealth accumulation
+    B) Royal power
+    C) Renouncing desires
+    D) Religious rituals
+  </question>
+  <answer>C) Renouncing desires</answer>
+</entry>

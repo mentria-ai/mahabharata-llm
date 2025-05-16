@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by carefully reading through the text to identify key elements like characters, events, places, and specific references.
+
+First, I notice that the text includes several sections like "एकलव्यसुतपराजयः" (Defeat of Ekalavya's son), "गान्धारपराजयः" (Defeat of Gandhara), and "यज्ञायतननिर्माणम्" (Construction of the Yajna House). Each of these sections likely has specific events or characters.
+
+Looking at the first part, there's mention of "एकलव्यसुतपराजयः" which refers to the defeat of Ekalavya's son. The text mentions that Ekalavya's son was defeated by Arjuna. So a question could be about who defeated Ekalavya's son. The options would include Arjuna, Bhima, Krishna, and Duryodhana. The correct answer is Arjuna.
+
+Next, in "गान्धारपराजयः" (Defeat of Gandhara), there's a battle where the Gandhara king's son is defeated. The text says that the Gandhara king's son was defeated by Arjuna. So another question could be about who defeated the Gandhara king's son. Options would be Arjuna, Bhima, Drona, and Karna. Correct answer is Arjuna.
+
+Then, in "यज्ञायतननिर्माणम्" (Construction of the Yajna House), there's a mention of Bhima constructing the yajna house. The question could be about who built the yajna house. Options: Bhima, Arjuna, Yudhishthira, Krishna. Correct answer is Bhima.
+
+Another part talks about the yajna (sacrifice) being conducted, and the text mentions that the yajna was performed by Yudhishthira. So a question about who conducted the yajna. Options: Yudhishthira, Bhima, Arjuna, Dhrishtadyumna. Correct answer is Yudhishthira.
+
+Lastly, there's a reference to the "अर्जुनप्रत्यागमनम्" (Return of Arjuna). The text mentions that Arjuna returned to the yajna site. So a question about who returned to the yajna site. Options: Arjuna, Bhima, Yudhishthira, Krishna. Correct answer is Arjuna.
+
+I need to make sure each question has the exact reference, like the specific parva or adhyaya. For example, "In Mahabharata's Ekalavya's Son's Defeat" (which is part of the "एकलव्यसुतपराजयः" section). Also, check that the options are plausible but only one is correct. Avoid adding any external info. Each question should be distinct and cover different parts of the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of key battles involving Arjuna. The text explicitly states that Arjuna defeated Ekalavya's son, highlighting his role as a warrior. Other options represent other Pandava warriors but are not linked to this specific event in the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Ekalavya's Son's Defeat, who defeated Ekalavya's son in battle?
+    A) Arjuna
+    B) Bhima
+    C) Krishna
+    D) Duryodhana
+  </question>
+  <answer>A) Arjuna</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the Gandhara defeat narrative. The text directly names Arjuna as the victor against the Gandhara king's son. Other options are prominent warriors but are not associated with this specific defeat in the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Gandhara Defeat, which Pandava warrior defeated the Gandhara king's son?
+    A) Arjuna
+    B) Bhima
+    C) Drona
+    D) Karna
+  </question>
+  <answer>A) Arjuna</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Bhima's role in constructing the yajna house. The text explicitly states that Bhima was responsible for its construction. Other options are key Pandava figures but are not linked to this specific task in the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Yajna House Construction, who was tasked with building the yajna house?
+    A) Bhima
+    B) Arjuna
+    C) Yudhishthira
+    D) Krishna
+  </question>
+  <answer>A) Bhima</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the yajna's conductor. The text explicitly states that Yudhishthira conducted the yajna. Other options are key Pandava figures but are not associated with this specific duty in the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Yajna Conduct, which Pandava king conducted the grand yajna?
+    A) Yudhishthira
+    B) Bhima
+    C) Arjuna
+    D) Dhrishtadyumna
+  </question>
+  <answer>A) Yudhishthira</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Arjuna's return to the yajna site. The text explicitly states that Arjuna returned to the yajna location. Other options are key Pandava figures but are not linked to this specific event in the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Arjuna's Return, who returned to the yajna site after a journey?
+    A) Arjuna
+    B) Bhima
+    C) Yudhishthira
+    D) Krishna
+  </question>
+  <answer>A) Arjuna</answer>
+</entry>

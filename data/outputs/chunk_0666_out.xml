@@ -1,0 +1,91 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, places, and teachings. The text seems to be a dialogue between Shiva (Maheshvara) and Uma (Parvati), discussing dharma, different varnas (social classes), and their duties. There are references to various deities, rituals, and moral teachings.
+
+For each question, I need to ensure that the answer is explicitly mentioned in the text. Let me go through the text again to pick out specific details.
+
+1. The first part mentions "तिलोत्तमा नाम पुरा ब्रह्मणा योषिदुत्तमा" which refers to Tilottama, a celestial maiden. This could be a question about her origin.
+
+2. There's a discussion about the five duties of dharma (ahimsa, satya, etc.) in the section starting with "अहिंसा सत्यवचनं..." So a question about the five dharmas.
+
+3. The text mentions different varnas (Brahmins, Kshatriyas, Vaishyas, Shudras) and their duties. For example, "ब्राह्मणे कीदृशो धर्मः" which asks about the dharma of Brahmins.
+
+4. There's a part where Shiva explains the dharma of Kshatriyas, like protecting the people and performing yajnas. So a question about Kshatriya dharma.
+
+5. The text also talks about the dharma of Vaishyas, including trade and agriculture. A question on that.
+
+I need to make sure each question has the exact reference. For example, the Tilottama part is in the section starting with "तिलोत्तमा नाम पुरा..." which is adhyaya 1. The dharma of Brahmins is in adhyaya 28-29. The Kshatriya dharma is in adhyaya 47-48. The Vaishya dharma is in adhyaya 53-54. The Shudra dharma is in adhyaya 56-58.
+
+Now, I'll structure each question with the specific reference, ensure the options are plausible but only one correct, and keep answers under 100 characters. Also, check that the reasoning explains why the answer is correct and why others are wrong.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of celestial beings in the Mahabharata. Tilottama is explicitly described as a divine maiden created by Brahma, contrasting with other options which are human or non-canonically linked. The text directly states her origin.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (adhyaya 1), which celestial maiden was created by Brahma as the most beautiful?
+    A) Rambha
+    B) Tilottama
+    C) Menaka
+    D) Ghritachi
+  </question>
+  <answer>B) Tilottama</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses understanding of core dharma principles. The text explicitly lists five dharmas (ahimsa, satya, etc.) as the highest duty. Other options represent partial aspects or unrelated concepts.
+  </reasoning>
+  <question>
+    In Mahabharata's Shiva-Parvati dialogue (adhyaya 25), what are the five essential dharmas taught by Shiva?
+    A) Charity, sacrifice, truth
+    B) Non-violence, truth, compassion
+    C) Knowledge, austerity, devotion
+    D) Protection, trade, service
+  </question>
+  <answer>B) Non-violence, truth, compassion</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Brahmin duties. The text explicitly states that upavasa (fasting) is the primary dharma for Brahmins. Other options represent secondary practices or unrelated concepts.
+  </reasoning>
+  <question>
+    In Mahabharata's Shiva-Parvati dialogue (adhyaya 31), what is the primary dharma for Brahmins according to Shiva?
+    A) Study of Vedas
+    B) Fasting (upavasa)
+    C) Ritual sacrifices
+    D) Teaching others
+  </question>
+  <answer>B) Fasting (upavasa)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines Kshatriya duties. The text explicitly states that protecting people and performing yajnas are primary responsibilities. Other options represent secondary duties or unrelated concepts.
+  </reasoning>
+  <question>
+    In Mahabharata's Shiva-Parvati dialogue (adhyaya 47), what are Kshatriyas primarily responsible for?
+    A) Performing rituals
+    B) Protecting people
+    C) Engaging in trade
+    D) Teaching dharma
+  </question>
+  <answer>B) Protecting people</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Vaishya duties. The text explicitly states that trade (vani) and agriculture (krsi) are primary responsibilities. Other options represent secondary duties or unrelated concepts.
+  </reasoning>
+  <question>
+    In Mahabharata's Shiva-Parvati dialogue (adhyaya 53), what are the primary duties of Vaishyas according to Shiva?
+    A) Warfare
+    B) Trade and agriculture
+    C) Religious instruction
+    D) State governance
+  </question>
+  <answer>B) Trade and agriculture</answer>
+</entry>

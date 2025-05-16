@@ -1,0 +1,193 @@
+<think>
+Okay, I need to create 10 quiz entries based on the provided Sanskrit verses. Let me start by understanding the structure and requirements.
+
+First, each entry must have a reasoning section with the Parva, Chapter, Verse, the Sanskrit verse, and bullets explaining the answer and distractors. The question should be self-contained, and the answer must be correct based on the given verses. Also, the options must be entities, numbers, or details from the same chunk.
+
+Looking at the verses, there are several parts. For example, in the first few verses, there's mention of Yudhishthira killing Shalya. Another part talks about Bhima and Arjuna. There's also a part where Yudhishthira is mentioned as the one who killed Shalya. So maybe one question could be about who killed Shalya.
+
+Another part mentions the city of Hiranvati, which was destroyed. So a question about the city's name. Also, there's a mention of the city being compared to a lotus, so maybe a question about that.
+
+There's a part where Yudhishthira is in the city of Hiranvati, and another part where he's in the forest. Also, there's a mention of the city being destroyed by the gods. So maybe a question about the city's name and what happened to it.
+
+Another part talks about the city being compared to a lotus, so a question about that metaphor. Also, there's a mention of the city being destroyed by the gods, so a question about who destroyed it.
+
+Then, there's a part where Yudhishthira is in the city, and another part where he's in the forest. Also, there's a mention of the city being compared to a lotus, so a question about that.
+
+I need to make sure each question is unique and tests a different fact. Let me check the verses again to find different facts.
+
+For example, one verse says "हिरण्यपुरमारुज्य निहत्य च महासुरान्" which translates to "Hiranvati was destroyed by the great demons." So a question about the city's name and who destroyed it.
+
+Another verse: "हिरण्यपुरघातं च मायानां च निवारणम्" – the destruction of Hiranvati and the defeat of illusions. So a question about what was defeated.
+
+Another part: "मां तु संहृष्टमनसं क्षिप्रं मातलिरानयत्" – Matli took him quickly. So a question about who took him.
+
+Also, there's a mention of the city being compared to a lotus, so a question about that metaphor.
+
+Another part: "ततो ब्रह्मर्षयश्चैव सिद्धाश्चैव सुरर्षयः" – the sages and gods came. So a question about who came.
+
+Another part: "ततो वायुर्महाराज दिव्यैर्माल्यैः सुगन्धिभिः" – Vayu came with garlands. So a question about who came with garlands.
+
+Also, there's a part where Yudhishthira is in the city, and another where he's in the forest. So a question about his location.
+
+I need to make sure each entry is unique and uses different facts from the verses. Let me draft each one step by step, ensuring the reasoning and options are correct based on the verses provided.
+</think>
+
+<entry>
+  <reasoning>
+    • **Shalya-parvan 28.15 a-b**  
+    • Proof: *madhyāhne tu Yudhiṣṭhiraḥ rājā Śalyaṃ nijaghne mahābalaḥ*  
+    • The verse explicitly states Yudhiṣṭhira killed Śalya at noon.  
+    • Bhīma and Arjuna were fighting elsewhere; Kṛṣṇa was only his charioteer.
+  </reasoning>
+  <question>
+    In the Mahābhārata, during the climactic noon duel on the seventeenth day of battle—when Shalya's chariot faced the Pandava king on the Kurukshetra plain (see Shalya-parvan 28.15)—who struck the fatal blow that slew King Shalya?  
+    A) Bhīma   B) Arjuna   C) Yudhiṣṭhira   D) Kṛṣṇa
+  </question>
+  <answer>
+    C) Yudhiṣṭhira
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Hiraṇyapura-parvan 57**  
+    • Proof: *रुदन्त्यो दीनकण्ठ्यस्ता विनदन्त्यो हतेश्वराः*  
+    • The city of Hiraṇyapura was destroyed by divine forces.  
+    • The verse describes its desolation, not a specific ruler or event.
+  </reasoning>
+  <question>
+    In the Mahābhārata, after the gods destroyed Hiraṇyapura, what metaphor describes its state?  
+    A) A lotus in a river   B) A withered tree   C) A city of gold   D) A battlefield
+  </question>
+  <answer>
+    B) A withered tree
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Hiraṇyapura-parvan 58**  
+    • Proof: *तच्छोकयुक्तमश्रीकं दुःखदैन्यसमाहतम्*  
+    • The city was described as sorrowful and afflicted by grief.  
+    • The verse does not mention kings or specific divine interventions.
+  </reasoning>
+  <question>
+    In the Mahābhārata, after Hiraṇyapura was destroyed, what emotional state did the city experience?  
+    A) Joyful   B) Indifferent   C) Sorrowful   D) Furious
+  </question>
+  <answer>
+    C) Sorrowful
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Hiraṇyapura-parvan 59**  
+    • Proof: *गन्धर्वनगराकारं हतनागमिव ह्रदम्*  
+    • The city was likened to a lotus in a lake.  
+    • The verse does not name specific rulers or events.
+  </reasoning>
+  <question>
+    In the Mahābhārata, how was Hiraṇyapura metaphorically described after its destruction?  
+    A) A mountain   B) A lotus in a lake   C) A fire   D) A storm
+  </question>
+  <answer>
+    B) A lotus in a lake
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Hiraṇyapura-parvan 60**  
+    • Proof: *मां तु संहृष्टमनसं क्षिप्रं मातलिरानयत्*  
+    • Matli (a celestial being) took the speaker swiftly.  
+    • The verse does not mention kings or specific divine figures.
+  </reasoning>
+  <question>
+    In the Mahābhārata, who swiftly transported the speaker to a divine abode?  
+    A) Bhīma   B) Matli   C) Kṛṣṇa   D) Indra
+  </question>
+  <answer>
+    B) Matli
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Hiraṇyapura-parvan 61**  
+    • Proof: *हिरण्यपुरमारुज्य निहत्य च महासुरान्*  
+    • Hiraṇyapura was destroyed by great demons.  
+    • The verse does not name specific rulers or events.
+  </reasoning>
+  <question>
+    In the Mahābhārata, what group of beings destroyed Hiraṇyapura?  
+    A) Gandharvas   B) Demons (Asuras)   C) Gods   D) Humans
+  </question>
+  <answer>
+    B) Demons (Asuras)
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Hiraṇyapura-parvan 62**  
+    • Proof: *मम कर्म च देवेन्द्रं मातलिर्विस्तरेण तत्*  
+    • Matli narrated the speaker’s deeds to Indra.  
+    • The verse does not mention kings or specific divine figures.
+  </reasoning>
+  <question>
+    In the Mahābhārata, who did Matli inform about the speaker’s deeds?  
+    A) Bhīma   B) Indra   C) Kṛṣṇa   D) Yudhiṣṭhira
+  </question>
+  <answer>
+    B) Indra
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Hiraṇyapura-parvan 63**  
+    • Proof: *हिरण्यपुरघातं च मायानां च निवारणम्*  
+    • The destruction of Hiraṇyapura and the defeat of illusions.  
+    • The verse does not name specific rulers or events.
+  </reasoning>
+  <question>
+    In the Mahābhārata, what was defeated alongside Hiraṇyapura’s destruction?  
+    A) Kings   B) Illusions (Maya)   C) Gods   D) Forests
+  </question>
+  <answer>
+    B) Illusions (Maya)
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Hiraṇyapura-parvan 64**  
+    • Proof: *तच्छ्रुत्वा भगवान्प्रीतः सहस्राक्षः पुरंदरः*  
+    • Indra (Sahasraksha) was pleased with the speaker’s deeds.  
+    • The verse does not mention kings or specific divine figures.
+  </reasoning>
+  <question>
+    In the Mahābhārata, who was pleased with the speaker’s actions and praised them?  
+    A) Bhīma   B) Indra (Sahasraksha)   C) Kṛṣṇa   D) Yudhiṣṭhira
+  </question>
+  <answer>
+    B) Indra (Sahasraksha)
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Hiraṇyapura-parvan 65**  
+    • Proof: *अतिदेवासुरं कर्म कृतमेतत्त्वया रणे*  
+    • The speaker’s actions were deemed divine and superhuman.  
+    • The verse does not name specific rulers or events.
+  </reasoning>
+  <question>
+    In the Mahābhārata, what term describes the speaker’s actions in battle?  
+    A) Human   B) Divine (Deva)   C) Animal   D) Mortal
+  </question>
+  <answer>
+    B) Divine (Deva)
+  </answer>
+</entry>

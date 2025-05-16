@@ -1,0 +1,104 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, looking at the text, it seems to be from the "Draupadi-Satyabhama Samvada Parva" (the dialogue between Draupadi and Satyabhama). The verses mention various events, characters, and descriptions of duties and virtues, especially related to women's roles and the Pandavas' household management.
+
+The user wants exactly five questions, each with a specific reference, and the answers must be based solely on the text. I need to ensure that each question is unique and covers different parts of the text.
+
+Let me go through the text again. The first part (verses 1-80) seems to be about the battle between the gods and the demons, with Mahishasura (the demon) being defeated by Skanda (Kartikeya). Then there's a part about Draupadi and Satyabhama discussing the duties of a wife, the importance of following one's husband, and the structure of the Pandava household.
+
+So, possible topics for questions could be:
+1. The defeat of Mahishasura by Skanda (from verses 52-79).
+2. The role of Draupadi in the Pandava household (verses 1-51).
+3. The duties of a wife as described by Draupadi (verses 17-36).
+4. The number of servants and resources under Yudhishthira (verses 40-48).
+5. The specific duties and responsibilities of a wife according to Draupadi (verses 17-36).
+
+Now, I need to make sure each question has the exact reference. For example, the defeat of Mahishasura is in the "Mahishasura Samhara" part, which is part of the "Santanu Parva" or "Karna Parva" depending on the edition. But since the user provided the text, I should use the specific verses mentioned.
+
+For the first question, the text mentions Mahishasura being defeated by Skanda. The correct answer would be Skanda (Kartikeya). The other options could be other deities like Indra, Shiva, or Vishnu.
+
+Second question: Draupadi's role in managing the household. The text mentions she follows her husband's commands, serves him, and manages the household. The answer would be that she serves her husband and follows his commands. Other options could be managing the army, leading battles, etc.
+
+Third question: The duties of a wife. The text lists several, like not eating before the husband, not wearing certain clothes, etc. The answer would be "Not eating before the husband" or similar.
+
+Fourth question: The number of servants. The text mentions "शतं दासीसहस्राणि" (1000 maids) and "शतं अश्वसहस्राणि" (1000 horses). So the answer would be 1000 maids and 1000 horses.
+
+Fifth question: The reason for a wife's obedience. The text says that a wife's duty is to follow her husband, as it's the eternal dharma. The answer would be "It is the eternal dharma of women."
+
+I need to check each verse to ensure the answers are directly from the text. Also, make sure the options are plausible but incorrect. For example, in the Mahishasura question, options could include other gods, but the correct answer is Skanda.
+
+Now, structuring each entry with the required XML format, ensuring the reasoning explains why the answer is correct and why others are not. Also, keeping the answer under 100 characters.
+
+Let me draft each question now.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the Mahishasura myth, a key episode in the Mahabharata. Skanda (Kartikeya) is explicitly described as the slayer of Mahishasura. Other options represent deities but not the specific hero of this narrative.
+  </reasoning>
+  <question>
+    In Mahabharata's Draupadi-Satyabhama Samvada Parva, which deity defeated the demon Mahishasura by striking him with a spear?
+    A) Indra
+    B) Shiva
+    C) Skanda
+    D) Vishnu
+  </question>
+  <answer>C) Skanda</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Draupadi's role as a model wife. The text explicitly states she follows her husband's commands and serves him. Other options misrepresent her duties as a household manager rather than a spiritual guide.
+  </reasoning>
+  <question>
+    In Mahabharata's Draupadi-Satyabhama Samvada Parva, what did Draupadi emphasize as the primary duty of a wife?
+    A) Managing armies
+    B) Leading battles
+    C) Serving her husband
+    D) Governing kingdoms
+  </question>
+  <answer>C) Serving her husband</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines specific household management details. The text explicitly mentions 1000 maids and 1000 horses under Yudhishthira's control. Other options use different numerical values not stated in the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Draupadi-Satyabhama Samvada Parva, how many maids and horses were maintained by Yudhishthira's household?
+    A) 500 maids and 500 horses
+    B) 1000 maids and 1000 horses
+    C) 500 maids and 1000 horses
+    D) 700 maids and 700 horses
+  </question>
+  <answer>B) 1000 maids and 1000 horses</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests understanding of marital duties. The text states a wife should not eat before her husband, a principle of deference. Other options misrepresent specific injunctions about food and clothing.
+  </reasoning>
+  <question>
+    In Mahabharata's Draupadi-Satyabhama Samvada Parva, what did Draupadi emphasize as a wife's duty regarding meals?
+    A) Eating with servants
+    B) Eating after her husband
+    C) Eating before her husband
+    D) Eating with other wives
+  </question>
+  <answer>B) Eating after her husband</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses knowledge of dharma as presented in the text. The passage states that a wife's dharma is to follow her husband, making this the only correct answer. Other options misinterpret the text's emphasis on spiritual devotion.
+  </reasoning>
+  <question>
+    In Mahabharata's Draupadi-Satyabhama Samvada Parva, what did Draupadi declare as the eternal dharma of women?
+    A) Governing kingdoms
+    B) Serving gods
+    C) Following their husbands
+    D) Leading armies
+  </question>
+  <answer>C) Following their husbands</answer>
+</entry>

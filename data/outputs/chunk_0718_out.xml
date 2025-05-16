@@ -1,0 +1,93 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, places, and specific references. The text seems to be from the "Devadoota" (Deva Doota) and "Yudhishthira Svargaarohana" (Yudhishthira's Ascent to Heaven) sections. There are references to Yudhishthira, Duryodhana, Bhima, Arjuna, Karna, Draupadi, and others. The verses mention places like the river Vaitarni, the path to hell, and the afterlife.
+
+For each question, I need to ensure the answer is explicitly stated in the text. Let's go through the text step by step.
+
+1. The first part mentions Yudhishthira asking about the location of his brothers and allies. He lists several warriors like Karna, Bhima, Arjuna, etc. So a question about who he asks to see could be formed.
+
+2. There's a mention of the river Vaitarni and the path to hell. The text says that the path is dark, filled with bones, and has a bad smell. So a question about the description of the path to hell.
+
+3. Yudhishthira is told by the deva (god) that he should go to heaven. The text includes a dialogue where the deva tells him to go to the path of the righteous. So a question about the deva's instruction.
+
+4. The text mentions that Yudhishthira's brothers and allies are in heaven. So a question about who he is told to see in heaven.
+
+5. There's a part where Yudhishthira is told that he should not be sad because he has done good deeds. So a question about the reason for his ascent to heaven.
+
+Now, I need to make sure each question has the correct reference, like the specific parva or adhyaya. However, the user didn't provide specific references, so I'll use the sections mentioned in the text, like "Devadoota" and "Yudhishthira Svargaarohana".
+
+Each question must have four options, with only one correct. The reasoning should explain why the correct answer is right and why others are wrong.
+
+Let me draft each question now, ensuring they are distinct and cover different parts of the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Yudhishthira's request to see his fallen brothers. The text explicitly lists warriors like Karna, Bhima, and Arjuna, while Duryodhana is a rival, not a brother. Draupadi is his wife, not a brother.
+  </reasoning>
+  <question>
+    In Mahabharata's Devadoota, which warrior does Yudhishthira ask to see in the afterlife?
+    A) Karna
+    B) Duryodhana
+    C) Draupadi
+    D) Bhishma
+  </question>
+  <answer>A) Karna</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the description of the path to hell. The text specifies it is dark, filled with bones, and has a foul smell. Other options describe heaven or neutral paths, which are not mentioned here.
+  </reasoning>
+  <question>
+    In Mahabharata's Devadoota, what characteristic is NOT described for the path to hell?
+    A) Filled with bones
+    B) Bright and luminous
+    C) Smells of decay
+    D) Dark and ominous
+  </question>
+  <answer>B) Bright and luminous</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Yudhishthira's instruction to ascend to heaven. The text states he must go to the path of the righteous, not the path of kings or warriors. The deva's role is central here.
+  </reasoning>
+  <question>
+    In Mahabharata's Yudhishthira Svargaarohana, who instructs Yudhishthira to ascend to heaven?
+    A) Drona
+    B) The deva (god)
+    C) Krishna
+    D) Bhishma
+  </question>
+  <answer>B) The deva (god)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Yudhishthira's companions in heaven. The text explicitly lists warriors like Karna and Bhima, while Draupadi is his wife. Duryodhana is a rival, not a companion.
+  </reasoning>
+  <question>
+    In Mahabharata's Yudhishthira Svargaarohana, who is NOT mentioned as being in heaven?
+    A) Karna
+    B) Draupadi
+    C) Bhima
+    D) Arjuna
+  </question>
+  <answer>B) Draupadi</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses Yudhishthira's reason for ascending to heaven. The text states it is due to his righteous deeds and adherence to dharma, not his wealth or military victories.
+  </reasoning>
+  <question>
+    In Mahabharata's Yudhishthira Svargaarohana, what is the primary reason given for Yudhishthira's ascent to heaven?
+    A) His wealth
+    B) His military victories
+    C) His adherence to dharma
+    D) His lineage
+  </question>
+  <answer>C) His adherence to dharma</answer>
+</entry>

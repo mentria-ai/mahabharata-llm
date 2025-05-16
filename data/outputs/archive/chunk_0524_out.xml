@@ -1,0 +1,149 @@
+<think>
+Okay, I need to create 10 high-quality question-answer pairs based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, the text seems to be a part of the Bhishma Parva, where Bhishma is discussing duties, virtues, and the importance of teachers and parents. There are verses about the superiority of teachers (guru) over parents, the importance of truth, and the concept of dharma. Also, there's a story about a king who becomes a goat (Gomaya) due to past karma, and a dialogue between Yudhishthira and Bhishma.
+
+For each question, I need to make sure it's standalone, doesn't refer to the passage, and includes necessary context. Let me pick specific elements from the text.
+
+1. The first part talks about the guru's superiority over parents. So a question about why the guru is considered higher. The answer should mention the verses where it's stated that the guru is greater than the father and mother, and the reasons given, like the guru's role in imparting knowledge and spiritual guidance.
+
+2. Another part mentions the story of the king who becomes a goat. So a question about that story. Need to explain that the king, due to past karma, was reborn as a goat and lived in a forest, highlighting the concept of karma and reincarnation.
+
+3. There's a verse about the importance of truth. A question could be about when it's permissible to speak falsehood. The answer would reference the verses where it's said that lying is acceptable if it prevents harm or protects others.
+
+4. The text also discusses the duties of a king. A question about the king's responsibilities, like protecting subjects and upholding dharma, based on the verses where Bhishma advises Yudhishthira.
+
+5. The concept of dharma is mentioned multiple times. A question about the definition of dharma according to the text, which includes non-violence, truth, and protecting others.
+
+6. There's a part about the importance of respecting teachers. A question could ask why teachers are to be honored, with the answer citing the verses that say teachers should be worshipped and respected as they guide one's spiritual growth.
+
+7. The story of Gomaya includes his transformation. A question about the cause of his transformation, which is past karma, and his life as a goat, showing the consequences of past actions.
+
+8. The text mentions that even gods are pleased by the respect given to parents. A question about this, explaining that parents are seen as equivalent to gods, and their respect is crucial for spiritual progress.
+
+9. There's a verse about the importance of not harming others. A question could be about the principle of non-violence (ahimsa) and how it's emphasized as a key aspect of dharma.
+
+10. The story of the king's transformation also includes his life in the forest. A question about his daily life as a goat, which involved eating fruits and living in harmony with nature, reflecting the idea of simplicity and detachment.
+
+I need to ensure each question is self-contained, with context provided in the question. Also, check that all answers are based on the text and don't add external information. For example, when mentioning Gomaya, explain he's a king reborn as a goat. For the guru's role, explain why they are considered higher than parents. Make sure each answer has the necessary details from the text.
+</think>
+
+<entry>
+  <reasoning>
+    The text emphasizes the supreme importance of teachers (gurus) over parents, stating that no one is greater than a guru. This is explicitly mentioned in verses 16-23, where it's argued that gurus guide spiritual and moral growth, while parents provide physical life. The question needs to highlight this hierarchy and its reasoning.
+  </reasoning>
+  <question>
+    In the Mahabharata, why is a teacher (guru) considered superior to both parents, and what specific qualities make them the highest authority in spiritual and moral guidance?
+  </question>
+  <answer>
+    In the Mahabharata, a teacher (guru) is deemed superior to parents because they impart knowledge that leads to spiritual liberation. Verses state that a guru's guidance is essential for understanding dharma (righteousness) and achieving enlightenment. While parents provide physical life, the guru nurtures the soul through wisdom, making them the ultimate authority in matters of morality and spiritual growth.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The story of Gomaya (the goat-king) is a metaphor for karma and reincarnation. The text describes a king who, due to past misdeeds, is reborn as a goat and lives in a forest. This illustrates the concept of karmic consequences and the cyclical nature of life.
+  </reasoning>
+  <question>
+    What does the story of Gomaya (the goat-king) in the Mahabharata teach about karma and the consequences of past actions?
+  </question>
+  <answer>
+    The story of Gomaya, a king reborn as a goat, illustrates the concept of karma. His transformation into an animal reflects the consequences of past misdeeds, emphasizing that actions in one life determine future rebirths. Gomaya's life as a goat, eating fruits and living in harmony with nature, symbolizes the need for repentance and the cyclical nature of existence, where spiritual growth is essential to break the cycle of suffering.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text addresses when lying is permissible, stating that falsehood is acceptable if it prevents harm or protects others. This is highlighted in verses discussing the moral dilemma of truth versus compassion.
+  </reasoning>
+  <question>
+    Under what circumstances does the Mahabharata allow lying, and what ethical principle supports this exception?
+  </question>
+  <answer>
+    The Mahabharata permits lying when it prevents harm or protects others, such as in cases of self-defense or to safeguard lives. This exception is rooted in the principle of "dharma," where the greater good and non-violence (ahimsa) take precedence over strict truthfulness. For example, lying to prevent a crime or protect a vulnerable person is deemed morally justified.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text outlines the duties of a king, including protecting subjects and upholding dharma. Bhishma advises Yudhishthira on these responsibilities, emphasizing justice and moral leadership.
+  </reasoning>
+  <question>
+    What are the key responsibilities of a king according to the Mahabharata, and how do these duties reflect the concept of dharma?
+  </question>
+  <answer>
+    A king's primary duties in the Mahabharata include protecting subjects, upholding justice, and ensuring dharma (righteousness). These responsibilities reflect the idea that a ruler must prioritize the welfare of their people, maintain social order, and act as a moral guide. Bhishma advises Yudhishthira that a king's actions should align with spiritual and ethical principles to sustain harmony and prevent chaos.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text defines dharma as non-violence, truth, and protecting others. This is emphasized in verses where dharma is described as the foundation of all actions and the path to spiritual liberation.
+  </reasoning>
+  <question>
+    How does the Mahabharata define dharma, and what are its core principles as outlined in the text?
+  </question>
+  <answer>
+    The Mahabharata defines dharma as the moral and ethical duties that sustain cosmic and social order. Its core principles include non-violence (ahimsa), truthfulness, protecting the vulnerable, and upholding justice. Dharma is portrayed as the foundation of all actions, guiding individuals to act in ways that promote harmony, spiritual growth, and the well-being of all beings.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text stresses the importance of respecting teachers, stating that they should be worshipped and honored. This is tied to their role in imparting knowledge and guiding spiritual progress.
+  </reasoning>
+  <question>
+    Why are teachers (gurus) to be honored and respected in the Mahabharata, and what specific duties does the text assign to students in this regard?
+  </question>
+  <answer>
+    Teachers (gurus) are honored in the Mahabharata because they guide students toward spiritual and intellectual growth. The text mandates that students must show reverence through service, obedience, and gratitude. It emphasizes that gurus should be treated as divine, as their teachings are essential for achieving enlightenment and fulfilling one's life's purpose.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes the story of Gomaya's transformation due to past karma, highlighting the consequences of past actions. This is a key example of karmic retribution in the Mahabharata.
+  </reasoning>
+  <question>
+    What caused the king Gomaya to be reborn as a goat, and how does this story illustrate the concept of karmic retribution in the Mahabharata?
+  </question>
+  <answer>
+    Gomaya was reborn as a goat due to his past misdeeds, which the text attributes to karmic retribution. This story illustrates that actions in previous lives determine future rebirths, emphasizing the need for moral conduct. Gomaya's life as a goat, marked by simplicity and detachment, serves as a lesson on the importance of repentance and spiritual growth to escape the cycle of suffering.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text states that parents are equated with gods, and their respect is crucial for spiritual progress. This is mentioned in verses where it's said that gods are pleased by honoring parents.
+  </reasoning>
+  <question>
+    How does the Mahabharata equate parents to gods, and what spiritual significance does this hold?
+  </question>
+  <answer>
+    The Mahabharata equates parents to gods because they are seen as the source of life and the foundation of dharma. Honoring parents is considered a divine duty, as their care and guidance are essential for a person's moral and spiritual development. The text states that gods are pleased when parents are respected, highlighting their role as intermediaries between humans and the divine.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text emphasizes non-violence (ahimsa) as a key aspect of dharma, stating that harming others is a grave sin. This is tied to the broader ethical framework of the Mahabharata.
+  </reasoning>
+  <question>
+    What role does non-violence (ahimsa) play in the Mahabharata's ethical teachings, and how is it connected to the concept of dharma?
+  </question>
+  <answer>
+    Non-violence (ahimsa) is a cornerstone of the Mahabharata's ethical teachings, representing the highest form of dharma. The text teaches that harming any living being is a sin, and compassion for all creatures is essential for spiritual purity. This principle is linked to dharma as the path of righteousness, where actions must align with universal harmony and the well-being of all beings.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The story of Gomaya's life in the forest illustrates the importance of simplicity and detachment. The text describes his daily routine of eating fruits and living in harmony with nature.
+  </reasoning>
+  <question>
+    What does the Mahabharata suggest about the ideal lifestyle for spiritual growth, based on the story of Gomaya's life in the forest?
+  </question>
+  <answer>
+    The Mahabharata suggests that simplicity and detachment from material desires are essential for spiritual growth. Gomaya's life in the forest, where he ate fruits and lived in harmony with nature, exemplifies the value of minimalism and self-restraint. This lifestyle allows individuals to focus on inner peace and spiritual enlightenment, free from worldly distractions.
+  </answer>
+</entry>

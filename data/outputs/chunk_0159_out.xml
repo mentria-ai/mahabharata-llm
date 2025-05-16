@@ -1,0 +1,103 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, the text seems to be from the Bhishma Parva, specifically the section discussing the end of the Kali Yuga and the arrival of Kalki. There are verses about the decline of dharma, the rise of Kalki, and the restoration of order. Also, there's a story about a king and a frog (Manduka) which might be from the Markandeya Purana part.
+
+For each question, I need to make sure the answer is directly from the text. Let's go through the verses.
+
+Verse 89 mentions Kalki, son of Vishnu, born in a Brahmin's house. So a question about Kalki's parentage. The options would be different parents, but the text says "Brahmana vasathe" (in a Brahmin's house). So the answer is Brahmin.
+
+Another part talks about the end of the Yuga, where people become cruel, and the world is filled with chaos. Verse 57-62 describe this. So a question about the characteristics of the end of the Yuga. The options could be about people's behavior, like being cruel, stealing, etc.
+
+Then, there's the story of the king and the frog. The king is angry at the frog, but the frog's king (Manduka) advises him. The king's name is Parikshita, and the frog's name is Manduka. So a question about the king's name in that story.
+
+Another part mentions the arrival of Kalki, who will destroy the wicked. So a question about Kalki's role. The answer would be destroying the wicked.
+
+Also, there's a part where the king is in a forest, and there's a well (vapī) where the queen doesn't bathe. The king gets angry and orders to kill all frogs, but the frog king intervenes. So a question about the reason for the king's anger.
+
+I need to make sure each question is specific, with the correct reference. Let me check the verses again to confirm.
+
+For example, verse 89: "Kalki Vishnu's name, born in a Brahmin's house." So the question would be about Kalki's parentage. The answer is Brahmin.
+
+Another verse: "When the Yuga ends, people become cruel and steal." So the question about the characteristics of the end of the Yuga.
+
+The Manduka story: The king's name is Parikshita, and the frog's name is Manduka. So a question about the king's name in the Manduka story.
+
+Kalki's role: "He will destroy the wicked." So the answer is destroying the wicked.
+
+The king's anger: Because the queen didn't bathe in the well. So the question about the reason for the king's anger.
+
+Now, I need to structure each entry with the reasoning, question, and answer. Make sure the options are plausible but incorrect. For example, for Kalki's parentage, options could be Kshatriya, Vaishya, Shudra, Brahmin. Correct is Brahmin.
+
+Check that each question is from different parts of the text. Avoid repetition. Ensure the answers are directly from the text without adding external info.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Kalki's lineage as described in the text. The verse explicitly states Kalki was born in a Brahmin's house, contrasting with other varnas. Other options represent common varna categories but are incorrect per the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 89), what was Kalki's parentage according to the text?
+    A) Kshatriya
+    B) Vaishya
+    C) Shudra
+    D) Brahmin
+  </question>
+  <answer>D) Brahmin</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses understanding of societal collapse at Yuga's end. The text describes people abandoning dharma, stealing, and committing violence. Other options represent partial truths but miss the core description of moral decay.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verses 57-62), what characteristic defined people at the Yuga's end?
+    A) Increased charity
+    B) Moral decay and violence
+    C) Religious revival
+    D) Agricultural prosperity
+  </question>
+  <answer>B) Moral decay and violence</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests recognition of the king's name in the Manduka story. The text explicitly names him as Parikshita, while other options are common names but not the correct reference.
+  </reasoning>
+  <question>
+    In Mahabharata's Markandeya Purana (story of Manduka), what was the king's name who ordered frog extermination?
+    A) Yudhishthira
+    B) Parikshita
+    C) Dhritarashtra
+    D) Karna
+  </question>
+  <answer>B) Parikshita</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question evaluates knowledge of Kalki's role. The text states he will destroy wickedness, while other options represent partial truths but miss his primary function.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 91), what was Kalki's primary role according to the text?
+    A) Establishing new dharma
+    B) Destroying the wicked
+    C) Rebuilding cities
+    D) Ending all wars
+  </question>
+  <answer>B) Destroying the wicked</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests comprehension of the king's motivation in the Manduka story. The text states he was angered by the queen's refusal to bathe in the well, while other options represent plausible but incorrect reasons.
+  </reasoning>
+  <question>
+    In Mahabharata's Markandeya Purana (Manduka story), why did the king order frog extermination?
+    A) Frogs disrupted rituals
+    B) Queen refused to bathe in a well
+    C) Frogs caused crop damage
+    D) Frogs were cursed
+  </question>
+  <answer>B) Queen refused to bathe in a well</answer>
+</entry>

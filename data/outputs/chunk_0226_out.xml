@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create 5 multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look through the verses to identify key elements. The text seems to be from the Sabha Parva, as it mentions Vidura and Dhritarashtra. There are references to virtues, duties, and teachings about conduct, like the importance of truth, non-violence, and the qualities of a good person. 
+
+For the first question, I notice verses about the qualities of a good person. Verse 16 mentions "sathyavadi mridu" (truthful and gentle). So a question about the qualities of a good person would work. The options could include different virtues, with the correct answer being truthfulness and gentleness.
+
+Next, looking for another section. Verse 23 talks about the seven virtues that define a great family (mahakulani). The answer here would be the seven virtues: tapas (austerity), dama (self-control), brahmatvam (knowledge of Brahman), punya (merit), vivaha (marriage), satata annadana (constant charity). So the question would be about what defines a great family, with the correct answer being these seven virtues.
+
+Another part is about the qualities of a good leader. Verse 50 mentions that wisdom comes from austerity, knowledge from service to the guru, and peace from renunciation. So a question about the sources of wisdom, knowledge, and peace would fit here. The options would be different sources, with the correct answer being austerity, service, and renunciation.
+
+Looking for another section, verse 63 mentions that families grow through mutual support. The question could be about what helps families thrive, with the answer being mutual support and reliance on each other.
+
+Lastly, verse 70 talks about the Kauravas and Pandavas. The question could be about the advice given to the Kauravas, with the answer being to protect the Pandavas and their sons.
+
+I need to make sure each question is specific, includes the correct reference, and the options are plausible but only one correct. Also, check that all information is explicitly from the text. Avoid adding any external knowledge. Each answer should be under 100 characters. Let me structure each entry accordingly.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests understanding of key virtues emphasized in the Mahabharata. Verse 16 explicitly states that a great person (uttama-purusha) is truthful (satyavadi) and gentle (mridu). Other options represent common virtues but are not directly linked to the "uttama-purusha" definition in the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Sabha Parva (verse 16), which quality is specifically described as essential for an "uttama-purusha" (superior person)?
+    A) Wealth
+    B) Truthfulness and gentleness
+    C) Military prowess
+    D) Royal lineage
+  </question>
+  <answer>B) Truthfulness and gentleness</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses knowledge of the Mahabharata's definition of "mahakulani" (great families). Verse 23 explicitly lists seven virtues: tapas, dama, brahmatvam, punya, vivaha, satata annadana. Other options represent partial truths but miss the specific sevenfold definition.
+  </reasoning>
+  <question>
+    In Mahabharata's Sabha Parva (verse 23), what defines "mahakulani" (great families)?
+    A) Wealth and land
+    B) Seven virtues including austerity and charity
+    C) Military strength
+    D) Royal ancestry
+  </question>
+  <answer>B) Seven virtues including austerity and charity</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the Mahabharata's teachings on wisdom and knowledge. Verse 50 directly states that wisdom comes from austerity, knowledge from guru-service, and peace from renunciation. Other options represent common virtues but lack textual support for this specific triad.
+  </reasoning>
+  <question>
+    In Mahabharata's Sabha Parva (verse 50), which three sources are explicitly linked to wisdom, knowledge, and peace?
+    A) Wealth, education, and power
+    B) Austerity, guru-service, and renunciation
+    C) Military training, diplomacy, and wealth
+    D) Religious rituals, family honor, and tradition
+  </question>
+  <answer>B) Austerity, guru-service, and renunciation</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests understanding of familial relationships in the Mahabharata. Verse 63 explicitly states that families thrive through mutual support (anyonya-upasraya). Other options represent common values but miss the specific emphasis on interdependence in the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Sabha Parva (verse 63), what factor is said to help families grow and prosper?
+    A) Individual ambition
+    B) Mutual support and reliance
+    C) Military dominance
+    D) Religious devotion
+  </question>
+  <answer>B) Mutual support and reliance</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses knowledge of the Mahabharata's advice to the Kauravas. Verse 70 explicitly commands the Kauravas to protect the Pandavas and their sons. Other options represent partial truths but miss the specific directive in the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Sabha Parva (verse 70), what specific advice is given to the Kauravas regarding the Pandavas?
+    A) Compete in games
+    B) Protect the Pandavas and their sons
+    C) Avoid contact
+    D) Destroy their wealth
+  </question>
+  <answer>B) Protect the Pandavas and their sons</answer>
+</entry>

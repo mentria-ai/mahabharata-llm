@@ -1,0 +1,91 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text. The verses seem to discuss dharma, karma, and the duties of different varnas (social classes). There's mention of kings, brahmins, and the importance of following one's svadharma (own duty). Also, there are references to ahimsa (non-violence), truth, and the consequences of actions.
+
+First, I should identify specific sections. The text includes verses like "कृषिगोरक्ष्यवाणिज्यमिह लोकस्य जीवनम्" which talks about the livelihood of the people. Then there's "कर्म शूद्रे कृषिर्वैश्ये सङ्ग्रामः क्षत्रिये स्मृतः" about the duties of different varnas. Also, "अहिंसा परमो धर्मः" is a key verse about non-violence.
+
+For the first question, maybe focus on the duties of different varnas. The verse says "कर्म शूद्रे कृषिर्वैश्ये सङ्ग्रामः क्षत्रिये स्मृतः" which translates to "The karma of a Shudra is agriculture, of a Vaishya trade, and of a Kshatriya warfare." So the question could be about what is the duty of a Kshatriya. The answer would be warfare, and the options would include other varnas' duties.
+
+Second question: The verse "अहिंसा परमो धर्मः" states non-violence as the highest dharma. So a question about the highest dharma according to the text. Options would include other dharmas like truth, but the correct answer is non-violence.
+
+Third question: The text mentions "स्वकर्म त्यजतो ब्रह्मन्नधर्म इह दृश्यते" which means abandoning one's own duty leads to adharma. So the question could be about the consequence of abandoning one's svadharma. The answer would be adharma, with other options like karma or dharma.
+
+Fourth question: The verse "शिष्टाचारे मनः कृत्वा प्रतिष्ठाप्य च सर्वशः" talks about the importance of conduct. So a question about the key elements of shishtachara (good conduct). The answer would include yajna, dana, tapas, and satya, but the options need to be specific.
+
+Fifth question: The text says "कर्म चैतदसाधूनां वृजिनानामसाधुवत्" which refers to the actions of the wicked. So the question could be about the nature of actions of the wicked. The answer would be that they act without dharma, and options would include other aspects like karma or ahimsa.
+
+I need to make sure each question has the exact reference, like the verse numbers. Also, check that the options are plausible but incorrect. For example, in the first question, options could be agriculture, trade, warfare, and charity. The correct answer is warfare for Kshatriya.
+
+I should also verify that the answers are directly from the text. For example, "अहिंसा परमो धर्मः" is explicitly stated, so that's the correct answer. Other options like "truth" or "dharma" are not the highest according to the text.
+
+Each question must be unique and cover different parts of the text. Let me structure each entry with the reasoning, question, and answer as per the example.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests understanding of varna duties as per the text. The verse explicitly assigns agriculture to Shudras, trade to Vaishyas, and warfare to Kshatriyas. Other options represent duties of different varnas but not the Kshatriya's.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (verse 24), what is the prescribed duty (karma) of a Kshatriya according to the text?
+    A) Agriculture
+    B) Trade
+    C) Warfare
+    D) Brahminical studies
+  </question>
+  <answer>C) Warfare</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the text's emphasis on ahimsa (non-violence) as the supreme dharma. The verse directly states "Ahimsa paramo dharma" while other options represent important but secondary values mentioned elsewhere in the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (verse 69), what does the text declare as the highest (paramo) dharma?
+    A) Truth
+    B) Non-violence
+    C) Charity
+    D) Sacrifice
+  </question>
+  <answer>B) Non-violence</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the text's teaching about abandoning one's svadharma. The verse explicitly states that abandoning one's duty leads to adharma, while other options represent related but incorrect consequences.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (verse 15), what consequence does the text warn about for abandoning one's svadharma (own duty)?
+    A) Loss of wealth
+    B) Adharma
+    C) Rebirth as an animal
+    D) Social disgrace
+  </question>
+  <answer>B) Adharma</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the four essential elements of shishtachara (good conduct) as defined in the text. The verse explicitly lists yajna, dana, tapas, and satya as the four pillars, while other options represent partial elements.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (verse 57), what four elements are identified as the foundation of shishtachara (good conduct)?
+    A) Yajna, dana, tapas, and ahimsa
+    B) Yajna, dana, tapas, and satya
+    C) Yajna, dana, ahimsa, and satya
+    D) Yajna, dana, tapas, and kshama
+  </question>
+  <answer>B) Yajna, dana, tapas, and satya</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses understanding of the text's view on the actions of the wicked. The verse explicitly states that the wicked act without dharma, while other options represent partial truths or unrelated concepts.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (verse 44), what characteristic defines the actions of the wicked (asadhunam)?
+    A) They act with excessive compassion
+    B) They act without dharma
+    C) They seek wealth
+    D) They follow rituals
+  </question>
+  <answer>B) They act without dharma</answer>
+</entry>

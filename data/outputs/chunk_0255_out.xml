@@ -1,0 +1,93 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, teachings, and specific references. The text seems to be from the "Vidura-Niti" section, which is part of the Mahabharata's Shanti Parva. It's a dialogue between Vidura and his son, discussing dharma, kingship, and moral duties. There are references to different varnas (Brahmins, Kshatriyas, Vaishyas, Shudras) and their duties, as well as advice on leadership and righteousness.
+
+For each question, I need to ensure that the answer is explicitly stated in the text. Let me go through the text again to pick out specific verses.
+
+1. The first part mentions "Brahmana pracharedbhaiksam" (Brahmins should beg), "Kshatriya paripalayet" (Kshatriyas should protect), "Vaishya dhanarjana" (Vaishyas should earn wealth), and "Shudra paricaret" (Shudras should serve). This is a clear teaching about varna duties. So a question about the duties of each varna would be good.
+
+2. There's a verse about "Dana, Tapas, Dharma" (charity, austerity, righteousness) being the means to achieve greatness. So a question about the three means to greatness.
+
+3. Another part talks about "Yajna, Dana, Tapas" (yajna, charity, austerity) as the three pillars of dharma. So a question on the three pillars of dharma.
+
+4. The text includes advice to kings to uphold dharma and not let their kingdom suffer. So a question about the advice to kings regarding dharma.
+
+5. There's a mention of "Kshatriya" being the one who should protect and not beg, contrasting with Brahmins. So a question about who should not beg and why.
+
+I need to make sure each question has the exact reference. The text has verses numbered, so I can use those. For example, verse 28 mentions the duties of each varna. Verse 22 talks about the three means. Verse 24 mentions yajna, dana, tapas. Verse 30 advises kings. Verse 29 talks about Kshatriya's role.
+
+Now, I'll structure each entry with the reasoning, question, and answer. Ensure that the options are plausible but only one is correct. Also, check that the answers are under 100 characters.
+
+Let me draft each one step by step, making sure they are distinct and cover different parts of the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of varna duties as outlined in the Mahabharata. The text explicitly states that Brahmins should beg (bhiksha), Kshatriyas protect, Vaishyas earn wealth, and Shudras serve. Other options represent roles of different varnas but misattribute their duties.
+  </reasoning>
+  <question>
+    In Mahabharata's Vidura-Niti (verse 28), what duty is prescribed for Brahmins according to the text?
+    A) Protect the kingdom
+    B) Earn wealth through trade
+    C) Beg for sustenance
+    D) Serve the king
+  </question>
+  <answer>C) Beg for sustenance</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the three pillars of dharma mentioned in the text. The passage explicitly lists yajna (sacrifice), dana (charity), and tapas (austerity) as essential for righteousness. Other options represent related but distinct concepts.
+  </reasoning>
+  <question>
+    In Mahabharata's Vidura-Niti (verse 22), which three practices are described as eternal means of spiritual merit?
+    A) Yajna, Dharma, and Ahimsa
+    B) Yajna, Dana, and Tapas
+    C) Yajna, Dharma, and Dana
+    D) Yajna, Tapas, and Ahimsa
+  </question>
+  <answer>B) Yajna, Dana, and Tapas</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses understanding of the text's advice to kings. The passage explicitly warns against letting the kingdom suffer due to personal weakness, emphasizing royal duty. Other options represent related but incorrect interpretations of the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Vidura-Niti (verse 30), what warning is given to kings about their responsibilities?
+    A) Avoid all warfare
+    B) Prioritize personal wealth
+    C) Let the kingdom suffer due to weakness
+    D) Never seek counsel from advisors
+  </question>
+  <answer>C) Let the kingdom suffer due to weakness</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the text's teachings on Kshatriya conduct. The passage explicitly states that Kshatriyas should not beg but instead protect and maintain their strength. Other options represent roles of different varnas but misattribute the text's message.
+  </reasoning>
+  <question>
+    In Mahabharata's Vidura-Niti (verse 29), what is prohibited for Kshatriyas according to the text?
+    A) Giving charity
+    B) Begging for sustenance
+    C) Engaging in trade
+    D) Serving Brahmins
+  </question>
+  <answer>B) Begging for sustenance</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the text's emphasis on righteous leadership. The passage explicitly states that kings should uphold dharma and avoid actions that harm their people. Other options represent related but incorrect interpretations of the text's message.
+  </reasoning>
+  <question>
+    In Mahabharata's Vidura-Niti (verse 32), what is the primary duty emphasized for rulers?
+    A) Accumulate wealth
+    B) Uphold dharma and protect subjects
+    C) Seek personal pleasure
+    D) Avoid all conflicts
+  </question>
+  <answer>B) Uphold dharma and protect subjects</answer>
+</entry>

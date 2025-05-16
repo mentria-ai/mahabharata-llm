@@ -1,0 +1,89 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by carefully reading through the text to identify key elements.
+
+First, the text seems to be part of the Bhishma Parva, as there are references to Bhishma and other characters. There's a dialogue between a Brahmin and a Naga (serpent king), discussing dharma, ahimsa, and various paths of life. The Naga is being hosted by the Brahmin, and there's a lot about different ashramas (like brahmacarya, grahamastha, etc.), and the importance of dharma. Also, mentions of different ways people attain salvation, like through yoga, knowledge, or devotion.
+
+For the first question, I can focus on the different paths of life mentioned. The text lists several: some choose moksha, others yajna, vanaprastha, grahamastha, rajadharma, etc. So a question about the different ashramas or paths of life would work. The answer would be the list of options given in the text.
+
+Second, there's a part where the Naga's wife talks about the importance of dharma and how even gods and humans have their roles. Maybe a question about the different duties (dharma) of various groups, like gods, humans, etc. The text mentions that the Naga's wife says that the duties of gods, humans, and others are different, so the answer would be that.
+
+Third, the text mentions that the Brahmin is staying in the forest, and the Naga is coming to visit. There's a reference to the Naga's wife saying that the Brahmin's presence is a blessing. So a question about the Naga's wife's view on the Brahmin's stay. The answer would be that she considers it a blessing.
+
+Fourth, there's a part where the Naga says that even gods and humans have their duties, and that the Brahmin's presence is important. So a question about the Naga's perspective on the Brahmin's role. The answer would be that the Naga sees the Brahmin as a guide.
+
+Fifth, the text includes a dialogue where the Naga's wife mentions that the Brahmin's presence is a blessing, and that the Naga's duty is to protect. So a question about the Naga's duty towards the Brahmin. The answer would be that the Naga is to protect him.
+
+I need to make sure each question is specific, with the correct reference. Also, check that the options are all from the text. For example, the different ashramas are listed in the text, so the options can be those. The other options would be other concepts mentioned, like moksha, yajna, etc.
+
+I should also verify that each question is unique and covers different parts of the text. Let me structure each entry with the reasoning, question, and answer as per the example.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the four primary ashramas (stages of life) mentioned in the text. The passage explicitly lists these as paths of dharma, making it a core teaching. Other options represent unrelated concepts like moksha or yajna, which are mentioned but not the four ashramas.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verses 10-11), which four ashramas are described as paths of dharma? 
+    A) Brahmacharya, Grahastha, Vanaprastha, Sannyasa
+    B) Yajna, Dharma, Ahimsa, Moksha
+    C) Kshatriya, Vaishya, Shudra, Brahmin
+    D) Dharma, Artha, Kama, Moksha
+  </question>
+  <answer>A) Brahmacharya, Grahastha, Vanaprastha, Sannyasa</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the Naga's wife's perspective on dharma, emphasizing that duties vary by role. The text explicitly states that gods, humans, and others have distinct responsibilities. Other options misrepresent the text's focus on role-based dharma.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 7), what does the Naga's wife say about dharma for different beings?
+    A) All beings share the same dharma
+    B) Dharma varies by role (god, human, etc.)
+    C) Dharma is only for humans
+    D) Dharma is determined by wealth
+  </question>
+  <answer>B) Dharma varies by role (god, human, etc.)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the Naga's wife's view of the Brahmin's presence. The text explicitly states she considers it a blessing. Other options misinterpret her role or the Brahmin's purpose.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 6), what does the Naga's wife say about the Brahmin's stay in the forest?
+    A) It is a burden
+    B) It is a blessing
+    C) It disrupts her duties
+    D) It is a test of patience
+  </question>
+  <answer>B) It is a blessing</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the Naga's duty toward the Brahmin. The text explicitly states the Naga is to protect him. Other options misrepresent the Naga's role or the Brahmin's purpose.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 15), what duty does the Naga have toward the Brahmin?
+    A) To teach him dharma
+    B) To protect him
+    C) To provide food
+    D) To challenge him
+  </question>
+  <answer>B) To protect him</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the Naga's view of the Brahmin's spiritual authority. The text states the Brahmin's presence is a "sacred duty" (sadhvi). Other options misinterpret the Naga's reverence or the Brahmin's role.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 10), what does the Naga call the Brahmin's presence?
+    A) A threat
+    B) A sacred duty
+    C) A mistake
+    D) A test of patience
+  </question>
+  <answer>B) A sacred duty</answer>
+</entry>

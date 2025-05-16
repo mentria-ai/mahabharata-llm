@@ -1,0 +1,152 @@
+<think>
+Okay, I need to create 10 high-quality question-answer pairs based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I notice that the text includes verses from the Mahabharata, specifically parts where Bhishma and Janaka are discussing dharma, karma, and spiritual teachings. There are references to concepts like dharma, karma, moksha, and various virtues like truth, patience, and self-control. Also, there's a dialogue between Bhishma and Janaka, and later a conversation between Yudhishthira and Bhishma about the nature of dharma. The text also mentions the story of the swan (hansa) and the sages, which might be a specific episode.
+
+Now, I need to make sure each question is standalone, doesn't refer to the passage, and includes necessary context. Let me go through the verses again to pick out specific elements.
+
+For example, verse 29 mentions that the soul is liberated through good deeds. Another part talks about the importance of dharma and the consequences of actions. There's a mention of the swan (hansa) and the sages (sadhya) in the later part. Also, the concept of moksha (liberation) is discussed.
+
+I should create questions on these points. Let's start with the first one. The user wants diverse styles: factual, "did you know," detective, philosophical.
+
+First question: Factual about the soul's liberation through good deeds. The answer would reference verse 29.
+
+Second: "Did you know" about the swan and sages. The text has a story where the swan (hansa) interacts with sages (sadhya), so that's a good point.
+
+Third: Detective-style question about why the soul is bound. The text mentions that actions (karma) bind the soul, so the answer would explain that.
+
+Fourth: Philosophical on the nature of dharma. The text says dharma is the foundation for humans, so that's a good question.
+
+Fifth: Factual about the importance of truth and patience. The text lists these as virtues.
+
+Sixth: "Did you know" about the swan's story. The text has the swan's dialogue with the sages.
+
+Seventh: Detective on the consequences of not following dharma. The text says that those who neglect dharma are bound.
+
+Eighth: Philosophical on the role of self-control. The text mentions that self-control leads to liberation.
+
+Ninth: Factual about the four doors (dwaras) of a person. The text mentions four doors (eyes, mouth, etc.) that should be guarded.
+
+Tenth: "Did you know" about the importance of moksha. The text emphasizes moksha as the ultimate goal.
+
+I need to make sure each question is self-contained, with context. For example, when mentioning the swan, I should explain it's a symbolic story. Also, check that all answers are based on the text provided, not external knowledge.
+
+Now, structure each entry with reasoning, question, and answer. Ensure the answers have context and are supported by the text. Avoid vague references. Use specific verses where possible.
+</think>
+
+<entry>
+  <reasoning>
+    The text emphasizes the importance of dharma and good deeds for liberation. Verse 29 explicitly states that the soul is liberated through virtuous actions. This question tests factual understanding of the text's core teaching.
+  </reasoning>
+  <question>
+    According to the Mahabharata, what determines whether a soul achieves liberation (moksha) in its next life?
+  </question>
+  <answer>
+    The text states that a soul achieves liberation through "shubh lakshana" (good qualities) and virtuous actions. Verse 29 explains that those who perform good deeds and follow dharma are freed from the cycle of rebirth, while those who neglect dharma remain bound.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The story of the swan (hansa) and sages (sadhya) is a symbolic narrative in the text. This question highlights an unusual teaching about spiritual growth through humility and self-awareness.
+  </reasoning>
+  <question>
+    What lesson does the Mahabharata teach through the story of the swan (hansa) and sages (sadhya)?
+  </question>
+  <answer>
+    The text describes a dialogue where the swan (hansa) and sages (sadhya) discuss spiritual truths. The swan symbolizes the soul seeking liberation, while the sages represent wise teachers. The story emphasizes that true wisdom comes from self-realization and detachment from worldly desires, not just ritualistic practices.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text explicitly connects neglect of dharma to spiritual bondage. This question explores the consequences of ethical failure, a central theme in the Mahabharata.
+  </reasoning>
+  <question>
+    According to the Mahabharata, what happens to a person who fails to uphold dharma (moral duty)?
+  </question>
+  <answer>
+    The text states that neglecting dharma binds the soul to the cycle of rebirth. Verse 34 explains that those who abandon dharma and pursue selfish desires become trapped in worldly attachments, while those who follow dharma achieve spiritual freedom.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text lists specific virtues like truth (satya), patience (kshama), and self-control (dama) as essential for spiritual progress. This question tests knowledge of these key teachings.
+  </reasoning>
+  <question>
+    What three virtues does the Mahabharata identify as foundational for achieving spiritual growth?
+  </question>
+  <answer>
+    The text emphasizes "satya" (truth), "kshama" (patience), and "dama" (self-control) as essential virtues. These are highlighted in verses discussing the qualities of a wise person, who must guard their speech, mind, and actions to attain moksha.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text's metaphor of the soul as a "swan" (hansa) is a rare and symbolic teaching. This question draws attention to an unusual but significant concept in the Mahabharata.
+  </reasoning>
+  <question>
+    What unique metaphor does the Mahabharata use to describe the soul's journey toward liberation?
+  </question>
+  <answer>
+    The Mahabharata compares the soul to a "hansa" (swan), which symbolizes spiritual purity and the ability to transcend worldly attachments. This metaphor appears in a dialogue where the swan explains that true liberation comes from detachment and self-realization, not material wealth.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text explicitly states that actions (karma) determine one's fate. This question explores the philosophical underpinning of the Mahabharata's worldview.
+  </reasoning>
+  <question>
+    According to the Mahabharata, what determines a person's spiritual destiny in their next life?
+  </question>
+  <answer>
+    The text asserts that "karma" (actions) determine spiritual destiny. Verses like 28 and 39 explain that good deeds lead to rebirth in higher realms, while negative actions result in suffering. The soul's fate is directly tied to its moral choices in life.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text's reference to "four doors" (chaturdvara) is a specific teaching about self-discipline. This question highlights an often-overlooked concept in the Mahabharata.
+  </reasoning>
+  <question>
+    What does the Mahabharata teach about the "four doors" (chaturdvara) that a wise person must guard?
+  </question>
+  <answer>
+    The text describes "chaturdvara" as the four gates of the body: eyes, mouth, ears, and hands. A wise person must control these to avoid sin. Verses like 28 emphasize that guarding these "doors" prevents moral failure and ensures spiritual progress.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text's emphasis on moksha (liberation) as the ultimate goal is a key philosophical teaching. This question draws attention to this central theme.
+  </reasoning>
+  <question>
+    What does the Mahabharata identify as the highest purpose (sadhya) of human life?
+  </question>
+  <answer>
+    The Mahabharata teaches that the highest purpose is "moksha" (liberation from the cycle of rebirth). Verses like 39 and 43 stress that all actions should be performed with the goal of achieving spiritual freedom, not worldly gains.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text's discussion of the "soul's bondage" is a profound teaching about the consequences of unethical choices. This question explores this concept.
+  </reasoning>
+  <question>
+    According to the Mahabharata, why does the soul become bound in worldly existence?
+  </question>
+  <answer>
+    The text explains that the soul becomes bound due to "karma" (actions) and attachment to desires. Verses like 28 and 34 state that neglecting dharma and pursuing selfish goals traps the soul in the cycle of rebirth, while virtuous living leads to liberation.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text's metaphor of the soul as a "boat" (nau) is a rare and symbolic teaching. This question highlights an unusual but significant concept.
+  </question>
+  <answer>
+    The Mahabharata uses the metaphor of a "nau" (boat) to describe the soul's journey through life. Verses like 31 compare the soul to a boat carried by the river of karma, emphasizing that spiritual progress requires guidance from dharma and self-control.
+  </answer>
+</entry>

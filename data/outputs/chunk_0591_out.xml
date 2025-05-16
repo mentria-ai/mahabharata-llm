@@ -1,0 +1,99 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, the text seems to be from the Yajnavalkya Smriti, which is part of the Mahabharata's Shanti Parva. The verses talk about the three gunas (sattva, rajas, tamas), the nature of prakriti and purusha, and the concept of the unmanifest (avyakta). There's mention of the three gunas leading to different states of existence, and how they influence the universe and living beings.
+
+Now, I need to make sure each question is based on explicit information from the text. Let's go through the text again.
+
+The first part mentions "sargam tu shashtham ityahur" which refers to the sixth chapter. Then there's a reference to the three gunas (sattva, rajas, tamas) and their roles. The text also discusses the unmanifest (avyakta) and how it's associated with the unchanging (akshara). There's a part where it says "sattvasya uttama sthanam" (the highest state for sattva), "rajasya madhyamam" (middle for rajas), and "tamasasya adhamam" (lowest for tamas). Also, the text explains that the unmanifest (avyakta) is the source of the manifest (vyakta), and that the three gunas are the essence of prakriti.
+
+So, possible questions could be about the three gunas, their positions, the unmanifest, and the role of prakriti and purusha. Let's draft each question.
+
+First question: The three gunas and their positions. The text says sattva's highest, rajas middle, tamas lowest. So the question would be about which guna is associated with the highest state. Options would be sattva, rajas, tamas, and maybe another term. The answer is sattva.
+
+Second question: The unmanifest (avyakta) is associated with what? The text says "avyakta" is the source, and "akshara" (unchanging). So the answer would be "unchanging" or "akshara".
+
+Third question: The text mentions that the unmanifest (avyakta) is the source of the manifest (vyakta). So a question about what the unmanifest leads to. Options could be manifest, prakriti, etc.
+
+Fourth question: The text says that the three gunas are the essence of prakriti. So a question about what the three gunas represent. Answer would be prakriti.
+
+Fifth question: The text states that the unmanifest (avyakta) is the source of the universe. So a question about the source of the universe. Options would include avyakta, purusha, etc.
+
+Wait, but I need to check the exact references. The text has "avyakta" mentioned in verses like "avyakta" and "akshara". Also, the three gunas are discussed in verses like "sattvasya uttama sthanam".
+
+I need to make sure each question has the exact reference. For example, the first question could reference the part where it says "sattvasya uttama sthanam" (verse 3). The second question could reference "avyakta" and "akshara" (verse 11). The third question could be about the unmanifest leading to the manifest (verse 12). The fourth question about the three gunas as the essence of prakriti (verse 1). The fifth question about the unmanifest as the source (verse 11).
+
+Now, I need to structure each entry with the reasoning, question, and answer. Let me make sure the options are plausible but incorrect. For example, for the first question, options could be sattva, rajas, tamas, and maybe "prakriti" as a distractor. The correct answer is sattva.
+
+I need to ensure that each question is unique and covers different parts of the text. Also, check that the answers are under 100 characters. Let me draft each entry now.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests understanding of the three gunas' hierarchical positions. The text explicitly states sattva as the highest, rajas as middle, and tamas as the lowest. Other options represent different gunas or concepts but are not the highest state.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (verse 3), which of the three gunas is associated with the highest state?
+    A) Sattva
+    B) Rajas
+    C) Tamas
+    D) Prakriti
+  </question>
+  <answer>A) Sattva</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the unmanifest (avyakta) concept. The text directly links avyakta to "akshara" (unchanging) and "nirguna" (without qualities). Other options represent related but distinct concepts like prakriti or purusha.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (verse 11), what term describes the unmanifest (avyakta) as "unchanging" and "without qualities"?
+    A) Purusha
+    B) Prakriti
+    C) Akshara
+    D) Tamas
+  </question>
+  <answer>C) Akshara</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the relationship between avyakta and vyakta. The text states avyakta as the source of the manifest (vyakta). Other options represent intermediate stages or unrelated concepts.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (verse 12), what does the unmanifest (avyakta) give rise to through its transformation?
+    A) Purusha
+    B) Vyakta
+    C) Tamas
+    D) Sattva
+  </question>
+  <answer>B) Vyakta</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of prakriti's composition. The text explicitly states the three gunas (sattva, rajas, tamas) as prakriti's essence. Other options represent components of the universe but not prakriti itself.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (verse 1), what are the three gunas that constitute prakriti?
+    A) Sattva, Rajas, Tamas
+    B) Devas, Humans, Animals
+    C) Earth, Water, Fire
+    D) Knowledge, Action, Ignorance
+  </question>
+  <answer>A) Sattva, Rajas, Tamas</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the source of the universe. The text directly states avyakta as the origin of all existence. Other options represent intermediate stages or unrelated concepts like purusha.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (verse 11), what is described as the eternal, unchanging source of the universe?
+    A) Purusha
+    B) Prakriti
+    C) Avyakta
+    D) Tamas
+  </question>
+  <answer>C) Avyakta</answer>
+</entry>

@@ -1,0 +1,89 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text. The passage seems to be about various holy places (tīrthas) and their spiritual benefits. It mentions different rivers, rituals, and the results of bathing in these places. 
+
+First, I should identify specific references. The text has verses numbered, like 93, 94, etc. But the user mentioned using adhyāya, parva, śloka if possible. However, the given text doesn't have those labels, just verse numbers. So I'll use the verse numbers as references.
+
+Looking at the verses, there's mention of "Sapta Sarasvata" (seven Sarayus), "Purusha" (the cosmic being), "Kapalimochana" (a holy place), "Somanthi" (Soma's place), and others. Also, there's a reference to "Kurukshetra" and "Saraswati" river. 
+
+For the first question, I can focus on the benefits of bathing in specific tīrthas. For example, verse 93-94 mentions that bathing in certain places grants specific fruits. The correct answer would be "Go-sahasra-phala" (thousand cows' fruit), and the other options could be other fruits mentioned later.
+
+Another point is the mention of "Sarayu" river. Verse 120 talks about the river of Vishwamitra. So a question about which river is associated with Vishwamitra.
+
+Then, there's a reference to "Purusha" in verse 95, where it says that bathing in a place grants Brahminhood. The options could include different results like going to heaven, becoming a Brahmin, etc.
+
+Another part is about the tīrtha of "Somanthi" (Soma's place) in verse 96, where bathing leads to Soma's world. So a question about which tīrtha leads to Soma's world.
+
+Lastly, there's a mention of "Kurukshetra" in verse 173, where it's considered the best among all tīrthas. So a question about which tīrtha is considered the best.
+
+I need to make sure each question is specific, uses the exact references, and the options are plausible but only one correct. Also, check that the answers are under 100 characters. Let me structure each entry with the reasoning, question, and answer as per the example.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of specific tīrthas and their spiritual benefits. The text explicitly states that bathing in the Kanyātīrtha grants the fruit of Agniṣṭoma (a Vedic sacrifice). Other options represent different tīrthas with distinct rewards, but only Kanyātīrtha is directly linked to Agniṣṭoma here.
+  </reasoning>
+  <question>
+    In Mahabharata's verse 94, which tīrtha grants the fruit of Agniṣṭoma when one bathes there?
+    A) Kanyātīrtha
+    B) Somanthi
+    C) Sarayu
+    D) Pārvatī
+  </question>
+  <answer>A) Kanyātīrtha</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the association between rivers and sages. The text explicitly names the river of Viśvāmitra (Vishwamitra) in verse 120. Other options refer to different rivers or tīrthas, but only Vishwamitra's river is directly mentioned here.
+  </reasoning>
+  <question>
+    In Mahabharata's verse 120, which river is described as the abode of the sage Viśvāmitra?
+    A) Sarayu
+    B) Kāverī
+    C) Godāvarī
+    D) Yamunā
+  </question>
+  <answer>A) Sarayu</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the transformative power of tīrthas. The text states that bathing in a place (verse 95) grants Brahminhood (Brahma-yoni). Other options represent different spiritual outcomes, but only Brahminhood is explicitly tied to this tīrtha in the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's verse 95, which spiritual status does bathing in a tīrtha grant according to the text?
+    A) Brahminhood
+    B) Kṣatriya status
+    C) Vaishya status
+    D) Śūdra status
+  </question>
+  <answer>A) Brahminhood</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of tīrthas linked to celestial beings. The text explicitly states that bathing in Somanthi (verse 96) leads to Soma's world. Other options refer to different realms, but Soma's world is directly mentioned here.
+  </reasoning>
+  <question>
+    In Mahabharata's verse 96, which tīrtha is said to grant entry to Soma's world?
+    A) Somanthi
+    B) Kanyātīrtha
+    C) Sarayu
+    D) Pārvatī
+  </question>
+  <answer>A) Somanthi</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question emphasizes the hierarchical importance of tīrthas. The text declares Kurukṣetra (Kurukshetra) as the supreme tīrtha (verse 173). Other options refer to different holy sites, but only Kurukṣetra is explicitly called the best in the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's verse 173, which tīrtha is described as the most sacred among all?
+    A) Kurukṣetra
+    B) Ganges
+    C) Yamunā
+    D) Narmadā
+  </question>
+  <answer>A) Kurukṣetra</answer>
+</entry>

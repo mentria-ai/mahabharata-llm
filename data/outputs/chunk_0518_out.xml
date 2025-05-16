@@ -1,0 +1,101 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I notice that the text includes several verses, some of which are from the "Uttara Gita" and "Vamadeva Gita." The content seems to discuss the duties of a king, the importance of dharma, and the consequences of acting without dharma. There are references to kings like Maandhata and Bhishma. The verses talk about how a king should govern, the role of dharma, and the impact of a ruler's actions on the state and people.
+
+Now, I need to make sure each question is based on explicit information from the text. Let me go through the verses again.
+
+The first part mentions "Maandhata" and talks about the king's role in upholding dharma. There's a verse where it says, "धर्माय राजा भवति न कामकरणाय तु" which translates to "A king should be for dharma, not for desire." That's a key point for a question about the purpose of a king.
+
+Another part mentions "यदा राजा प्रमाद्यति" (when a king is careless), leading to various negative consequences. This could be a question about the effects of a king's negligence.
+
+There's a verse about the king's duty to protect the people and maintain dharma, and the consequences if he fails. Also, the text emphasizes that a king's actions affect the entire kingdom, leading to prosperity or downfall.
+
+I need to ensure each question is specific. For example, one question could be about the purpose of a king, another about the consequences of negligence, another about the role of dharma, and so on. Let me check the exact references. The verses are numbered, so I can cite them as "Uttara Gita 91" or "Vamadeva Gita 93" as per the text's structure.
+
+I need to avoid adding any external knowledge. For example, if the text says that a king's negligence leads to suffering, the options should be based on what's in the text. Also, the answer must be under 100 characters.
+
+Let me draft the first question: "In Mahabharata's Uttara Gita 91, what is the primary duty of a king according to the teachings of Bhishma?" The options would include dharma, desire, wealth, and power. The correct answer is dharma.
+
+Another question could be about the consequences of a king's negligence, referencing the verses where it says that when a king is careless, various problems arise. The options would be different outcomes, with the correct one being the downfall of the kingdom.
+
+I need to make sure each question is distinct and covers different parts of the text. Let me check for other key points: the role of ministers, the importance of dharma in governance, the impact of a king's actions on the people, and the duties towards different groups like brahmins, kshatriyas, etc.
+
+Another possible question: "In Mahabharata's Vamadeva Gita 93, what does Yudhishthira ask Bhishma about?" The answer would be the purpose of a king's dharma. The options would include different aspects of kingship.
+
+I need to verify each answer against the text. For example, the verse "धर्माय राजा भवति न कामकरणाय तु" clearly states the king's duty is for dharma, not desire. So the answer is A) Dharma.
+
+Another verse mentions that when a king is careless, the people suffer, leading to the downfall of the kingdom. So the answer would be the kingdom's downfall.
+
+I need to create five such questions, each with a different focus. Let me structure them now, ensuring each has the correct reference and options based on the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests the core teaching about a king's purpose. The text explicitly states that a king's role is to uphold dharma, not personal desires. Other options represent common misconceptions about kingship.
+  </reasoning>
+  <question>
+    In Mahabharata's Uttara Gita 91, what is the primary duty of a king according to Bhishma's teachings?
+    A) Dharma
+    B) Wealth
+    C) Desire
+    D) Power
+  </question>
+  <answer>A) Dharma</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the consequences of royal negligence. The text directly links a king's carelessness to societal collapse. Other options represent partial truths but miss the central cause-effect relationship.
+  </reasoning>
+  <question>
+    In Mahabharata's Uttara Gita 91, what happens when a king becomes careless (pramadyati)?
+    A) Kingdom prosperity
+    B) Social harmony
+    C) Natural disasters
+    D) Kingdom downfall
+  </question>
+  <answer>D) Kingdom downfall</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the text's emphasis on dharma as the foundation of governance. The verse explicitly states that dharma sustains all beings. Other options reflect peripheral aspects of kingship.
+  </reasoning>
+  <question>
+    In Mahabharata's Uttara Gita 91, what sustains all beings according to Bhishma's teachings?
+    A) Wealth
+    B) Dharma
+    C) Power
+    D) Desire
+  </question>
+  <answer>B) Dharma</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the text's specific reference to Maandhata. The verse directly states that Maandhata is the ideal king. Other options represent historical figures but lack textual support.
+  </reasoning>
+  <question>
+    In Mahabharata's Uttara Gita 91, which king is presented as the ideal ruler who upholds dharma?
+    A) Yudhishthira
+    B) Maandhata
+    C) Duryodhana
+    D) Karna
+  </question>
+  <answer>B) Maandhata</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses understanding of the text's warning about royal misconduct. The verse explicitly states that a king's negligence leads to societal suffering. Other options represent unrelated consequences.
+  </reasoning>
+  <question>
+    In Mahabharata's Vamadeva Gita 93, what does Yudhishthira ask Bhishma about?
+    A) Military strategy
+    B) King's dharma
+    C) Rituals
+    D) Wealth
+  </question>
+  <answer>B) King's dharma</answer>
+</entry>

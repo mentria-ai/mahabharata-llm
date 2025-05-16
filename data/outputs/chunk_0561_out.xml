@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, teachings, and specific references. The text includes dialogues between Shakra (Indra) and Bali, discussing karma, dharma, and the nature of existence. There are references to specific parvas like Balivāsavaśaṃvāda (Bali-Vasava Dialogue) and verses like 216 and 217. 
+
+For the first question, I notice that Shakra (Indra) and Bali are discussing the nature of actions and their consequences. The verse 24-25 mentions that actions are determined by one's nature. So, a question about who said that actions are the result of one's nature would be good. The answer would be Bhishma, as he's the one speaking here.
+
+Next, looking at the dialogue where Bali says he doesn't mourn because everything is transient. The verse 28-30 talks about not mourning because all things are impermanent. So a question about who says that there's no reason to mourn would be about Bali.
+
+Another part is where Bali states that he doesn't see the throne or the garland, indicating his detachment. Verse 23-24 mentions this. So a question about what Bali doesn't see would have the answer as the throne and garland.
+
+Then, there's a part where Bali says that he doesn't see the Brahmadatta's garland, which is a specific reference. So another question about what Bali doesn't see would be about the garland.
+
+Lastly, the text mentions that Bali doesn't mourn because he understands the impermanence of life. So a question about the reason Bali doesn't mourn would be about the transient nature of life.
+
+I need to ensure each question is specific, includes the correct references, and the answers are directly from the text. Also, check that the options are plausible but only one is correct. Avoid adding any external information. Make sure each question is unique and covers different parts of the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests understanding of the concept of karma and nature (svabhāva) in the Mahābhārata. The verse explicitly states that actions (karmas) are the result of one's inherent nature, a core philosophical idea in the text. The other options represent different philosophical positions not directly supported by the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Balivāsavaśaṃvāda (216.24-25), who states that all actions are the result of one's inherent nature?
+    A) Shakra
+    B) Bhishma
+    C) Vasava
+    D) Bali
+  </question>
+  <answer>B) Bhishma</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the theme of non-attachment and impermanence. Bali's refusal to mourn reflects his philosophical understanding of transience, while other options represent different perspectives not directly stated in the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Balivāsavaśaṃvāda (216.28-30), who declares "I do not mourn because all this is impermanent"?
+    A) Shakra
+    B) Bhishma
+    C) Vasava
+    D) Bali
+  </question>
+  <answer>D) Bali</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests attention to specific imagery in the dialogue. The text explicitly mentions Bali's lack of vision regarding royal symbols, while other options represent unrelated elements from the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Balivāsavaśaṃvāda (216.23), what does Bali claim he does not see?
+    A) His throne
+    B) His chariot
+    C) His weapons
+    D) His army
+  </question>
+  <answer>A) His throne</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses comprehension of symbolic imagery. The text explicitly states Bali's detachment from material symbols, while other options represent different aspects of the dialogue not directly referenced.
+  </reasoning>
+  <question>
+    In Mahabharata's Balivāsavaśaṃvāda (216.24), what does Bali claim he does not see?
+    A) His wealth
+    B) His garland
+    C) His horses
+    D) His soldiers
+  </question>
+  <answer>B) His garland</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question evaluates understanding of the dialogue's philosophical core. Bali's statement about impermanence directly addresses the transient nature of life, while other options represent tangential elements of the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Balivāsavaśaṃvāda (216.28), why does Bali say he does not mourn?
+    A) Because he is powerful
+    B) Because he is wise
+    C) Because all things are impermanent
+    D) Because he is loved
+  </question>
+  <answer>C) Because all things are impermanent</answer>
+</entry>

@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by carefully reading through the text to identify key elements like characters, events, and specific references.
+
+First, I notice that the text includes several names like Duryodhana, Yudhishthira, Bhishma, and Vidura. There are references to the Kurukshetra war, the Pandavas, and Kauravas. Also, there are mentions of specific parvas like Bhishma Parva and sections with specific verses (like 147, 148, 149). 
+
+For the first question, I should focus on a clear event. The text mentions Vidura advising Duryodhana, so maybe a question about Vidura's advice. The verse numbers 22-23 might be relevant here. The options could include different advisors or actions, but the correct answer is Vidura.
+
+Next, looking for another event. There's a part where Duryodhana is addressed by Gandhari, and there's a reference to the lineage of the Kuru kings. Maybe a question about the lineage of Yudhishthira. The text mentions Yudhishthira as the son of Pandu, so that's a key point.
+
+Another part talks about the division of the kingdom and the role of Bhishma. The text says Bhishma was the commander for the first 10 days. So a question about who led the Kaurava forces on the first day. The options would include Bhishma, Drona, Karna, and Duryodhana.
+
+Then, there's a mention of the Pandavas and Kauravas' conflict over the throne. The text states that Yudhishthira was the rightful king, so a question about who was declared the rightful king. The options could include Yudhishthira, Duryodhana, Bhishma, and Drona.
+
+Lastly, looking for a question about a specific character's role. The text mentions that Dhritharashtra was advised by Vidura, and there's a reference to the division of the kingdom. Maybe a question about who was the rightful heir according to the text. The answer would be Yudhishthira, as he was the eldest Pandava.
+
+I need to ensure each question has the exact reference, like the specific adhyaya or parva. Also, check that all answers are directly from the text without adding external info. Make sure the options are plausible but only one is correct. Avoid repetition in the questions, covering different aspects like characters, events, and roles.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Vidura's role in advising Duryodhana. The text explicitly states Vidura's counsel to Duryodhana to avoid war, contrasting with Duryodhana's refusal. Other options represent key figures but not the direct advisor in this context.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 22-23), who advised Duryodhana to avoid war with the Pandavas?
+    A) Bhishma
+    B) Drona
+    C) Vidura
+    D) Krishna
+  </question>
+  <answer>C) Vidura</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the lineage of Yudhishthira. The text explicitly states he was the son of King Pandu, distinguishing him from other Kuru princes. Other options represent different royal lineages but not Yudhishthira's direct parentage.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 29), who was Yudhishthira's father according to the text?
+    A) Dhritarashtra
+    B) Pandu
+    C) Bhishma
+    D) Karna
+  </question>
+  <answer>B) Pandu</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of military leadership in the Kurukshetra war. The text explicitly names Bhishma as the Kaurava commander for the first 10 days. Other options were later commanders but not in this specific timeframe.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 1), who led the Kaurava forces on the first day of battle?
+    A) Bhishma
+    B) Drona
+    C) Karna
+    D) Duryodhana
+  </question>
+  <answer>A) Bhishma</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the text's declaration of rightful kingship. The text explicitly states Yudhishthira as the rightful king, contrasting with Duryodhana's claim. Other options represent rival claimants or advisors.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 31), who was declared the rightful king of the Kuru dynasty?
+    A) Duryodhana
+    B) Yudhishthira
+    C) Bhishma
+    D) Drona
+  </question>
+  <answer>B) Yudhishthira</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the text's narrative on kingdom division. The text explicitly states the Pandavas were entitled to half the kingdom, contrasting with Duryodhana's refusal. Other options represent different claims or divisions.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (verse 35), what did Vidura advise Duryodhana to grant the Pandavas?
+    A) Full kingdom
+    B) Half kingdom
+    C) Military alliance
+    D) Religious rights
+  </question>
+  <answer>B) Half kingdom</answer>
+</entry>

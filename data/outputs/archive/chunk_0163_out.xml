@@ -1,0 +1,149 @@
+<think>
+Okay, I need to create 10 high-quality question-answer pairs based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I notice that the text includes verses that discuss dharma, karma, and the duties of different varnas (social classes). There's mention of kings, brahmins, and the importance of following one's svadharma (own duty). Also, there are references to ahimsa (non-violence), truth, and the consequences of actions. Some verses talk about the king's role in maintaining dharma, the importance of rituals, and the moral responsibilities of different social groups.
+
+Now, I need to make sure each question is standalone, doesn't refer to the text, and includes necessary context. Let me think of possible questions.
+
+1. The first verse talks about the three pillars of society: agriculture, trade, and cattle rearing. So a question about the three pillars of livelihood in the text. The answer would mention these three and the role of dharma.
+
+2. There's a verse about the king's duty to punish those who act against dharma. So a question about the king's responsibility in maintaining dharma. The answer would explain that the king must punish wrongdoers to uphold dharma.
+
+3. The text mentions that a king who follows dharma is protected by the gods. So a question about the protection of a just king. The answer would reference the verse where it says the king is protected by the gods.
+
+4. There's a verse about the importance of truth and non-violence. So a question about the key principles emphasized in the text. The answer would list ahimsa and satya (truth).
+
+5. The text discusses the consequences of not following one's svadharma. So a question about the outcome of neglecting one's duties. The answer would mention that neglecting svadharma leads to suffering and moral downfall.
+
+6. There's a mention of the king's role in protecting all varnas. So a question about the king's duty towards different social groups. The answer would explain that the king is the protector of all varnas.
+
+7. The text includes a dialogue between Markandeya and a king. So a question about the purpose of their conversation. The answer would state that it's about the principles of dharma and the duties of a ruler.
+
+8. There's a verse about the importance of rituals and sacrifices. So a question about the role of yajnas (sacrifices) in the text. The answer would mention that yajnas are part of the duties to maintain cosmic order.
+
+9. The text talks about the consequences of deceit and falsehood. So a question about the moral lesson regarding truthfulness. The answer would explain that falsehood leads to downfall, while truthfulness is essential for dharma.
+
+10. There's a reference to the king's responsibility in upholding dharma through punishment. So a question about the king's role in maintaining social order. The answer would discuss the king's duty to punish wrongdoers to ensure dharma.
+
+I need to make sure each question is self-contained, includes context, and the answers are accurate based on the text. Also, check for any lesser-known terms and clarify them if needed. For example, svadharma is the individual's duty based on their role, and yajnas are rituals. Make sure the answers explain these terms briefly.
+</think>
+
+<entry>
+  <reasoning>
+    The text emphasizes dharma, svadharma, and the moral duties of different social roles. This question highlights a key principle about societal pillars, which is explicitly mentioned in the verses.
+  </reasoning>
+  <question>
+    What three pillars of livelihood are described in the Mahabharata as essential for societal stability, and how are they connected to dharma?
+  </question>
+  <answer>
+    The Mahabharata describes agriculture (krsi), cattle rearing (gopala), and trade (vani) as the three pillars of livelihood. These are linked to dharma (moral order) as they sustain the community and uphold righteous living. The text states, "Krsi-goraksa-vanijyam ihalokasya jivnam" (Agriculture, cattle rearing, and trade are the life of this world).
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text explicitly states that kings have a duty to punish those who violate dharma. This question explores the king's role in maintaining justice, a central theme in the Mahabharata's political philosophy.
+  </reasoning>
+  <question>
+    According to the Mahabharata, what responsibility does a king have toward subjects who act against dharma, and how is this portrayed in the text?
+  </question>
+  <answer>
+    A king is obligated to punish those who violate dharma to maintain order. The text warns, "Maraayan vikarmastham, lubdha mgamiveshubhih" (The king punishes wrongdoers like a hunter catching a deer). This reflects the king's role as both protector and enforcer of moral law.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text highlights the importance of truth (satya) and non-violence (ahimsa) as foundational virtues. This question draws attention to these core ethical principles.
+  </reasoning>
+  <question>
+    What two ethical principles are emphasized in the Mahabharata as essential for a righteous life, and how are they described in the text?
+  </question>
+  <answer>
+    The Mahabharata stresses non-violence (ahimsa) and truth (satya) as fundamental virtues. One verse declares, "Ahimsa paramo dharma" (Non-violence is the supreme dharma), while another states, "Satyam eva gariyastu" (Truth is the highest virtue).
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text explicitly connects svadharma (one's prescribed duty) to moral and spiritual well-being. This question explores the consequences of neglecting one's role.
+  </reasoning>
+  <question>
+    What does the Mahabharata teach about the consequences of neglecting one's svadharma (personal duty), and how is this illustrated in the text?
+  </question>
+  <answer>
+    Neglecting svadharma leads to moral and spiritual downfall. The text states, "Svadharma tyajato bramanno dharma ih drsyate" (Abandoning one's duty reveals immorality). It warns that forsaking one's role causes suffering and disrupts cosmic order.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes the king as a guardian of all social groups. This question highlights the ruler's responsibility toward different varnas (social classes).
+  </reasoning>
+  <question>
+    How does the Mahabharata describe a king's duty toward the four varnas (social classes), and what does this reveal about its vision of justice?
+  </question>
+  <answer>
+    The Mahabharata portrays the king as the protector of all varnas, stating, "Sarveṣām eva varṇānāṃ trātā rājā bhavatyuta" (The king is the protector of all four varnas). This reflects a vision of justice where the ruler ensures equitable treatment and moral order for all social groups.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text includes a dialogue between Markandeya and a king about dharma. This question explores the purpose of their exchange, a key narrative element.
+  </reasoning>
+  <question>
+    What was the purpose of the dialogue between Markandeya and the king in the Mahabharata, and what ethical lessons does it convey?
+  </question>
+  <answer>
+    The dialogue between Markandeya (a sage) and the king (likely Janaka) aimed to explain the principles of dharma and the moral duties of rulers. It emphasizes that a king must uphold dharma through justice, self-control, and protection of subjects, as seen in verses about the king's role as "dharmakshetra" (field of righteousness).
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text explicitly mentions yajnas (sacrifices) as part of dharma. This question highlights their role in maintaining cosmic and social harmony.
+  </reasoning>
+  <question>
+    What role do yajnas (sacrifices) play in the Mahabharata's concept of dharma, and how are they described in the text?
+  </question>
+  <answer>
+    Yajnas are central to dharma, symbolizing the connection between humans and the divine. The text states, "Yajno danaṃ tapo vēdāḥ" (Yajna, charity, and austerity are sacred), emphasizing that rituals sustain cosmic order and societal well-being.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text warns against deceit and falsehood. This question draws attention to the moral consequences of dishonesty, a recurring theme.
+  </reasoning>
+  <question>
+    What moral lesson does the Mahabharata convey about falsehood, and how is this illustrated in the text?
+  </question>
+  <answer>
+    The Mahabharata condemns falsehood as a path to ruin. It states, "Mrishavada pariharet" (One should avoid false speech), linking deceit to the erosion of dharma and the downfall of individuals and societies.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes the king's role in upholding dharma through punishment. This question explores the balance between justice and compassion in governance.
+  </reasoning>
+  <question>
+    How does the Mahabharata portray the balance between justice and compassion in a king's rule, and what examples are given?
+  </question>
+  <answer>
+    The Mahabharata depicts the king as both a stern enforcer of dharma and a compassionate protector. For instance, it states, "Sarvam dharmena pashyati" (The king sees all through dharma), emphasizing that justice must be tempered with moral wisdom to avoid harshness.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text highlights the importance of self-discipline and control over desires. This question addresses the ethical framework for personal conduct.
+  </reasoning>
+  <question>
+    What ethical principles guide personal conduct in the Mahabharata, and how are they described in the text?
+  </question>
+  <answer>
+    The Mahabharata emphasizes self-discipline (dama), truthfulness, and control over desires. It states, "Kama-krodhau vashē kritva" (Subdue lust and anger), linking these virtues to the pursuit of dharma and inner peace.
+  </answer>
+</entry>

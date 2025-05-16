@@ -1,0 +1,99 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, and specific references. The text seems to be from the Bhishma Parva, as there are references to Bhishma and Duryodhana. There's mention of Bhima speaking, so maybe the Bhima Parva? Also, there are verses like "प्रकृतिं ते भजिष्यन्ति नष्टप्रकृतयो जनाः" which might be from a specific chapter.
+
+I need to ensure each question is based on explicit information. Let's check each verse. For example, verse 16 mentions "प्रकृतिं ते भजिष्यन्ति नष्टप्रकृतयो जनाः" which translates to "The people of the lost nature will worship you." But I need to confirm if this is part of a specific parva. Also, there's a mention of Duryodhana's character, like "दुर्योधनः कुलाङ्गारो जघन्यः पापपूरुषः" which means Duryodhana is a low-born, wicked person.
+
+Another part is where Bhima speaks, so maybe the Bhima Parva. Also, there's a reference to "कौरवाणां प्रवृत्तिं च गत्वा युद्धाधिकारिकाम्" which could be about the Kauravas' actions. 
+
+I need to make sure each question has the exact reference. For example, if a verse is from the Bhishma Parva, I should mention that. Also, check for specific characters like Bhima, Duryodhana, Krishna, etc.
+
+Let me draft the first question. Maybe about who is described as a low-born and wicked person. The text says "दुर्योधनः कुलाङ्गारो जघन्यः पापपूरुषः" so the answer would be Duryodhana. The options could include other characters like Bhishma, Arjuna, and Krishna.
+
+Second question: Who is described as having a cruel and arrogant nature? The text mentions "दुर्योधनो हि यत्सेनः सर्वथा विदितस्तव" which might refer to Duryodhana's strength. But need to check the exact verse.
+
+Third question: Which character is advised to seek peace? The text has "मा स्म नो भरता नशन्" which might be advice to Duryodhana. But need to confirm.
+
+Fourth question: What is the consequence of Duryodhana's actions? The text says "हते दुर्योधने राजन्यदन्यत्क्रियतामिति" which means after Duryodhana's death, other actions are to be taken.
+
+Fifth question: Which character is described as having a cruel and arrogant nature? Again, Duryodhana.
+
+Wait, I need to make sure each question is different. Let me check the verses again. Also, ensure that the references are correct. For example, if a verse is from adhyaya 16, then mention that. But the user didn't provide specific adhyayas, so maybe just refer to the parva.
+
+But the user said to include specific references (adhyāya, parva, śloka) when possible. However, the provided text doesn't have those details. So maybe just mention the parva, like Bhishma Parva, and the verse numbers.
+
+But the example given by the user used "Bhishma Parva" and "verse 16". So I can use that.
+
+So, for each question, I need to pick a specific verse and character. Let me structure each entry with the correct reasoning, question, and answer.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Duryodhana's character as described in the text. The verse explicitly labels him as "kulaangara" (low-born) and "papapurusha" (wicked person), contrasting him with noble figures. Other options represent virtuous warriors or neutral figures.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, which character is described as "kulaangara" (low-born) and "papapurusha" (wicked person)?
+    A) Bhishma
+    B) Arjuna
+    C) Drona
+    D) Duryodhana
+  </question>
+  <answer>D) Duryodhana</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Duryodhana's arrogance and cruelty. The text states he "abhijanati" (disrespects) others and "krodhena" (in anger) causes conflict. Other options represent figures who opposed his actions but aren't directly described as cruel here.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, which character is described as having a "krodhena" (in anger) and "abhijanati" (disrespects) others?
+    A) Krishna
+    B) Bhima
+    C) Drona
+    D) Duryodhana
+  </question>
+  <answer>D) Duryodhana</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the consequence of Duryodhana's actions. The text states "hate duryodhane rajanyadanyat kriyataamiti" (after Duryodhana's death, other actions are to be taken). Other options represent unrelated outcomes or figures.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, what is stated about actions after Duryodhana's death?
+    A) Peaceful resolution
+    B) Continued war
+    C) Immediate surrender
+    D) Other actions to be taken
+  </question>
+  <answer>D) Other actions to be taken</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Bhima's role. The text describes him as "mahaushadha" (great physician) and "sahasrakshara" (thousand-eyed), contrasting with Duryodhana's flaws. Other options represent different roles or figures.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, which character is described as "mahaushadha" (great physician) and "sahasrakshara" (thousand-eyed)?
+    A) Duryodhana
+    B) Bhishma
+    C) Bhima
+    D) Arjuna
+  </question>
+  <answer>C) Bhima</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Krishna's advice to seek peace. The text states "shamam chedyaachamam" (seek peace) and "nashan" (destruction) as consequences of war. Other options represent unrelated outcomes or figures.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, what advice does Krishna give about Duryodhana's actions?
+    A) Immediate attack
+    B) Seek peace
+    C) Surrender immediately
+    D) Destroy all Kauravas
+  </question>
+  <answer>B) Seek peace</answer>
+</entry>

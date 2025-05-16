@@ -1,0 +1,97 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, teachings, and specific references. The text seems to include dialogues between Yudhishthira and Markandeya, discussing the virtues of a devoted wife (pativratā) and a story about a Brahmin and a hunter. There are references to specific verses (like 196, 197, 198) and sections like "Pativratopakhyana" and "Brahmavyadhasamvada."
+
+For each question, I need to ensure the answer is explicitly stated in the text. Let's break it down.
+
+Question 1: The story of the Brahmin and the hunter. The text mentions a Brahmin who was angry and later repented. The hunter (vyādha) is a character here. The correct answer would be the hunter's name, but I need to check the text. Wait, the text says "Brahmavyadhasamvada" which is the dialogue between the Brahmin and the hunter. The hunter's name isn't given, but the story is about the Brahmin's repentance. So maybe the question is about the story's name or the lesson.
+
+Question 2: The concept of pativratā (devoted wife). The text has verses about the virtues of a devoted wife, like "sādhvācārā śucir dakṣā..." So a question about the qualities of a devoted wife.
+
+Question 3: The story of Balakā. The text mentions Balakā (a woman) who was in a situation where she had to serve a Brahmin. The correct answer might be about her role or the lesson from her story.
+
+Question 4: The role of a husband as a deity. The text says "patiṃ daivatavacca api cintayantyḥ sthitaḥ hi yāḥ" which translates to "those who constantly think of their husband as a deity." So a question about the husband's role in the wife's devotion.
+
+Question 5: The story of the Brahmin who was angry and later repented. The text has the Brahmin's name as Kauśika. So a question about his name or the event.
+
+Now, I need to structure each question with the trigger phrase, specific references, and four options. Ensure that the answers are directly from the text. For example, in the first question, the story is called "Brahmavyadhasamvada" (dialogue between Brahmin and hunter). The options would include that and other possible names, but the correct answer is the dialogue's name.
+
+Check each verse for exact references. For example, verse 196-198 might be the sections. Also, ensure that the options are plausible but incorrect. For instance, if the answer is "Brahmavyadhasamvada," the other options could be other parvas or names.
+
+Make sure each question is unique and covers different parts of the text. Avoid repetition. Also, keep answers under 100 characters. For example, "Brahmavyadhasamvada" is the correct answer for the story's name.
+
+Now, draft each entry with reasoning, question, and answer. Ensure the reasoning explains why the answer is correct and why others are not. For example, in the pativratā question, the answer is about the husband being a deity, and other options might be about other virtues but not directly stated.
+
+Double-check the text to confirm all answers are present. Avoid adding any external knowledge. Stick strictly to the provided verses.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the specific narrative in the Mahabharata about a Brahmin's repentance. The story is titled "Brahmavyadhasamvada" (Brahmin-Hunter Dialogue), which directly references the conflict between the Brahmin and the hunter. Other options are plausible parvas but unrelated to this specific dialogue.
+  </reasoning>
+  <question>
+    In Mahabharata's "Brahmavyadhasamvada" (dialogue between a Brahmin and a hunter), what is the name of the story where a Brahmin repents after angering a hunter?
+    A) Pativratopakhyana
+    B) Dronopakhyana
+    C) Brahmanvyadhasamvada
+    D) Bhishmaparva
+  </question>
+  <answer>C) Brahmanvyadhasamvada</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the core teaching about a devoted wife's role. The text explicitly states that a wife should view her husband as a deity ("patiṃ daivatavacca api cintayantyḥ"). Other options reflect general virtues but miss the specific divine role of the husband in this context.
+  </reasoning>
+  <question>
+    In Mahabharata's "Pativratopakhyana" (story of the devoted wife), what does the text emphasize as the husband's role in a wife's devotion?
+    A) A friend
+    B) A servant
+    C) A deity
+    D) A rival
+  </question>
+  <answer>C) A deity</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests recognition of the story's central character. The text describes Balakā as a woman who served a Brahmin despite his anger. Other options are unrelated characters or parvas, while "Balakā" is explicitly named in the narrative.
+  </reasoning>
+  <question>
+    In Mahabharata's "Brahmavyadhasamvada," which woman is described as serving a Brahmin despite his anger and later repents?
+    A) Kunti
+    B) Draupadi
+    C) Balakā
+    D) Gandhari
+  </question>
+  <answer>C) Balakā</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses understanding of the text's moral lesson. The passage states that a wife's devotion to her husband ensures spiritual rewards ("yāścātmanā śuśrūṣā kṛtā yāḥ"). Other options reflect general virtues but omit the specific marital duty emphasized here.
+  </reasoning>
+  <question>
+    In Mahabharata's "Pativratopakhyana," what does the text state is the key to a woman's spiritual success?
+    A) Wealth
+    B) Beauty
+    C) Devotion to her husband
+    D) Knowledge of scriptures
+  </question>
+  <answer>C) Devotion to her husband</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the Brahmin's name in the story. The text explicitly names him as "Kauśika" (Kousika). Other options are unrelated parvas or characters, while "Kauśika" is directly mentioned in the narrative.
+  </reasoning>
+  <question>
+    In Mahabharata's "Brahmavyadhasamvada," what is the name of the Brahmin who angers a hunter and later repents?
+    A) Vyasa
+    B) Markandeya
+    C) Kauśika
+    D) Drona
+  </question>
+  <answer>C) Kauśika</answer>
+</entry>

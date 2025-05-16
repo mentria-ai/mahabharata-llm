@@ -1,0 +1,89 @@
+<think>
+Okay, I need to create 5 multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text. The user provided a long passage with various verses, but I need to focus on the specific references mentioned. 
+
+First, I'll look for clear, explicit information. The text includes verses with numbers, like "४८" to "१०२", which are likely specific verses. The user mentioned to use exact references like adhyāya, parva, śloka. However, the text here seems to be from the Shanti Parva, as the verses are numbered and the content discusses dharma, virtues, and duties.
+
+Looking at the verses, for example, verse 48 talks about "एको धर्मः परं श्रेयः..." which translates to "One Dharma is the highest good..." So, a question could be about the single Dharma mentioned here. The options would include other concepts like knowledge, peace, etc., but the correct answer is Dharma.
+
+Next, verse 53 mentions "द्वाविमौ पुरुषौ राजन्स्वर्गस्योपरि तिष्ठतः" which refers to two men who are on the path to heaven. The options could be about different groups, but the correct answer is those who are righteous and compassionate.
+
+Another verse, 73, talks about seven faults that a king must avoid. The options would include different numbers, but the correct answer is seven. 
+
+Verse 103 mentions the five Pandava brothers who were in exile. The options would include other groups, but the correct answer is the five Pandavas.
+
+Lastly, verse 29 discusses that the kingdom is protected by Dharma. The options would include other factors like wealth or power, but the correct answer is Dharma.
+
+I need to ensure each question is specific, uses the exact references, and the answers are directly from the text. Also, check that the other options are plausible but incorrect. For example, in the first question, other options like knowledge or peace are mentioned in other verses but not the correct answer here. 
+
+I should also make sure each question is about different parts of the text to avoid repetition. Let me verify each verse and the corresponding options to ensure accuracy and that they are based solely on the provided text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of core dharma concepts. The verse explicitly states "एको धर्मः परं श्रेयः" (One Dharma is the highest good), making Dharma the correct answer. Other options like knowledge or peace are mentioned in other verses but not as the singular supreme virtue here.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (verse 48), what is identified as the supreme good (श्रेयः) and the foundation of all virtues?
+    A) Knowledge (विद्या)
+    B) Peace (शान्ति)
+    C) Dharma (धर्म)
+    D) Wealth (धन)
+  </question>
+  <answer>C) Dharma</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the Mahabharata's ethical framework. The verse states that two men (पुरुषौ) who are righteous and compassionate ascend to heaven. Other options like warriors or kings are mentioned elsewhere but not in this specific context.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (verse 53), which two types of men are said to dwell on the path to heaven according to the text?
+    A) Warriors (सैनिकाः)
+    B) Kings (राजानः)
+    C) Righteous and compassionate (धर्मानुगाः)
+    D) Wealthy (धनान्विताः)
+  </question>
+  <answer>C) Righteous and compassionate</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of specific ethical guidelines. The verse explicitly lists seven faults (दोषाः) a king must avoid. Other numbers like five or ten appear in different contexts but not here.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (verse 73), how many faults does the text identify as detrimental to a king's rule?
+    A) Five (पञ्च)
+    B) Seven (सप्त)
+    C) Ten (दश)
+    D) Twelve (बार)
+  </question>
+  <answer>B) Seven</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question references a specific narrative event. The verse mentions the five Pandava brothers (पाण्डोः पुत्राः) who were exiled. Other groups like Kauravas or sages are mentioned elsewhere but not in this context.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (verse 103), which five brothers were exiled and later protected by the queen (आम्बिकेय)?
+    A) Kauravas (कौरवाः)
+    B) Pandavas (पाण्डवाः)
+    C) Sages (ऋषयः)
+    D) Kings (राजानः)
+  </question>
+  <answer>B) Pandavas</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests understanding of governance principles. The verse states that a kingdom is protected by Dharma (धर्मेण). Other factors like wealth or military strength are mentioned in different contexts but not here.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (verse 29), what is identified as the foundation of a kingdom's prosperity and protection?
+    A) Wealth (धन)
+    B) Military strength (सैन्य)
+    C) Dharma (धर्म)
+    D) Diplomacy (राजनीतिः)
+  </question>
+  <answer>C) Dharma</answer>
+</entry>

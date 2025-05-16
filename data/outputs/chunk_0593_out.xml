@@ -1,0 +1,89 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I notice that the text includes dialogues between Yajnavalkya and Janaka, discussing topics like knowledge (jnana), yoga, and the nature of the self. There's mention of different schools of thought like Sankhya and Yoga. Also, there's a part where Janaka asks Yajnavalkya about how to transcend death, and Yajnavalkya responds with teachings on knowledge and detachment.
+
+Looking at the structure, the text is part of the "Panchashikha Janaka Samvada" and "Sulabha Janaka Samvada" sections. The verses reference various concepts like moksha (liberation), karma, and the nature of the universe. 
+
+For the first question, I can focus on the dialogue between Yajnavalkya and Janaka about transcending death. The text says that knowledge (jnana) is the key, not rituals or actions. So the question could be about what allows one to overcome death, with options including knowledge, rituals, etc.
+
+Next, there's a part where Yajnavalkya mentions that the universe is Brahman. So another question could be about the ultimate reality according to the text. The answer would be Brahman, and other options could be other concepts like karma or dharma.
+
+Another part talks about the different paths to liberation, like Sankhya and Yoga. So a question about the two paths mentioned. The answer would be Sankhya and Yoga, with other options being different schools.
+
+There's also a mention of the five elements (panchavimsha) and the six (shadavimsha). So a question about the number of elements or principles discussed. The text refers to panchavimsha and shadavimsha, so the answer would be the six.
+
+Lastly, the text discusses the nature of the self (atman) and the universe. A question about the relationship between the self and the universe, with the answer being that the universe is Brahman.
+
+I need to make sure each question is specific, includes the correct references, and the answers are directly from the text. Also, check that the options are plausible but only one is correct. Avoid adding any external knowledge. Let me structure each entry with the required XML format.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests understanding of the Mahabharata's philosophical dialogue on liberation. The text explicitly states that knowledge (jnana) alone allows transcendence of death, contrasting with rituals or actions. Other options represent common misconceptions about moksha.
+  </reasoning>
+  <question>
+    In Mahabharata's Panchashikha Janaka Samvada (verse 102), what enables liberation from death according to Yajnavalkya?
+    A) Rituals (yajnas)
+    B) Knowledge (jnana)
+    C) Wealth (dhanam)
+    D) Kingship (rajya)
+  </question>
+  <answer>B) Knowledge (jnana)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the text's metaphysical assertion about reality. The passage directly states "sarvam vishvam brahma chaitat samastam" (all the universe is Brahman). Other options represent philosophical concepts but not the explicit claim here.
+  </reasoning>
+  <question>
+    In Mahabharata's Panchashikha Janaka Samvada (verse 86), what is declared as the ultimate reality of the universe?
+    A) Dharma
+    B) Brahman
+    C) Karma
+    D) Atman
+  </question>
+  <answer>B) Brahman</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses knowledge of the text's dual paths to liberation. The passage explicitly mentions Sankhya and Yoga as the two primary systems. Other options represent different philosophical schools not referenced here.
+  </reasoning>
+  <question>
+    In Mahabharata's Sulabha Janaka Samvada (verse 25), which two systems of knowledge are described as leading to moksha?
+    A) Vedanta and Mimamsa
+    B) Sankhya and Yoga
+    C) Nyaya and Vaisheshika
+    D) Samkhya and Advaita
+  </question>
+  <answer>B) Sankhya and Yoga</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests understanding of the text's numerical metaphysics. The passage explicitly references "shadavimsha" (sixth principle) and "panchavimsha" (fifth principle). Other options represent unrelated numerical concepts.
+  </reasoning>
+  <question>
+    In Mahabharata's Panchashikha Janaka Samvada (verse 70), which numerical principle is described as the sixth stage of spiritual realization?
+    A) Panchavimsha (fifth)
+    B) Shadavimsha (sixth)
+    C) Chaturvimsha (fourth)
+    D) Trishashthi (36th)
+  </question>
+  <answer>B) Shadavimsha (sixth)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question evaluates understanding of the text's non-dual philosophy. The passage states "atma eva atmano hyekas" (the self alone is the self), emphasizing unity. Other options represent different philosophical positions not stated here.
+  </reasoning>
+  <question>
+    In Mahabharata's Sulabha Janaka Samvada (verse 100), what fundamental truth about the self is asserted?
+    A) The self is separate from Brahman
+    B) The self is multiple
+    C) The self is singular
+    D) The self is material
+  </question>
+  <answer>C) The self is singular</answer>
+</entry>

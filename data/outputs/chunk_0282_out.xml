@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text. The user provided a series of verses, likely from the Bhagavad Gita, which is part of the Mahabharata's Bhishma Parva. The verses talk about karma, yoga, and the importance of performing one's duty without attachment to the results.
+
+First, I should identify specific references. The text includes verses numbered 1 to 37 in the given passage. For example, verses 47-53 and 54-72. Each question needs to have a specific reference, like "Bhagavad Gita, Chapter 2, Verses 47-53" or similar.
+
+The first question could be about the concept of performing actions without attachment. Verse 47-48 mentions "Karma phala hetu" and "Sanga tyaktva" which translates to not being attached to the results. So the question could be about the teaching of performing actions without attachment. The options would include different concepts like karma yoga, jnana yoga, etc. The correct answer is karma yoga.
+
+Next, looking at verses 54-58, there's a dialogue between Arjuna and Krishna. Arjuna asks about the characteristics of a wise person. The answer is in verse 55, where Krishna says that a wise person is one who is content and self-satisfied. So the question could be about the qualities of a wise person, with options like contentment, wealth, etc.
+
+Another part is verses 62-63, which talk about the chain of desire leading to anger, confusion, and loss of memory. The question could be about the consequence of desire. The correct answer is that desire leads to anger, which leads to confusion, etc.
+
+Then, looking at verses 70-71, there's a metaphor about the ocean and water. The correct answer here is that one who is free from desires attains peace. The question could be about the metaphor of the ocean and water, with options about different states of being.
+
+Lastly, verses 13-15 mention that the universe is created by Brahman, and that yoga is the means to attain it. The question could be about the origin of the universe according to the text, with options like Brahman, Vishnu, etc.
+
+I need to make sure each question has the exact reference, and the options are plausible but only one correct. Also, check that the answers are under 100 characters. Let me structure each entry with the reasoning, question, and answer as per the example.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests understanding of the Bhagavad Gita's core teaching on action without attachment. Verse 47-48 explicitly states that one should perform actions without attachment to results, aligning with Karma Yoga. Other options represent related but distinct concepts like Jnana Yoga or renunciation.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhagavad Gita (Chapter 2, Verses 47-48), what teaching emphasizes performing actions without attachment to outcomes?
+    A) Karma Yoga
+    B) Jnana Yoga
+    C) Bhakti Yoga
+    D) Renunciation
+  </question>
+  <answer>A) Karma Yoga</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses knowledge of the Gita's description of a spiritually wise person. Verse 55 defines a "Sthitaprajna" as one who is self-satisfied and content. Other options reflect common misconceptions about spiritual attainment.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhagavad Gita (Chapter 2, Verse 55), what quality defines a spiritually wise person (Sthitaprajna)?
+    A) Contentment
+    B) Wealth
+    C) Fame
+    D) Power
+  </question>
+  <answer>A) Contentment</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the Gita's warning about desire's consequences. Verse 62-63 explicitly states that desire leads to anger, which causes confusion and loss of memory. Other options represent related but incorrect causal chains.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhagavad Gita (Chapter 2, Verses 62-63), what sequence of negative outcomes begins with desire?
+    A) Anger → Confusion → Memory loss
+    B) Fear → Greed → Corruption
+    C) Pride → Arrogance → Fall
+    D) Doubt → Despair → Destruction
+  </question>
+  <answer>A) Anger → Confusion → Memory loss</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the Gita's metaphor about desire. Verse 70 compares desire to water entering the ocean, with the correct answer being those free from desires attaining peace. Other options misinterpret the metaphor's meaning.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhagavad Gita (Chapter 2, Verse 70), what state do those free from desires achieve?
+    A) Peace
+    B) Wealth
+    C) Fame
+    D) Power
+  </question>
+  <answer>A) Peace</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses understanding of the Gita's cosmic origin doctrine. Verse 13-15 states that the universe originates from Brahman and is sustained through action. Other options represent alternative cosmological views not present in the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhagavad Gita (Chapter 2, Verses 13-15), what is the source of the universe according to Krishna's teachings?
+    A) Brahman
+    B) Vishnu
+    C) Shiva
+    D) Indra
+  </question>
+  <answer>A) Brahman</answer>
+</entry>

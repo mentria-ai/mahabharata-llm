@@ -1,0 +1,89 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look through the verses to identify key elements. The text seems to be from the Shanti Parva, specifically the sections titled "Sugāla Vānara Samvāda" (The Dialogue of Sugāla and the Monkey) and "Nīcasya Upadeśanisēdhaḥ" (The Prohibition of Advice to the Low). There are references to Yudhishthira, Bhishma, and discussions about dharma, giving to Brahmins, and the story of a Shudra (low caste) who becomes a sage.
+
+For each question, I need to ensure it's based solely on the text. Let's break it down:
+
+1. **First Question**: The text mentions that Yudhishthira asks Bhishma about giving to Brahmins. The answer is that it's a duty (dharma). The options should include other duties like charity, but the correct one is dharma.
+
+2. **Second Question**: The story of the Shudra who becomes a sage. The text says he was a Shudra but became a sage through tapas. The options should include his original caste and his transformation.
+
+3. **Third Question**: The text states that giving to Brahmins leads to heaven. The options should include other rewards, but the correct one is heaven.
+
+4. **Fourth Question**: The text mentions that a Shudra cannot give advice to a high-caste person. The options should include other prohibitions, but the correct one is about giving advice.
+
+5. **Fifth Question**: The text says that a Shudra's tapas (austerity) is not recognized. The options should include other forms of tapas, but the correct one is about the Shudra's tapas.
+
+I need to make sure each question has the exact reference, like the parva and specific verses. Also, check that the options are plausible but only one is correct based on the text. Avoid adding any external knowledge. Let me verify each point against the text to ensure accuracy.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests understanding of dharma as a duty, specifically in the context of giving to Brahmins. The text explicitly states that giving to Brahmins is a dharma, while other options like charity (dāna) or ritual (yajña) are related but not the direct term used here.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (verses 1-20), what does Yudhishthira ask Bhishma about the duty of giving to Brahmins?
+    A) Charity (dāna)
+    B) Ritual (yajña)
+    C) Dharma (righteous duty)
+    D) Almsgiving (dakshina)
+  </question>
+  <answer>C) Dharma (righteous duty)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the transformative power of tapas (austerity) in the text. The Shudra's story shows that tapas can elevate one's status, but the text explicitly states this transformation occurred through his tapas, not birth or lineage.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (verses 10-30), what enabled a Shudra to become a sage according to the dialogue between the Shudra and the sage?
+    A) Birth in a Brahmin family
+    B) Wealth and patronage
+    C) Tapas (austerity)
+    D) Political power
+  </question>
+  <answer>C) Tapas (austerity)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the consequence of giving to Brahmins, a central theme in the text. The passage directly states that giving to Brahmins leads to heaven, while other options like prosperity or knowledge are secondary outcomes.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (verses 16-23), what reward does the text claim is guaranteed for giving to Brahmins?
+    A) Wealth
+    B) Knowledge
+    C) Heaven (svarga)
+    D) Longevity
+  </question>
+  <answer>C) Heaven (svarga)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses the social hierarchy in the text. The passage explicitly prohibits Shudras from giving advice to higher-caste individuals, making this a key point about caste restrictions.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (verses 1-15), what does the text prohibit a Shudra from doing to higher-caste individuals?
+    A) Offering food
+    B) Giving advice
+    C) Performing rituals
+    D) Sharing knowledge
+  </question>
+  <answer>B) Giving advice</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the text's stance on caste and spiritual merit. The passage states that a Shudra's tapas is not recognized, emphasizing the importance of birth over personal effort in the text's worldview.
+  </reasoning>
+  <question>
+    In Mahabharata's Shanti Parva (verses 10-30), what does the text say about the recognition of a Shudra's tapas?
+    A) It is celebrated
+    B) It is ignored
+    C) It is rewarded
+    D) It is transformed
+  </question>
+  <answer>B) It is ignored</answer>
+</entry>

@@ -1,0 +1,142 @@
+<think>
+Okay, I need to create 10 high-quality question-answer pairs based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll read through the verses to identify key elements. The text seems to be a dialogue between Draupadi and Bhima, discussing their hardships, the exile, and their interactions with others like Kichaka. There are mentions of characters like Draupadi, Bhima, Kichaka, and references to events like the exile, the game of dice, and the challenges they faced.
+
+I need to make sure each question is standalone, so I can't refer to "the passage." Each question must have enough context. For example, if I mention Draupadi's situation, I should explain that she's the wife of the Pandavas and faced challenges during their exile.
+
+I should include different types of questions: factual, "did you know," detective-style, and philosophical. Let me brainstorm some ideas.
+
+1. Factual: Who is Kichaka, and what role does he play in the Mahabharata?
+2. "Did you know": Did you know that Draupadi's exile involved her being disguised as a servant?
+3. Detective: Why did Bhima vow to kill Kichaka, and what led to this decision?
+4. Philosophical: What does Draupadi's situation reveal about the moral dilemmas faced by women in the epic?
+
+I need to check the text for specific details. For example, the text mentions Draupadi in a servant's disguise (Sairandhri), her interactions with Kichaka, and Bhima's vow to kill him. Also, there's reference to the game of dice and the exile.
+
+I should ensure that each answer is supported by the text. For example, the text says Draupadi was in a servant's disguise, so the answer should mention that. Also, Kichaka's role as a character who harassed her.
+
+I need to avoid adding information not in the text. For example, if the text doesn't mention a specific event, I can't include it. The text here focuses on Draupadi's experiences during the exile, her interactions with Kichaka, and Bhima's resolve.
+
+Now, I'll structure each entry with reasoning, question, and answer. Let me make sure each question is unique and covers different aspects of the text.
+</think>
+
+<entry>
+  <reasoning>
+    The text includes Draupadi's lament about her disguised exile and her interactions with Kichaka. This question highlights her role and the context of her suffering.
+  </reasoning>
+  <question>
+    During their exile, Draupadi was forced to live in disguise as a servant. What was the name of this disguise, and why did she adopt it?
+  </question>
+  <answer>
+    Draupadi adopted the disguise of "Sairandhri," a servant girl, during the Pandavas' exile. This was necessary to remain hidden from their enemies, particularly the Kauravas, who sought to harm them. The text describes her as living in this guise while enduring hardships, including harassment from Kichaka.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text explicitly mentions Kichaka's role in harassing Draupadi. This question addresses a key conflict and its resolution.
+  </reasoning>
+  <question>
+    Who was Kichaka, and what event led Bhima to vow to kill him? How did this reflect the Pandavas' resolve during their exile?
+  </question>
+  <answer>
+    Kichaka was a commander in King Virata's court who harassed Draupadi while she was in disguise. Bhima vowed to kill him after Kichaka's abuse of Draupadi during their exile. This act symbolized the Pandavas' determination to protect their dignity and seek justice, even in their most vulnerable state.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text references Draupadi's emotional struggle and her role as a queen. This question explores her internal conflict.
+  </reasoning>
+  <question>
+    Draupadi expressed deep sorrow about her inability to protect her brothers during their exile. What philosophical dilemma does this reveal about leadership and duty in the Mahabharata?
+  </question>
+  <answer>
+    Draupadi's anguish reflects the moral conflict between personal loyalty and the greater duty of protecting one's family. Despite her power as a queen, she felt powerless to shield her husbands from suffering, highlighting the Mahabharata's theme that even righteous leaders face limitations in safeguarding loved ones.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text includes Bhima's vow to kill Kichaka. This question focuses on the cultural context of such oaths in the epic.
+  </reasoning>
+  <question>
+    In the Mahabharata, oaths to avenge injustice were deeply significant. How did Bhima's promise to kill Kichaka demonstrate the cultural value of vengeance in the epic's worldview?
+  </question>
+  <answer>
+    Bhima's vow to kill Kichaka underscored the cultural emphasis on dharma (duty) and retaliation against moral transgressions. In the Mahabharata, such oaths were seen as sacred commitments to uphold justice, even if it required violent retribution against oppressors like Kichaka.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes Draupadi's disguise and her interactions with Kichaka. This question explores the symbolism of her role.
+  </reasoning>
+  <question>
+    Draupadi's disguise as a servant during the exile is a pivotal moment. What does this symbolize about the Pandavas' struggle for survival and their moral integrity?
+  </question>
+  <answer>
+    Draupadi's disguise symbolized the Pandavas' sacrifice of their royal status to survive. It highlighted their moral integrity in enduring humiliation rather than compromising their values, a recurring theme in the Mahabharata's exploration of perseverance through adversity.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text includes Draupadi's dialogue about her suffering. This question addresses her emotional state and its narrative purpose.
+  </reasoning>
+  <question>
+    Draupadi lamented her inability to protect her brothers. How does this moment contribute to the Mahabharata's portrayal of women's roles and agency?
+  </question>
+  <answer>
+    Draupadi's sorrow illustrates the limited agency women often faced in the epic, even as they demonstrated strength. Her helplessness underscores the societal constraints of the time, while her resilience in enduring suffering reflects the complex portrayal of female characters as both vulnerable and courageous.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text references the game of dice and its consequences. This question connects to the Mahabharata's broader narrative.
+  </reasoning>
+  <question>
+    The Mahabharata's game of dice led to the Pandavas' exile. How did this event shape their later actions, such as Bhima's vow against Kichaka?
+  </question>
+  <answer>
+    The game of dice stripped the Pandavas of their kingdom and forced them into exile, where they faced humiliation. This trauma fueled Bhima's resolve to avenge their suffering, showing how the Kauravas' deceit directly influenced the Pandavas' pursuit of justice and revenge.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text includes Bhima's dialogue about his strength. This question explores his character and motivations.
+  </reasoning>
+  <question>
+    Bhima boasted about his strength and ability to protect his family. What does this reveal about his character and the values of the Mahabharata?
+  </question>
+  <answer>
+    Bhima's confidence in his strength reflects his role as the Pandavas' protector. His boasts emphasize the Mahabharata's valorization of physical and moral courage, as well as the expectation that leaders must safeguard their kin, even through violence.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes Draupadi's interactions with Kichaka. This question highlights a key conflict and its resolution.
+  </reasoning>
+  <question>
+    How did Draupadi's encounter with Kichaka during the exile test her resilience, and what does this reveal about the Pandavas' strategy to survive?
+  </question>
+  <answer>
+    Kichaka's harassment forced Draupadi to endure immense suffering, testing her resilience. This event exposed the Pandavas' vulnerability but also their strategic patience—remaining hidden until they could reclaim their rights, showcasing their long-term planning amid adversity.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text includes Draupadi's emotional plea. This question addresses the human cost of the Mahabharata's conflicts.
+  </reasoning>
+  <question>
+    Draupadi's sorrow over her brothers' suffering reflects the human cost of the Mahabharata's war. How does this moment humanize the epic's themes of loss and sacrifice?
+  </question>
+  <answer>
+    Draupadi's anguish personalizes the epic's themes, transforming abstract conflicts into emotional struggles. Her pain underscores the universal cost of war and betrayal, making the Mahabharata's moral lessons more relatable and poignant.
+  </answer>
+</entry>

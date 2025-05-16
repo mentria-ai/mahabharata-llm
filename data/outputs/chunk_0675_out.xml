@@ -1,0 +1,91 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look through the verses to identify key elements. The text includes dialogues between Yudhishthira and Bhishma, discussing dharma, karma, and moral dilemmas. There are references to specific parvas like Bhishma Parva and sections like "Dharma Sankhya" and "Vanshanukirtana." The verses mention concepts like the threefold dharma, the importance of dharma over other things, and various deities and sages.
+
+For each question, I need to ensure it's based solely on the text. Let me check each part.
+
+1. The first part talks about dharma being the essence of all beings. The verse says "धर्मस्य ह्रियमाणस्य बलवद्भिर्दुरात्मभिः" which translates to "When dharma is being destroyed by the strong and wicked." So a question about the threefold dharma and the essence of dharma.
+
+2. Another part mentions "अहिंसा सत्यमक्रोधो दानमेतच्चतुष्टयम्" which lists four virtues: non-violence, truth, non-anger, and charity. So a question about the four virtues of dharma.
+
+3. There's a reference to the threefold dharma (sattva, rajas, tamas) in the verse "रजसा तमसा चैव समवस्तीर्णचेतसः" which talks about those who follow dharma being in sattva and rajas. So a question about the threefold dharma and the nature of dharma.
+
+4. The text also mentions "धर्म एव रतिस्तेषामाचार्योपासनाद्भवेत्" which states that dharma is the essence of all beings. So a question about the essence of dharma.
+
+5. There's a part about the threefold dharma (sattva, rajas, tamas) and the importance of dharma over other things. So another question on that.
+
+I need to make sure each question is specific, with exact references. For example, using "Bhishma Parva, verse 22" or "Dharma Sankhya, verse 10". Also, the options should be plausible but only one correct.
+
+Let me structure each entry with the reasoning, question, and answer. Ensure the answers are under 100 characters. Check for any external info and avoid it. Make sure each question is unique and covers different parts of the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests understanding of dharma's essence as per Bhishma's teachings. The text explicitly states "धर्मस्य ह्रियमाणस्य" (when dharma is destroyed) and "सर्वभूतानां धर्ममाहुर्मनीषिणः" (sages call dharma the essence of all beings). The other options reflect related concepts but miss the core assertion.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, what do sages declare as the essence of all beings?
+    A) Wealth
+    B) Dharma
+    C) Knowledge
+    D) Power
+  </question>
+  <answer>B) Dharma</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the four virtues of dharma as outlined in the text. The verse "अहिंसा सत्यमक्रोधो दानमेतच्चतुष्टयम्" explicitly lists non-violence, truth, non-anger, and charity. Other options represent related values but lack textual support.
+  </reasoning>
+  <question>
+    In Mahabharata's Dharma Sankhya, which four virtues are described as the essence of dharma?
+    A) Charity, Knowledge, Courage, Wealth
+    B) Non-violence, Truth, Non-anger, Charity
+    C) Wisdom, Purity, Strength, Loyalty
+    D) Compassion, Honesty, Patience, Wealth
+  </question>
+  <answer>B) Non-violence, Truth, Non-anger, Charity</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses knowledge of the threefold dharma (sattva, rajas, tamas) from the text. The verse "रजसा तमसा चैव" directly references these qualities. Other options represent moral states but lack explicit textual support.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, which three qualities are described as defining dharma's nature?
+    A) Purity, Wealth, Knowledge
+    B) Sattva, Rajas, Tamas
+    C) Courage, Wealth, Truth
+    D) Love, Duty, Wealth
+  </question>
+  <answer>B) Sattva, Rajas, Tamas</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests understanding of dharma's role in societal order. The text states "धर्मस्य ह्रियमाणस्य बलवद्भिर्दुरात्मभिः" (when dharma is destroyed by the strong and wicked). Other options represent related consequences but miss the core message.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, what happens when dharma is destroyed by the strong and wicked?
+    A) Society thrives
+    B) Society collapses
+    C) Wealth increases
+    D) Knowledge spreads
+  </question>
+  <answer>B) Society collapses</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the text's emphasis on dharma as the foundation of all existence. The verse "सदैव भरतश्रेष्ठ मा ते भूदत्र संशयः" (never doubt dharma's supremacy) underscores this. Other options represent moral states but lack textual support.
+  </reasoning>
+  <question>
+    In Mahabharata's Dharma Sankhya, what does Bhishma declare as the ultimate foundation of all existence?
+    A) Wealth
+    B) Dharma
+    C) Knowledge
+    D) Power
+  </question>
+  <answer>B) Dharma</answer>
+</entry>

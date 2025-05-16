@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by carefully reading through the text to identify key elements.
+
+First, the text mentions "यवक्रीतोपाख्यानम्" which is the "Yavakritopakhyana" or the story of Yavakrit. There's a lot about Yavakrit, his father Bhargava (Bharadwaja), and his interactions with Indra. Also, there's mention of a place called "रैभ्याश्रम" (Raihaya's hermitage) and events like Yavakrit's tapas (austerity) and the conflict with the rakshasa (demon). 
+
+Looking at the verses, there's a reference to Yavakrit's mother being a "स्नुषा" (a woman named Snusha), and there's a story where Yavakrit is cursed by a woman. Also, there's a mention of a "कमण्डलुं" (water pot) and a "शूल" (spear). 
+
+Another part talks about Yavakrit's father, Bharadwaja, and his son Yavakrit. There's a story where Yavakrit is killed by a rakshasa, and his father is upset. Also, there's a reference to a "महावीर्यः" (great hero) and a "कालान्तकयमोपमम्" (comparable to the end of time). 
+
+I need to make sure each question is based on explicit information. For example, one question could be about Yavakrit's father, another about the curse from the woman, another about the water pot, another about the conflict with the rakshasa, and another about the hermitage. 
+
+I should check each verse to ensure the answers are directly from the text. For example, in verse 13, it says "भरद्वाजो यत्र कविर्यवक्रीतो व्यनश्यत" which means Bharadwaja was the sage who died. Also, in verse 15, "यवक्रीः पितरं दृष्ट्वा तपस्विनमसत्कृतम्" – Yavakrit saw his father as an ascetic. 
+
+Another point is the "कमण्डलुं" (water pot) that Yavakrit threw, which led to his death. Also, the rakshasa (demon) who killed him. 
+
+I need to structure each question with the trigger phrase, specific references, and four options. Let me draft each one step by step, ensuring they are distinct and based on the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Yavakrit's lineage and the context of his story. The text explicitly states that Yavakrit was the son of Bharadwaja, a sage. Other options refer to unrelated figures or roles in the Mahabharata.
+  </reasoning>
+  <question>
+    In Mahabharata's Yavakritopakhyana (verse 13), who was Yavakrit's father, a renowned sage known for his asceticism?
+    A) Bhishma
+    B) Drona
+    C) Bharadwaja
+    D) Vishwamitra
+  </question>
+  <answer>C) Bharadwaja</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights a pivotal event in Yavakrit's story. The text directly mentions his mother being a "snusha" (a woman named Snusha) who cursed him. Other options are unrelated to the narrative.
+  </reasoning>
+  <question>
+    In Mahabharata's Yavakritopakhyana (verse 3), what was the name of Yavakrit's mother, who cursed him after he rejected her?
+    A) Kunti
+    B) Snusha
+    C) Gandhari
+    D) Satyavati
+  </question>
+  <answer>B) Snusha</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on a symbolic object in Yavakrit's story. The text explicitly states he threw a "kamandalu" (water pot) to confront a rakshasa. Other options are unrelated to the narrative.
+  </reasoning>
+  <question>
+    In Mahabharata's Yavakritopakhyana (verse 13), what object did Yavakrit throw to confront the rakshasa who killed him?
+    A) Spear
+    B) Water pot
+    C) Bow
+    D) Sword
+  </question>
+  <answer>B) Water pot</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Yavakrit's fate. The text directly states he was killed by a rakshasa. Other options refer to unrelated characters or outcomes.
+  </reasoning>
+  <question>
+    In Mahabharata's Yavakritopakhyana (verse 19), what entity killed Yavakrit after he rejected his mother's advances?
+    A) Indra
+    B) Rakshasa
+    C) Karna
+    D) Duryodhana
+  </question>
+  <answer>B) Rakshasa</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights a key location in Yavakrit's story. The text explicitly mentions "Raihaya's hermitage" (Raihayashram) as his father's residence. Other options are unrelated to the narrative.
+  </reasoning>
+  <question>
+    In Mahabharata's Yavakritopakhyana (verse 9), where did Yavakrit's father, Bharadwaja, reside as a sage?
+    A) Kurukshetra
+    B) Raihayashram
+    C) Varanasi
+    D) Mount Kailash
+  </question>
+  <answer>B) Raihayashram</answer>
+</entry>

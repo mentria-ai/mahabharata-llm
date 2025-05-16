@@ -1,0 +1,185 @@
+<think>
+Okay, I need to create 10 quiz entries based on the provided Sanskrit verses. Let me start by understanding the content of the verses. The text seems to be from the Mahabharata, specifically a dialogue between Arjuna and Indra, discussing the use of divine weapons (astras) and the battle against the demons (daityas). There's mention of Arjuna receiving various weapons from Indra, the use of the Gandiva bow, and the destruction of the demon city of Hiranyapura.
+
+First, I'll look for key events, characters, and specific details. For example, Arjuna receives divine weapons from Indra, there's a mention of the city of Hiranyapura, and the use of the Vajra (thunderbolt) astra. Also, there's a part where Arjuna uses multiple astras to destroy the city and the demons.
+
+Each entry needs a question, reasoning, and answer. The question must be self-contained, with the verse citation. The answer should be one of four options, with plausible distractors.
+
+Let me check the verses again. For example, verse 24-25: Indra tells Arjuna that he will kill the demons, and Arjuna responds that he will use human weapons. Then there's a part where Arjuna is given a divine chariot and weapons by Indra. Also, the city of Hiranyapura is described as a divine city with no suffering, and Arjuna destroys it with astras.
+
+Another point is the use of the Vajra astra, which is mentioned in verse 13. Also, the destruction of the city and the demons, and the role of Matli (the charioteer) in guiding Arjuna.
+
+I need to make sure each question is based solely on the given verses. For example, one question could be about who killed the demons, with options being Indra, Arjuna, Matli, or another character. The answer would be Arjuna, as per the verses.
+
+Another question could be about the name of the demon city, with options like Hiranyapura, Indraprastha, etc. The answer is Hiranyapura.
+
+I need to ensure that each entry has a unique question, and the options are plausible but incorrect based on the verses. Also, the reasoning must explain why the correct answer is right and the others wrong.
+
+Let me draft the first entry. The question could be about who killed the demons. The verse 24-25 mentions Indra telling Arjuna to kill them, but Arjuna uses human weapons. However, later verses show Arjuna using divine weapons. So the answer would be Arjuna. The distractors could be Indra, Matli, or another character.
+
+Another entry could be about the name of the city, with options including Hiranyapura, which is mentioned in the verses.
+
+I need to make sure each entry is distinct and covers different aspects of the verses. Also, check that the options are within the same semantic class, like locations, characters, or numbers.
+
+I'll proceed to create 10 such entries, ensuring they follow the structure and rules provided.
+</think>
+
+<entry>
+  <reasoning>
+    • **Indra-Parvan 24.24–25**  
+    • Proof: *ततोऽहमब्रुवं शक्रं प्रसीद भगवन्मम | आचार्यं वरये त्वाहमस्त्रार्थं त्रिदशेश्वर*  
+    • Indra grants Arjuna divine weapons to destroy the demons.  
+    • Arjuna rejects divine weapons initially, but later uses them. Matli and Yudhishthira are not involved in this exchange.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, after Indra promises Arjuna divine weapons to destroy the demons (see Indra-Parvan 24.24–25), who ultimately wields these weapons to annihilate the daityas?  
+    A) Indra   B) Matli   C) Arjuna   D) Yudhishthira  
+  </question>
+  <answer>
+    C) Arjuna
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Indra-Parvan 28.10–11**  
+    • Proof: *निवातकवचा नाम दानवा मम शत्रवः | समुद्रकुक्षिमाश्रित्य दुर्गे प्रतिवसन्त्युत*  
+    • The demons (nivatakavacas) reside in a mountain fortress.  
+    • Indra and Matli are not described as living in such a fortress. Yudhishthira is a Pandava king, not a demon.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, where do the nivatakavacas (demons) dwell after fleeing to the ocean (see Indra-Parvan 28.10–11)?  
+    A) Indra's heaven   B) Yudhishthira's kingdom   C) A mountain fortress   D) Matli's chariot  
+  </question>
+  <answer>
+    C) A mountain fortress
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Indra-Parvan 30.12–13**  
+    • Proof: *ततो मातलिसंयुक्तं मयूरसमरोमभिः | हयैरुपेतं प्रादान्मे रथं दिव्यं महाप्रभम*  
+    • Matli (Indra's charioteer) provides Arjuna with a divine chariot.  
+    • Arjuna and Indra are not described as charioteers. Yudhishthira is unrelated here.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, who equips Arjuna with a divine chariot to battle the demons (see Indra-Parvan 30.12–13)?  
+    A) Arjuna   B) Yudhishthira   C) Indra   D) Matli  
+  </question>
+  <answer>
+    D) Matli
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Indra-Parvan 34.1–2**  
+    • Proof: *अत्यद्भुतमिदं मेऽद्य विचित्रं प्रतिभाति माम् | यदास्थितो रथं दिव्यं पदा न चलितो भवान्*  
+    • Matli marvels at Arjuna’s stationary divine chariot.  
+    • Indra and Yudhishthira are not described as being in the chariot. Arjuna is the occupant.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, who expresses awe at Arjuna’s unmovable divine chariot (see Indra-Parvan 34.1–2)?  
+    A) Indra   B) Yudhishthira   C) Matli   D) A demon  
+  </question>
+  <answer>
+    C) Matli
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Indra-Parvan 40.40–41**  
+    • Proof: *इत्युक्त्वाकाशमाविश्य मातलिर्विबुधालयान् | दर्शयामास मे राजन्विमानानि च भारत*  
+    • Matli shows Arjuna the divine cities of the gods.  
+    • Indra and Yudhishthira are not described as showing cities. Arjuna is the recipient.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, who reveals the divine cities of the gods to Arjuna (see Indra-Parvan 40.40–41)?  
+    A) Indra   B) Yudhishthira   C) Matli   D) A demon  
+  </question>
+  <answer>
+    C) Matli
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Indra-Parvan 53.53–54**  
+    • Proof: *तत्राहं देवगन्धर्वैः सहितो भुरिदक्षिण | अस्त्रार्थमवसं स्वर्गे कुर्वाणोऽस्त्राणि भारत*  
+    • Arjuna resides in heaven after defeating the demons.  
+    • Indra and Yudhishthira are not described as residing in heaven. Matli is a charioteer.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, where does Arjuna reside after annihilating the demons (see Indra-Parvan 53.53–54)?  
+    A) Earth   B) Yudhishthira's kingdom   C) Heaven   D) Matli's chariot  
+  </question>
+  <answer>
+    C) Heaven
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Indra-Parvan 16.1–2**  
+    • Proof: *अर्जुन उवाच | न त्वमद्य युधा जेतुं शक्यः सुरगणैरपि | किं पुनर्मानुषे लोके मानुषैरकृतात्मभिः*  
+    • Arjuna doubts his ability to defeat the demons, even with divine help.  
+    • Indra and Matli are not described as doubting. Yudhishthira is unrelated.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, who expresses doubt about defeating the demons, even with divine allies (see Indra-Parvan 16.1–2)?  
+    A) Indra   B) Yudhishthira   C) Matli   D) Arjuna  
+  </question>
+  <answer>
+    D) Arjuna
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Indra-Parvan 21.19–20**  
+    • Proof: *अयं च शङ्खप्रवरो येन जेतासि दानवान् | अनेन विजिता लोकाः शक्रेणापि महात्मना*  
+    • The conch (shankha) is described as a divine weapon used to defeat demons.  
+    • Arjuna and Matli are not described as conches. Yudhishthira is unrelated.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, which divine weapon is said to have defeated the demons and the gods (see Indra-Parvan 21.19–20)?  
+    A) Arjuna's bow   B) Yudhishthira's sword   C) A conch   D) Matli's chariot  
+  </question>
+  <answer>
+    C) A conch
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Indra-Parvan 24.24–25**  
+    • Proof: *क्रूरं कर्मास्त्रवित्तात करिष्यसि परन्तप | यदर्थमस्त्राणीप्सुस्त्वं तं कामं पाण्डवाप्नुहि*  
+    • Indra commands Arjuna to destroy the demons with weapons.  
+    • Arjuna and Matli are not described as commanding. Yudhishthira is unrelated.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, who orders Arjuna to annihilate the demons with weapons (see Indra-Parvan 24.24–25)?  
+    A) Matli   B) Yudhishthira   C) Indra   D) A demon  
+  </question>
+  <answer>
+    C) Indra
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **Indra-Parvan 30.12–13**  
+    • Proof: *ततो मातलिसंयुक्तं मयूरसमरोमभिः | हयैरुपेतं प्रादान्मे रथं दिव्यं महाप्रभम*  
+    • Matli (Indra's charioteer) provides Arjuna with a divine chariot.  
+    • Arjuna and Yudhishthira are not described as charioteers. Indra is the god.  
+  </reasoning>
+  <question>
+    In the Mahābhārata, who is described as Arjuna's charioteer during the battle against the demons (see Indra-Parvan 30.12–13)?  
+    A) Indra   B) Yudhishthira   C) Matli   D) A demon  
+  </question>
+  <answer>
+    C) Matli
+  </answer>
+</entry>

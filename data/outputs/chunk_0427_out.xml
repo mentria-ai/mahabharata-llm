@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text. The verses seem to describe battles, warriors, and their actions. There are mentions of Bhima, Arjuna, Karna, Drona, and others. Each question must be specific, use exact references, and only include information from the text.
+
+First, I'll look for key events. For example, there's a mention of Bhima leading the attack. The text says "भीमसेनेन कौन्तेय पाञ्चालैश्च महात्मभिः" which translates to Bhima, the son of Kunti, and the Panchalas. So a question about who led the attack on the Kaurava forces could be formed. The options would include Bhima, Drona, Karna, and Duryodhana. The answer is Bhima.
+
+Next, there's a reference to the Panchalas attacking the Kaurava army. The verse "पाञ्चालैर्मानसादेत्य हंसैर्गङ्गेव वेगितैः" mentions the Panchalas. So a question about which group attacked the Kauravas with great speed. The answer would be the Panchalas.
+
+Another part talks about Karna being attacked by Sikhandin. The verse "शिखण्डी च ततः कर्णं विचरन्तमभीतवत्" and "शिखण्डिनं त्रिभिर्बाणैर्भ्रुवोर्मध्ये व्यताडयत्" indicate that Sikhandin attacked Karna. So a question about who attacked Karna with three arrows. The answer is Sikhandin.
+
+Then, there's a mention of Arjuna using a divine weapon. The verse "अर्जुनस्तु ततो दिव्यमस्त्रं चक्रे हसन्निव" refers to Arjuna creating a divine weapon. So a question about who created a divine weapon in the battle. The answer is Arjuna.
+
+Lastly, the text mentions the Kaurava army being overwhelmed. The verse "धार्तराष्ट्री महाचमूः" and "विमुखा चाभवद्रणात्" indicate the Kaurava army was defeated. So a question about which army was defeated by the Panchalas. The answer is the Kaurava army.
+
+I need to make sure each question has the correct reference, like the specific adhyaya or parva. However, the text provided doesn't have exact adhyaya numbers, so I'll use the context from the verses. Also, check that the options are plausible but incorrect. For example, Drona and Karna are other leaders but not the correct answer in the first question.
+
+Now, structure each entry with reasoning, question, and answer. Ensure the answers are under 100 characters. Let me verify each question against the text to confirm accuracy.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of key warriors and their roles in the Kurukshetra battle. Bhima's leadership is explicitly mentioned in the text as he attacks the Kaurava forces. Other options represent other warriors but not the specific action described.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, who led the attack on the Kaurava forces with the Panchalas and Kunti's sons?
+    A) Bhima
+    B) Drona
+    C) Karna
+    D) Duryodhana
+  </question>
+  <answer>A) Bhima</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the Panchalas' role in the battle. The text describes their swift attack on the Kaurava army. Other options refer to different groups or leaders not associated with this specific action.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, which group attacked the Kaurava army with great speed and force?
+    A) Panchalas
+    B) Kauravas
+    C) Pandavas
+    D) Kaurava allies
+  </question>
+  <answer>A) Panchalas</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Sikhandin's role in attacking Karna. The text explicitly states he used three arrows against Karna. Other options involve different warriors or actions not mentioned here.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, who attacked Karna with three arrows in the battle?
+    A) Sikhandin
+    B) Drona
+    C) Arjuna
+    D) Bhima
+  </question>
+  <answer>A) Sikhandin</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Arjuna's divine weapon. The text directly mentions Arjuna creating a divine weapon. Other options involve different warriors or actions not described here.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, who created a divine weapon during the battle?
+    A) Arjuna
+    B) Karna
+    C) Drona
+    D) Bhima
+  </question>
+  <answer>A) Arjuna</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses the defeat of the Kaurava army. The text explicitly states their defeat by the Panchalas. Other options refer to different groups or outcomes not mentioned here.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, which army was defeated by the Panchalas in the battle?
+    A) Kaurava
+    B) Pandava
+    C) Kuru
+    D) Sainya
+  </question>
+  <answer>A) Kaurava</answer>
+</entry>

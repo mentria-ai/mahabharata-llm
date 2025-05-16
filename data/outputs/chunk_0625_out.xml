@@ -1,0 +1,99 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, dialogues, and teachings. The text seems to include dialogues between characters like Astavakra, Bhishma, and others. There's mention of a woman (sā stri) and her interactions with a sage. Also, there's a discussion about the qualifications of a Brahmin (pātra) and the concept of dharma.
+
+For the first question, I notice a dialogue where a woman (sā stri) is talking to a sage. She says, "कौतूहलसमाविष्टः प्रविवेश गृहं द्विजः" which translates to "The twice-born man entered the house, filled with curiosity." So, the question could be about who entered the house. The options would include the sage (dvija), but the woman is the one who spoke, so maybe the answer is the sage. But I need to check the exact context.
+
+Another part is about the qualifications of a Brahmin. There's a verse where Bhishma talks about the four qualities: kulin (noble), karma-karta (doer of deeds), anrisha (non-violent), and hri (shame). So a question about the four qualities of a pātra (eligible Brahmin) would work here.
+
+There's also a part where a woman (sā stri) says she's a kanyā (virgin) and that she's not bound by the rules of women's independence. So a question about her claim of being a kanyā could be another question.
+
+Another part is about the concept of dharma, where Bhishma states that non-violence, truth, and other virtues are the characteristics of dharma. So a question about the five characteristics of dharma.
+
+Lastly, there's a dialogue where a woman (sā stri) says she's not bound by the rules of women's independence, and the sage (Astavakra) argues against it. So a question about the sage's argument against her claim.
+
+I need to make sure each question is specific, with the exact reference. For example, the first question could be about the sage entering the house, referencing the specific verses. The second about the four qualities of a Brahmin. Third about the woman's claim of being a kanyā. Fourth about the five characteristics of dharma. Fifth about the sage's argument against her claim.
+
+I need to check the exact verses. For example, the first part starts with "कौतूहलसमाविष्टः प्रविवेश गृहं द्विजः" which is verse 43. So the question would be "In Mahabharata's Bhishma Parva, verse 43, who entered the house filled with curiosity?" with options including the sage (dvija), but the correct answer is the sage.
+
+Another part: "कुलीनः कर्मकृद्वैद्यस्तथा चाप्यानृशंस्यवान्" which is verse 9. So the question about the four qualities of a pātra.
+
+The woman's claim of being a kanyā is in verses 20, where she says "कौमारं ब्रह्मचर्यं मे कन्यैवास्मि न संशयः". So the question would be about her claim of being a kanyā.
+
+The dharma characteristics are in verse 19: "अहिंसा सत्यमक्रोध आनृशंस्यं दमस्तथा | आर्जवं चैव राजेन्द्र निश्चितं धर्मलक्षणम्". So the question about the five characteristics of dharma.
+
+The sage's argument against her claim is in verses 12-19, where he says women are not independent and are protected by father, husband, etc. So the question would be about the sage's argument against her claim of independence.
+
+I need to make sure each question is unique and covers different parts of the text. Also, the answers must be under 100 characters. Let me structure each entry accordingly.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of key interactions in the Mahabharata's Bhishma Parva. The sage (dvija) enters the house, but the woman (sā stri) is the central figure. The answer is clear from the opening verse, while other options reflect common misinterpretations of the text's focus.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, verse 43, who entered the house filled with curiosity?
+    A) A woman
+    B) A king
+    C) A sage
+    D) A warrior
+  </question>
+  <answer>C) A sage</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses understanding of Brahmin qualifications. The text explicitly lists four traits (kulin, karma-karta, anrisha, hri). Other options reflect common misconceptions about Brahmin roles in the Mahabharata.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, which four qualities define a pātra (eligible Brahmin)?
+    A) Wealth, power, knowledge, devotion
+    B) Kulin, karma-karta, anrisha, hri
+    C) Strength, courage, wisdom, humility
+    D) Purity, lineage, ritual expertise, wealth
+  </question>
+  <answer>B) Kulin, karma-karta, anrisha, hri</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the woman's claim of independence. The text shows she asserts her kanyā (virgin) status, but the sage argues against female autonomy. The answer is directly stated in the text, while other options reflect opposing viewpoints.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, what did the woman claim about her status?
+    A) She was a widow
+    B) She was a widow
+    C) She was a kanyā (virgin)
+    D) She was a widow
+  </question>
+  <answer>C) She was a kanyā (virgin)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of dharma's core principles. The text explicitly lists five virtues (ahimsa, satya, etc.). Other options reflect common but incorrect interpretations of dharma's characteristics.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, which five virtues define dharma?
+    A) Wealth, power, knowledge, devotion
+    B) Ahimsa, satya, anrisha, dama, arjava
+    C) Strength, courage, wisdom, humility
+    D) Purity, lineage, ritual expertise, wealth
+  </question>
+  <answer>B) Ahimsa, satya, anrisha, dama, arjava</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the sage's argument against female autonomy. The text shows he claims women are never independent, while the woman asserts her freedom. The answer is directly stated, while other options reflect opposing perspectives.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, what did the sage claim about women's independence?
+    A) Women are always independent
+    B) Women are never independent
+    C) Women should govern themselves
+    D) Women's independence depends on circumstances
+  </question>
+  <answer>B) Women are never independent</answer>
+</entry>

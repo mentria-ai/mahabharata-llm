@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, and specific references. The text seems to be from the Bhishma Parva, as there are mentions of Bhishma and Krishna. There are verses (shlokas) with numbers like 14, 15, etc. The text includes dialogues between Bhishma and Krishna, and references to the Kurukshetra war. 
+
+For the first question, I notice that Bhishma is addressed as "Gangaya" (son of Ganga) and there's a mention of him being on his deathbed. The text says he's lying on a bed of arrows (sharatlpa). So a question about who is lying on the bed of arrows would be good. The answer is Bhishma, and the options could include other warriors like Drona or Karna.
+
+Next, looking for another part. There's a mention of Krishna advising Bhishma, and Bhishma's wisdom. The text says that Bhishma's wisdom is compared to the Vedas. So a question about the comparison of Bhishma's wisdom to the Vedas. The answer would be that it's compared to the Vedas, and other options could be other texts like the Upanishads or Ramayana.
+
+Third question: The text mentions that after Bhishma's death, the Pandavas and others approach him. There's a reference to "Hata shishtas" (survivors). So a question about who approached Bhishma after his death. The answer would be the Pandavas and other kings. Options could include other groups like the Kauravas or sages.
+
+Fourth question: There's a part where Krishna says that the essence of dharma is in him. So a question about who says that the essence of dharma is in them. The answer is Krishna, and options could be other characters like Bhishma or Arjuna.
+
+Fifth question: The text mentions that Bhishma's death is compared to the sun setting. So a question about the metaphor used for Bhishma's death. The answer is the sun setting, and options could include other metaphors like a river or a mountain.
+
+I need to make sure each question has the exact reference, like the specific shloka numbers. Also, check that the answers are directly from the text. Avoid adding any external knowledge. Each question should be distinct, covering different parts of the text. Let me verify each point against the text to ensure accuracy.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Bhishma's final moments and his symbolic deathbed. The text explicitly describes him lying on a bed of arrows (sharatlpa), a pivotal image in the Bhishma Parva. Other options represent warriors who died in battle but not on this specific deathbed.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shlokas 14-16), who lies on a bed of arrows (sharatlpa) as his final act of sacrifice?
+    A) Bhishma
+    B) Drona
+    C) Karna
+    D) Arjuna
+  </question>
+  <answer>A) Bhishma</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Bhishma's unparalleled wisdom and its comparison to Vedic knowledge. The text states his wisdom encompasses all dharma, directly linking it to the Vedas. Other options represent different texts but lack the explicit connection to Bhishma's wisdom in the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 19), how is Bhishma's wisdom described in relation to sacred texts?
+    A) Compared to the Upanishads
+    B) Equated with the Vedas
+    C) Linked to the Ramayana
+    D) Parallel to the Mahabharata
+  </question>
+  <answer>B) Equated with the Vedas</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on post-Bhishma death rituals. The text explicitly mentions Pandavas and other kings approaching his body, while other options represent groups not mentioned in this context. The reference to "hata shishtas" (survivors) clarifies the group.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shlokas 6-8), which group approaches Bhishma's body after his death?
+    A) Kauravas
+    B) Sages
+    C) Pandavas and kings
+    D) Women of Hastinapura
+  </question>
+  <answer>C) Pandavas and kings</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Krishna's assertion about dharma's essence. The text directly states Krishna claims dharma's foundation is in him, making this a key doctrinal statement. Other options represent different philosophical claims not made in the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 25), who declares that the essence of dharma and glory lies in them?
+    A) Bhishma
+    B) Arjuna
+    C) Yudhishthira
+    D) Krishna
+  </question>
+  <answer>D) Krishna</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines symbolic language in the text. The metaphor of Bhishma's death as the sun setting is explicitly stated, making it a key imagery reference. Other options represent unrelated metaphors not mentioned in the passage.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 8), what natural phenomenon is used to describe Bhishma's death?
+    A) A river drying
+    B) A mountain collapsing
+    C) The sun setting
+    D) A storm raging
+  </question>
+  <answer>C) The sun setting</answer>
+</entry>

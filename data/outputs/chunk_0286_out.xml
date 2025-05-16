@@ -1,0 +1,95 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text. The verses here seem to be from the Bhagavad Gita, part of the Mahabharata's Bhishma Parva. The text discusses concepts like prakriti (nature), purusha (soul), the three gunas (sattva, rajas, tamas), and the nature of the self (atman) and the Supreme (Brahman). 
+
+First, I should identify key points from the text. For example, there's a lot about the three gunas and their effects. Also, the concept of the Supreme Being (Paramatma) and the individual soul (Purusha). There's mention of the tree (ashvattha) as a metaphor for the universe, and the importance of knowledge (jnana) and action (karma) in spiritual liberation.
+
+Now, I need to make sure each question is based on explicit information from the text. Let's go through each verse step by step.
+
+Question 1: The text mentions that the Supreme Lord (Paramatma) is beyond prakriti and is not affected by it. The verse 31 says "Paramatma is eternal and not affected by the body." So a question about who is not affected by the body.
+
+Question 2: The three gunas (sattva, rajas, tamas) are discussed. Verse 5 lists them as sattva, rajas, tamas. So a question about the three gunas.
+
+Question 3: The metaphor of the tree (ashvattha) is in verses 1-4. The tree's roots are in the Supreme, and the branches are the gunas. So a question about the tree's roots.
+
+Question 4: The text talks about the nature of the self (atman) and the Supreme. Verse 29 says that seeing the self as the doer (akarta) is the true vision. So a question about who is the doer.
+
+Question 5: The text mentions that the Supreme is beyond the three gunas. Verse 20 says that one who transcends the three gunas attains immortality. So a question about who attains immortality.
+
+Now, I need to structure each question with the trigger phrase, specific references, and four options. Ensure that the answers are under 100 characters and that the reasoning explains why the correct answer is right and why others are incorrect.
+
+Let me check each verse again to confirm the references. For example, verse 31 is about Paramatma not being affected. Verse 5 is the three gunas. Verse 1-4 is the tree metaphor. Verse 29 about seeing the self as the doer. Verse 20 about transcending gunas.
+
+I need to make sure the options are plausible but incorrect. For example, in the tree question, options could be other elements like the roots being in the earth, but the correct answer is the Supreme. For the gunas, options could be other classifications. For the doer, options could be others like the body or mind. For the Supreme's nature, options could be other attributes. For the one who attains immortality, options could be others like the wise or the sages.
+
+Now, format each entry with XML tags, reasoning, question, and answer. Make sure the answers are concise and correct.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests understanding of the distinction between the Supreme (Paramatma) and the individual soul (Purusha). The text explicitly states that Paramatma remains unaffected by the body, while others are bound by it. Options B-D represent common misconceptions about the self's relationship with the body.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhagavad Gita (Chapter 13, Shloka 31), who remains unaffected by the body according to the text?
+    A) The individual soul (Purusha)
+    B) The Supreme Lord (Paramatma)
+    C) The mind
+    D) The senses
+  </question>
+  <answer>B) The Supreme Lord (Paramatma)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses knowledge of the three fundamental qualities (gunas) described in the text. The passage explicitly lists sattva, rajas, and tamas as the three gunas. Options A-C represent other classifications or concepts from the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhagavad Gita (Chapter 14, Shloka 5), what are the three qualities (gunas) that bind beings to the body?
+    A) Knowledge, action, and wisdom
+    B) Sattva, rajas, and tamas
+    C) Devotion, austerity, and knowledge
+    D) Purity, passion, and ignorance
+  </question>
+  <answer>B) Sattva, rajas, and tamas</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests understanding of the metaphorical tree (ashvattha) described in the text. The passage explicitly states that the tree's roots are in the Supreme (Brahman). Options A-C represent common misinterpretations of the metaphor.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhagavad Gita (Chapter 15, Shloka 1), what is the source of the metaphorical tree's roots according to the text?
+    A) The earth
+    B) The Supreme (Brahman)
+    C) The senses
+    D) The mind
+  </question>
+  <answer>B) The Supreme (Brahman)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the concept of the true doer (akarta) as described in the text. The passage explicitly states that the Supreme Lord (Brahman) is the true doer. Options A-C represent common misunderstandings about agency.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhagavad Gita (Chapter 13, Shloka 29), who is described as the true doer (akarta) in all actions?
+    A) The individual soul (Purusha)
+    B) The Supreme Lord (Brahman)
+    C) The mind
+    D) The senses
+  </question>
+  <answer>B) The Supreme Lord (Brahman)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the path to liberation (moksha) described in the text. The passage explicitly states that those who transcend the three gunas (sattva, rajas, tamas) attain immortality. Options A-C represent other paths or concepts mentioned in the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhagavad Gita (Chapter 14, Shloka 20), who attains immortality according to the text?
+    A) The wise
+    B) Those who transcend the three gunas
+    C) The devoted
+    D) The knowledgeable
+  </question>
+  <answer>B) Those who transcend the three gunas</answer>
+</entry>

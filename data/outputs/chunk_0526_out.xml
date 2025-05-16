@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I notice that the text includes several verses from the Bhishma Parva, specifically sections 116 to 119. The content seems to discuss the qualities of a good king, the importance of ministers, and some stories about animals and their transformations. There's a lot about the duties of a ruler, the characteristics of loyal servants, and the consequences of actions.
+
+For the first question, I should focus on the part where Bhishma talks about the qualities of a good king. The text mentions that a king should be wise, knowledgeable, and have certain virtues. The verse 116-14 mentions that a king who is surrounded by wise ministers and follows dharma will achieve prosperity. So, a question about the qualities of a good king would be appropriate here.
+
+Next, looking at the story of the animals, there's a part where a dog (shva) is transformed into a deer (dvipa) and then into a tiger (vyaghra). This transformation is mentioned in verses 116-41 to 116-43. The question could be about the transformation of the dog into a tiger, which is a key event in the text.
+
+Another part is about the importance of ministers (sachiva) and their qualities. Verse 118-7 to 118-12 lists various qualities a minister should have. So, a question about the qualities of a minister would work here.
+
+There's also a section where the text emphasizes that a king should not appoint people who are not from the same lineage (kulin). Verse 118-4 mentions that an unworthy person (akulina) is difficult to find and is criticized. So, a question about the importance of lineage in appointing ministers could be another question.
+
+Lastly, the text talks about the consequences of a king's actions. Verse 116-14 states that a king who is surrounded by wise ministers and follows dharma will achieve prosperity. So, a question about the result of a king's wise governance would be another one.
+
+I need to make sure each question is specific, includes the exact reference, and the answer is directly from the text. Also, the options should be plausible but only one correct. Let me check each verse again to confirm the details.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests understanding of Bhishma's advice on royal duties. The text explicitly states that a king surrounded by wise ministers (sachiva) and adhering to dharma achieves prosperity. Other options represent partial truths but miss the core emphasis on ministerial wisdom and dharma.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (116.14), what quality ensures a king's prosperity according to Bhishma's teachings?
+    A) Wealth accumulation
+    B) Military strength
+    C) Wise ministers and dharma
+    D) Popular support
+  </question>
+  <answer>C) Wise ministers and dharma</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the text's allegorical transformation story. The dog (shva) becomes a deer (dvipa), then a tiger (vyaghra) through spiritual growth. Other options represent stages but not the final transformation described in the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (116.41-43), what animal does the dog transform into through spiritual evolution?
+    A) Elephant
+    B) Lion
+    C) Tiger
+    D) Bear
+  </question>
+  <answer>C) Tiger</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses knowledge of ministerial qualifications. The text explicitly lists six key traits for ministers, including knowledge of scriptures and impartiality. Other options represent partial requirements but miss the comprehensive criteria.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (118.7-12), which quality is NOT listed as essential for ministers?
+    A) Knowledge of scriptures
+    B) Wealth accumulation
+    C) Impartiality
+    D) Time and place awareness
+  </question>
+  <answer>B) Wealth accumulation</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests understanding of lineage importance in governance. The text explicitly states that unworthy individuals (akulina) are criticized and should not be appointed. Other options represent valid concerns but miss the specific lineage emphasis.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (118.4), what group is warned against being appointed as ministers?
+    A) Foreigners
+    B) Unqualified individuals
+    C) Those without wealth
+    D) Non-royal bloodlines
+  </question>
+  <answer>D) Non-royal bloodlines</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the text's teaching on royal responsibility. The passage explicitly states that a king's actions determine his fate, with no external factors. Other options represent partial truths but miss the absolute causality emphasized in the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (116.13), what determines a king's success according to the text?
+    A) Divine favor
+    B) Ministerial support
+    C) Personal righteousness
+    D) Military conquest
+  </question>
+  <answer>C) Personal righteousness</answer>
+</entry>

@@ -1,0 +1,89 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look through the verses to identify key elements: characters, events, and specific references. The text seems to include dialogues between Draupadi, Kichaka, Bhima, and others. There's mention of Draupadi being insulted by Kichaka, her request for help, and Bhima's role in protecting her. Also, there are references to specific sections like "Kichaka Parva" and some verses with numbers like 15, 17, etc.
+
+For each question, I need to ensure that the answer is explicitly stated in the text. Let's break it down:
+
+1. **First Question**: The text mentions Draupadi being sent to Kichaka's quarters. The verse numbers 15 and 17 are referenced. So, the question could be about who sent Draupadi to Kichaka. The answer is "Sudeshna" (verse 15). The options would include other characters like Kichaka, Bhima, and Yudhishthira.
+
+2. **Second Question**: Draupadi's dialogue in verse 18 where she says she's not the wife of Kichaka. The correct answer is "Draupadi" (verse 18). Options could be other characters or Kichaka himself.
+
+3. **Third Question**: The text mentions Bhima's role in killing Kichaka. Verse 11 says Bhima was ready to kill Kichaka. So the question could be about who was ready to kill Kichaka. The answer is Bhima.
+
+4. **Fourth Question**: The text has Draupadi's lament about being treated like a fish. Verse 13 mentions her crying like a fish. The answer is "Draupadi" (verse 13). Options would include other characters.
+
+5. **Fifth Question**: The text refers to the "Kichaka Parva" (verse 15). The question could be about the name of the section. The answer is "Kichaka Parva".
+
+I need to make sure each question has the exact reference, and the options are plausible but incorrect. Also, check that the answers are directly from the text without adding external info. Let me verify each verse to confirm the details.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Draupadi's plight and the role of Sudeshna. The text explicitly states Sudeshna sent Draupadi to Kichaka's quarters. Other options represent key figures but are not the sender in this context.
+  </reasoning>
+  <question>
+    In Mahabharata's Kichaka Parva (verse 15), who sent Draupadi to Kichaka's quarters despite her protests?
+    A) Kichaka
+    B) Bhima
+    C) Yudhishthira
+    D) Sudeshna
+  </question>
+  <answer>D) Sudeshna</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Draupadi's defiance. The text (verse 18) shows she explicitly denied being Kichaka's wife. Other options represent potential antagonists but are not the speaker in this dialogue.
+  </reasoning>
+  <question>
+    In Mahabharata's Kichaka Parva (verse 18), who declared "I am not your wife, Kichaka" while being harassed?
+    A) Kichaka
+    B) Sudeshna
+    C) Bhima
+    D) Draupadi
+  </question>
+  <answer>D) Draupadi</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on Bhima's role in the Kichaka episode. The text (verse 11) states Bhima was ready to kill Kichaka. Other options represent warriors but were not directly involved in this act.
+  </reasoning>
+  <question>
+    In Mahabharata's Kichaka Parva (verse 11), who was prepared to kill Kichaka after he harassed Draupadi?
+    A) Drona
+    B) Arjuna
+    C) Bhima
+    D) Duryodhana
+  </question>
+  <answer>C) Bhima</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines Draupadi's metaphorical lament. The text (verse 13) describes her crying like a fish. Other options represent potential listeners but are not the subject of this specific metaphor.
+  </reasoning>
+  <question>
+    In Mahabharata's Kichaka Parva (verse 13), who wept like a fish while being oppressed by Kichaka?
+    A) Kichaka
+    B) Sudeshna
+    C) Bhima
+    D) Draupadi
+  </question>
+  <answer>D) Draupadi</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question identifies the specific section of the Mahabharata. The text's structure and references (e.g., "Kichaka Parva") directly name this section. Other options represent different parvas but are not the correct reference here.
+  </reasoning>
+  <question>
+    In Mahabharata's [specific parva], which section details Draupadi's encounter with Kichaka and Bhima's intervention?
+    A) Bhishma Parva
+    B) Kichaka Parva
+    C) Drona Parva
+    D) Kalinga Parva
+  </question>
+  <answer>B) Kichaka Parva</answer>
+</entry>

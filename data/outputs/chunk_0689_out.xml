@@ -1,0 +1,89 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text. The verses seem to discuss various aspects of dharma, including the duties of a brahmin, the importance of certain virtues, and the path to liberation. 
+
+First, I should identify specific references. The text has verses numbered, so I can use those. For example, verses 18-25 talk about the qualities of a brahmin, like being pure, wearing white clothes, and following certain rituals. 
+
+Question 1: Maybe about the qualities of a brahmin. The text mentions "शुक्लवासाः शुचिव्रतः" (white clothes and pure conduct). So the answer would be about wearing white clothes. The options could include other aspects like wearing wool, but the text specifies white.
+
+Question 2: The text mentions "याजनाध्यापने चोभे शुद्धाच्चापि प्रतिग्रहः" (teaching and yajna, and pure reception). So the three duties of a brahmin are teaching, yajna, and receiving. The answer would be these three.
+
+Question 3: The text says "अधीत्याध्यापनं कुर्यात्तथा यजनयाजने" (study and teaching, and yajna). So the three duties are study, teaching, and yajna. The answer would be these three.
+
+Question 4: The text mentions "अहिंसा ब्रह्मचर्यं च सत्यमार्जवमेव च" (non-violence, brahmacarya, truth, and honesty). So the four virtues are these. The answer would be these four.
+
+Question 5: The text says "निर्ममो निरहङ्कारो मुच्यते नात्र संशयः" (without attachment and ego, one is liberated). So the correct answer is being free from attachment and ego. The options could include other virtues, but the text specifically mentions these.
+
+I need to make sure each question is specific, uses the exact references, and the answers are directly from the text. Also, check that the options are plausible but incorrect. For example, in the first question, options might include other types of clothing, but the text says white. 
+
+Now, structure each entry with the reasoning, question, and answer. Ensure the XML format is correct, with proper tags and no markdown. Each question must start with "In Mahabharata's" and include the specific verse numbers. Also, check that the answers are under 100 characters.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of brahminical conduct as outlined in the text. The verse explicitly states "शुक्लवासाः शुचिव्रतः" (white clothes and pure conduct), making A the correct answer. Other options reflect common misconceptions about brahminical attire or rituals.
+  </reasoning>
+  <question>
+    In Mahabharata's Āśvamedhika Parva (verse 18), what garment was prescribed for a brahmin to maintain purity?
+    A) White clothes (शुक्लवासाः)
+    B) Woolen robes (कार्पासिकं)
+    C) Animal skin (मृगाजिनम्)
+    D) Multi-colored attire (काषायरक्तं)
+  </question>
+  <answer>A) White clothes (शुक्लवासाः)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the three fundamental duties of a brahmin as defined in the text. The verse "त्रीणि कर्माणि यानीह ब्राह्मणानां तु जीविका" explicitly lists teaching, yajna, and receiving. Other options represent related but non-core duties.
+  </reasoning>
+  <question>
+    In Mahabharata's Āśvamedhika Parva (verse 22), what three activities were defined as the livelihood of brahmins?
+    A) Teaching (अध्यापनम्), yajna (यज्ञ), and receiving (प्रतिग्रहः)
+    B) Warfare (युद्ध), agriculture (कृषि), and trade (व्यापार)
+    C) Artisan work (कारीगरी), hunting (शिकार), and music (गान)
+    D) Governance (राज्य), pilgrimage (तीर्थयात्रा), and poetry (काव्य)
+  </question>
+  <answer>A) Teaching (अध्यापनम्), yajna (यज्ञ), and receiving (प्रतिग्रहः)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests understanding of brahminical vows. The text specifies "अहिंसा ब्रह्मचर्यं च सत्यमार्जवमेव च" (non-violence, brahmacarya, truth, and honesty) as essential virtues. Other options represent related but non-core principles.
+  </reasoning>
+  <question>
+    In Mahabharata's Āśvamedhika Parva (verse 35), which four virtues were emphasized as essential for a brahmin's conduct?
+    A) Non-violence (अहिंसा), brahmacarya (ब्रह्मचर्यं), truth (सत्यम्), and honesty (आर्जवम्)
+    B) Charity (दान), patience (क्षमा), austerity (तपः), and knowledge (ज्ञान)
+    C) Fasting (उपवास), meditation (ध्यान), pilgrimage (तीर्थयात्रा), and service (सेवा)
+    D) Wealth (धन), power (शक्ति), fame (प्रसिद्धि), and status (स्थिति)
+  </question>
+  <answer>A) Non-violence (अहिंसा), brahmacarya (ब्रह्मचर्यं), truth (सत्यम्), and honesty (आर्जवम्)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the concept of liberation (moksha) in the text. The verse "निर्ममो निरहङ्कारो मुच्यते नात्र संशयः" directly states that freedom from attachment (ममता) and ego (हङ्कार) leads to liberation. Other options represent common but incorrect interpretations of moksha.
+  </reasoning>
+  <question>
+    In Mahabharata's Āśvamedhika Parva (verse 36), what two qualities were emphasized as essential for achieving liberation (moksha)?
+    A) Freedom from attachment (निर्ममो) and ego (निरहङ्कारो)
+    B) Wealth (धन) and knowledge (ज्ञान)
+    C) Power (शक्ति) and fame (प्रसिद्धि)
+    D) Rituals (यज्ञ) and charity (दान)
+  </question>
+  <answer>A) Freedom from attachment (निर्ममो) and ego (निरहङ्कारो)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of brahminical vows. The text specifies "अहिंसा ब्रह्मचर्यं च सत्यमार्जवमेव च" (non-violence, brahmacarya, truth, and honesty) as essential virtues. Other options represent related but non-core principles.
+  </reasoning>
+  <question>
+    In Mahabharata's Āśvamedhika Parva (verse 35), which four virtues were emphasized as essential for a brahmin's conduct?
+    A) Non-violence (अहिंसा), brahmacarya (ब्रह्मचर्यं), truth (सत्यम्), and honesty (आर्जवम्)
+    B) Charity (दान), patience (क्षमा), austerity (तपः), and knowledge (ज्ञान)
+    C) Fasting (उपवास), meditation (ध्यान), pilgrimage (तीर्थयात्रा), and service (सेवा)
+    D) Wealth (धन) and power (शक्ति)
+  </question>
+  <answer>A) Non-violence (अहिंसा), brahmacarya (ब्रह्मचर्यं), truth (सत्यम्), and honesty (आर्जवम्)</answer>
+</entry>

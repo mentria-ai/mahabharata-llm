@@ -1,0 +1,89 @@
+<think>
+Okay, I need to create five high-quality quiz questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look through the verses to identify key elements. The text seems to be part of the "Gṛdhrajambuka Samvāda" (The Dialogue of the Eagle and the Jackal), which is a philosophical discourse. There are references to characters like Bhishma, Gṛdhr (eagle), and Jambuka (jackal). The verses discuss themes like the inevitability of death, the futility of worldly attachments, and the importance of dharma.
+
+Now, I need to make sure each question is based on explicit information from the text. Let's break it down.
+
+1. **First Question**: The text mentions that Gṛdhr (eagle) and Jambuka (jackal) are discussing the nature of life and death. The verse 1-2 talks about people mourning a child. So, a question about who is involved in the dialogue and the context of their discussion.
+
+2. **Second Question**: There's a reference to the consequences of attachment. Verse 22-23 talks about the futility of parental love. So, a question about the lesson from the dialogue regarding parental love.
+
+3. **Third Question**: The text mentions that even the wise (muni) and gods (devas) are subject to karma. Verse 30-31 discusses karma and its effects. So, a question about the role of karma in the dialogue.
+
+4. **Fourth Question**: The text includes a metaphor about a lotus (padma) and the inevitability of death. Verse 26 refers to a lotus. So, a question about the metaphor used to describe life.
+
+5. **Fifth Question**: There's a mention of the importance of dharma and the consequences of abandoning it. Verse 75-76 talks about avoiding adharma. So, a question about the advice given to avoid adharma.
+
+I need to ensure each question has the correct reference (like adhyaya, parva, or specific verses). Also, check that the options are plausible but only one is correct based on the text. Avoid adding any external knowledge. Let me verify each point against the text to make sure they are accurate.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests understanding of the Gṛdhrajambuka Samvāda's central theme. The dialogue between Gṛdhr (eagle) and Jambuka (jackal) critiques human attachment to children, emphasizing life's impermanence. The correct answer reflects the text's explicit message about parental love being futile in the face of death.
+  </reasoning>
+  <question>
+    In Mahabharata's Gṛdhrajambuka Samvāda (1.1-1.2), what does Gṛdhr criticize about human behavior towards children?
+    A) Their material generosity
+    B) Their excessive parental love
+    C) Their ritualistic practices
+    D) Their military ambitions
+  </question>
+  <answer>B) Their excessive parental love</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the text's metaphor for life's transience. The lotus (padma) symbolizes impermanence, as stated in verse 26. The other options represent unrelated metaphors from the text.
+  </reasoning>
+  <question>
+    In Mahabharata's Gṛdhrajambuka Samvāda (1.26), what metaphor does Gṛdhr use to describe life's impermanence?
+    A) A mountain
+    B) A lotus
+    C) A river
+    D) A fire
+  </question>
+  <answer>B) A lotus</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the text's philosophical stance on karma. Verse 30 explicitly states that actions (karma) determine fate, contrasting with the futility of worldly attachments. The other options represent unrelated themes.
+  </reasoning>
+  <question>
+    In Mahabharata's Gṛdhrajambuka Samvāda (1.30), what does Gṛdhr emphasize as the ultimate determinant of fate?
+    A) Wealth
+    B) Parental love
+    C) Karma
+    D) Divine favor
+  </question>
+  <answer>C) Karma</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses understanding of the text's message about worldly attachments. Verse 22-23 explicitly states that parental love is futile in the face of death. The other options represent tangential themes.
+  </reasoning>
+  <question>
+    In Mahabharata's Gṛdhrajambuka Samvāda (1.22-1.23), what does Gṛdhr conclude about parental love?
+    A) It ensures eternal happiness
+    B) It is a divine blessing
+    C) It is futile in the face of death
+    D) It strengthens family bonds
+  </question>
+  <answer>C) It is futile in the face of death</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the text's advice on avoiding adharma. Verse 75-76 explicitly warns against harmful actions. The other options represent unrelated moral guidelines.
+  </reasoning>
+  <question>
+    In Mahabharata's Gṛdhrajambuka Samvāda (1.75-1.76), what does Gṛdhr advise against?
+    A) Honoring elders
+    B) Practicing non-violence
+    C) Committing adharma
+    D) Seeking wealth
+  </question>
+  <answer>C) Committing adharma</answer>
+</entry>

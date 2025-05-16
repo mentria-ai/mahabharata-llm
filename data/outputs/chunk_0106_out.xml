@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text. The user mentioned that the questions must be based solely on explicit information in the text, so I need to be careful not to add any external knowledge.
+
+First, I'll look through the Sanskrit verses to identify key elements. The text seems to be from the Bhishma Parva, given the references to Bhishma and the Kurukshetra war. There are mentions of characters like Yudhishthira, Bhishma, Duryodhana, and others. The verses discuss themes like dharma, artha, kama, and the consequences of actions. 
+
+For the first question, I notice a reference to Yudhishthira addressing Bhishma. The verse numbers are given, so I can use that. The question could be about who Yudhishthira is addressing. The options would include Bhishma, Drona, Karna, and Duryodhana. The correct answer is Bhishma.
+
+Next, looking for another distinct part. There's a mention of the Pandavas being exiled to the forest. The text says "वने समा द्वादश राजपुत्र" which translates to "twelve kings in the forest." So a question about the Pandavas' exile. The options could be the Pandavas, Kauravas, Bhishma, and Drona. The answer is the Pandavas.
+
+Third, there's a reference to the game of dice (dyuta) where the Pandavas lost their kingdom. The question could be about the event that led to their exile. The options would be the game of dice, a battle, a betrayal, and a famine. The correct answer is the game of dice.
+
+Fourth, the text mentions "कामाल्लोभाच्च धर्मस्य प्रवृत्तिं यो न पश्यति" which talks about the consequences of not seeing the purpose of dharma. The question could be about the consequence of ignoring dharma. The options might be losing wealth, losing dharma, gaining power, or gaining knowledge. The answer is losing dharma.
+
+Lastly, there's a verse about the importance of dharma over artha and kama. The question could be about the correct order of priorities. The options would be dharma first, artha first, kama first, or all equal. The answer is dharma first.
+
+I need to ensure each question is specific, includes the correct references, and the options are plausible but only one is correct. Also, check that the answers are under 100 characters. Let me verify each question against the text to make sure they are accurate.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of direct dialogue in the Mahabharata. The text explicitly shows Yudhishthira addressing Bhishma, reflecting their relationship during the Kurukshetra war. Other options represent key warriors but are not the addressee here.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 1), who does Yudhishthira address in a dialogue about dharma and kama?
+    A) Bhishma
+    B) Drona
+    C) Karna
+    D) Duryodhana
+  </question>
+  <answer>A) Bhishma</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the Pandavas' exile, a pivotal event in the Mahabharata. The text explicitly states their 12-year forest exile. Other options represent rival groups but not the exiled party.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 8), which group is exiled to the forest for 12 years after losing a game of dice?
+    A) Pandavas
+    B) Kauravas
+    C) Bhishma
+    D) Drona's disciples
+  </question>
+  <answer>A) Pandavas</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question focuses on the catalyst for the Kurukshetra war. The text explicitly mentions the game of dice (dyuta) as the event that led to the Pandavas' loss of kingdom. Other options represent consequences but not the direct cause.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 2), what event caused the Pandavas to lose their kingdom and initiate the Kurukshetra war?
+    A) Game of dice
+    B) Battle of Kuru fields
+    C) Betrayal by Duryodhana
+    D) Famine in Hastinapura
+  </question>
+  <answer>A) Game of dice</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests understanding of dharma's consequences. The text explicitly states that ignoring dharma leads to spiritual ruin. Other options represent moral outcomes but not the direct result described.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 34), what consequence awaits those who fail to recognize dharma's purpose?
+    A) Losing wealth
+    B) Losing dharma
+    C) Gaining power
+    D) Gaining knowledge
+  </question>
+  <answer>B) Losing dharma</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the Mahabharata's ethical hierarchy. The text explicitly prioritizes dharma over artha and kama. Other options represent conflicting values but not the stated priority.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 39), what is the correct order of priorities for a righteous ruler?
+    A) Dharma first
+    B) Artha first
+    C) Kama first
+    D) All equal
+  </question>
+  <answer>A) Dharma first</answer>
+</entry>

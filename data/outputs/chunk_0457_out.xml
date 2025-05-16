@@ -1,0 +1,99 @@
+<think>
+Okay, I need to create 5 multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text. The passage seems to be from the Bhishma Parva, as it includes dialogues between Duryodhana and Yudhishthira. The verses mention various warriors, their strategies, and the context of the Kurukshetra war.
+
+First, I should identify key elements: characters like Duryodhana, Yudhishthira, Bhishma, and others. The text includes references to battles, specific warriors, and their roles. For example, there's a mention of Duryodhana's refusal to fight, his challenges to the Pandavas, and the context of the war's moral dilemmas.
+
+I need to ensure each question is specific, with exact references. Let me check the verses. For instance, verse 30 mentions Duryodhana's refusal to fight, and verse 31 talks about Yudhishthira's advice. Also, there's a part where Duryodhana says he'll go to the forest, and another where he challenges the Pandavas to fight one-on-one.
+
+Each question must start with "In Mahabharata's [specific parva/chapter/section]". I should use the adhyaya and shloka numbers where possible. For example, "In Mahabharata's Bhishma Parva, verse 30..." 
+
+First question: Duryodhana's refusal to fight. The text says he's willing to fight one-on-one but not in a group. So the question could be about who refused to fight in a group. Options would include Duryodhana, Bhishma, Arjuna, and Yudhishthira. The answer is Duryodhana.
+
+Second question: The challenge to fight one-on-one. Duryodhana offers to fight one-on-one with the Pandavas. So the question could be about who offered to fight one-on-one. Options: Duryodhana, Bhishma, Arjuna, Yudhishthira. Answer: Duryodhana.
+
+Third question: The reason Duryodhana gives for not fighting. He says he's not afraid of death but wants to fight one-on-one. So the question could be about his reason. Options: Fear of death, desire for one-on-one fight, lack of allies, moral duty. Answer: Desire for one-on-one fight.
+
+Fourth question: The mention of Duryodhana's refusal to accept the kingdom. He says he's not willing to accept the kingdom given by Yudhishthira. So the question could be about who refused to accept the kingdom. Options: Duryodhana, Yudhishthira, Bhishma, Arjuna. Answer: Duryodhana.
+
+Fifth question: The reference to Duryodhana's decision to go to the forest. He says he'll go to the forest if defeated. So the question could be about where Duryodhana decided to go. Options: Forest, Kingdom, Battlefield, Temple. Answer: Forest.
+
+I need to make sure each question is based on explicit text. For example, in the text, Duryodhana says he'll go to the forest if defeated. Also, he challenges to fight one-on-one. The reasoning for each question should explain why the answer is correct and why others are not. Also, check that the options are plausible but incorrect. For example, in the first question, Bhishma is a commander but not the one refusing to fight in a group. Arjuna and Yudhishthira are not the ones refusing. 
+
+I need to verify each point against the text. For example, in the text, Duryodhana says he'll fight one-on-one, so the answer is correct. Also, the part where he says he'll go to the forest is explicit. Each question must have the exact reference, like Bhishma Parva, verses 30, 31, etc. 
+
+Now, structure each entry with the required XML tags. Ensure the answers are under 100 characters. For example, "A) Duryodhana" is under 100. 
+
+Check for diversity: different aspects like refusal to fight, one-on-one challenge, reason for refusal, acceptance of kingdom, and destination after defeat. That covers different parts of the text. 
+
+I think that's five questions. Now, format them correctly with XML tags and reasoning.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Duryodhana's refusal to fight in a group. The text explicitly states he challenges the Pandavas to one-on-one combat. Other options represent key warriors but not the one refusing group battles.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, verse 30, who refused to fight in a group and instead challenged the Pandavas to one-on-one combat?
+    A) Duryodhana
+    B) Bhishma
+    C) Arjuna
+    D) Yudhishthira
+  </question>
+  <answer>A) Duryodhana</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Duryodhana's strategic challenge. The text shows he offered to fight one-on-one with the Pandavas. Other options are key warriors but not the one issuing this specific challenge.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, verse 31, who proposed a one-on-one duel with the Pandavas to decide the war?
+    A) Duryodhana
+    B) Bhishma
+    C) Karna
+    D) Drona
+  </question>
+  <answer>A) Duryodhana</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines Duryodhana's stated reason for refusing group combat. The text explicitly states he sought a one-on-one fight. Other options represent plausible motivations but are not directly stated.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, verse 32, what was Duryodhana's stated reason for refusing to fight in a group?
+    A) Fear of death
+    B) Desire for one-on-one combat
+    C) Lack of allies
+    D) Moral duty
+  </question>
+  <answer>B) Desire for one-on-one combat</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Duryodhana's rejection of Yudhishthira's offer. The text explicitly states he refused to accept the kingdom. Other options represent key figures but not the one rejecting the offer.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, verse 35, who refused to accept Yudhishthira's offer of the kingdom?
+    A) Duryodhana
+    B) Bhishma
+    C) Arjuna
+    D) Karna
+  </question>
+  <answer>A) Duryodhana</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Duryodhana's decision to retreat. The text explicitly states he vowed to go to the forest if defeated. Other options represent plausible locations but are not directly mentioned.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, verse 47, where did Duryodhana declare he would go if defeated in battle?
+    A) Forest
+    B) Kingdom
+    C) Battlefield
+    D) Temple
+  </question>
+  <answer>A) Forest</answer>
+</entry>

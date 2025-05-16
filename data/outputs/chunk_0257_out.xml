@@ -1,0 +1,91 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, and specific references. The text includes verses from the "Karnopanivada Parva" (Karna's Submission) and mentions various characters like Karna, Krishna, Bhishma, Drona, and others. There are references to specific verses (like 1-20) and sections like "Vaisampayana said" and "Karna said."
+
+For each question, I need to ensure the answer is explicitly stated in the text. Let's go through the text step by step.
+
+1. **First Question**: The text mentions Karna's lineage. In the verses, Karna says he is the son of Pandu (Pāṇḍoḥ putro'smi dharmaḥ) and that he was born from Kunti. So, a question about Karna's parentage would work. The options could include Kunti, Duryodhana, etc. The correct answer is Kunti.
+
+2. **Second Question**: There's a mention of Karna being called "Suta" (son of a charioteer). The text says "Suto hi mām adhirathaḥ" (Suta is my father). So, a question about Karna's father's occupation. The answer is Suta (charioteer).
+
+3. **Third Question**: The text includes a dialogue where Karna says he is the son of Pandu and Kunti. Also, there's a reference to the "Kshatriya Dharma" (Kṣatra-dharma). So, a question about the dharma Karna is bound to. The answer would be Kshatriya Dharma.
+
+4. **Fourth Question**: The text mentions that Karna was given a name by the sages. The verse says "nāma me vasuṣeṇeti kārayāmāsa vaidhaiḥ" (the sages named me Vasusena). So, the name given to Karna is Vasusena.
+
+5. **Fifth Question**: There's a part where Karna says he was given a name by the sages, and the name is Vasusena. Another part mentions that he was adopted by Suta. So, a question about the name given to Karna by the sages. The answer is Vasusena.
+
+I need to make sure each question has the correct reference, like the specific parva (Karnopanivada Parva) and the verses. Also, check that the options are plausible but incorrect. For example, for the name, options could include other names like Duryodhana, but the correct is Vasusena.
+
+Now, structure each entry with the reasoning, question, and answer. Ensure the XML format is correct, with proper tags and no markdown.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Karna's lineage as explicitly stated in the text. The verse directly states he is the son of Pandu and Kunti. Other options represent unrelated figures or roles.
+  </reasoning>
+  <question>
+    In Mahabharata's Karnopanivada Parva (verses 7-9), who does Karna claim to be the son of according to the text?
+    A) Duryodhana
+    B) Kunti
+    C) Drona
+    D) Bhishma
+  </question>
+  <answer>B) Kunti</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Karna's social status as a Suta (charioteer's son) per the text. The verse explicitly states his father was a Suta. Other options represent different roles or relationships.
+  </reasoning>
+  <question>
+    In Mahabharata's Karnopanivada Parva (verse 5), what occupation does Karna attribute to his father according to the text?
+    A) Brahmin
+    B) Suta (charioteer)
+    C) King
+    D) Warrior
+  </question>
+  <answer>B) Suta (charioteer)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines Karna's adherence to dharma as stated in the text. The verse explicitly mentions Kshatriya Dharma. Other options represent unrelated concepts or roles.
+  </reasoning>
+  <question>
+    In Mahabharata's Karnopanivada Parva (verse 10), which dharma does Karna claim to uphold according to the text?
+    A) Brahmin Dharma
+    B) Kshatriya Dharma
+    C) Vaishya Dharma
+    D) Sannyasa Dharma
+  </question>
+  <answer>B) Kshatriya Dharma</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Karna's name given by sages as explicitly stated in the text. The verse directly mentions "Vasusena" as his name. Other options represent unrelated names or titles.
+  </reasoning>
+  <question>
+    In Mahabharata's Karnopanivada Parva (verse 10), what name was given to Karna by the sages according to the text?
+    A) Arjuna
+    B) Vasusena
+    C) Duryodhana
+    D) Bhishma
+  </question>
+  <answer>B) Vasusena</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines Karna's relationship with the Pandavas as stated in the text. The verse explicitly mentions he was adopted by Suta. Other options represent different familial roles.
+  </reasoning>
+  <question>
+    In Mahabharata's Karnopanivada Parva (verse 5), who adopted Karna according to the text?
+    A) Duryodhana
+    B) Suta
+    C) Bhishma
+    D) Krishna
+  </question>
+  <answer>B) Suta</answer>
+</entry>

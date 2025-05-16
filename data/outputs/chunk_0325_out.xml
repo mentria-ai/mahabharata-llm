@@ -1,0 +1,95 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I notice that the text includes several verses from different parvas, like Bhishma Parva, Drona Parva, and others. The user wants questions that are specific, with exact references if possible. Each question must start with "In Mahabharata's [specific parva/chapter/section]..." and include context.
+
+Looking at the verses, there's mention of Bhishma, Karna, Arjuna, Duryodhana, and others. For example, in the first part, there's a reference to Bhishma Parva (38-40) where it talks about Krishna and Arjuna. Then later, there's a part about Karna's role after Bhishma's death, which is in the Drona Parva (117-118). Also, there's a mention of the Pandavas and Kauravas, and some dialogue between characters.
+
+I need to ensure that each question is based on explicit information in the text. For example, one verse says "कृष्णो वा देवकीपुत्रो नान्यो वै वेद कश्चन" which translates to "Krishna, the son of Devaki, is the only one who knows." So a question about who is the only one who knows something in the text.
+
+Another part mentions that the Pandavas cannot defeat the Kauravas in battle (न शक्याः पाण्डवास्तात युद्धे जेतुं कथञ्चन). So a question about why the Pandavas can't win.
+
+Then, there's a part where Karna is mentioned as the best among the warriors (सर्वशस्त्रभृतां श्रेष्ठं रोचमानमिवातिथिम्). So a question about who is considered the best warrior.
+
+Also, there's a reference to the Pandavas and Kauravas being in a state of confusion after Bhishma's death (विपन्नसस्येव मही...). So a question about the state of the armies after Bhishma's death.
+
+I need to make sure each question is unique and covers different parts of the text. Let me check each verse again to find five distinct points.
+
+1. Krishna's role in the war (Bhishma Parva 38-39)
+2. The Pandavas' inability to win (Bhishma Parva 39)
+3. Karna's status as the best warrior (Drona Parva 34-35)
+4. The state of the armies after Bhishma's death (Drona Parva 24-26)
+5. The reason for the Pandavas' confusion (Drona Parva 27-29)
+
+Now, I'll structure each question with the correct references and options based on the text. Make sure the answers are under 100 characters and the reasoning explains why the correct answer is right and why others are wrong.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Krishna's role in the Mahabharata. The text explicitly states that Krishna is the only one who knows the truth, contrasting with other warriors. Other options represent warriors but lack the specific textual claim about omniscience.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 39), who is described as the only one who knows the truth among all beings?
+    A) Arjuna
+    B) Bhishma
+    C) Karna
+    D) Krishna
+  </question>
+  <answer>D) Krishna</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses the Pandavas' strategic disadvantage. The text directly states they cannot win in battle, contrasting with other warriors' capabilities. Options B-D represent valid warriors but lack the specific claim about their inability to win.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva (shloka 39), why are the Pandavas said to be incapable of defeating the Kauravas?
+    A) Lack of allies
+    B) Poor strategy
+    C) Divine intervention
+    D) Inherent inability
+  </question>
+  <answer>D) Inherent inability</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Karna's status as the supreme warrior. The text explicitly calls him the "best among all warriors" (sarvashastrabhritam shreshtam). Other options represent valid warriors but lack the specific textual superlative.
+  </reasoning>
+  <question>
+    In Mahabharata's Drona Parva (shloka 34), who is described as the supreme warrior among all?
+    A) Arjuna
+    B) Bhishma
+    C) Drona
+    D) Karna
+  </question>
+  <answer>D) Karna</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the post-Bhishma battlefield state. The text uses metaphors like "empty sky" and "dry river" to describe the Kauravas' despair. Other options represent valid metaphors but lack the specific textual imagery of desolation.
+  </reasoning>
+  <question>
+    In Mahabharata's Drona Parva (shloka 24), what metaphor describes the Kauravas' state after Bhishma's death?
+    A) Flock of birds
+    B) Empty sky
+    C) Towering fortress
+    D) Fierce storm
+  </question>
+  <answer>B) Empty sky</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question addresses the Pandavas' confusion after Bhishma's death. The text states they "wandered like lost cows" (ajavaya ivagopa) in a forest. Other options represent valid metaphors but lack the specific textual reference to their disorientation.
+  </reasoning>
+  <question>
+    In Mahabharata's Drona Parva (shloka 23), how are the Pandavas described after Bhishma's death?
+    A) Brave warriors
+    B) Lost cows
+    C) Fierce lions
+    D) Towering mountains
+  </question>
+  <answer>B) Lost cows</answer>
+</entry>

@@ -1,0 +1,142 @@
+<think>
+Okay, I need to create 10 high-quality question-answer pairs based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll read through the text to identify key elements. The text seems to involve characters like Devayani, Sharmistha, Vishwamitra, and others. There are dialogues between them, discussing themes like duty, marriage, and moral dilemmas. For example, Devayani is a daughter of Vishwamitra, and Sharmistha is a servant or a woman who is involved in a conflict. There's mention of a king named Yayati and his interactions with Devayani. The text also includes philosophical discussions about patience, anger, and dharma.
+
+Now, I need to form questions that are standalone, so they shouldn't refer to the passage. Each question must have enough context. Let me think of different types: factual, "did you know," detective, and philosophical.
+
+For example, a factual question could be about why Devayani was in a well. The text says she was thrown into a well by Sharmistha, who was jealous. Another fact is that Yayati was a king who had to give up his kingdom to his son.
+
+A "Did you know" question might highlight that Devayani was a daughter of a sage but was treated as a servant, which is surprising. A detective-style question could ask why Sharmistha was angry, leading to the reason being Devayani's beauty and her being chosen by Yayati.
+
+Philosophical questions could explore the concept of dharma as discussed by Vishwamitra, or the moral of patience and anger management.
+
+I need to ensure each answer has context. For example, when mentioning Vishwamitra, I should note he's a sage. For Yayati, mention he's a king. Also, check that all answers are based solely on the text provided, not external knowledge.
+
+Let me draft the first question: "What event led to Devayani being thrown into a well, and who was responsible?" The answer would explain Sharmistha's jealousy and her action.
+
+Another question: "Why did Vishwamitra refuse to accept Devayani as his daughter?" The answer would reference the dialogue where he says she's a servant, not his daughter.
+
+I need to make sure each question is unique and covers different aspects. Also, check for clarity and that each answer is self-contained. Avoid vague terms. For example, when talking about the four varnas, explain they are social classes in the Indian caste system.
+
+I should also check for any specific terms like "Pāṇi-dharma" which refers to the marriage ceremony where the groom takes the bride's hand. Explaining that in the answer would help.
+
+Now, I'll structure each entry with reasoning, question, and answer. Ensure that the answers include necessary context and are supported by the text. Avoid adding any external information. Let me verify each answer against the text to confirm accuracy.
+</think>
+
+<entry>
+  <reasoning>
+    The text describes Devayani's exile into a well by Sharmistha, driven by jealousy. This event is central to the narrative and highlights themes of rivalry and social hierarchy. The question requires contextualizing Sharmistha's role and the reason for her action.
+  </reasoning>
+  <question>
+    What event led to Devayani being thrown into a well, and who was responsible for this act?
+  </question>
+  <answer>
+    Devayani was thrown into a well by Sharmistha, a servant and rival. Sharmistha, jealous of Devayani's beauty and her selection by King Yayati, acted out of resentment. This act reflects the social tensions and personal conflicts in the story, where Sharmistha's lower status and envy drove her to harm Devayani.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text includes Vishwamitra's dialogue rejecting Devayani as his daughter. This highlights his adherence to social hierarchy and his role as a sage. The question focuses on his moral stance and the implications of his words.
+  </reasoning>
+  <question>
+    Why did Vishwamitra refuse to accept Devayani as his daughter, and what does this reveal about his values?
+  </question>
+  <answer>
+    Vishwamitra refused to acknowledge Devayani as his daughter because he considered her a servant (dasi) rather than a noble-born daughter. This reflects his strict adherence to social hierarchy and dharma, prioritizing caste and status over familial bonds. His rejection underscores the rigid social structures of the time and his role as a moral authority.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text features a philosophical debate about anger and self-control. Shukra's teachings on mastering anger are central to the narrative's moral lessons. The question explores this theme and its significance.
+  </reasoning>
+  <question>
+    What philosophical teaching about anger is emphasized in the dialogue between Shukra and Devayani, and why is it significant?
+  </question>
+  <answer>
+    Shukra teaches that true strength lies in controlling anger and avoiding retaliation. He states that one who subdues anger is superior to those who conquer enemies in battle. This teaching highlights the Mahabharata's emphasis on self-discipline and moral superiority over physical power, reflecting broader ethical themes in the epic.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes Yayati's dilemma in choosing a wife. His decision to marry Devayani despite her lower status challenges societal norms. The question explores this moral conflict and its resolution.
+  </reasoning>
+  <question>
+    How did King Yayati resolve his moral conflict over marrying Devayani, and what does this reveal about his character?
+  </question>
+  <answer>
+    Yayati chose to marry Devayani despite her lower social status, valuing her virtue over caste norms. He declared her his wife and accepted her as a noble-born daughter, defying societal expectations. This shows his integrity and willingness to prioritize righteousness over tradition, aligning with the Mahabharata's themes of dharma.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text includes a dialogue about the four varnas (social classes). This concept is foundational to Indian society and is explicitly mentioned. The question focuses on its explanation and context.
+  </reasoning>
+  <question>
+    What are the four varnas mentioned in the text, and how are they described in the context of social order?
+  </question>
+  <answer>
+    The four varnas are Brahmins (scholars), Kshatriyas (warriors), Vaishyas (merchants), and Shudras (laborers). The text describes them as distinct social roles established by Brahma, with each class having specific duties. This framework underscores the rigid caste system in ancient Indian society, which the Mahabharata often critiques through characters like Yayati who challenge these norms.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text features a "did you know" element: Devayani's role as a daughter of a sage but treated as a servant. This contradiction highlights social injustice. The question draws attention to this irony.
+  </reasoning>
+  <question>
+    Did you know that Devayani, a daughter of the sage Vishwamitra, was treated as a servant? What does this reveal about societal attitudes?
+  </question>
+  <answer>
+    Yes, despite being the daughter of the revered sage Vishwamitra, Devayani was mistreated as a servant by Sharmistha and others. This reflects the era's social hypocrisy, where noble birth did not guarantee respect, and lower-status individuals could exploit others' vulnerabilities. It critiques the gap between societal ideals and reality.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text includes a detective-style question about Sharmistha's motivations. Her jealousy and desire for power are key to understanding her actions. The question explores her psychological drivers.
+  </reasoning>
+  <question>
+    What motivated Sharmistha to throw Devayani into a well, and how does this reflect her character?
+  </question>
+  <answer>
+    Sharmistha's motivation was jealousy and a desire for power. She resented Devayani's beauty and her selection by King Yayati, feeling threatened by her. This act reveals Sharmistha's selfishness and lack of empathy, contrasting with Devayani's virtue. Her actions highlight the destructive nature of envy and social rivalry.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text includes a philosophical question about dharma. Vishwamitra's dialogue on duty and righteousness is central. The question explores this theme and its relevance.
+  </reasoning>
+  <question>
+    What does Vishwamitra's dialogue about dharma (duty) reveal about his perspective on moral responsibility?
+  </question>
+  <answer>
+    Vishwamitra emphasizes that dharma requires upholding one's duties regardless of personal feelings. He rejects Devayani as his daughter to maintain social order, prioritizing tradition over compassion. This reflects his belief in rigid moral codes, though it also highlights the ethical conflicts between personal and societal values.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text describes a "did you know" element: Yayati's marriage to Devayani as a challenge to caste norms. This act of defiance is significant. The question highlights this historical context.
+  </question>
+  <answer>
+    Yes, King Yayati married Devayani, a woman of lower social status, defying caste norms. This act was radical for the time, showcasing his commitment to righteousness over tradition. It illustrates the Mahabharata's theme of challenging societal injustices through personal courage.
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    The text includes a philosophical question about the consequences of anger. Shukra's teachings on this are pivotal. The question explores this moral lesson.
+  </reasoning>
+  <question>
+    What moral lesson does Shukra's advice on anger convey, and how does it apply to the characters in the text?
+  </question>
+  <answer>
+    Shukra teaches that unchecked anger leads to destruction, while self-control brings victory. This is exemplified by Devayani's patience and Sharmistha's downfall. The lesson emphasizes that true strength lies in mastering one's emotions, a recurring theme in the Mahabharata's exploration of human virtues.
+  </answer>
+</entry>

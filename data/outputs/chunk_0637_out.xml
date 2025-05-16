@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, places, and specific references. The text seems to involve King Kousika (Kushika) and the sage Chyavana. There's mention of a chariot (ratha), gifts, and a divine abode. The verses talk about Kousika being invited to Chyavana's hermitage, the chariot's description, and the king's interactions with the sage.
+
+For the first question, I notice that Kousika is invited to Chyavana's hermitage. The text says "कुशिक उवाच" (Kousika said) and "च्यवन उवाच" (Chyavana said). So, the question could be about who invited Kousika. But I need to check the exact context. The text mentions that Chyavana invited Kousika to his hermitage. So the answer would be Chyavana.
+
+Second, the chariot's description: "सज्जीकुरु रथं क्षिप्रं यस्ते साङ्ग्रामिको मतः" (Prepare the chariot quickly, which is considered a battlefield chariot). So the chariot was prepared for battle. The options could include different purposes, but the correct answer is for battle.
+
+Third, the gifts given by Kousika: "तस्य तद्वचनं श्रुत्वा राजा भृत्यानथाब्रवीत्" (After hearing the words, the king spoke to his ministers). The text lists "रत्नान्यनेकानि स्त्रियो युग्यमजाविकम्" (many jewels, women, and other gifts). So the answer is jewels, women, and other gifts.
+
+Fourth, the divine abode: "पर्वतान्रम्यसानूंश्च नलिनीश्च सपङ्कजाः" (mountains, gardens, lotus ponds). The correct answer would be a divine abode with these elements.
+
+Fifth, the reason for Chyavana's invitation: "कुशिक उवाच" (Kousika said) and the context of Chyavana's power. The text mentions that Chyavana's tapas (austerity) is greater than kingship. So the answer is that Chyavana's tapas is greater than kingship.
+
+Now, I need to structure each question with the trigger phrase, specific references, and four options. Ensure that the answers are under 100 characters and the reasoning explains why the correct answer is right and others are incorrect. Also, check that all information is explicitly from the text.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of key interactions between Kousika and Chyavana. The text explicitly states Chyavana invited Kousika to his hermitage. Other options represent unrelated figures or roles in the Mahabharata.
+  </reasoning>
+  <question>
+    In Mahabharata's Chyavana Parva (verses 27-30), who invited King Kousika to his hermitage?
+    A) Bhishma
+    B) Chyavana
+    C) Drona
+    D) Karna
+  </question>
+  <answer>B) Chyavana</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the chariot's purpose. The text describes it as a "sangramika ratha" (battlefield chariot). Other options represent unrelated chariot types or functions.
+  </reasoning>
+  <question>
+    In Mahabharata's Chyavana Parva (verse 29), what was the purpose of the chariot prepared for King Kousika?
+    A) Royal procession
+    B) Battlefield combat
+    C) Religious pilgrimage
+    D) Agricultural transport
+  </question>
+  <answer>B) Battlefield combat</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of gifts given to Chyavana. The text explicitly lists "ratananyanekani" (many jewels) and "striyo yugyamajavikam" (women and other gifts). Other options represent unrelated items.
+  </reasoning>
+  <question>
+    In Mahabharata's Chyavana Parva (verse 39), what did King Kousika offer to Chyavana?
+    A) Agricultural tools
+    B) Jewels, women, and gifts
+    C) Military weapons
+    D) Sacred texts
+  </question>
+  <answer>B) Jewels, women, and gifts</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Chyavana's divine abode. The text describes "parvataanramyasanu" (mountains, gardens) and "nalini" (lotus ponds). Other options represent unrelated locations.
+  </reasoning>
+  <question>
+    In Mahabharata's Chyavana Parva (verses 2-5), what features characterized Chyavana's divine abode?
+    A) Deserts and rivers
+    B) Mountains, gardens, and lotus ponds
+    C) Forests and caves
+    D) Cities and temples
+  </question>
+  <answer>B) Mountains, gardens, and lotus ponds</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests understanding of Chyavana's spiritual superiority. The text states "trai lokya rajyad api hi tapa eva vishishte" (austerity surpasses kingship). Other options represent unrelated values.
+  </reasoning>
+  <question>
+    In Mahabharata's Chyavana Parva (verse 26), what did Chyavana emphasize as greater than royal power?
+    A) Wealth
+    B) Austerity (tapas)
+    C) Military strength
+    D) Religious rituals
+  </question>
+  <answer>B) Austerity (tapas)</answer>
+</entry>

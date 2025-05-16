@@ -1,0 +1,93 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by carefully reading through the text to identify key elements.
+
+First, the text seems to be a dialogue between Brahma and others, discussing various concepts like the five elements (pranas), the nature of the universe, and spiritual teachings. There are references to different elements like fire (agni), the five senses, and the concept of non-violence (ahimsa). Also, there's mention of the "Brahma" and "Deva" as deities, and some philosophical discussions about the self (atman) and the universe.
+
+For each question, I need to ensure that the answer is explicitly stated in the text. Let me go through the text again to pick out specific details.
+
+1. The first part mentions "प्राणद्वंद्वं च विज्ञेयं तिर्यगं चोर्ध्वगं च यत्" which talks about the dual nature of prana (life force) as both horizontal and vertical. This could be a question about the five pranas.
+
+2. There's a part where it says "अहिंसा सर्वधर्माणामिति वृद्धानुशासनम्" which directly states that non-violence is the essence of all dharma. That's a strong candidate for a question on ahimsa.
+
+3. The text mentions "एकः शास्ता न द्वितीयोऽस्ति शास्ता" which emphasizes the singular authority of the teacher (guru). This could be a question about the role of the guru.
+
+4. Another part talks about the five elements (pancha bhutas) and their roles in the universe. For example, "गन्धान्न जिघ्रामि रसान्न वेद्मि" which lists the five senses (smell, taste, sight, touch, hearing).
+
+5. The concept of the five pranas (prana, apana, samana, vyana, udana) is mentioned in the text. For example, "प्राणापानाविदं द्वंद्वमवाक्चोर्ध्वं च गच्छतः" which refers to prana and apana as dual forces.
+
+Now, I need to structure each question with the correct context, reference, and options. Let me make sure each question is distinct and covers different parts of the text. Also, check that the answers are directly from the text and the options are plausible but incorrect.
+
+For example, the first question about the five pranas would have options like the five elements, the five senses, etc. The correct answer is the five pranas. Similarly, the question on ahimsa would have options like non-violence, non-attachment, etc., with the correct answer being non-violence.
+
+I need to ensure that each question is specific, includes the exact reference (like adhyaya or parva), and that the options are clear. Also, keep the answers under 100 characters. Let me draft each entry now.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests understanding of prana duality in Mahabharata. The text explicitly states that prana and apana are dual forces (prāṇāpānāviḍaṃ dvaṃdvaṃ), while other options like elements or senses are unrelated to the specific "prana duality" concept.
+  </reasoning>
+  <question>
+    In Mahabharata's Brihadaranyaka Upanishad (referring to the text's philosophical discourse), which pair of forces are described as "dual" (dvaṃdva) in the context of life energy?
+    A) Prana and Apana
+    B) Earth and Water
+    C) Sight and Sound
+    D) Time and Space
+  </question>
+  <answer>A) Prana and Apana</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights the Mahabharata's emphasis on ahimsa (non-violence) as the foundation of dharma. The text directly states "Ahimsa sarvadharmaanamiti vridhānushasanam" (non-violence is the essence of all dharma), making this the only explicit reference to ahimsa as a universal principle.
+  </reasoning>
+  <question>
+    In Mahabharata's philosophical discourse on dharma, which principle is explicitly described as "the essence of all dharma" (sarvadharmaanamiti)?
+    A) Ahimsa (non-violence)
+    B) Dharma (duty)
+    C) Moksha (liberation)
+    D) Karma (action)
+  </question>
+  <answer>A) Ahimsa (non-violence)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of the text's teaching about the guru's singular authority. The passage states "Ekaḥ śāstā na dvitīyo'sti śāstā" (There is only one teacher), making this the only option directly supported by the text's assertion of the guru's absolute role.
+  </reasoning>
+  <question>
+    In Mahabharata's dialogue on spiritual authority, which concept is explicitly stated as "the only teacher" (ekas tā na dvitīyo'sti)?
+    A) Guru (teacher)
+    B) Deity
+    C) Scripture
+    D) Self
+  </question>
+  <answer>A) Guru (teacher)</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines the text's description of sensory perception. The passage lists "Gandha, rasa, rupa, shabda, sparsha" (scent, taste, form, sound, touch) as the five senses, making this the only option directly supported by the text's enumeration of sensory experiences.
+  </reasoning>
+  <question>
+    In Mahabharata's philosophical discourse on perception, which five elements are explicitly described as "senses" (indriya)?
+    A) Scent, taste, form, sound, touch
+    B) Fire, water, earth, air, space
+    C) Knowledge, action, time, space, self
+    D) Birth, death, rebirth, karma, moksha
+  </question>
+  <answer>A) Scent, taste, form, sound, touch</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests understanding of the text's metaphor for spiritual liberation. The passage states "Brahmaivam samidhas tasya" (Brahman is the offering), making this the only option directly tied to the text's assertion of Brahman as the ultimate sacrifice.
+  </reasoning>
+  <question>
+    In Mahabharata's spiritual teachings, which concept is described as "the offering" (samidhas) in the context of ultimate liberation?
+    A) Brahman
+    B) Atman
+    C) Dharma
+    D) Moksha
+  </question>
+  <answer>A) Brahman</answer>
+</entry>

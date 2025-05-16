@@ -1,0 +1,235 @@
+<think>
+Okay, I need to create 10 multiple-choice quiz entries based on the provided Mahabharata text. Let me start by understanding the requirements.
+
+First, each entry must have a reasoning section with a citation, proof, and bullets. The question should be self-contained, and the answer must be correct based on the text. The options must be plausible distractors from the same semantic category.
+
+Looking at the verses provided, I notice several names and events. For example, there's mention of Yudhishthira, Bhima, Arjuna, Draupadi, Kṛṣṇa, and others. Also, there are references to places like Dwarka, the Ganges, and events like the Pandavas leaving their kingdom.
+
+I need to ensure each entry is unique, using different verses. Let's check the verses one by one.
+
+1. **Verse 17,001.001**: Janamejaya asks a question. But the options here might be about who is asking. However, the user wants facts from the text. Maybe not the best for a quiz.
+
+2. **Verse 17,001.004**: Talks about Kāla (time) and Kāla (a name). But the correct answer might be about who is speaking. Wait, the verse says "Kāla" (time) and "Kāla" (a name). But the text might have a name here. Need to check.
+
+Wait, the user provided the text with lines like "17,001.001.004.001" but the actual verses are numbered with the format like 17,001.001. So I need to pick different verses for each entry.
+
+Let me go through each verse and find possible facts.
+
+For example, verse 17,001.006 mentions Yudhishthira giving up the kingdom. So a question could be about who gave up the kingdom. The answer would be Yudhishthira. Distractors could be Bhima, Arjuna, or Draupadi.
+
+Another verse: 17,001.010 mentions Yudhishthira giving gifts to sages. So a question about who gave gifts to sages. Answer: Yudhishthira. Distractors: Bhima, Arjuna, Kṛṣṇa.
+
+Another verse: 17,001.018 mentions Yudhishthira and others leaving in valakas (simple clothes). So a question about who left in valakas. Answer: Yudhishthira, Bhima, Arjuna, Draupadi. But the options need to be specific. Maybe the question is about who left first, but the text says they all left.
+
+Wait, the user's example had a question about who killed Shalya, and the answer was Yudhishthira. So I need to find similar facts.
+
+Another verse: 17,001.033 mentions Agni (fire) and a mountain. The deva (god) says something. So a question about who spoke to the Pandavas. Answer: Agni. Distractors: Kṛṣṇa, Yudhishthira, Bhima.
+
+Another verse: 17,001.036 mentions Agni saying he destroyed Khanda. So a question about who destroyed Khanda. Answer: Agni. Distractors: Kṛṣṇa, Arjuna, Yudhishthira.
+
+Another verse: 17,001.040 mentions Gāṇḍīva (Arjuna's bow) being thrown into the water. So a question about who threw Gāṇḍīva into the water. Answer: Arjuna. Distractors: Yudhishthira, Bhima, Kṛṣṇa.
+
+Another verse: 17,001.043 mentions them seeing Dwarka. So a question about who saw Dwarka. Answer: The Pandavas. But options need to be specific. Maybe who saw Dwarka first. But the text says they all saw it.
+
+Another verse: 17,001.044 mentions them doing pradakshina (circumambulation). So a question about who performed pradakshina. Answer: Yudhishthira. Distractors: Bhima, Arjuna, Draupadi.
+
+Another verse: 17,002.004 mentions Yudhishthira speaking to Bhima. So a question about who spoke to Bhima. Answer: Yudhishthira. Distractors: Kṛṣṇa, Arjuna, Draupadi.
+
+Another verse: 17,002.010 mentions Yudhishthira's speech. So a question about who gave a speech. Answer: Yudhishthira. Distractors: Bhima, Arjuna, Kṛṣṇa.
+
+I need to make sure each entry is unique, uses different verses, and the options are from the same category. Also, the correct answer must be explicitly mentioned in the proof line.
+
+Let me draft the first entry:
+
+**Verse 17,001.006**: Yudhishthira gave up the kingdom. So the question is about who gave up the kingdom. Answer: Yudhishthira. Distractors: Bhima, Arjuna, Draupadi.
+
+**Verse 17,001.010**: Yudhishthira gave gifts to sages. Answer: Yudhishthira. Distractors: Bhima, Arjuna, Kṛṣṇa.
+
+**Verse 17,001.018**: Yudhishthira and others left in valakas. Answer: Yudhishthira. Distractors: Bhima, Arjuna, Draupadi.
+
+**Verse 17,001.033**: Agni spoke to the Pandavas. Answer: Agni. Distractors: Kṛṣṇa, Yudhishthira, Bhima.
+
+**Verse 17,001.036**: Agni destroyed Khanda. Answer: Agni. Distractors: Kṛṣṇa, Arjuna, Yudhishthira.
+
+**Verse 17,001.040**: Arjuna threw Gāṇḍīva into the water. Answer: Arjuna. Distractors: Yudhishthira, Bhima, Kṛṣṇa.
+
+**Verse 17,001.043**: Pandavas saw Dwarka. Answer: Pandavas. But options need to be specific. Maybe who saw Dwarka. But the text says "dadṛśur dvārakāṃ cāpi" (they saw Dwarka). So answer: The Pandavas. But options need to be names. Maybe the question is about who saw Dwarka. But the options would be the Pandavas, but the user wants specific names. So maybe the question is about who saw Dwarka first. But the text doesn't specify. So maybe this isn't a good entry.
+
+Another verse: 17,001.044: Yudhishthira did pradakshina. Answer: Yudhishthira. Distractors: Bhima, Arjuna, Draupadi.
+
+**Verse 17,002.004**: Yudhishthira spoke to Bhima. Answer: Yudhishthira. Distractors: Kṛṣṇa, Arjuna, Draupadi.
+
+**Verse 17,002.010**: Yudhishthira's speech. Answer: Yudhishthira. Distractors: Bhima, Arjuna, Kṛṣṇa.
+
+**Verse 17,003.022**: Devas and sages took the Pandavas to heaven. Answer: Devas. Distractors: Kṛṣṇa, Yudhishthira, Bhima.
+
+Wait, but the user's example had a question about who killed Shalya, and the answer was Yudhishthira. So I need to make sure each entry is unique and uses different verses.
+
+I need to check that each entry's correct answer is explicitly mentioned in the proof line. For example, in verse 17,001.006, the proof line is "rājyaṃ paridadau sarvaṃ vaiśyāputre yudhiṣṭhiraḥ" (Yudhishthira gave up the kingdom). So the answer is Yudhishthira.
+
+Another example: verse 17,001.010: "mātṛbhiḥ saha dharmātmā kṛtvodakam atandritaḥ" (Yudhishthira, being pious, performed rituals). So the answer is Yudhishthira.
+
+I need to make sure that each entry's proof line includes the correct answer's name. Also, the distractors must be names from the same semantic category (e.g., other Pandavas, deities, etc.).
+
+Now, I'll structure each entry with the required elements, ensuring they comply with the rules.
+</think>
+
+<entry>
+  <reasoning>
+    • **17,001.006.001**  
+    • Proof: *rājyaṃ paridadau sarvaṃ vaiśyāputre yudhiṣṭhiraḥ*  
+    • ✓ Yudhiṣṭhira (paridadau) gave up the kingdom.  
+    • B) Bhīma was elsewhere; C) Arjuna's role is unrelated; D) Draupadi was a queen, not a king.
+  </reasoning>
+  <question>
+    In the Mahābhārata, after the great war, who relinquished his kingdom to the Vaiśya (merchant) lineage, as described in the Mahaprasthānika Parva (see 17,001.006), which of the following is correct?  
+    A) Bhīma   B) Bhīma   C) Arjuna   D) Draupadi
+  </question>
+  <answer>
+    A) Yudhiṣṭhira
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **17,001.010.001**  
+    • Proof: *mātṛbhiḥ saha dharmātmā kṛtvodakam atandritaḥ*  
+    • ✓ Yudhiṣṭhira (dharmātmā) performed rituals for ancestors.  
+    • B) Bhīma's role is unspecified; C) Arjuna's focus was warfare; D) Draupadi's actions are unrelated.
+  </reasoning>
+  <question>
+    In the Mahābhārata, after the war, who performed ancestral rites with his mother, as detailed in the Mahaprasthānika Parva (see 17,001.010), which of the following is correct?  
+    A) Yudhiṣṭhira   B) Bhīma   C) Arjuna   D) Draupadi
+  </question>
+  <answer>
+    A) Yudhiṣṭhira
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **17,001.018.001**  
+    • Proof: *tatas tu prakṛtīḥ sarvāḥ samānāyya yudhiṣṭhiraḥ*  
+    • ✓ Yudhiṣṭhira (samānāyya) led the group in simple clothes.  
+    • B) Bhīma's role is unspecified; C) Arjuna's focus was elsewhere; D) Draupadi's actions are unrelated.
+  </reasoning>
+  <question>
+    In the Mahābhārata, after the war, who led the group in simple garments, as described in the Mahaprasthānika Parva (see 17,001.018), which of the following is correct?  
+    A) Yudhiṣṭhira   B) Bhīma   C) Arjuna   D) Draupadi
+  </question>
+  <answer>
+    A) Yudhiṣṭhira
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **17,001.033.001**  
+    • Proof: *tato devaḥ sa saptārciḥ pāṇḍavān idam abravīt*  
+    • ✓ Agni (deva) addressed the Pandavas.  
+    • B) Kṛṣṇa's role is unrelated; C) Yudhiṣṭhira's speech is elsewhere; D) Bhīma's actions are unspecified.
+  </reasoning>
+  <question>
+    In the Mahābhārata, who spoke to the Pandavas from a mountain, as detailed in the Mahaprasthānika Parva (see 17,001.033), which of the following is correct?  
+    A) Agni   B) Kṛṣṇa   C) Yudhiṣṭhira   D) Bhīma
+  </question>
+  <answer>
+    A) Agni
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **17,001.036.001**  
+    • Proof: *aham agniḥ kuruśreṣṭhā mayā dagdhaṃ ca khāṇḍavam*  
+    • ✓ Agni (aham agniḥ) destroyed Khāṇḍava.  
+    • B) Kṛṣṇa's role is unrelated; C) Yudhiṣṭhira's actions are unspecified; D) Bhīma's focus was elsewhere.
+  </reasoning>
+  <question>
+    In the Mahābhārata, who declared they destroyed Khāṇḍava, as described in the Mahaprasthānika Parva (see 17,001.036), which of the following is correct?  
+    A) Agni   B) Kṛṣṇa   C) Yudhiṣṭhira   D) Bhīma
+  </question>
+  <answer>
+    A) Agni
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **17,001.040.001**  
+    • Proof: *gāṇḍīvaṃ kārmukaśreṣṭhaṃ varuṇāyaiva dīyatām*  
+    • ✓ Arjuna (kārmukaśreṣṭha) gave Gāṇḍīva to Varuṇa.  
+    • B) Yudhiṣṭhira's role is unrelated; C) Bhīma's actions are unspecified; D) Kṛṣṇa's focus was elsewhere.
+  </reasoning>
+  <question>
+    In the Mahābhārata, who gave his bow Gāṇḍīva to Varuṇa, as detailed in the Mahaprasthānika Parva (see 17,001.040), which of the following is correct?  
+    A) Arjuna   B) Yudhiṣṭhira   C) Bhīma   D) Kṛṣṇa
+  </question>
+  <answer>
+    A) Arjuna
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **17,001.044.001**  
+    • Proof: *udīcīṃ punar āvṛttya yayur bharatasattamāḥ*  
+    • ✓ Yudhiṣṭhira (bharatasattamāḥ) led the circumambulation.  
+    • B) Bhīma's role is unspecified; C) Arjuna's focus was elsewhere; D) Draupadi's actions are unrelated.
+  </reasoning>
+  <question>
+    In the Mahābhārata, who led the circumambulation of the earth, as described in the Mahaprasthānika Parva (see 17,001.044), which of the following is correct?  
+    A) Yudhiṣṭhira   B) Bhīma   C) Arjuna   D) Draupadi
+  </question>
+  <answer>
+    A) Yudhiṣṭhira
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **17,002.004.001**  
+    • Proof: *tāṃ tu prapatitāṃ dṛṣṭvā bhīmaseno mahābalaḥ*  
+    • ✓ Bhīma (mahābalaḥ) spoke to Yudhiṣṭhira.  
+    • B) Arjuna's role is unrelated; C) Yudhiṣṭhira's speech is elsewhere; D) Draupadi's actions are unspecified.
+  </reasoning>
+  <question>
+    In the Mahābhārata, who addressed Yudhiṣṭhira after seeing a fall, as detailed in the Mahaprasthānika Parva (see 17,002.004), which of the following is correct?  
+    A) Bhīma   B) Arjuna   C) Yudhiṣṭhira   D) Draupadi
+  </question>
+  <answer>
+    A) Bhīma
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **17,002.010.001**  
+    • Proof: *sahadevo 'pi dharmātmā sarvabuddhimatāṃ varaḥ*  
+    • ✓ Yudhiṣṭhira (sahadevo) was praised for wisdom.  
+    • B) Bhīma's role is unspecified; C) Arjuna's focus was elsewhere; D) Draupadi's actions are unrelated.
+  </reasoning>
+  <question>
+    In the Mahābhārata, who was called "the wisest among all" by sages, as described in the Mahaprasthānika Parva (see 17,002.010), which of the following is correct?  
+    A) Yudhiṣṭhira   B) Bhīma   C) Arjuna   D) Draupadi
+  </question>
+  <answer>
+    A) Yudhiṣṭhira
+  </answer>
+</entry>
+
+<entry>
+  <reasoning>
+    • **17,003.022.001**  
+    • Proof: *devā devarṣayaś caiva ratham āropya pāṇḍavam*  
+    • ✓ Devas (devā) carried the Pandavas to heaven.  
+    • B) Kṛṣṇa's role is unrelated; C) Yudhiṣṭhira's actions are unspecified; D) Bhīma's focus was elsewhere.
+  </reasoning>
+  <question>
+    In the Mahābhārata, who transported the Pandavas to heaven, as detailed in the Mahaprasthānika Parva (see 17,003.022), which of the following is correct?  
+    A) Devas   B) Kṛṣṇa   C) Yudhiṣṭhira   D) Bhīma
+  </question>
+  <answer>
+    A) Devas
+  </answer>
+</entry>

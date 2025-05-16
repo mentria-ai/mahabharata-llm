@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look for key elements: characters, events, places, and specific references. The text seems to be from the Virata Parva, as there are mentions of Virata and the Pandavas hiding in his kingdom. There's also a lot of dialogue between Yudhishthira, Arjuna, and others. 
+
+For the first question, I notice that Arjuna is talking about his plans. The text says, "अर्जुन उवाच||" followed by lines about his intentions. The mention of "गाण्डीवधन्वा" (Gandiva bow) and "श्वेताश्वो" (white horse) could be key points. So, a question about Arjuna's weapons and symbols.
+
+Next, there's a part where Yudhishthira asks about the Pandavas' plans. The text mentions "विराटभवने सुखम्" (happiness in Virata's palace). So, a question about where the Pandavas plan to live.
+
+Another part is about Nakula and Sahadeva's roles. Nakula says he'll be the horseman, and Sahadeva mentions managing cows. So, a question on their assigned roles.
+
+Then, there's a dialogue about Draupadi's role. She says she'll be protected by Sairandhri, and the text mentions her being a "राजभार्या" (queen). So, a question on Draupadi's role in the plan.
+
+Lastly, there's a part where Yudhishthira asks about the Pandavas' duties. The text includes "सर्वैरपि च वक्तव्यं न प्रज्ञायन्त पाण्डवाः" (all should speak, but the Pandavas didn't). So, a question on why the Pandavas didn't speak.
+
+I need to ensure each question has the trigger phrase, specific references, and that the answers are directly from the text. Also, check that the options are plausible but only one is correct. Avoid adding any external info. Let me structure each entry with reasoning, question, and answer as per the example.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Arjuna's symbolic weapons and his role in the Virata Parva. The text explicitly mentions "गाण्डीवधन्वा श्वेताश्वो" (Gandiva bow and white horse), which are his iconic symbols. Other options reference other warriors but not Arjuna's specific attributes.
+  </reasoning>
+  <question>
+    In Mahabharata's Virata Parva (śloka 16), which weapon and animal symbolize Arjuna's identity during his exile?
+    A) Chakram and black horse
+    B) Gandiva bow and white horse
+    C) Trishula and red chariot
+    D) Bow and elephant
+  </question>
+  <answer>B) Gandiva bow and white horse</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question assesses understanding of the Pandavas' plan to live in Virata's kingdom. The text explicitly states "विराटभवने सुखम्" (happiness in Virata's palace) as their refuge. Other options refer to different locations or roles not directly stated.
+  </reasoning>
+  <question>
+    In Mahabharata's Virata Parva (śloka 27), where do the Pandavas plan to live in disguise during their exile?
+    A) Kaurava palace
+    B) Virata's palace
+    C) Indra's heaven
+    D) Drona's kingdom
+  </question>
+  <answer>B) Virata's palace</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Nakula's assigned role. The text states "अश्वबन्धो भविष्यामि" (I will be the horseman) explicitly. Other options reference different roles like cow management or military command not assigned to Nakula.
+  </reasoning>
+  <question>
+    In Mahabharata's Virata Parva (śloka 2), what role does Nakula accept in Virata's court?
+    A) Cow herder
+    B) Horseman
+    C) Military commander
+    D) Minister
+  </question>
+  <answer>B) Horseman</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines Draupadi's role in the plan. The text states "सैरन्ध्र्योऽरक्षिता लोके" (Sairandhri will protect her) and her status as "राजभार्या" (queen). Other options misrepresent her role as a servant or warrior.
+  </reasoning>
+  <question>
+    In Mahabharata's Virata Parva (śloka 16), what role does Draupadi play during the exile?
+    A) Servant
+    B) Queen
+    C) Warrior
+    D) Spy
+  </question>
+  <answer>B) Queen</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests understanding of the Pandavas' silence during Yudhishthira's speech. The text states "सर्वैरपि च वक्तव्यं न प्रज्ञायन्त पाण्डवाः" (all should speak, but the Pandavas didn't). Other options misattribute their silence to different reasons.
+  </reasoning>
+  <question>
+    In Mahabharata's Virata Parva (śloka 5), why don't the Pandavas speak during Yudhishthira's speech?
+    A) They are disguised
+    B) They are afraid
+    C) They are ordered to stay silent
+    D) They are not invited
+  </question>
+  <answer>A) They are disguised</answer>
+</entry>

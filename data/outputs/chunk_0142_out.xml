@@ -1,0 +1,87 @@
+<think>
+Okay, I need to create five multiple-choice questions based on the provided Sanskrit text from the Mahabharata. Let me start by understanding the text.
+
+First, I'll look through the verses to identify key elements. The text seems to describe a scene where Bhima encounters Hanuman. There's mention of Bhima's strength, Hanuman's role, and some dialogue between them. Also, there are references to the Ramayana, like Hanuman's journey to Lanka. 
+
+For the first question, I can focus on the encounter between Bhima and Hanuman. The text mentions Bhima's strength and Hanuman's advice. The correct answer would be that Hanuman is the one who advises Bhima. The other options could be other characters like Arjuna or Duryodhana, but they aren't mentioned here.
+
+Next, looking for another part. There's a mention of Hanuman's origin as the son of Vayu. So a question about Hanuman's parentage. The text says "वायुना जगदायुषा" which translates to born from Vayu. So the answer is Vayu, and other options could be other deities like Indra or Shiva.
+
+Third question: The text references Hanuman's role in the Ramayana, specifically his journey to Lanka. The question could be about the purpose of his journey. The answer is to find Sita, and other options might be about other tasks like fighting Ravana or rescuing Rama.
+
+Fourth question: There's a part where Bhima is described as the son of Vayu. The text says "वायुतनयो भीमसेन" so the answer is Vayu. Other options could be other parents like Indra or Kunti.
+
+Fifth question: The text mentions that Hanuman is known as the "Sagara" in the Ramayana. The question could be about the name given to Hanuman in that context. The answer is Sagara, and other options might be different names like Rama or Lakshmana.
+
+I need to make sure each question is specific, includes the correct references, and the options are plausible but incorrect. Also, check that all answers are directly from the text without adding external info. Let me verify each point against the text again to ensure accuracy.
+</think>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Bhima's encounter with Hanuman, a pivotal moment in the Mahabharata's narrative. The text explicitly states Hanuman's role as a guide and advisor, contrasting with Bhima's initial aggression. Other options represent key warriors but are not involved in this specific dialogue.
+  </reasoning>
+  <question>
+    In Mahabharata's Bhishma Parva, which character advises Bhima to retreat after a confrontation in the forest?
+    A) Hanuman
+    B) Arjuna
+    C) Drona
+    D) Karna
+  </question>
+  <answer>A) Hanuman</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question highlights Hanuman's divine parentage, a recurring theme in both Mahabharata and Ramayana. The text directly states his origin from Vayu (wind god). Other options represent common deities but are not his parents per the text.
+  </reasoning>
+  <question>
+    In Mahabharata's reference to Hanuman's origin, who is explicitly described as his father?
+    A) Vayu
+    B) Indra
+    C) Shiva
+    D) Brahma
+  </question>
+  <answer>A) Vayu</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines Hanuman's role in the Ramayana, a story referenced in the Mahabharata text. The text states his mission to find Sita, contrasting with other Ramayana roles. Other options represent secondary tasks not mentioned here.
+  </reasoning>
+  <question>
+    In Mahabharata's reference to Hanuman's Ramayana deeds, what was his primary mission?
+    A) Find Sita
+    B) Kill Ravana
+    C) Rescue Rama
+    D) Destroy Lanka
+  </question>
+  <answer>A) Find Sita</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question tests knowledge of Bhima's divine lineage. The text explicitly states his parentage as Vayu's son. Other options represent common deities but are not his parents per the text.
+  </reasoning>
+  <question>
+    In Mahabharata's reference to Bhima's origin, who is explicitly described as his father?
+    A) Vayu
+    B) Indra
+    C) Dharma
+    D) Kunti
+  </question>
+  <answer>A) Vayu</answer>
+</entry>
+
+<entry>
+  <reasoning>
+    This question examines Hanuman's epithet in the Ramayana, a concept referenced in the Mahabharata text. The text calls him "Sagara" in this context. Other options represent alternative names but are not explicitly used here.
+  </reasoning>
+  <question>
+    In Mahabharata's reference to Hanuman's Ramayana role, what epithet is given to him?
+    A) Sagara
+    B) Rama
+    C) Lakshmana
+    D) Ravana
+  </question>
+  <answer>A) Sagara</answer>
+</entry>
